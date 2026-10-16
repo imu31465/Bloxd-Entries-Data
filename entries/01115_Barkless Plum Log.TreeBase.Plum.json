@@ -1,0 +1,18 @@
+{
+  "id": 1115,
+  "name": "Barkless Plum Log|TreeBase|Plum",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_plum_log",
+  "harvestType": "wood",
+  "drops": "Barkless Plum Log",
+  "meta": {
+    "rootName": "Barkless Plum Log",
+    "rootId": 23,
+    "metaStr": "TreeBase|Plum",
+    "treeBase": true,
+    "woodType": "Plum"
+  },
+  "atlasIdx": 131,
+  "stackable": true
+}

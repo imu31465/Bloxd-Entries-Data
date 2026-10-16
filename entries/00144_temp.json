@@ -1,0 +1,8 @@
+{
+  "id": 144,
+  "name": "temp",
+  "kind": "block",
+  "ttb": 1000,
+  "harvestType": "rock",
+  "stackable": true
+}

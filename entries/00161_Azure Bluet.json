@@ -1,0 +1,17 @@
+{
+  "id": 161,
+  "name": "Azure Bluet",
+  "kind": "block",
+  "displayName": {
+    "key": "item:azureBluet",
+    "text": "Azure Bluet"
+  },
+  "ttb": 300,
+  "textureInfo": "azure_bluet",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "azure_bluet",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

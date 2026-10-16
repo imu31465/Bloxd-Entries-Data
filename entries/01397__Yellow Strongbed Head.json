@@ -1,0 +1,21 @@
+{
+  "id": 1397,
+  "name": "_Yellow Strongbed Head",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "yellow_strongbed",
+  "drops": "Yellow Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Yellow Strongbed Head",
+    "rootId": 1397,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Yellow Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Yellow Strongbed Head"
+}

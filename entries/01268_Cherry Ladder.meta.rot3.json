@@ -1,0 +1,33 @@
+{
+  "id": 1268,
+  "name": "Cherry Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryLadder",
+    "text": "Cherry Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_cherry",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 1,
+  "modelScale": 1,
+  "meta": {
+    "rootName": "Cherry Ladder",
+    "rootId": 1266,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "stackable": true,
+  "blockModel": "Cherry Ladder",
+  "blockModelItem": true
+}

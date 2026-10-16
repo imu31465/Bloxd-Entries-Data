@@ -1,0 +1,14 @@
+{
+  "id": 229,
+  "name": "Orange Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangePlanks",
+    "text": "Orange Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "orange_planks",
+  "harvestType": "wood",
+  "atlasIdx": 269,
+  "stackable": true
+}

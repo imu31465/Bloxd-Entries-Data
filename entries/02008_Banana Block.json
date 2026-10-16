@@ -1,0 +1,28 @@
+{
+  "id": 2008,
+  "name": "Banana Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bananaBlock",
+    "text": "Banana Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "banana_block_side",
+    "banana_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    814,
+    815
+  ],
+  "stackable": true
+}

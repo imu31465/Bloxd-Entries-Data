@@ -1,0 +1,14 @@
+{
+  "id": 8821,
+  "name": "Murkborne Ray",
+  "kind": "item",
+  "displayName": {
+    "key": "item:murkborneRay",
+    "text": "Murkborne Ray"
+  },
+  "type": "Item",
+  "textureInfo": "murkborne_ray",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

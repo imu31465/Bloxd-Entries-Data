@@ -1,0 +1,32 @@
+{
+  "id": 953,
+  "name": "Board|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:board",
+    "text": "Board"
+  },
+  "ttb": 1200,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "board",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "modelScale": 0.8,
+  "meta": {
+    "rootName": "Board",
+    "rootId": 952,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Board"
+}

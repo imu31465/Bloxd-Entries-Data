@@ -1,0 +1,41 @@
+{
+  "id": 1811,
+  "name": "Light Blue Chalk Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:light_blue)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:light_blue)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_light_blue",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Light Blue Chalk Slab",
+    "rootId": 1809,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 764,
+  "stackable": true,
+  "slabFullBlock": "Light Blue Chalk"
+}

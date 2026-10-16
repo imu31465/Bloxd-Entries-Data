@@ -1,0 +1,19 @@
+{
+  "id": 28,
+  "name": "Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stone",
+    "text": "Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone",
+  "harvestType": "rock",
+  "drops": "Messy Stone",
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Stone"
+  },
+  "atlasIdx": 136,
+  "stackable": true
+}

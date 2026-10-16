@@ -1,0 +1,16 @@
+{
+  "id": 1286,
+  "name": "Corn Plant_stage3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:corn",
+    "text": "Corn"
+  },
+  "ttb": 400,
+  "textureInfo": "corn_stage2",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "drops": "Corn Seeds",
+  "solid": false,
+  "stackable": true
+}

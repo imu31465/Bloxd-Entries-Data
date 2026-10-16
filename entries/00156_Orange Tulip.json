@@ -1,0 +1,17 @@
+{
+  "id": 156,
+  "name": "Orange Tulip",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeTulip",
+    "text": "Orange Tulip"
+  },
+  "ttb": 300,
+  "textureInfo": "orange_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "orange_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

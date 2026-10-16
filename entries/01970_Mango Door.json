@@ -1,0 +1,32 @@
+{
+  "id": 1970,
+  "name": "Mango Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoDoor",
+    "text": "Mango Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "mango_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Mango Door",
+    "rootId": 1970,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Mango Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Mango Door"
+}

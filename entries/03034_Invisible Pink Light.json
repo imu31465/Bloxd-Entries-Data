@@ -1,0 +1,22 @@
+{
+  "id": 3034,
+  "name": "Invisible Pink Light",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": "invisible_solid",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    15,
+    8,
+    10
+  ],
+  "atlasIdx": 233,
+  "stackable": true
+}

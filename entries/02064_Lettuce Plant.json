@@ -1,0 +1,16 @@
+{
+  "id": 2064,
+  "name": "Lettuce Plant",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lettuce",
+    "text": "Lettuce"
+  },
+  "ttb": 400,
+  "textureInfo": "lettuce_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "lettuce_plant_stage0",
+  "solid": false,
+  "stackable": true
+}

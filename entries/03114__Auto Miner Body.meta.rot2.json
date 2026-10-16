@@ -1,0 +1,20 @@
+{
+  "id": 3114,
+  "name": "_Auto Miner Body|meta|rot2",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Auto Miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Auto Miner Body",
+    "rootId": 3113,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_body"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 98,
+  "name": "Green Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenConcrete",
+    "text": "Green Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "green_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 204,
+  "stackable": true
+}

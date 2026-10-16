@@ -1,0 +1,32 @@
+{
+  "id": 522,
+  "name": "Plum Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumDoor",
+    "text": "Plum Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "plum_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Plum Door",
+    "rootId": 522,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Plum Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Plum Door"
+}

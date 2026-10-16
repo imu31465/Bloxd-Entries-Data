@@ -1,0 +1,14 @@
+{
+  "id": 238,
+  "name": "Purple Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purplePlanks",
+    "text": "Purple Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "purple_planks",
+  "harvestType": "wood",
+  "atlasIdx": 278,
+  "stackable": true
+}

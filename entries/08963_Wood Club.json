@@ -1,0 +1,24 @@
+{
+  "id": 8963,
+  "name": "Wood Club",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodClub",
+    "text": "Wood Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 22,
+  "knockbackHorizontalScalar": 1.7,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8938,
+  "name": "Oats",
+  "kind": "item",
+  "displayName": {
+    "key": "item:oats",
+    "text": "Oats"
+  },
+  "description": {
+    "key": "item:oatsDescription",
+    "text": "Combine to make Porridge to give you Wall Climbing"
+  },
+  "type": "Chargeable",
+  "textureInfo": "oats",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Oats",
+    "rootId": 8938,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Oats|meta|charging1"
+}

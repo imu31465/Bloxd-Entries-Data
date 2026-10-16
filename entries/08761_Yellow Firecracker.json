@@ -1,0 +1,19 @@
+{
+  "id": 8761,
+  "name": "Yellow Firecracker",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowFirecracker",
+    "text": "Yellow Firecracker"
+  },
+  "description": {
+    "key": "item:firecrackerDescription",
+    "text": "Click or tap your Hang Glider with me in your inventory, and I'll give you a boost!"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

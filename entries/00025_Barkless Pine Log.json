@@ -1,0 +1,14 @@
+{
+  "id": 25,
+  "name": "Barkless Pine Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessPineLog",
+    "text": "Barkless Pine Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_pine_log",
+  "harvestType": "wood",
+  "atlasIdx": 133,
+  "stackable": true
+}

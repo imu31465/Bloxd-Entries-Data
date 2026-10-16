@@ -1,0 +1,18 @@
+{
+  "id": 1108,
+  "name": "Tribe Protector",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tribeProtector",
+    "text": "Tribe Protector"
+  },
+  "description": {
+    "key": "item:tribeProtectorDescription",
+    "text": "Prevents other tribes from changing blocks and opening chests in the placed chunk"
+  },
+  "ttb": 5000,
+  "textureInfo": "protector_tribe",
+  "harvestType": "rock",
+  "atlasIdx": 489,
+  "stackable": true
+}

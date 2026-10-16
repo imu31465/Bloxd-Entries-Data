@@ -1,0 +1,15 @@
+{
+  "id": 8676,
+  "name": "Caught Mob Wildcat Tabby",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_wildcat_tabby",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Wildcat Tabby",
+    "rootId": 8676,
+    "caughtMobType": "Wildcat"
+  }
+}

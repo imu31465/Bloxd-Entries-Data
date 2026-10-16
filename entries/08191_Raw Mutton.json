@@ -1,0 +1,30 @@
+{
+  "id": 8191,
+  "name": "Raw Mutton",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawMutton",
+    "text": "Raw Mutton"
+  },
+  "description": {
+    "key": "item:rawFoodDescription",
+    "text": "Cook and eat to gain health (or eat RAW for a nasty surprise...)"
+  },
+  "type": "Chargeable",
+  "textureInfo": "raw_mutton",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 20,
+  "chargeStages": 1,
+  "chargeTime": 800,
+  "meta": {
+    "rootName": "Raw Mutton",
+    "rootId": 8191,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Raw Mutton|meta|charging1"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1299,
+  "name": "Red Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": [
+    "explosive_paint_red_side",
+    "explosive_paint_red_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    515,
+    516
+  ],
+  "stackable": true
+}

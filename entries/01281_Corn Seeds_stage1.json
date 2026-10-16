@@ -1,0 +1,16 @@
+{
+  "id": 1281,
+  "name": "Corn Seeds_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cornSeeds",
+    "text": "Corn Seeds"
+  },
+  "ttb": 400,
+  "textureInfo": "corn_stage1",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "drops": "Corn Seeds",
+  "solid": false,
+  "stackable": true
+}

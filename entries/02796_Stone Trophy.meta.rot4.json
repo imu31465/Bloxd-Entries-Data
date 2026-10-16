@@ -1,0 +1,25 @@
+{
+  "id": 2796,
+  "name": "Stone Trophy|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneTrophy",
+    "text": "Stone Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "stone_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Stone Trophy",
+    "rootId": 2793,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Stone Trophy"
+}

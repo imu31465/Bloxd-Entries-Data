@@ -1,0 +1,23 @@
+{
+  "id": 361,
+  "name": "Light Blue Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueBed",
+    "text": "Light Blue Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "light_blue_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Light Blue Bed",
+    "rootId": 360,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Light Blue Bed"
+}

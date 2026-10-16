@@ -1,0 +1,40 @@
+{
+  "id": 2740,
+  "name": "Skull Banner|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:skullBanner",
+    "text": "Skull Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_skull",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Skull Banner",
+    "rootId": 2720,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Skull Banner Hanging"
+}

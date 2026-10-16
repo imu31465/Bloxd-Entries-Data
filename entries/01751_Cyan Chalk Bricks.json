@@ -1,0 +1,24 @@
+{
+  "id": 1751,
+  "name": "Cyan Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_cyan",
+  "harvestType": "rock",
+  "atlasIdx": 783,
+  "stackable": true
+}

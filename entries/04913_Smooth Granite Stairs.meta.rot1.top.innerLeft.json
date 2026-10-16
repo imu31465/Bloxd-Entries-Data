@@ -1,0 +1,43 @@
+{
+  "id": 4913,
+  "name": "Smooth Granite Stairs|meta|rot1|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothGraniteStairs",
+    "text": "Smooth Granite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_granite_smooth",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Smooth Granite Stairs",
+    "rootId": 3525,
+    "metaStr": "meta|rot1|top|innerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 143,
+  "stackable": true
+}

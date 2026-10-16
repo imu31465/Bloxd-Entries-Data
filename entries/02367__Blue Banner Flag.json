@@ -1,0 +1,42 @@
+{
+  "id": 2367,
+  "name": "_Blue Banner Flag",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueBanner",
+    "text": "Blue Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_blue",
+  "drops": "Blue Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.375
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Blue Banner Flag",
+    "rootId": 2367,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "rootMetaDesc": "_Blue Banner Flag|meta|rot1|top",
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Blue Banner Flag Hanging"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 501,
+  "name": "Jungle Log|TreeBase|Jungle",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_jungle",
+  "harvestType": "wood",
+  "drops": "Jungle Log",
+  "meta": {
+    "rootName": "Jungle Log",
+    "rootId": 14,
+    "metaStr": "TreeBase|Jungle",
+    "treeBase": true,
+    "woodType": "Jungle"
+  },
+  "atlasIdx": 122,
+  "stackable": true
+}

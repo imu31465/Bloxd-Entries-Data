@@ -1,0 +1,14 @@
+{
+  "id": 84,
+  "name": "Gray Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayConcrete",
+    "text": "Gray Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "gray_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 190,
+  "stackable": true
+}

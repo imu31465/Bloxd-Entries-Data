@@ -1,0 +1,22 @@
+{
+  "id": 2087,
+  "name": "Autumn Fern",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autumnFern",
+    "text": "Autumn Fern"
+  },
+  "ttb": 1,
+  "textureInfo": "autumn_fern",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "heldItemScale": 0.5,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Autumn Fern"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8612,
+  "name": "Crone Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:croneSpawnOrb",
+    "text": "Crone Spawn Orb"
+  },
+  "description": {
+    "key": "item:croneSpawnOrbDescription",
+    "text": "Throw to spawn a Crone at the landing location",
+    "params": {
+      "mob": "Crone"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "crone_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

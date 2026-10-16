@@ -1,0 +1,17 @@
+{
+  "id": 2779,
+  "name": "Twirlina Cappucina Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "twirlina_cappucina",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "twirlina_cappucina",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

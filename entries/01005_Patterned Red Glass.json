@@ -1,0 +1,19 @@
+{
+  "id": 1005,
+  "name": "Patterned Red Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedRedGlass",
+    "text": "Patterned Red Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_red",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 476,
+  "stackable": true
+}

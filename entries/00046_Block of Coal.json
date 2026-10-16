@@ -1,0 +1,14 @@
+{
+  "id": 46,
+  "name": "Block of Coal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfCoal",
+    "text": "Block of Coal"
+  },
+  "ttb": 4500,
+  "textureInfo": "coal_block",
+  "harvestType": "rock",
+  "atlasIdx": 152,
+  "stackable": true
+}

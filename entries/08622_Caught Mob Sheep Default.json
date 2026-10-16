@@ -1,0 +1,15 @@
+{
+  "id": 8622,
+  "name": "Caught Mob Sheep Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_sheep_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Sheep Default",
+    "rootId": 8622,
+    "caughtMobType": "Sheep"
+  }
+}

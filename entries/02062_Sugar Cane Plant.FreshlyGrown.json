@@ -1,0 +1,23 @@
+{
+  "id": 2062,
+  "name": "Sugar Cane Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sugarCane",
+    "text": "Sugar Cane"
+  },
+  "ttb": 400,
+  "textureInfo": "sugar_cane_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "sugar_cane_plant_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Sugar Cane Plant",
+    "rootId": 2060,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

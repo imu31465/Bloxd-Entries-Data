@@ -1,0 +1,18 @@
+{
+  "id": 324,
+  "name": "Poppy|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "poppy",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "poppy",
+  "solid": false,
+  "meta": {
+    "rootName": "Poppy",
+    "rootId": 152,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

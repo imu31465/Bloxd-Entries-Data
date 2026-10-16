@@ -1,0 +1,14 @@
+{
+  "id": 8016,
+  "name": "Bowl",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bowl",
+    "text": "Bowl"
+  },
+  "type": "Item",
+  "textureInfo": "bowl",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

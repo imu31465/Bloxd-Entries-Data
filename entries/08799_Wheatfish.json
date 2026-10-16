@@ -1,0 +1,30 @@
+{
+  "id": 8799,
+  "name": "Wheatfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:wheatfish",
+    "text": "Wheatfish"
+  },
+  "description": {
+    "key": "item:wheatfishDescription",
+    "text": "Eat to restore 15 HP."
+  },
+  "type": "Chargeable",
+  "textureInfo": "wheatfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 15,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Wheatfish",
+    "rootId": 8799,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Wheatfish|meta|charging1"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3359,
+  "name": "Palm Stairs|meta|rot3|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmStairs",
+    "text": "Palm Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_palm",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Palm Stairs",
+    "rootId": 3357,
+    "metaStr": "meta|rot3|bot",
+    "rot": 3,
+    "halfblockPlacement": 0
+  },
+  "atlasIdx": 388,
+  "stackable": true
+}

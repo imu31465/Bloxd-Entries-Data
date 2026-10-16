@@ -1,0 +1,24 @@
+{
+  "id": 9011,
+  "name": "Gold Clock|meta|midnight",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_gold_midnight",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_gold_midnight",
+  "stackable": false,
+  "meta": {
+    "rootName": "Gold Clock",
+    "rootId": 9010,
+    "metaStr": "meta|midnight"
+  }
+}

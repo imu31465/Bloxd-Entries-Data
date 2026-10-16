@@ -1,0 +1,24 @@
+{
+  "id": 1739,
+  "name": "Yellow Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_yellow",
+  "harvestType": "rock",
+  "atlasIdx": 771,
+  "stackable": true
+}

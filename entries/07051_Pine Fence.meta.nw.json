@@ -1,0 +1,42 @@
+{
+  "id": 7051,
+  "name": "Pine Fence|meta|nw",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineFence",
+    "text": "Pine Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pine",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "pine_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    0.375,
+    0,
+    0,
+    0.375,
+    0.375,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Pine Fence",
+    "rootId": 7042,
+    "metaStr": "meta|nw"
+  },
+  "atlasIdx": 127,
+  "stackable": true,
+  "attachedTop": "_Pine Fence Top|meta|nw"
+}

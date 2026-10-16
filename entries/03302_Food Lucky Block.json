@@ -1,0 +1,27 @@
+{
+  "id": 3302,
+  "name": "Food Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Food Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "green_lucky_block",
+    "food_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    920,
+    921
+  ],
+  "stackable": true
+}

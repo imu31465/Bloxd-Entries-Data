@@ -1,0 +1,45 @@
+{
+  "id": 1625,
+  "name": "Snowy Stone Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:snowyStoneSlab",
+    "text": "Snowy Stone Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "snowy_messy_stone_side",
+    "snowy_messy_stone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Snowy Stone Slab",
+    "rootId": 1622,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    740,
+    739
+  ],
+  "stackable": true,
+  "slabFullBlock": "Snowy Messy Stone"
+}

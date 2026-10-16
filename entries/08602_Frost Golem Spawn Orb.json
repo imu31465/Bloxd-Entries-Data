@@ -1,0 +1,21 @@
+{
+  "id": 8602,
+  "name": "Frost Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostGolemSpawnOrb",
+    "text": "Frost Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:frostGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Frost Golem at the landing location",
+    "params": {
+      "mob": "Frost Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "frost_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

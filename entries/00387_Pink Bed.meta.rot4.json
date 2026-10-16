@@ -1,0 +1,23 @@
+{
+  "id": 387,
+  "name": "Pink Bed|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkBed",
+    "text": "Pink Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "pink_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Pink Bed",
+    "rootId": 384,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Pink Bed"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2775,
+  "name": "Chimpanzano Bananano Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "chimpanzano_bananano",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "chimpanzano_bananano",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

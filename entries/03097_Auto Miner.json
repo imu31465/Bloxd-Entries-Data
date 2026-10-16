@@ -1,0 +1,29 @@
+{
+  "id": 3097,
+  "name": "Auto Miner",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autoMiner",
+    "text": "Auto Miner"
+  },
+  "description": {
+    "key": "item:autoMinerDescription",
+    "text": "Burns coal to mine ores from bedrock below. Right-click to deposit coal. Ores output through a pipe connected to the top of the miner."
+  },
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "auto_miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Auto Miner",
+    "rootId": 3097,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Auto Miner|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_foot_back"
+}

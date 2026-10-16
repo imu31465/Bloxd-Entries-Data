@@ -1,0 +1,30 @@
+{
+  "id": 8264,
+  "name": "Knockback Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:knockbackPotion",
+    "text": "Knockback Potion"
+  },
+  "description": {
+    "key": "item:knockbackPotionDescription",
+    "text": "Applies force"
+  },
+  "type": "Chargeable",
+  "textureInfo": "knockback_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Knockback Potion",
+    "rootId": 8264,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Knockback Potion|meta|charging1"
+}

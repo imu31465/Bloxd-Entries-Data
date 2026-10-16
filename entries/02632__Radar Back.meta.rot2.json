@@ -1,0 +1,31 @@
+{
+  "id": 2632,
+  "name": "_Radar Back|meta|rot2",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": [
+    "radar_side_active",
+    "radar_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": "Radar",
+  "meta": {
+    "rootName": "_Radar Back",
+    "rootId": 2631,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    840,
+    842
+  ],
+  "stackable": true
+}

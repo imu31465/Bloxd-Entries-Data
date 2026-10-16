@@ -1,0 +1,15 @@
+{
+  "id": 7897,
+  "name": "Diamond Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondHelmet",
+    "text": "Diamond Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "diamond_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

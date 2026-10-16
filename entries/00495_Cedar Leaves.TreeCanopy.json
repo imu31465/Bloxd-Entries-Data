@@ -1,0 +1,17 @@
+{
+  "id": 495,
+  "name": "Cedar Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_cedar",
+  "harvestType": "cuttable",
+  "drops": "Cedar Leaves",
+  "meta": {
+    "rootName": "Cedar Leaves",
+    "rootId": 492,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 385,
+  "stackable": true
+}

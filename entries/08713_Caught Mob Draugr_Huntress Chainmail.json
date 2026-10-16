@@ -1,0 +1,15 @@
+{
+  "id": 8713,
+  "name": "Caught Mob Draugr_Huntress Chainmail",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_huntress_chainmail",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Huntress Chainmail",
+    "rootId": 8713,
+    "caughtMobType": "Draugr Huntress"
+  }
+}

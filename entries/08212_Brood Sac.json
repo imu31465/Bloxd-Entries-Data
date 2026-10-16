@@ -1,0 +1,16 @@
+{
+  "id": 8212,
+  "name": "Brood Sac",
+  "kind": "item",
+  "displayName": {
+    "text": "Brood Sac"
+  },
+  "description": {
+    "text": "A sac filled with an acidic bile. Still full. Salvaged from a Broodfather."
+  },
+  "type": "Item",
+  "textureInfo": "brood_sac",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

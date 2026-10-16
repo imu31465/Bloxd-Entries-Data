@@ -1,0 +1,21 @@
+{
+  "id": 8579,
+  "name": "Sheep Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sheepSpawnOrb",
+    "text": "Sheep Spawn Orb"
+  },
+  "description": {
+    "key": "item:sheepSpawnOrbDescription",
+    "text": "Throw to spawn a Sheep at the landing location",
+    "params": {
+      "mob": "Sheep"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "sheep_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

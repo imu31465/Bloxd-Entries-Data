@@ -1,0 +1,39 @@
+{
+  "id": 2889,
+  "name": "Black Directional Arrow",
+  "kind": "block",
+  "displayName": {
+    "key": "item:directionalArrow",
+    "text": "{{colour}} Directional Arrow",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "black_directional_arrow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Black Directional Arrow",
+    "rootId": 2889,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Black Directional Arrow|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Black Directional Arrow",
+  "blockModelItem": true
+}

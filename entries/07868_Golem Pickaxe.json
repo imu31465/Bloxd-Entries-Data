@@ -1,0 +1,22 @@
+{
+  "id": 7868,
+  "name": "Golem Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:golemPickaxe",
+    "text": "Golem Pickaxe"
+  },
+  "description": {
+    "key": "item:golemPickaxeDescription",
+    "text": "Sometimes drops special rewards when mining ores..."
+  },
+  "type": "Tool",
+  "textureInfo": "golem_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 32,
+  "harvests": "rock",
+  "multiplier": 8,
+  "level": 5
+}

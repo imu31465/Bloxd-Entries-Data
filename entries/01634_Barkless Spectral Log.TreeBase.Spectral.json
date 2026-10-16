@@ -1,0 +1,18 @@
+{
+  "id": 1634,
+  "name": "Barkless Spectral Log|TreeBase|Spectral",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_spectral_log",
+  "harvestType": "wood",
+  "drops": "Barkless Spectral Log",
+  "meta": {
+    "rootName": "Barkless Spectral Log",
+    "rootId": 1633,
+    "metaStr": "TreeBase|Spectral",
+    "treeBase": true,
+    "woodType": "Spectral"
+  },
+  "atlasIdx": 744,
+  "stackable": true
+}

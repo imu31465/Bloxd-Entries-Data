@@ -1,0 +1,30 @@
+{
+  "id": 8111,
+  "name": "Stone Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneBow",
+    "text": "Stone Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "stone_bow_charging_3",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 45,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Stone Bow",
+    "rootId": 8109,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  },
+  "textureName": "stone_bow"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 1321,
+  "name": "Light Gray Quick Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_quick_light_gray",
+  "harvestType": "cuttable",
+  "atlasIdx": 551,
+  "stackable": true
+}

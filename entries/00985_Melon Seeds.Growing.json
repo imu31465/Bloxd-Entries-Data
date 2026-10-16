@@ -1,0 +1,18 @@
+{
+  "id": 985,
+  "name": "Melon Seeds|Growing",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "melon_stem",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": "Melon Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Melon Seeds",
+    "rootId": 984,
+    "metaStr": "Growing",
+    "kt": true
+  },
+  "stackable": true
+}

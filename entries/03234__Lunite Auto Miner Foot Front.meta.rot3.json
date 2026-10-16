@@ -1,0 +1,20 @@
+{
+  "id": 3234,
+  "name": "_Lunite Auto Miner Foot Front|meta|rot3",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Lunite Auto Miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Lunite Auto Miner Foot Front",
+    "rootId": 3232,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_lunite_foot_front"
+}

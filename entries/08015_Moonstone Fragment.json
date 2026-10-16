@@ -1,0 +1,18 @@
+{
+  "id": 8015,
+  "name": "Moonstone Fragment",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneFragment",
+    "text": "Moonstone Fragment"
+  },
+  "description": {
+    "key": "item:moonstoneFragmentDescription",
+    "text": "Combine using a workbench to get moonstone"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

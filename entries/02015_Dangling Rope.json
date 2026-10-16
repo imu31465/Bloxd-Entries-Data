@@ -1,0 +1,33 @@
+{
+  "id": 2015,
+  "name": "Dangling Rope",
+  "kind": "block",
+  "displayName": {
+    "key": "item:danglingRope",
+    "text": "Dangling Rope"
+  },
+  "description": {
+    "key": "item:ceilingClimbableDescription",
+    "text": "Climb me without needing a wall!"
+  },
+  "ttb": 225,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "dangling_rope",
+  "solid": false,
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375,
+    "backFaceCulling": true
+  },
+  "stackable": true,
+  "blockModel": "Dangling Rope"
+}

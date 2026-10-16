@@ -1,0 +1,31 @@
+{
+  "id": 8023,
+  "name": "Night Vision Soup",
+  "kind": "item",
+  "displayName": {
+    "key": "item:nightVisionSoup",
+    "text": "Night Vision Soup"
+  },
+  "description": {
+    "key": "item:nightVisionSoupDescription",
+    "text": "See in the dark, making night and caves appear bright"
+  },
+  "type": "Chargeable",
+  "textureInfo": "night_vision_soup",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "afterEatenItem": "Bowl",
+  "eatHealAmt": 10,
+  "chargeStages": 1,
+  "chargeTime": 375,
+  "meta": {
+    "rootName": "Night Vision Soup",
+    "rootId": 8023,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Night Vision Soup|meta|charging1"
+}

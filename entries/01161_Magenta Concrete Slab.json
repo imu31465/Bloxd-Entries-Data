@@ -1,0 +1,32 @@
+{
+  "id": 1161,
+  "name": "Magenta Concrete Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaConcreteSlab",
+    "text": "Magenta Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "magenta_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Magenta Concrete Slab",
+    "rootId": 1161,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Magenta Concrete Slab|meta|rot1|bot",
+  "atlasIdx": 198,
+  "stackable": true,
+  "slabFullBlock": "Magenta Concrete"
+}

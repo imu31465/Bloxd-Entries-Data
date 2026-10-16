@@ -1,0 +1,19 @@
+{
+  "id": 8181,
+  "name": "Mango",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mango",
+    "text": "Mango"
+  },
+  "description": {
+    "key": "item:mangoDescription",
+    "text": "Throw me to knock stuff back!"
+  },
+  "type": "Item",
+  "textureInfo": "mango",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 5
+}

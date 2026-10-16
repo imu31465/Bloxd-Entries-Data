@@ -1,0 +1,22 @@
+{
+  "id": 7884,
+  "name": "Gold Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldSword",
+    "text": "Gold Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "golden_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 37,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 4
+}

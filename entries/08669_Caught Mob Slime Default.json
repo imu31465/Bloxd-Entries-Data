@@ -1,0 +1,15 @@
+{
+  "id": 8669,
+  "name": "Caught Mob Slime Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_slime_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Slime Default",
+    "rootId": 8669,
+    "caughtMobType": "Slime"
+  }
+}

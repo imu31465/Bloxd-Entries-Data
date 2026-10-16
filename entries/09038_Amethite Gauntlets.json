@@ -1,0 +1,15 @@
+{
+  "id": 9038,
+  "name": "Amethite Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "amethite_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8362,
+  "name": "Light Blue Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueBalloon",
+    "text": "Light Blue Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "light_blue_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Light Blue Balloon Item",
+  "stackable": true
+}

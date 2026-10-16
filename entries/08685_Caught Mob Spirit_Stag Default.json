@@ -1,0 +1,15 @@
+{
+  "id": 8685,
+  "name": "Caught Mob Spirit_Stag Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_spirit_stag_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Spirit_Stag Default",
+    "rootId": 8685,
+    "caughtMobType": "Spirit Stag"
+  }
+}

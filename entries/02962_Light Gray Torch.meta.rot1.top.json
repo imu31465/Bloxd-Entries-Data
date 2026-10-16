@@ -1,0 +1,32 @@
+{
+  "id": 2962,
+  "name": "Light Gray Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_light_gray",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Light Gray Torch",
+    "rootId": 2961,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    9,
+    9,
+    9
+  ],
+  "stackable": true,
+  "blockModel": "torch_light_gray",
+  "blockModelItem": true
+}

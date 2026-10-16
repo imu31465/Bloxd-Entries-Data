@@ -1,0 +1,16 @@
+{
+  "id": 315,
+  "name": "Wheat",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wheat",
+    "text": "Wheat"
+  },
+  "ttb": 400,
+  "textureInfo": "wheat_stage7",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "itemTexture": "wheat",
+  "solid": false,
+  "stackable": true
+}

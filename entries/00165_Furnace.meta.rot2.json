@@ -1,0 +1,40 @@
+{
+  "id": 165,
+  "name": "Furnace|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:furnace",
+    "text": "Furnace"
+  },
+  "description": {
+    "key": "item:furnaceDescription",
+    "text": "Turn ores into crafting items"
+  },
+  "ttb": 4200,
+  "textureInfo": [
+    "furnace_front",
+    "furnace_side",
+    "furnace_top"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Furnace",
+    "rootId": 164,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    254,
+    255,
+    256
+  ],
+  "stackable": true
+}

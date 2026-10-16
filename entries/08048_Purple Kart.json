@@ -1,0 +1,15 @@
+{
+  "id": 8048,
+  "name": "Purple Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleKart",
+    "text": "Purple Kart"
+  },
+  "type": "Item",
+  "textureInfo": "purple_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Purple Kart Item",
+  "stackable": false
+}

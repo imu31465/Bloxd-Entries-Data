@@ -1,0 +1,36 @@
+{
+  "id": 978,
+  "name": "Carved Pumpkin|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:carvedPumpkin",
+    "text": "Carved Pumpkin"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "carved_pumpkin",
+    "pumpkin_side",
+    "pumpkin_top"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "harvestType": "wood",
+  "meta": {
+    "rootName": "Carved Pumpkin",
+    "rootId": 976,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    458,
+    456,
+    457
+  ],
+  "stackable": true
+}

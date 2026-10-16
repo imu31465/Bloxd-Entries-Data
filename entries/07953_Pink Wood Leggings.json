@@ -1,0 +1,15 @@
+{
+  "id": 7953,
+  "name": "Pink Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkWoodLeggings",
+    "text": "Pink Wood Leggings"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

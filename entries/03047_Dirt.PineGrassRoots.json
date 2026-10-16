@@ -1,0 +1,16 @@
+{
+  "id": 3047,
+  "name": "Dirt|PineGrassRoots",
+  "kind": "block",
+  "ttb": 600,
+  "textureInfo": "dirt",
+  "harvestType": "granule",
+  "meta": {
+    "rootName": "Dirt",
+    "rootId": 2,
+    "metaStr": "PineGrassRoots",
+    "grassRoots": true
+  },
+  "atlasIdx": 109,
+  "stackable": true
+}

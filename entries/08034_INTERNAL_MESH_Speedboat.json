@@ -1,0 +1,11 @@
+{
+  "id": 8034,
+  "name": "INTERNAL_MESH_Speedboat",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "speedboat",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Speedboat",
+  "stackable": false
+}

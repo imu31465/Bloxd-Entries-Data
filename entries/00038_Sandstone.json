@@ -1,0 +1,14 @@
+{
+  "id": 38,
+  "name": "Sandstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sandstone",
+    "text": "Sandstone"
+  },
+  "ttb": 960,
+  "textureInfo": "sandstone_normal",
+  "harvestType": "rock",
+  "atlasIdx": 144,
+  "stackable": true
+}

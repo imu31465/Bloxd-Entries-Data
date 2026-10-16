@@ -1,0 +1,18 @@
+{
+  "id": 63,
+  "name": "Brown Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownWool",
+    "text": "Brown Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_brown",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 169,
+  "stackable": true
+}

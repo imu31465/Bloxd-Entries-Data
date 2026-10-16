@@ -1,0 +1,18 @@
+{
+  "id": 8390,
+  "name": "Orange Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangePopupTower",
+    "text": "Orange Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "orange_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

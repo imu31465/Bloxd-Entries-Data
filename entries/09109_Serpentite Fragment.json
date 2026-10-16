@@ -1,0 +1,18 @@
+{
+  "id": 9109,
+  "name": "Serpentite Fragment",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Fragment"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "serpentite_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_fragment",
+  "stackable": true
+}

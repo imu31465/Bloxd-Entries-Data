@@ -1,0 +1,16 @@
+{
+  "id": 9022,
+  "name": "Void Net",
+  "kind": "item",
+  "displayName": {
+    "text": "Void Wings"
+  },
+  "description": {
+    "text": "Keep one in your inventory. Falling into the void uses it up and puts you back on solid ground."
+  },
+  "type": "Item",
+  "textureInfo": "void_net",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

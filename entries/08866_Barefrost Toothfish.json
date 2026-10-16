@@ -1,0 +1,14 @@
+{
+  "id": 8866,
+  "name": "Barefrost Toothfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:barefrostToothfish",
+    "text": "Barefrost Toothfish"
+  },
+  "type": "Item",
+  "textureInfo": "barefrost_toothfish",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2784,
+  "name": "Hob Boiling",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "hob_boiling",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "hob_boiling",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

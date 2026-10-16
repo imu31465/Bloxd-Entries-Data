@@ -1,0 +1,24 @@
+{
+  "id": 1743,
+  "name": "Pink Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_pink",
+  "harvestType": "rock",
+  "atlasIdx": 775,
+  "stackable": true
+}

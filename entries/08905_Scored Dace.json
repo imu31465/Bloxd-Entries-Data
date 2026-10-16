@@ -1,0 +1,14 @@
+{
+  "id": 8905,
+  "name": "Scored Dace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:scoredDace",
+    "text": "Scored Dace"
+  },
+  "type": "Item",
+  "textureInfo": "scored_dace",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

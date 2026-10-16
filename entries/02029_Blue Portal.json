@@ -1,0 +1,33 @@
+{
+  "id": 2029,
+  "name": "Blue Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bluePortal",
+    "text": "Blue Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "blue_portal0",
+      "blue_portal1",
+      "blue_portal2",
+      "blue_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    3,
+    3,
+    9
+  ],
+  "atlasIdx": [
+    2,
+    35,
+    36,
+    37
+  ],
+  "stackable": true
+}

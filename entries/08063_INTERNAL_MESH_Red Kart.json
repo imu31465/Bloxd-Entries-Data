@@ -1,0 +1,11 @@
+{
+  "id": 8063,
+  "name": "INTERNAL_MESH_Red Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "red_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Red Kart",
+  "stackable": false
+}

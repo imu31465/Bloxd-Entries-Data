@@ -1,0 +1,45 @@
+{
+  "id": 761,
+  "name": "Andesite Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:andesiteSlab",
+    "text": "Andesite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_andesite_side",
+    "stone_andesite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Andesite Slab",
+    "rootId": 757,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    410,
+    140
+  ],
+  "stackable": true,
+  "slabFullBlock": "Andesite"
+}

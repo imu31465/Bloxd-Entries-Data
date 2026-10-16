@@ -1,0 +1,15 @@
+{
+  "id": 7999,
+  "name": "Black Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackWoodBoots",
+    "text": "Black Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

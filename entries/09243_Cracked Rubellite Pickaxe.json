@@ -1,0 +1,21 @@
+{
+  "id": 9243,
+  "name": "Cracked Rubellite Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "text": "Cracked Rubellite Pickaxe"
+  },
+  "description": {
+    "text": "Ruby calls it cracked, not beaten. A sturdy pickaxe ready for the stubborn stone in her mine."
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_pickaxe",
+  "stackable": false,
+  "damage": 24,
+  "harvests": "rock",
+  "multiplier": 4.75,
+  "level": 3
+}

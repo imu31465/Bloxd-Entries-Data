@@ -1,0 +1,22 @@
+{
+  "id": 9114,
+  "name": "Serpentite Hoe",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "serpentite_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_hoe",
+  "stackable": false,
+  "damage": 28,
+  "harvests": "cuttable",
+  "multiplier": 4.25,
+  "level": 5
+}

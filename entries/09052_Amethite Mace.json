@@ -1,0 +1,23 @@
+{
+  "id": 9052,
+  "name": "Amethite Mace",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "amethite_mace",
+  "stackable": false,
+  "damage": 20,
+  "velocityMultiplier": 3,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3165,
+  "name": "Splitter Pipe",
+  "kind": "block",
+  "displayName": {
+    "key": "item:splitterPipe",
+    "text": "Splitter Pipe"
+  },
+  "description": {
+    "key": "item:splitterPipeDescription",
+    "text": "Hub that splits incoming items evenly across all other connected pipes or chests."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "splitter_pipe",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "splitter_pipe",
+  "blockModelItem": true
+}

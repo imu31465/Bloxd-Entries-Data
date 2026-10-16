@@ -1,0 +1,18 @@
+{
+  "id": 8396,
+  "name": "Gray Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayPopupTower",
+    "text": "Gray Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "gray_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

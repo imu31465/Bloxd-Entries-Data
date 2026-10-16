@@ -1,0 +1,18 @@
+{
+  "id": 8270,
+  "name": "Splash Regeneration Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashRegenerationPotion",
+    "text": "Splash Regeneration Potion"
+  },
+  "description": {
+    "key": "item:splashRegenerationPotionDescription",
+    "text": "Increase health regen of your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_regen_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

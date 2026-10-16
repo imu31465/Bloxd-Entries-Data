@@ -1,0 +1,14 @@
+{
+  "id": 141,
+  "name": "Hay Bale",
+  "kind": "block",
+  "displayName": {
+    "key": "item:hayBale",
+    "text": "Hay Bale"
+  },
+  "ttb": 600,
+  "textureInfo": "hay_block_side",
+  "harvestType": "cuttable",
+  "atlasIdx": 247,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8492,
+  "name": "Gray Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:graySeekingPaintballExplosive",
+    "text": "Gray Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_gray",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 104,
+  "name": "Pumpkin_placeholder",
+  "kind": "block",
+  "ttb": 1200,
+  "textureInfo": "pumpkin_face_on",
+  "harvestType": "wood",
+  "lm": [
+    14,
+    10,
+    4
+  ],
+  "atlasIdx": 210,
+  "stackable": true
+}

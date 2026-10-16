@@ -1,0 +1,22 @@
+{
+  "id": 7865,
+  "name": "Gold Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldPickaxe",
+    "text": "Gold Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "golden_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 30,
+  "harvests": "rock",
+  "multiplier": 7,
+  "level": 4
+}

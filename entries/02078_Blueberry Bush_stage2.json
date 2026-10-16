@@ -1,0 +1,18 @@
+{
+  "id": 2078,
+  "name": "Blueberry Bush_stage2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueberries",
+    "text": "Blueberries"
+  },
+  "ttb": 400,
+  "textureInfo": "blueberry_bush_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "blueberry_bush_stage2",
+  "drops": null,
+  "solid": false,
+  "stackable": true,
+  "onMinedAura": 5
+}

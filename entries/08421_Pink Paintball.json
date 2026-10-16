@@ -1,0 +1,18 @@
+{
+  "id": 8421,
+  "name": "Pink Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkPaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "pink_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

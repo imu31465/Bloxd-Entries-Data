@@ -1,0 +1,24 @@
+{
+  "id": 8966,
+  "name": "Gold Club",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClub",
+    "text": "Gold Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "gold_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 37,
+  "knockbackHorizontalScalar": 2.3,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 4
+}

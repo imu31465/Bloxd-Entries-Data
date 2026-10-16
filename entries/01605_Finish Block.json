@@ -1,0 +1,18 @@
+{
+  "id": 1605,
+  "name": "Finish Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:finishBlock",
+    "text": "Finish Block"
+  },
+  "description": {
+    "key": "item:finishBlockDescription",
+    "text": "The end goal when exporting for custom Rocket Obby maps"
+  },
+  "ttb": 1500,
+  "textureInfo": "finish_block",
+  "harvestType": "rock",
+  "atlasIdx": 727,
+  "stackable": true
+}

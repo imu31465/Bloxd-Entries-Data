@@ -1,0 +1,34 @@
+{
+  "id": 1588,
+  "name": "Generator Spawn Block (Cyan)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanGeneratorSpawnBlock",
+    "text": "Cyan Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:teamGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Coal and Iron Bars when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "cyan_gen_spawn_top",
+    "cyan_gen_spawn_coal",
+    "cyan_gen_spawn_iron"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    697,
+    698,
+    699
+  ],
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 53,
+  "name": "Magenta Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaWool",
+    "text": "Magenta Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_magenta",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 159,
+  "stackable": true
+}

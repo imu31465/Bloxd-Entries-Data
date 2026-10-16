@@ -1,0 +1,14 @@
+{
+  "id": 8888,
+  "name": "Icy Sculpin",
+  "kind": "item",
+  "displayName": {
+    "key": "item:icySculpin",
+    "text": "Icy Sculpin"
+  },
+  "type": "Item",
+  "textureInfo": "icy_sculpin",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

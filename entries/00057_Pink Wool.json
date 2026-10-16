@@ -1,0 +1,18 @@
+{
+  "id": 57,
+  "name": "Pink Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkWool",
+    "text": "Pink Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_pink",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 163,
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 199,
+  "name": "Jungle Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleSapling",
+    "text": "Jungle Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "jungle_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "jungle_sapling",
+  "solid": false,
+  "stackable": true
+}

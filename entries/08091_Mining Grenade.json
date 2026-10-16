@@ -1,0 +1,18 @@
+{
+  "id": 8091,
+  "name": "Mining Grenade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:miningGrenade",
+    "text": "Mining Grenade"
+  },
+  "description": {
+    "key": "item:miningGrenadeDescription",
+    "text": "Throw to blast a hole through terrain."
+  },
+  "type": "Item",
+  "textureInfo": "mining_grenade",
+  "weight": 1,
+  "heldItemScale": 6,
+  "stackable": true
+}

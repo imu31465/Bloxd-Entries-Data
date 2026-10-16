@@ -1,0 +1,14 @@
+{
+  "id": 8895,
+  "name": "Northern Wolffish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:northernWolffish",
+    "text": "Northern Wolffish"
+  },
+  "type": "Item",
+  "textureInfo": "northern_wolffish",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

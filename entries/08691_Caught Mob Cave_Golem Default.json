@@ -1,0 +1,15 @@
+{
+  "id": 8691,
+  "name": "Caught Mob Cave_Golem Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_cave_golem_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Cave_Golem Default",
+    "rootId": 8691,
+    "caughtMobType": "Cave Golem"
+  }
+}

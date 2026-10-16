@@ -1,0 +1,29 @@
+{
+  "id": 1053,
+  "name": "Red Carpet",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redCarpet",
+    "text": "Red Carpet"
+  },
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "carpet_red_icon",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 10,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "carpet_red_model"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3629,
+  "name": "Bricks Stairs",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bricksStairs",
+    "text": "Bricks Stairs"
+  },
+  "ttb": 2400,
+  "textureInfo": "brick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Bricks Stairs",
+    "rootId": 3629,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Bricks Stairs|meta|rot1|bot",
+  "atlasIdx": 234,
+  "stackable": true
+}

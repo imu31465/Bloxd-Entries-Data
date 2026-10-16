@@ -1,0 +1,15 @@
+{
+  "id": 8741,
+  "name": "Caught Mob NPC Sara",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_sara",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Sara",
+    "rootId": 8741,
+    "caughtMobType": "NPC"
+  }
+}

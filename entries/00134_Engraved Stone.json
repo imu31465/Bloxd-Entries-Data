@@ -1,0 +1,14 @@
+{
+  "id": 134,
+  "name": "Engraved Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedStone",
+    "text": "Engraved Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick_carved",
+  "harvestType": "rock",
+  "atlasIdx": 240,
+  "stackable": true
+}

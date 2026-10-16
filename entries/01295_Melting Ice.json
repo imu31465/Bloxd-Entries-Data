@@ -1,0 +1,17 @@
+{
+  "id": 1295,
+  "name": "Melting Ice",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ice",
+    "text": "Ice"
+  },
+  "ttb": 1200,
+  "textureInfo": "ice",
+  "harvestType": "rock",
+  "drops": "Ice",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": 245,
+  "stackable": true
+}

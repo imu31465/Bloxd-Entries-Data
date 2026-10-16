@@ -1,0 +1,20 @@
+{
+  "id": 7902,
+  "name": "Fur Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:furChestplate",
+    "text": "Fur Chestplate"
+  },
+  "description": {
+    "key": "item:furChestplateDescription",
+    "text": "Reduces knockback when hit"
+  },
+  "type": "Armour",
+  "textureInfo": "fur_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.22,
+  "knockbackReduction": 1
+}

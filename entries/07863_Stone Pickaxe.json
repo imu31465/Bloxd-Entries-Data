@@ -1,0 +1,22 @@
+{
+  "id": 7863,
+  "name": "Stone Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stonePickaxe",
+    "text": "Stone Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 22,
+  "harvests": "rock",
+  "multiplier": 3.5,
+  "level": 2
+}

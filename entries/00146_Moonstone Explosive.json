@@ -1,0 +1,32 @@
+{
+  "id": 146,
+  "name": "Moonstone Explosive",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moonstoneExplosive",
+    "text": "Moonstone Explosive"
+  },
+  "description": {
+    "key": "item:moonstoneExplosiveDescription",
+    "text": "Goes boom!"
+  },
+  "ttb": 50,
+  "textureInfo": [
+    "moonstone_explosive_side",
+    "moonstone_explosive_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    251,
+    252
+  ],
+  "stackable": true
+}

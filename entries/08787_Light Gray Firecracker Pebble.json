@@ -1,0 +1,19 @@
+{
+  "id": 8787,
+  "name": "Light Gray Firecracker Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayFirecrackerPebble",
+    "text": "Light Gray Firecracker Pebble"
+  },
+  "description": {
+    "key": "item:firecrackerPebbleDescription",
+    "text": "Throw at players to do damage (and annoy them with a colorful explosion)"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_pebble_light_gray",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

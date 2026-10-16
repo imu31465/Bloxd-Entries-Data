@@ -1,0 +1,15 @@
+{
+  "id": 9037,
+  "name": "Amethite Boots",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "amethite_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

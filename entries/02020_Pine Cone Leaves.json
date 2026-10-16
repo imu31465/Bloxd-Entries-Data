@@ -1,0 +1,19 @@
+{
+  "id": 2020,
+  "name": "Pine Cone Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineConeLeaves",
+    "text": "Pine Cone Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_pine_cone",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Pine Cone Leaves"
+  },
+  "atlasIdx": 817,
+  "stackable": true
+}

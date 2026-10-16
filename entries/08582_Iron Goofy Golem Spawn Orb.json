@@ -1,0 +1,21 @@
+{
+  "id": 8582,
+  "name": "Iron Goofy Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironGoofyGolemSpawnOrb",
+    "text": "Iron Goofy Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:ironGoofyGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Iron Goofy Golem at the landing location",
+    "params": {
+      "mob": "Iron Goofy Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "iron_goofy_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

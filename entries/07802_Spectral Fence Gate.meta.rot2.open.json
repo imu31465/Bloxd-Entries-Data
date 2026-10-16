@@ -1,0 +1,38 @@
+{
+  "id": 7802,
+  "name": "Spectral Fence Gate|meta|rot2|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralFenceGate",
+    "text": "Spectral Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_spectral",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "spectral_fence_gate",
+  "Am": [
+    0,
+    0,
+    0.875,
+    0.625,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.625,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Spectral Fence Gate",
+    "rootId": 7799,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "atlasIdx": 745,
+  "stackable": true,
+  "attachedTop": "_Spectral Fence Gate Top|meta|rot2|open"
+}

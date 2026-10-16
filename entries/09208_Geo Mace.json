@@ -1,0 +1,24 @@
+{
+  "id": 9208,
+  "name": "Geo Mace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoMace",
+    "text": "Geo Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "geo_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "geo_mace",
+  "stackable": false,
+  "damage": 20,
+  "velocityMultiplier": 3,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

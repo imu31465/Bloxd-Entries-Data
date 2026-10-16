@@ -1,0 +1,14 @@
+{
+  "id": 8886,
+  "name": "Ice Spined Notothenia",
+  "kind": "item",
+  "displayName": {
+    "key": "item:iceSpinedNotothenia",
+    "text": "Ice Spined Notothenia"
+  },
+  "type": "Item",
+  "textureInfo": "ice_spined_notothenia",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

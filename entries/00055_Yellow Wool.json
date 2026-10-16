@@ -1,0 +1,18 @@
+{
+  "id": 55,
+  "name": "Yellow Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowWool",
+    "text": "Yellow Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_yellow",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 161,
+  "stackable": true
+}

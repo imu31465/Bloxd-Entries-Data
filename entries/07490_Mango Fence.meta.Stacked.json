@@ -1,0 +1,30 @@
+{
+  "id": 7490,
+  "name": "Mango Fence|meta|Stacked",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoFence",
+    "text": "Mango Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "mango_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Mango Fence",
+    "rootId": 7474,
+    "metaStr": "meta|Stacked"
+  },
+  "atlasIdx": 808,
+  "stackable": true,
+  "attachedTop": "_Mango Fence Top"
+}

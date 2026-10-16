@@ -1,0 +1,20 @@
+{
+  "id": 2009,
+  "name": "Banana Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bananaSeeds",
+    "text": "Banana Seeds"
+  },
+  "description": {
+    "key": "item:bananaSeedsDescription",
+    "text": "Plant to grow bananas"
+  },
+  "ttb": 400,
+  "textureInfo": "banana_stem",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "banana_seeds",
+  "solid": false,
+  "stackable": true
+}

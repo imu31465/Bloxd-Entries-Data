@@ -1,0 +1,30 @@
+{
+  "id": 8125,
+  "name": "Wood Crossbow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodCrossbow",
+    "text": "Wood Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "wood_crossbow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Wood Crossbow",
+    "rootId": 8125,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Wood Crossbow|meta|charging1",
+  "textureName": "wood_crossbow"
+}

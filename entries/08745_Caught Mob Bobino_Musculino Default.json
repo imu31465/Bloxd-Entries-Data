@@ -1,0 +1,15 @@
+{
+  "id": 8745,
+  "name": "Caught Mob Bobino_Musculino Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_bobino_musculino_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Bobino_Musculino Default",
+    "rootId": 8745,
+    "caughtMobType": "Bobino Musculino"
+  }
+}

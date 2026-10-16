@@ -1,0 +1,14 @@
+{
+  "id": 72,
+  "name": "Yellow Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowBakedClay",
+    "text": "Yellow Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_yellow",
+  "harvestType": "rock",
+  "atlasIdx": 178,
+  "stackable": true
+}

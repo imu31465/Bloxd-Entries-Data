@@ -1,0 +1,16 @@
+{
+  "id": 8206,
+  "name": "Frost Shard",
+  "kind": "item",
+  "displayName": {
+    "text": "Frost Shard"
+  },
+  "description": {
+    "text": "A splinter of cryogenic shell that never melts. Salvaged from a Frost Revenant."
+  },
+  "type": "Item",
+  "textureInfo": "frost_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

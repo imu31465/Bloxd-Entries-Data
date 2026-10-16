@@ -1,0 +1,17 @@
+{
+  "id": 208,
+  "name": "Pine Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_pine",
+  "harvestType": "cuttable",
+  "drops": "Pine Leaves",
+  "meta": {
+    "rootName": "Pine Leaves",
+    "rootId": 100,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 206,
+  "stackable": true
+}

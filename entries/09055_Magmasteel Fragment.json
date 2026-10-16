@@ -1,0 +1,18 @@
+{
+  "id": 9055,
+  "name": "Magmasteel Fragment",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Fragment"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "magmasteel_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_fragment",
+  "stackable": true
+}

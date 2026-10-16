@@ -1,0 +1,18 @@
+{
+  "id": 8483,
+  "name": "Red Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redSeekingPaintballExplosive",
+    "text": "Red Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_red",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

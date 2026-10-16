@@ -1,0 +1,17 @@
+{
+  "id": 151,
+  "name": "Dandelion",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dandelion",
+    "text": "Dandelion"
+  },
+  "ttb": 300,
+  "textureInfo": "dandelion",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "dandelion",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

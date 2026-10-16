@@ -1,0 +1,23 @@
+{
+  "id": 915,
+  "name": "Pear Door|meta|rot2|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Pear Door",
+    "rootId": 912,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "stackable": true
+}

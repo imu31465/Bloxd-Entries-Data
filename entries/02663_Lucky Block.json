@@ -1,0 +1,14 @@
+{
+  "id": 2663,
+  "name": "Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:luckyBlock",
+    "text": "Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "yellow_lucky_block",
+  "harvestType": "rock",
+  "atlasIdx": 845,
+  "stackable": true
+}

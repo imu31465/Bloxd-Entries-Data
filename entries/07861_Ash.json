@@ -1,0 +1,18 @@
+{
+  "id": 7861,
+  "name": "Ash",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ash",
+    "text": "Ash"
+  },
+  "ttb": 600,
+  "textureInfo": "ash",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "sand",
+    "place": "sand"
+  },
+  "atlasIdx": 945,
+  "stackable": true
+}

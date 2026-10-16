@@ -1,0 +1,42 @@
+{
+  "id": 7307,
+  "name": "Palm Fence|meta|nw|Stacked",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmFence",
+    "text": "Palm Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_palm",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "palm_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    0.375,
+    0,
+    0,
+    0.375,
+    0.375,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Palm Fence",
+    "rootId": 7282,
+    "metaStr": "meta|nw|Stacked"
+  },
+  "atlasIdx": 388,
+  "stackable": true,
+  "attachedTop": "_Palm Fence Top|meta|nw"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8302,
+  "name": "Brain Rot Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brainRotPotion",
+    "text": "Brain Rot Potion"
+  },
+  "description": {
+    "key": "item:brainRotPotionDescription",
+    "text": "Rots your brain"
+  },
+  "type": "Chargeable",
+  "textureInfo": "brain_rot_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Brain Rot Potion",
+    "rootId": 8302,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Brain Rot Potion|meta|charging1"
+}

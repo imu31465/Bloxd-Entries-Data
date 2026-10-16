@@ -1,0 +1,14 @@
+{
+  "id": 8900,
+  "name": "Pyroclast Eel",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pyroclastEel",
+    "text": "Pyroclast Eel"
+  },
+  "type": "Item",
+  "textureInfo": "pyroclast_eel",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

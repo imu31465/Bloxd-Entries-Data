@@ -1,0 +1,31 @@
+{
+  "id": 1132,
+  "name": "White Concrete Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteConcreteSlab",
+    "text": "White Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "white_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "White Concrete Slab",
+    "rootId": 1131,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 203,
+  "stackable": true,
+  "slabFullBlock": "White Concrete"
+}

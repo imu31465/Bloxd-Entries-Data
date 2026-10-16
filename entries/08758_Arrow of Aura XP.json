@@ -1,0 +1,15 @@
+{
+  "id": 8758,
+  "name": "Arrow of Aura XP",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfAuraXp",
+    "text": "Arrow of Aura XP"
+  },
+  "type": "Item",
+  "textureInfo": "aura_xp_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

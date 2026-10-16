@@ -1,0 +1,30 @@
+{
+  "id": 8195,
+  "name": "Rotten Flesh",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rottenFlesh",
+    "text": "Rotten Flesh"
+  },
+  "description": {
+    "key": "item:rottenFleshDescription",
+    "text": "Eat for a nasty surprise..."
+  },
+  "type": "Chargeable",
+  "textureInfo": "rotten_flesh",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 15,
+  "chargeStages": 1,
+  "chargeTime": 850,
+  "meta": {
+    "rootName": "Rotten Flesh",
+    "rootId": 8195,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Rotten Flesh|meta|charging1"
+}

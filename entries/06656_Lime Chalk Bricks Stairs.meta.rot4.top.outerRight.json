@@ -1,0 +1,47 @@
+{
+  "id": 6656,
+  "name": "Lime Chalk Bricks Stairs|meta|rot4|top|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_lime",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Lime Chalk Bricks Stairs",
+    "rootId": 3957,
+    "metaStr": "meta|rot4|top|outerRight",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 778,
+  "stackable": true
+}

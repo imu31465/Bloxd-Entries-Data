@@ -1,0 +1,18 @@
+{
+  "id": 8387,
+  "name": "Red Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redPopupTower",
+    "text": "Red Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "red_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

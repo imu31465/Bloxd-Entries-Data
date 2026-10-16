@@ -1,0 +1,30 @@
+{
+  "id": 8178,
+  "name": "Corn",
+  "kind": "item",
+  "displayName": {
+    "key": "item:corn",
+    "text": "Corn"
+  },
+  "description": {
+    "key": "item:cornDescription",
+    "text": "Eat to gain a shield"
+  },
+  "type": "Chargeable",
+  "textureInfo": "corn",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatShieldAmt": 20,
+  "chargeStages": 1,
+  "chargeTime": 850,
+  "meta": {
+    "rootName": "Corn",
+    "rootId": 8178,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Corn|meta|charging1"
+}

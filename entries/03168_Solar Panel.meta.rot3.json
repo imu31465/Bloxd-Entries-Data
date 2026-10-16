@@ -1,0 +1,41 @@
+{
+  "id": 3168,
+  "name": "Solar Panel|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:solarPanel",
+    "text": "Solar Panel"
+  },
+  "description": {
+    "key": "item:solarPanelDescription",
+    "text": "A 2x2 photovoltaic array. Connect wires to its sides to power machines."
+  },
+  "ttb": 2400,
+  "textureInfo": [
+    "solar_panel_side",
+    "solar_panel_top",
+    "solar_panel_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "itemTexture": "solar_panel",
+  "meta": {
+    "rootName": "Solar Panel",
+    "rootId": 3166,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    877,
+    878,
+    879
+  ],
+  "stackable": true
+}

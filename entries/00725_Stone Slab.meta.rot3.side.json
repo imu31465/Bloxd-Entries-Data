@@ -1,0 +1,45 @@
+{
+  "id": 725,
+  "name": "Stone Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneSlab",
+    "text": "Stone Slab"
+  },
+  "ttb": 800,
+  "textureInfo": [
+    "slab_stone_side",
+    "stone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Stone Slab",
+    "rootId": 721,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    404,
+    136
+  ],
+  "stackable": true,
+  "slabFullBlock": "Stone"
+}

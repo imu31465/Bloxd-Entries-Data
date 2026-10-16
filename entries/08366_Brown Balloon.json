@@ -1,0 +1,19 @@
+{
+  "id": 8366,
+  "name": "Brown Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownBalloon",
+    "text": "Brown Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "brown_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Brown Balloon Item",
+  "stackable": true
+}

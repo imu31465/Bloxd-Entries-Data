@@ -1,0 +1,16 @@
+{
+  "id": 9137,
+  "name": "Cursemetal Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cursemetalGauntlets",
+    "text": "Cursemetal Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "cursemetal_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "cursemetal_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

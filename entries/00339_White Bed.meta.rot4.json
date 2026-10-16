@@ -1,0 +1,23 @@
+{
+  "id": 339,
+  "name": "White Bed|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteBed",
+    "text": "White Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "white_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "White Bed",
+    "rootId": 336,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "White Bed"
+}

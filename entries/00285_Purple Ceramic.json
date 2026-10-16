@@ -1,0 +1,39 @@
+{
+  "id": 285,
+  "name": "Purple Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleCeramic",
+    "text": "Purple Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "purple_glazed_terracotta[rot[1",
+    "purple_glazed_terracotta[rot[2",
+    "purple_glazed_terracotta[rot[3",
+    "purple_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Purple Ceramic",
+    "rootId": 285,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Purple Ceramic|meta|rot1",
+  "atlasIdx": [
+    326,
+    327,
+    328,
+    329
+  ],
+  "stackable": true
+}

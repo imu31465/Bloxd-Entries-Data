@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "name": "Sand",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sand",
+    "text": "Sand"
+  },
+  "ttb": 600,
+  "textureInfo": "sand",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "sand",
+    "place": "sand"
+  },
+  "atlasIdx": 113,
+  "stackable": true
+}

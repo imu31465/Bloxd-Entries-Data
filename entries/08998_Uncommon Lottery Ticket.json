@@ -1,0 +1,22 @@
+{
+  "id": 8998,
+  "name": "Uncommon Lottery Ticket",
+  "kind": "item",
+  "displayName": [
+    {
+      "str": "Uncommon Lottery Ticket",
+      "style": {
+        "color": "#A9FF21"
+      }
+    }
+  ],
+  "description": {
+    "text": "Take it to the Lottery stall in the spawn hub to redeem it for a reward."
+  },
+  "type": "Item",
+  "textureInfo": "book",
+  "weight": 0,
+  "heldItemScale": 1,
+  "heldItemGlb": "Book",
+  "stackable": true
+}

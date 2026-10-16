@@ -1,0 +1,30 @@
+{
+  "id": 8251,
+  "name": "Strength Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:strengthPotion",
+    "text": "Strength Potion"
+  },
+  "description": {
+    "key": "item:strengthPotionDescription",
+    "text": "Temporarily gain increased damage"
+  },
+  "type": "Chargeable",
+  "textureInfo": "strength_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Strength Potion",
+    "rootId": 8251,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Strength Potion|meta|charging1"
+}

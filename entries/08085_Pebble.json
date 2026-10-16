@@ -1,0 +1,19 @@
+{
+  "id": 8085,
+  "name": "Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pebble",
+    "text": "Pebble"
+  },
+  "description": {
+    "key": "item:throwableItemDescription",
+    "text": "Throw at players to do damage"
+  },
+  "type": "Item",
+  "textureInfo": "pebble",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 10
+}

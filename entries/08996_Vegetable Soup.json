@@ -1,0 +1,18 @@
+{
+  "id": 8996,
+  "name": "Vegetable Soup",
+  "kind": "item",
+  "displayName": {
+    "key": "item:vegetableSoup",
+    "text": "Vegetable Soup"
+  },
+  "description": {
+    "key": "item:vegetableSoupDescription",
+    "text": "A warm bowl of vegetable soup"
+  },
+  "type": "Item",
+  "textureInfo": "veg_soup",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

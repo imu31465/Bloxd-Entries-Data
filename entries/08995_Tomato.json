@@ -1,0 +1,19 @@
+{
+  "id": 8995,
+  "name": "Tomato",
+  "kind": "item",
+  "displayName": {
+    "key": "item:tomato",
+    "text": "Tomato"
+  },
+  "description": {
+    "key": "item:tomatoDescription",
+    "text": "A ripe tomato"
+  },
+  "type": "Item",
+  "textureInfo": "tomato",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "tomato",
+  "stackable": false
+}

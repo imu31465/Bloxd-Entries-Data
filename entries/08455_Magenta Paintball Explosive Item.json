@@ -1,0 +1,18 @@
+{
+  "id": 8455,
+  "name": "Magenta Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaPaintballExplosive",
+    "text": "Magenta Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_magenta",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

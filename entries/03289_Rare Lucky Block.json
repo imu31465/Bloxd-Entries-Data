@@ -1,0 +1,13 @@
+{
+  "id": 3289,
+  "name": "Rare Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Rare Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "yellow_lucky_block_rare",
+  "harvestType": "rock",
+  "atlasIdx": 896,
+  "stackable": true
+}

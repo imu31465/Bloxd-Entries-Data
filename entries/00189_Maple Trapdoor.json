@@ -1,0 +1,33 @@
+{
+  "id": 189,
+  "name": "Maple Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleTrapdoor",
+    "text": "Maple Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "maple_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Maple Trapdoor",
+    "rootId": 189,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Maple Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Maple Trapdoor",
+  "blockModelItem": true
+}

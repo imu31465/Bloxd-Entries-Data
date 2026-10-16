@@ -1,0 +1,23 @@
+{
+  "id": 8959,
+  "name": "Iron Boomerang",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironBoomerang",
+    "text": "Iron Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 17,
+  "secondaryDamage": 17,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 3
+}

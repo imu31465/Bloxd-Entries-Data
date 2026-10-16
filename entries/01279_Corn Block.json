@@ -1,0 +1,30 @@
+{
+  "id": 1279,
+  "name": "Corn Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cornBlock",
+    "text": "Corn Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "corn_block_side",
+    "corn_block_top",
+    "corn_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    507,
+    508,
+    509
+  ],
+  "stackable": true
+}

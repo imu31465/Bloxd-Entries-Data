@@ -1,0 +1,40 @@
+{
+  "id": 2222,
+  "name": "Lime Banner|meta|rot4|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeBanner",
+    "text": "Lime Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_lime",
+  "solid": false,
+  "Am": [
+    0.25,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Lime Banner",
+    "rootId": 2219,
+    "metaStr": "meta|rot4|bot",
+    "rot": 4,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Lime Banner"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 7037,
+  "name": "_Maple Fence Top|meta|new",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleFence",
+    "text": "Maple Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_maple",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "maple_fence",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    0.5,
+    0.625,
+    0.375,
+    0,
+    0,
+    0.625,
+    0.5,
+    0.375,
+    0.625,
+    0,
+    0.375,
+    1,
+    0.5,
+    0.625,
+    0,
+    0,
+    0.375,
+    0.375,
+    0.5,
+    0.625
+  ],
+  "meta": {
+    "rootName": "_Maple Fence Top",
+    "rootId": 7026,
+    "metaStr": "meta|new"
+  },
+  "atlasIdx": 123,
+  "stackable": true,
+  "canBePlacedOver": true
+}

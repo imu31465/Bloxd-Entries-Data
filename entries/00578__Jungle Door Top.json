@@ -1,0 +1,29 @@
+{
+  "id": 578,
+  "name": "_Jungle Door Top",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "jungle_door",
+  "drops": "Jungle Door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Jungle Door Top",
+    "rootId": 578,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "_Jungle Door Top|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Jungle Door Top"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2776,
+  "name": "Il Wizardini Del Porko Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "il_wizardini_del_porko",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "il_wizardini_del_porko",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

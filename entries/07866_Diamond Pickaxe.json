@@ -1,0 +1,22 @@
+{
+  "id": 7866,
+  "name": "Diamond Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondPickaxe",
+    "text": "Diamond Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 32,
+  "harvests": "rock",
+  "multiplier": 8,
+  "level": 5
+}

@@ -1,0 +1,46 @@
+{
+  "id": 685,
+  "name": "Aspen Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenSlab",
+    "text": "Aspen Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_aspen_side",
+    "planks_aspen"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Aspen Slab",
+    "rootId": 685,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Aspen Slab|meta|rot1|bot",
+  "atlasIdx": [
+    398,
+    124
+  ],
+  "stackable": true,
+  "slabFullBlock": "Aspen Wood Planks"
+}

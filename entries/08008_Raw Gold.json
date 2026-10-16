@@ -1,0 +1,18 @@
+{
+  "id": 8008,
+  "name": "Raw Gold",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawGold",
+    "text": "Raw Gold"
+  },
+  "description": {
+    "key": "item:rawGoldDescription",
+    "text": "Smelt me to get a Gold Bar"
+  },
+  "type": "Item",
+  "textureInfo": "raw_gold",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

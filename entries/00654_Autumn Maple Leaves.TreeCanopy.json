@@ -1,0 +1,17 @@
+{
+  "id": 654,
+  "name": "Autumn Maple Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_maple_autumn",
+  "harvestType": "cuttable",
+  "drops": "Autumn Maple Leaves",
+  "meta": {
+    "rootName": "Autumn Maple Leaves",
+    "rootId": 653,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 392,
+  "stackable": true
+}

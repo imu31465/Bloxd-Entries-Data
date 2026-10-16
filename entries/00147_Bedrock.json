@@ -1,0 +1,17 @@
+{
+  "id": 147,
+  "name": "Bedrock",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bedrock",
+    "text": "Bedrock"
+  },
+  "ttb": 500000000000,
+  "textureInfo": "bedrock",
+  "soundType": {
+    "break": "stone",
+    "place": "stone"
+  },
+  "atlasIdx": 253,
+  "stackable": true
+}

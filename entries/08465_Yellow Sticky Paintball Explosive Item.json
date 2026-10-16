@@ -1,0 +1,18 @@
+{
+  "id": 8465,
+  "name": "Yellow Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

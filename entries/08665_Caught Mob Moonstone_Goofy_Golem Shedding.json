@@ -1,0 +1,15 @@
+{
+  "id": 8665,
+  "name": "Caught Mob Moonstone_Goofy_Golem Shedding",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_moonstone_goofy_golem_shedding",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Moonstone_Goofy_Golem Shedding",
+    "rootId": 8665,
+    "caughtMobType": "Moonstone Goofy Golem"
+  }
+}

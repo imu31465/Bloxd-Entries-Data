@@ -1,0 +1,16 @@
+{
+  "id": 9018,
+  "name": "Lucky Sword Upgrade",
+  "kind": "item",
+  "displayName": {
+    "text": "Sword Upgrade"
+  },
+  "description": {
+    "text": "Use to permanently advance your Sword tier for this match. Share spare upgrades with your team."
+  },
+  "type": "Item",
+  "textureInfo": "lucky_sword_upgrade",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

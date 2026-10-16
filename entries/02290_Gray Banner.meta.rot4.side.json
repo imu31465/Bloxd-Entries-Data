@@ -1,0 +1,40 @@
+{
+  "id": 2290,
+  "name": "Gray Banner|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayBanner",
+    "text": "Gray Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_gray",
+  "solid": false,
+  "Am": [
+    0.75,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Gray Banner",
+    "rootId": 2267,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Gray Banner Hanging"
+}

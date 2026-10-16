@@ -1,0 +1,15 @@
+{
+  "id": 8666,
+  "name": "Caught Mob Moonstone_Goofy_Golem Bare",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_moonstone_goofy_golem_bare",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Moonstone_Goofy_Golem Bare",
+    "rootId": 8666,
+    "caughtMobType": "Moonstone Goofy Golem"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 642,
+  "name": "Palm Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmTrapdoor",
+    "text": "Palm Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "palm_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Palm Trapdoor",
+    "rootId": 642,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Palm Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Palm Trapdoor",
+  "blockModelItem": true
+}

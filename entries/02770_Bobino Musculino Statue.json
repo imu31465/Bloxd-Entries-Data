@@ -1,0 +1,17 @@
+{
+  "id": 2770,
+  "name": "Bobino Musculino Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "bobino_musculino",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "bobino_musculino",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

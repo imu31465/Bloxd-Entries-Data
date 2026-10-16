@@ -1,0 +1,25 @@
+{
+  "id": 2801,
+  "name": "Iron Trophy|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironTrophy",
+    "text": "Iron Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "iron_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Iron Trophy",
+    "rootId": 2798,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Iron Trophy"
+}

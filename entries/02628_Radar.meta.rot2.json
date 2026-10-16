@@ -1,0 +1,39 @@
+{
+  "id": 2628,
+  "name": "Radar|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:radar",
+    "text": "Radar"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "radar_side_active",
+    "radar_top_active",
+    "radar_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "itemTexture": "active_radar",
+  "drops": "Radar",
+  "meta": {
+    "rootName": "Radar",
+    "rootId": 2627,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    840,
+    841,
+    842
+  ],
+  "stackable": true,
+  "twoDBlockItem": true
+}

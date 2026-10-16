@@ -1,0 +1,15 @@
+{
+  "id": 8056,
+  "name": "Gray Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayKart",
+    "text": "Gray Kart"
+  },
+  "type": "Item",
+  "textureInfo": "gray_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Gray Kart Item",
+  "stackable": false
+}

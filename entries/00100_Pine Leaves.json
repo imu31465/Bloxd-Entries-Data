@@ -1,0 +1,14 @@
+{
+  "id": 100,
+  "name": "Pine Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineLeaves",
+    "text": "Pine Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_pine",
+  "harvestType": "cuttable",
+  "atlasIdx": 206,
+  "stackable": true
+}

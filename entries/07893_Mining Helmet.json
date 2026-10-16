@@ -1,0 +1,26 @@
+{
+  "id": 7893,
+  "name": "Mining Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:miningHelmet",
+    "text": "Mining Helmet"
+  },
+  "description": {
+    "key": "item:miningHelmetDescription",
+    "text": "Lights up the way you're looking. Medium range."
+  },
+  "type": "Armour",
+  "textureInfo": "mining_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07,
+  "lm": [
+    15,
+    14,
+    11
+  ],
+  "spotlightRange": 12,
+  "spotlightConeAngle": 90
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8348,
+  "name": "Moonstone Remote Explosive",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneRemoteExplosive",
+    "text": "Moonstone Remote Explosive"
+  },
+  "description": {
+    "key": "item:moonstoneRemoteExplosiveDescription",
+    "text": "Throw an explosive and detonate it from afar!"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_remote_explosive",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Moonstone Remote",
+  "stackable": false
+}

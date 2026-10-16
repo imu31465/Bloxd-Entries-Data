@@ -1,0 +1,14 @@
+{
+  "id": 8006,
+  "name": "Iron Bar",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironBar",
+    "text": "Iron Bar"
+  },
+  "type": "Item",
+  "textureInfo": "iron_ingot",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

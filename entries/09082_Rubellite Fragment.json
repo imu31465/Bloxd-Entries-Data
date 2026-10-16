@@ -1,0 +1,18 @@
+{
+  "id": 9082,
+  "name": "Rubellite Fragment",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Fragment"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "rubellite_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_fragment",
+  "stackable": true
+}

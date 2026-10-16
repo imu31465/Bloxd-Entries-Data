@@ -1,0 +1,29 @@
+{
+  "id": 8547,
+  "name": "Light Gray Paint Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayPaintBow",
+    "text": "Light Gray Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "light_gray_paint_bow_charging_3",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Light Gray Paint Bow",
+    "rootId": 8545,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  },
+  "textureName": "light_gray_paint_bow"
+}

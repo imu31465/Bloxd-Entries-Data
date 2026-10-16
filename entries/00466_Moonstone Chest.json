@@ -1,0 +1,45 @@
+{
+  "id": 466,
+  "name": "Moonstone Chest",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moonstoneChest",
+    "text": "Moonstone Chest"
+  },
+  "description": {
+    "key": "item:moonstoneChestDescription",
+    "text": "Access the same items from any moonstone chest"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "moonstone_chest_front",
+    "moonstone_chest_side",
+    "moonstone_chest_top_1",
+    "moonstone_chest_top_2",
+    "moonstone_chest_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    3,
+    3,
+    0,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Moonstone Chest",
+    "rootId": 466,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Moonstone Chest|meta|rot1",
+  "atlasIdx": [
+    360,
+    361,
+    362,
+    363,
+    364
+  ],
+  "stackable": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8557,
+  "name": "Gray Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayPaintBow",
+    "text": "Gray Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "gray_paint_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Gray Paint Bow",
+    "rootId": 8557,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Gray Paint Bow|meta|charging1",
+  "textureName": "gray_paint_bow"
+}

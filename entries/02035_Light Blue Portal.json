@@ -1,0 +1,33 @@
+{
+  "id": 2035,
+  "name": "Light Blue Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightbluePortal",
+    "text": "Light Blue Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "lightblue_portal0",
+      "lightblue_portal1",
+      "lightblue_portal2",
+      "lightblue_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    8,
+    53,
+    54,
+    55
+  ],
+  "stackable": true
+}

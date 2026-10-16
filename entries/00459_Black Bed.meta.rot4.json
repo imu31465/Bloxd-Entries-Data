@@ -1,0 +1,23 @@
+{
+  "id": 459,
+  "name": "Black Bed|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackBed",
+    "text": "Black Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "black_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Black Bed",
+    "rootId": 456,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Black Bed"
+}

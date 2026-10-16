@@ -1,0 +1,30 @@
+{
+  "id": 8256,
+  "name": "Invisibility Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:invisibilityPotion",
+    "text": "Invisibility Potion"
+  },
+  "description": {
+    "key": "item:invisibilityPotionDescription",
+    "text": "Temporarily become invisible"
+  },
+  "type": "Chargeable",
+  "textureInfo": "invisibility_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Invisibility Potion",
+    "rootId": 8256,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Invisibility Potion|meta|charging1"
+}

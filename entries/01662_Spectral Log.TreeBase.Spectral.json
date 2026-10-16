@@ -1,0 +1,18 @@
+{
+  "id": 1662,
+  "name": "Spectral Log|TreeBase|Spectral",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_spectral",
+  "harvestType": "wood",
+  "drops": "Spectral Log",
+  "meta": {
+    "rootName": "Spectral Log",
+    "rootId": 1632,
+    "metaStr": "TreeBase|Spectral",
+    "treeBase": true,
+    "woodType": "Spectral"
+  },
+  "atlasIdx": 743,
+  "stackable": true
+}

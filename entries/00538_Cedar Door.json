@@ -1,0 +1,32 @@
+{
+  "id": 538,
+  "name": "Cedar Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarDoor",
+    "text": "Cedar Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "cedar_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cedar Door",
+    "rootId": 538,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Cedar Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Cedar Door"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8009,
+  "name": "Gold Bar",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldBar",
+    "text": "Gold Bar"
+  },
+  "type": "Item",
+  "textureInfo": "gold_ingot",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

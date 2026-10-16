@@ -1,0 +1,24 @@
+{
+  "id": 1727,
+  "name": "Pink Chalk",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalk",
+    "text": "{{colour}} Chalk",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_pink",
+  "harvestType": "rock",
+  "atlasIdx": 759,
+  "stackable": true
+}

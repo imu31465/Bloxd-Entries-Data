@@ -1,0 +1,30 @@
+{
+  "id": 8246,
+  "name": "Defense Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:defensePotion",
+    "text": "Defense Potion"
+  },
+  "description": {
+    "key": "item:defensePotionDescription",
+    "text": "Temporarily receive reduced damage"
+  },
+  "type": "Chargeable",
+  "textureInfo": "defense_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Defense Potion",
+    "rootId": 8246,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Defense Potion|meta|charging1"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 243,
+  "name": "Black Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackPlanks",
+    "text": "Black Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "black_planks",
+  "harvestType": "wood",
+  "atlasIdx": 283,
+  "stackable": true
+}

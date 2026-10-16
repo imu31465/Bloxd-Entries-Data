@@ -1,0 +1,31 @@
+{
+  "id": 8279,
+  "name": "Haste Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:hastePotionII",
+    "text": "Haste Potion II"
+  },
+  "description": {
+    "key": "item:hastePotionDescription",
+    "text": "Temporarily increases mining speed"
+  },
+  "type": "Chargeable",
+  "textureInfo": "haste_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Haste Potion",
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Haste Potion II",
+    "rootId": 8279,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Haste Potion II|meta|charging1"
+}

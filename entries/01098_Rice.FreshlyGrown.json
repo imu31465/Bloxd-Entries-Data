@@ -1,0 +1,18 @@
+{
+  "id": 1098,
+  "name": "Rice|FreshlyGrown",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "rice_stage7",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "solid": false,
+  "meta": {
+    "rootName": "Rice",
+    "rootId": 1092,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

@@ -1,0 +1,15 @@
+{
+  "id": 124,
+  "name": "Dim Lamp On",
+  "kind": "block",
+  "ttb": 450,
+  "textureInfo": "redstone_lamp_on",
+  "harvestType": "rock",
+  "lm": [
+    14,
+    14,
+    14
+  ],
+  "atlasIdx": 231,
+  "stackable": true
+}

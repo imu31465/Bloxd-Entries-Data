@@ -1,0 +1,33 @@
+{
+  "id": 2006,
+  "name": "Mango Ladder|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoLadder",
+    "text": "Mango Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_mango",
+  "solid": false,
+  "Am": [
+    0.75,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 1,
+  "modelScale": 1,
+  "meta": {
+    "rootName": "Mango Ladder",
+    "rootId": 2003,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "stackable": true,
+  "blockModel": "Mango Ladder",
+  "blockModelItem": true
+}

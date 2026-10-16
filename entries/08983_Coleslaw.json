@@ -1,0 +1,19 @@
+{
+  "id": 8983,
+  "name": "Coleslaw",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coleslaw",
+    "text": "Coleslaw"
+  },
+  "description": {
+    "key": "item:coleslawDescription",
+    "text": "A fresh and tangy coleslaw"
+  },
+  "type": "Item",
+  "textureInfo": "coleslaw",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "coleslaw",
+  "stackable": false
+}

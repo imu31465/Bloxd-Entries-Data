@@ -1,0 +1,14 @@
+{
+  "id": 78,
+  "name": "Purple Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleBakedClay",
+    "text": "Purple Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_purple",
+  "harvestType": "rock",
+  "atlasIdx": 184,
+  "stackable": true
+}

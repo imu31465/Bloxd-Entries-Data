@@ -1,0 +1,41 @@
+{
+  "id": 2202,
+  "name": "_Yellow Banner Flag|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowBanner",
+    "text": "Yellow Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_yellow",
+  "drops": "Yellow Banner",
+  "solid": false,
+  "Am": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Yellow Banner Flag",
+    "rootId": 2199,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Yellow Banner Flag Hanging"
+}

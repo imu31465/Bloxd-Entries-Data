@@ -1,0 +1,19 @@
+{
+  "id": 1006,
+  "name": "Patterned White Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedWhiteGlass",
+    "text": "Patterned White Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_white",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 477,
+  "stackable": true
+}

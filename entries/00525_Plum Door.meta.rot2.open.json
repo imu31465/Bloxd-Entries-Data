@@ -1,0 +1,23 @@
+{
+  "id": 525,
+  "name": "Plum Door|meta|rot2|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Plum Door",
+    "rootId": 522,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9064,
+  "name": "Magmasteel Boots",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "magmasteel_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

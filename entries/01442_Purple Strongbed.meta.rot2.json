@@ -1,0 +1,23 @@
+{
+  "id": 1442,
+  "name": "Purple Strongbed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleStrongbed",
+    "text": "Purple Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "purple_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Purple Strongbed",
+    "rootId": 1441,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Purple Strongbed"
+}

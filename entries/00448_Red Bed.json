@@ -1,0 +1,24 @@
+{
+  "id": 448,
+  "name": "Red Bed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redBed",
+    "text": "Red Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "red_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Red Bed",
+    "rootId": 448,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Red Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Red Bed"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8870,
+  "name": "Cinder Leviathan",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cinderLeviathan",
+    "text": "Cinder Leviathan"
+  },
+  "type": "Item",
+  "textureInfo": "cinder_leviathan",
+  "weight": 1,
+  "heldItemScale": 3,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 964,
+  "name": "Watermelon Seeds|Growing",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "melon_stem",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": "Watermelon Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Watermelon Seeds",
+    "rootId": 963,
+    "metaStr": "Growing",
+    "kt": true
+  },
+  "stackable": true
+}

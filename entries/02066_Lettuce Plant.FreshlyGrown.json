@@ -1,0 +1,23 @@
+{
+  "id": 2066,
+  "name": "Lettuce Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lettuce",
+    "text": "Lettuce"
+  },
+  "ttb": 400,
+  "textureInfo": "lettuce_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "lettuce_plant_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Lettuce Plant",
+    "rootId": 2064,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

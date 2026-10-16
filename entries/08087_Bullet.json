@@ -1,0 +1,14 @@
+{
+  "id": 8087,
+  "name": "Bullet",
+  "kind": "item",
+  "displayName": {
+    "text": "Bullet"
+  },
+  "type": "Item",
+  "textureInfo": "arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

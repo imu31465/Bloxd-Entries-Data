@@ -1,0 +1,19 @@
+{
+  "id": 8355,
+  "name": "Red Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redBalloon",
+    "text": "Red Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "red_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Red Balloon Item",
+  "stackable": true
+}

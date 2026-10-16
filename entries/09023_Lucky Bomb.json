@@ -1,0 +1,17 @@
+{
+  "id": 9023,
+  "name": "Lucky Bomb",
+  "kind": "item",
+  "displayName": {
+    "text": "Lucky Bomb"
+  },
+  "description": {
+    "text": "A random lucky effect for everyone it splashes, you included. Usually good!"
+  },
+  "type": "Item",
+  "textureInfo": "lucky_bomb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

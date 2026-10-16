@@ -1,0 +1,25 @@
+{
+  "id": 7282,
+  "name": "Palm Fence",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmFence",
+    "text": "Palm Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_palm",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "palm_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "atlasIdx": 388,
+  "stackable": true,
+  "attachedTop": "_Palm Fence Top"
+}

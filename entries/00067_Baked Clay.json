@@ -1,0 +1,14 @@
+{
+  "id": 67,
+  "name": "Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bakedClay",
+    "text": "Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay",
+  "harvestType": "rock",
+  "atlasIdx": 173,
+  "stackable": true
+}

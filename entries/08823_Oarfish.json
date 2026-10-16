@@ -1,0 +1,14 @@
+{
+  "id": 8823,
+  "name": "Oarfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:oarfish",
+    "text": "Oarfish"
+  },
+  "type": "Item",
+  "textureInfo": "oarfish",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8299,
+  "name": "Splash Mining Yield Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashMiningYieldPotion",
+    "text": "Splash Mining Yield Potion"
+  },
+  "description": {
+    "key": "item:splashMiningYieldPotionDescription",
+    "text": "Increases the amount of materials other players get when mining ores"
+  },
+  "type": "Item",
+  "textureInfo": "splash_mining_yield_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

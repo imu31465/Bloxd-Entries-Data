@@ -1,0 +1,15 @@
+{
+  "id": 8641,
+  "name": "Caught Mob Horse Cream",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_horse_cream",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Horse Cream",
+    "rootId": 8641,
+    "caughtMobType": "Horse"
+  }
+}

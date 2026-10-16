@@ -1,0 +1,31 @@
+{
+  "id": 3210,
+  "name": "Merger Pipe",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mergerPipe",
+    "text": "Merger Pipe"
+  },
+  "description": {
+    "key": "item:mergerPipeDescription",
+    "text": "Hub that funnels items from any arm out a single output arm. Right-click to set the output direction."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "merger_pipe",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Merger Pipe",
+    "rootId": 3210,
+    "metaStr": "meta|output|none"
+  },
+  "rootMetaDesc": "Merger Pipe|meta|output|none",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "merger_pipe_output_pz",
+  "blockModelItem": true
+}

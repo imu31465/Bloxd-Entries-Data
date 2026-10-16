@@ -1,0 +1,22 @@
+{
+  "id": 7883,
+  "name": "Iron Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironSword",
+    "text": "Iron Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 34,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 3
+}

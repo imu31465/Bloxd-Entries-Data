@@ -1,0 +1,19 @@
+{
+  "id": 108,
+  "name": "Blue Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueGlass",
+    "text": "Blue Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_blue",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 215,
+  "stackable": true
+}

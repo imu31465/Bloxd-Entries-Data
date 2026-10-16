@@ -1,0 +1,24 @@
+{
+  "id": 9107,
+  "name": "Rubellite Whip",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "rubellite_whip",
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

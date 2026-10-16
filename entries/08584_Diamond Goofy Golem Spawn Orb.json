@@ -1,0 +1,21 @@
+{
+  "id": 8584,
+  "name": "Diamond Goofy Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondGoofyGolemSpawnOrb",
+    "text": "Diamond Goofy Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:diamondGoofyGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Diamond Goofy Golem at the landing location",
+    "params": {
+      "mob": "Diamond Goofy Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "diamond_goofy_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

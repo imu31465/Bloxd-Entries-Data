@@ -1,0 +1,33 @@
+{
+  "id": 2044,
+  "name": "Yellow Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowPortal",
+    "text": "Yellow Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "yellow_portal0",
+      "yellow_portal1",
+      "yellow_portal2",
+      "yellow_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    9,
+    9,
+    3
+  ],
+  "atlasIdx": [
+    17,
+    80,
+    81,
+    82
+  ],
+  "stackable": true
+}

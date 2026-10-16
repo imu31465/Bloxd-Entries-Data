@@ -1,0 +1,15 @@
+{
+  "id": 9089,
+  "name": "Rubellite Chestplate",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "rubellite_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

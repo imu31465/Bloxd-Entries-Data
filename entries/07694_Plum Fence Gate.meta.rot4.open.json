@@ -1,0 +1,38 @@
+{
+  "id": 7694,
+  "name": "Plum Fence Gate|meta|rot4|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumFenceGate",
+    "text": "Plum Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_plum",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "plum_fence_gate",
+  "Am": [
+    0.375,
+    0,
+    0,
+    1,
+    1,
+    0.125,
+    0.375,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Plum Fence Gate",
+    "rootId": 7687,
+    "metaStr": "meta|rot4|open",
+    "rot": 4,
+    "open": true
+  },
+  "atlasIdx": 125,
+  "stackable": true,
+  "attachedTop": "_Plum Fence Gate Top|meta|rot4|open"
+}

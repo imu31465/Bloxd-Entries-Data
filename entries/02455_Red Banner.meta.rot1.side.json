@@ -1,0 +1,40 @@
+{
+  "id": 2455,
+  "name": "Red Banner|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redBanner",
+    "text": "Red Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_red",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Red Banner",
+    "rootId": 2435,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Red Banner Hanging"
+}

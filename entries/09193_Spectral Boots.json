@@ -1,0 +1,16 @@
+{
+  "id": 9193,
+  "name": "Spectral Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralBoots",
+    "text": "Spectral Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "spectral_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "spectral_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8094,
+  "name": "Fireball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fireball",
+    "text": "Fireball"
+  },
+  "description": {
+    "key": "item:fireballDescription",
+    "text": "Launch fireball for BOOM"
+  },
+  "type": "Item",
+  "textureInfo": "fireball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 13
+}

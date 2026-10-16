@@ -1,0 +1,16 @@
+{
+  "id": 9026,
+  "name": "Golden Lucky Clover",
+  "kind": "item",
+  "displayName": {
+    "text": "Golden Clover"
+  },
+  "description": {
+    "text": "A shiny golden four-leaf clover."
+  },
+  "type": "Item",
+  "textureInfo": "golden_lucky_clover",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

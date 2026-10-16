@@ -1,0 +1,11 @@
+{
+  "id": 8036,
+  "name": "INTERNAL_MESH_Wood Hang Glider",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "hang_glider",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Wood Hang Glider",
+  "stackable": false
+}

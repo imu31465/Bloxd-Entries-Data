@@ -1,0 +1,18 @@
+{
+  "id": 8456,
+  "name": "Lime Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limePaintballExplosive",
+    "text": "Lime Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_lime",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

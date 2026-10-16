@@ -1,0 +1,34 @@
+{
+  "id": 3253,
+  "name": "Dry Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dryGrassBlock",
+    "text": "Dry Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": [
+    "dry_grass_block_side",
+    "dry_grass_block",
+    "dirt"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": [
+    893,
+    894,
+    109
+  ],
+  "stackable": true
+}

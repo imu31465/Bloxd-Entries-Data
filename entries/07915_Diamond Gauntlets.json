@@ -1,0 +1,15 @@
+{
+  "id": 7915,
+  "name": "Diamond Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondGauntlets",
+    "text": "Diamond Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "diamond_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11
+}

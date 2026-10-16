@@ -1,0 +1,18 @@
+{
+  "id": 8475,
+  "name": "Green Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_green",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

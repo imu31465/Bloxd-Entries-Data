@@ -1,0 +1,45 @@
+{
+  "id": 792,
+  "name": "Smooth Diorite Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothDioriteSlab",
+    "text": "Smooth Diorite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_diorite_smooth_side",
+    "stone_diorite_smooth"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Smooth Diorite Slab",
+    "rootId": 787,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    415,
+    139
+  ],
+  "stackable": true,
+  "slabFullBlock": "Smooth Diorite"
+}

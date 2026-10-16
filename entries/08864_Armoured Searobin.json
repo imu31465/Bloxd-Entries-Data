@@ -1,0 +1,14 @@
+{
+  "id": 8864,
+  "name": "Armoured Searobin",
+  "kind": "item",
+  "displayName": {
+    "key": "item:armouredSearobin",
+    "text": "Armoured Searobin"
+  },
+  "type": "Item",
+  "textureInfo": "armoured_searobin",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

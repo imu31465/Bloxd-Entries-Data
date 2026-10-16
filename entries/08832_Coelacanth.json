@@ -1,0 +1,14 @@
+{
+  "id": 8832,
+  "name": "Coelacanth",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coelacanth",
+    "text": "Coelacanth"
+  },
+  "type": "Item",
+  "textureInfo": "coelacanth",
+  "weight": 1,
+  "heldItemScale": 4,
+  "stackable": true
+}

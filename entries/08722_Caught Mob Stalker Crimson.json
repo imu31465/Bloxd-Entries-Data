@@ -1,0 +1,15 @@
+{
+  "id": 8722,
+  "name": "Caught Mob Stalker Crimson",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_stalker_crimson",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Stalker Crimson",
+    "rootId": 8722,
+    "caughtMobType": "Stalker"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Unloaded",
+  "kind": "block",
+  "ttb": 100,
+  "textureInfo": "unloaded",
+  "harvestType": "granule",
+  "atlasIdx": 108,
+  "stackable": true
+}

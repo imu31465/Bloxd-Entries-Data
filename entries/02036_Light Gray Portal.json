@@ -1,0 +1,33 @@
+{
+  "id": 2036,
+  "name": "Light Gray Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightgrayPortal",
+    "text": "Light Gray Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "lightgray_portal0",
+      "lightgray_portal1",
+      "lightgray_portal2",
+      "lightgray_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    6,
+    6,
+    6
+  ],
+  "atlasIdx": [
+    9,
+    56,
+    57,
+    58
+  ],
+  "stackable": true
+}

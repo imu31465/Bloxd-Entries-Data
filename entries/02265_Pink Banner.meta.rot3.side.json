@@ -1,0 +1,40 @@
+{
+  "id": 2265,
+  "name": "Pink Banner|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkBanner",
+    "text": "Pink Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_pink",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Pink Banner",
+    "rootId": 2243,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Pink Banner Hanging"
+}

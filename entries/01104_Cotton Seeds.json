@@ -1,0 +1,20 @@
+{
+  "id": 1104,
+  "name": "Cotton Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cottonSeeds",
+    "text": "Cotton Seeds"
+  },
+  "description": {
+    "key": "item:cottonSeedsDescription",
+    "text": "Plant to grow a cotton plant"
+  },
+  "ttb": 400,
+  "textureInfo": "cotton_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cotton_seeds",
+  "solid": false,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "name": "Aspen Log|TreeBase|Aspen",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_aspen",
+  "harvestType": "wood",
+  "drops": "Aspen Log",
+  "meta": {
+    "rootName": "Aspen Log",
+    "rootId": 13,
+    "metaStr": "TreeBase|Aspen",
+    "treeBase": true,
+    "woodType": "Aspen"
+  },
+  "atlasIdx": 121,
+  "stackable": true
+}

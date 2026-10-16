@@ -1,0 +1,15 @@
+{
+  "id": 7946,
+  "name": "Lime Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeWoodHelmet",
+    "text": "Lime Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

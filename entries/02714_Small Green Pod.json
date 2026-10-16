@@ -1,0 +1,21 @@
+{
+  "id": 2714,
+  "name": "Small Green Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallGreenPod",
+    "text": "Small Green Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_green_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Green Pod"
+}

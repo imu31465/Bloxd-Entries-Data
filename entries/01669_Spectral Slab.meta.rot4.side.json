@@ -1,0 +1,45 @@
+{
+  "id": 1669,
+  "name": "Spectral Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralSlab",
+    "text": "Spectral Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_spectral_side",
+    "planks_spectral"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Spectral Slab",
+    "rootId": 1664,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    747,
+    745
+  ],
+  "stackable": true,
+  "slabFullBlock": "Spectral Wood Planks"
+}

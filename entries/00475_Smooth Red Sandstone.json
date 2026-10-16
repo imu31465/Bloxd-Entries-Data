@@ -1,0 +1,14 @@
+{
+  "id": 475,
+  "name": "Smooth Red Sandstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothRedSandstone",
+    "text": "Smooth Red Sandstone"
+  },
+  "ttb": 960,
+  "textureInfo": "red_sandstone_top",
+  "harvestType": "rock",
+  "atlasIdx": 370,
+  "stackable": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8817,
+  "name": "Mudbelly Tilapia",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mudbellyTilapia",
+    "text": "Mudbelly Tilapia"
+  },
+  "description": {
+    "key": "item:mudbellyTilapiaDescription",
+    "text": "Eat to restore 30 HP. Found only in oasis waters in Survival."
+  },
+  "type": "Chargeable",
+  "textureInfo": "mudbelly_tilapia",
+  "weight": 1.5,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 30,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Mudbelly Tilapia",
+    "rootId": 8817,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Mudbelly Tilapia|meta|charging1"
+}

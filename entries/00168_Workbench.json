@@ -1,0 +1,39 @@
+{
+  "id": 168,
+  "name": "Workbench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:workbench",
+    "text": "Workbench"
+  },
+  "description": {
+    "key": "item:workbenchDescription",
+    "text": "Create advanced items"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "crafting_table_side",
+    "crafting_table_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "meta": {
+    "rootName": "Workbench",
+    "rootId": 168,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Workbench|meta|rot1",
+  "atlasIdx": [
+    257,
+    258
+  ],
+  "stackable": true
+}

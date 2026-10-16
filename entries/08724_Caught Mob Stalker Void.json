@@ -1,0 +1,15 @@
+{
+  "id": 8724,
+  "name": "Caught Mob Stalker Void",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_stalker_void",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Stalker Void",
+    "rootId": 8724,
+    "caughtMobType": "Stalker"
+  }
+}

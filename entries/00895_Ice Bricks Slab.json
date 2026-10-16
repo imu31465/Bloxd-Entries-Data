@@ -1,0 +1,48 @@
+{
+  "id": 895,
+  "name": "Ice Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:iceBricksSlab",
+    "text": "Ice Bricks Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_ice_brick_side",
+    "ice_brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Ice Bricks Slab",
+    "rootId": 895,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Ice Bricks Slab|meta|rot1|bot",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": [
+    431,
+    383
+  ],
+  "stackable": true,
+  "slabFullBlock": "Ice Bricks"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3508,
+  "name": "Engraved Diorite Stairs|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedDioriteStairs",
+    "text": "Engraved Diorite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "engraved_diorite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Diorite Stairs",
+    "rootId": 3501,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 377,
+  "stackable": true
+}

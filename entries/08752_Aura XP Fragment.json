@@ -1,0 +1,29 @@
+{
+  "id": 8752,
+  "name": "Aura XP Fragment",
+  "kind": "item",
+  "displayName": {
+    "key": "item:auraXpFragment",
+    "text": "Aura XP Fragment"
+  },
+  "description": {
+    "key": "item:auraXpFragmentDescription",
+    "text": "Consume to gain one Aura Level"
+  },
+  "type": "Chargeable",
+  "textureInfo": "aura_xp_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Aura XP Fragment",
+    "rootId": 8752,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Aura XP Fragment|meta|charging1"
+}

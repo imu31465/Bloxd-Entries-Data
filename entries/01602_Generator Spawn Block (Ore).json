@@ -1,0 +1,32 @@
+{
+  "id": 1602,
+  "name": "Generator Spawn Block (Ore)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:oreGeneratorSpawnBlock",
+    "text": "Ore Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:oreGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Ore Generator when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "ore_gen_spawn_top",
+    "ore_gen_spawn_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    725,
+    726
+  ],
+  "stackable": true
+}

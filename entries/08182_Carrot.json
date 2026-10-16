@@ -1,0 +1,29 @@
+{
+  "id": 8182,
+  "name": "Carrot",
+  "kind": "item",
+  "displayName": {
+    "key": "item:carrot",
+    "text": "Carrot"
+  },
+  "description": {
+    "key": "item:carrotDescription",
+    "text": "Allows you to see lifeforms through walls"
+  },
+  "type": "Chargeable",
+  "textureInfo": "carrot",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Carrot",
+    "rootId": 8182,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Carrot|meta|charging1"
+}

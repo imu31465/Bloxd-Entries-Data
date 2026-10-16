@@ -1,0 +1,22 @@
+{
+  "id": 7889,
+  "name": "Iron Hoe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironHoe",
+    "text": "Iron Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 24,
+  "harvests": "cuttable",
+  "multiplier": 3.25,
+  "level": 3
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7950,
+  "name": "Lime Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeWoodGauntlets",
+    "text": "Lime Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

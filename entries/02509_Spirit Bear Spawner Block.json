@@ -1,0 +1,42 @@
+{
+  "id": 2509,
+  "name": "Spirit Bear Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spiritBearMobSpawnerBlock",
+    "text": "Spirit Bear Spawner Block"
+  },
+  "description": {
+    "key": "item:spiritBearMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Spirit Bears"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_neutral_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "spirit_bear_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Spirit Bear Spawner Block"
+  },
+  "atlasIdx": [
+    753,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

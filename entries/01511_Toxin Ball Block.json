@@ -1,0 +1,15 @@
+{
+  "id": 1511,
+  "name": "Toxin Ball Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:toxinBallBlock",
+    "unresolved": true
+  },
+  "ttb": 1,
+  "textureInfo": "toxin_ball_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 595,
+  "stackable": true
+}

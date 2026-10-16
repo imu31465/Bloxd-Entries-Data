@@ -1,0 +1,21 @@
+{
+  "id": 1445,
+  "name": "_Purple Strongbed Head",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "purple_strongbed",
+  "drops": "Purple Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Purple Strongbed Head",
+    "rootId": 1445,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Purple Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Purple Strongbed Head"
+}

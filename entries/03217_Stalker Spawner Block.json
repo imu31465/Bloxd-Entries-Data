@@ -1,0 +1,42 @@
+{
+  "id": 3217,
+  "name": "Stalker Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stalkerMobSpawnerBlock",
+    "text": "Stalker Spawner Block"
+  },
+  "description": {
+    "key": "item:stalkerMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Stalkers"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "stalker_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Stalker Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

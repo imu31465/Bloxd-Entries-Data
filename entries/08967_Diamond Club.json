@@ -1,0 +1,24 @@
+{
+  "id": 8967,
+  "name": "Diamond Club",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondClub",
+    "text": "Diamond Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 40,
+  "knockbackHorizontalScalar": 2.5,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8192,
+  "name": "Cooked Mutton",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cookedMutton",
+    "text": "Cooked Mutton"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cooked_mutton",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 20,
+  "chargeStages": 1,
+  "chargeTime": 800,
+  "meta": {
+    "rootName": "Cooked Mutton",
+    "rootId": 8192,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cooked Mutton|meta|charging1"
+}

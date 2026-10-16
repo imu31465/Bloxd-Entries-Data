@@ -1,0 +1,14 @@
+{
+  "id": 1636,
+  "name": "Spectral Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralLeaves",
+    "text": "Spectral Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_spectral",
+  "harvestType": "cuttable",
+  "atlasIdx": 746,
+  "stackable": true
+}

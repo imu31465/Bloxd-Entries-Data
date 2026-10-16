@@ -1,0 +1,15 @@
+{
+  "id": 7977,
+  "name": "Blue Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blueWoodChestplate",
+    "text": "Blue Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1749,
+  "name": "Green Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_green",
+  "harvestType": "rock",
+  "atlasIdx": 781,
+  "stackable": true
+}

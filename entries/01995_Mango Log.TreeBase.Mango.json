@@ -1,0 +1,18 @@
+{
+  "id": 1995,
+  "name": "Mango Log|TreeBase|Mango",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_mango",
+  "harvestType": "wood",
+  "drops": "Mango Log",
+  "meta": {
+    "rootName": "Mango Log",
+    "rootId": 1965,
+    "metaStr": "TreeBase|Mango",
+    "treeBase": true,
+    "woodType": "Mango"
+  },
+  "atlasIdx": 806,
+  "stackable": true
+}

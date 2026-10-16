@@ -1,0 +1,15 @@
+{
+  "id": 8077,
+  "name": "Off Roader",
+  "kind": "item",
+  "displayName": {
+    "key": "item:offRoader",
+    "text": "Off Roader"
+  },
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Off Roader Item",
+  "stackable": false
+}

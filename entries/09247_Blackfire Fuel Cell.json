@@ -1,0 +1,18 @@
+{
+  "id": 9247,
+  "name": "Blackfire Fuel Cell",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackfireFuelCell",
+    "text": "Blackfire Fuel Cell"
+  },
+  "description": {
+    "key": "item:blackfireFuelCellDescription",
+    "text": "Packed tight with coal and humming with heat. Handle with care."
+  },
+  "type": "Item",
+  "textureInfo": "blackfire_fuel_cell",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

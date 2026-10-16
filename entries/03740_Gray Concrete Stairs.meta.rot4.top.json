@@ -1,0 +1,36 @@
+{
+  "id": 3740,
+  "name": "Gray Concrete Stairs|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayConcreteStairs",
+    "text": "Gray Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "gray_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Gray Concrete Stairs",
+    "rootId": 3733,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 190,
+  "stackable": true
+}

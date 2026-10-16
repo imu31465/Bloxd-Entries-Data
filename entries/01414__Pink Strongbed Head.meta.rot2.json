@@ -1,0 +1,20 @@
+{
+  "id": 1414,
+  "name": "_Pink Strongbed Head|meta|rot2",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "pink_strongbed",
+  "drops": "Pink Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Pink Strongbed Head",
+    "rootId": 1413,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Pink Strongbed Head"
+}

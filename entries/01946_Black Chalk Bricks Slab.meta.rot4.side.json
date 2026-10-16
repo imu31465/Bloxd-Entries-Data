@@ -1,0 +1,55 @@
+{
+  "id": 1946,
+  "name": "Black Chalk Bricks Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksSlab",
+    "text": "{{colour}} Chalk Bricks Slab",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": [
+    "chalk_bricks_slab_side_black",
+    "chalk_bricks_black"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Black Chalk Bricks Slab",
+    "rootId": 1941,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    802,
+    786
+  ],
+  "stackable": true,
+  "slabFullBlock": "Black Chalk Bricks"
+}

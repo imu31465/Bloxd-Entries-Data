@@ -1,0 +1,18 @@
+{
+  "id": 8510,
+  "name": "Brown Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownQuickPaintballExplosive",
+    "text": "Brown Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_brown",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

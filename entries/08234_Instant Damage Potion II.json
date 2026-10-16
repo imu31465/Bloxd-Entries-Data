@@ -1,0 +1,31 @@
+{
+  "id": 8234,
+  "name": "Instant Damage Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:instantDamagePotionII",
+    "text": "Instant Damage Potion II"
+  },
+  "description": {
+    "key": "item:instantDamagePotionDescription",
+    "text": "Instantly damage yourself"
+  },
+  "type": "Chargeable",
+  "textureInfo": "instant_damage_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Instant Damage Potion",
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Instant Damage Potion II",
+    "rootId": 8234,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Instant Damage Potion II|meta|charging1"
+}

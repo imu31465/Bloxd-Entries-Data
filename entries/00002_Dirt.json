@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "name": "Dirt",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dirt",
+    "text": "Dirt"
+  },
+  "ttb": 600,
+  "textureInfo": "dirt",
+  "harvestType": "granule",
+  "atlasIdx": 109,
+  "stackable": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2886,
+  "name": "Red Directional Arrow|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:directionalArrow",
+    "text": "{{colour}} Directional Arrow",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "red_directional_arrow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Red Directional Arrow",
+    "rootId": 2885,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Red Directional Arrow",
+  "blockModelItem": true
+}

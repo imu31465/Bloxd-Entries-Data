@@ -1,0 +1,37 @@
+{
+  "id": 4623,
+  "name": "Andesite Stairs|meta|rot3|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:andesiteStairs",
+    "text": "Andesite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_andesite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Andesite Stairs",
+    "rootId": 3453,
+    "metaStr": "meta|rot3|bot|outerRight",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 140,
+  "stackable": true
+}

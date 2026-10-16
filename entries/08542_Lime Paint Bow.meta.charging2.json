@@ -1,0 +1,29 @@
+{
+  "id": 8542,
+  "name": "Lime Paint Bow|meta|charging2",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limePaintBow",
+    "text": "Lime Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "lime_paint_bow_charging_2",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Lime Paint Bow",
+    "rootId": 8541,
+    "metaStr": "meta|charging2",
+    "charging": 2
+  },
+  "textureName": "lime_paint_bow"
+}

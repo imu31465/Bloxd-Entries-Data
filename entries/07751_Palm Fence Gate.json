@@ -1,0 +1,33 @@
+{
+  "id": 7751,
+  "name": "Palm Fence Gate",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmFenceGate",
+    "text": "Palm Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_palm",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "palm_fence_gate",
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Palm Fence Gate",
+    "rootId": 7751,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Palm Fence Gate|meta|rot1|closed",
+  "atlasIdx": 388,
+  "stackable": true,
+  "attachedTop": "_Palm Fence Gate Top"
+}

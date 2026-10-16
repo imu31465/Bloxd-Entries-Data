@@ -1,0 +1,33 @@
+{
+  "id": 2949,
+  "name": "Magenta Torch",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_magenta",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Magenta Torch",
+    "rootId": 2949,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Magenta Torch|meta|rot1|bot",
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    13,
+    5,
+    12
+  ],
+  "stackable": true,
+  "blockModel": "torch_magenta",
+  "blockModelItem": true
+}

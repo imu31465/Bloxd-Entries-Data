@@ -1,0 +1,39 @@
+{
+  "id": 987,
+  "name": "Attached Melon Stem|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:attachedMelonStem",
+    "text": "Attached Melon Stem"
+  },
+  "ttb": 400,
+  "textureInfo": [
+    "attached_melon_stem_wrapper",
+    "attached_melon_stem"
+  ],
+  "harvestType": "cuttable",
+  "model": "CustomPlanes|rotatable",
+  "drops": "Melon Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Attached Melon Stem",
+    "rootId": 986,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "customPlanesInfo": [
+    {
+      "textureIdx": 0,
+      "yRot": 0.7853981633974483
+    },
+    {
+      "textureIdx": 0,
+      "yRot": 2.356194490192345
+    },
+    {
+      "textureIdx": 1,
+      "yRot": 4.71238898038469
+    }
+  ],
+  "stackable": true
+}

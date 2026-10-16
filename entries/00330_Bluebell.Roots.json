@@ -1,0 +1,19 @@
+{
+  "id": 330,
+  "name": "Bluebell|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "blue_orchid",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "blue_orchid",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Bluebell",
+    "rootId": 158,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

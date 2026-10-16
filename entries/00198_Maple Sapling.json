@@ -1,0 +1,16 @@
+{
+  "id": 198,
+  "name": "Maple Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleSapling",
+    "text": "Maple Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "maple_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "maple_sapling",
+  "solid": false,
+  "stackable": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8176,
+  "name": "Gold Melon Slice",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldMelonSlice",
+    "text": "Gold Melon Slice"
+  },
+  "description": {
+    "key": "item:melonSliceDescription",
+    "text": "Eat to become invisible"
+  },
+  "type": "Chargeable",
+  "textureInfo": "glistering_melon_slice",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Gold Melon Slice",
+    "rootId": 8176,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Gold Melon Slice|meta|charging1"
+}

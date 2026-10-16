@@ -1,0 +1,15 @@
+{
+  "id": 7908,
+  "name": "Iron Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironBoots",
+    "text": "Iron Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "iron_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

@@ -1,0 +1,30 @@
+{
+  "id": 464,
+  "name": "Apple Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:appleBlock",
+    "text": "Apple Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "apple_block_side",
+    "apple_block_top",
+    "apple_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    356,
+    357,
+    358
+  ],
+  "stackable": true
+}

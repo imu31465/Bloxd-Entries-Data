@@ -1,0 +1,15 @@
+{
+  "id": 8711,
+  "name": "Caught Mob Draugr_Knight Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_knight_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Knight Default",
+    "rootId": 8711,
+    "caughtMobType": "Draugr Knight"
+  }
+}

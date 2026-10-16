@@ -1,0 +1,33 @@
+{
+  "id": 602,
+  "name": "Pine Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineTrapdoor",
+    "text": "Pine Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "pine_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Pine Trapdoor",
+    "rootId": 602,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Pine Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Pine Trapdoor",
+  "blockModelItem": true
+}

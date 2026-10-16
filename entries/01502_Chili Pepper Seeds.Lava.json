@@ -1,0 +1,31 @@
+{
+  "id": 1502,
+  "name": "Chili Pepper Seeds|Lava",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chiliPepperSeeds",
+    "text": "Chili Pepper Seeds"
+  },
+  "description": {
+    "key": "item:chiliPepperSeedsDescription",
+    "text": "Plant to grow chili peppers"
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "chili_pepper_seeds",
+  "drops": "Chili Pepper Seeds",
+  "solid": false,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Chili Pepper Seeds",
+    "rootId": 1495,
+    "metaStr": "Lava",
+    "lava": true
+  },
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "chili_pepper_stage0_lava_model"
+}

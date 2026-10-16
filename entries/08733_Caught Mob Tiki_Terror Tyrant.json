@@ -1,0 +1,15 @@
+{
+  "id": 8733,
+  "name": "Caught Mob Tiki_Terror Tyrant",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_tiki_terror_tyrant",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Tiki_Terror Tyrant",
+    "rootId": 8733,
+    "caughtMobType": "Tiki Terror"
+  }
+}

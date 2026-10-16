@@ -1,0 +1,28 @@
+{
+  "id": 990,
+  "name": "Melon",
+  "kind": "block",
+  "displayName": {
+    "key": "item:melon",
+    "text": "Melon"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "melon_side",
+    "melon_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    459,
+    460
+  ],
+  "stackable": true
+}

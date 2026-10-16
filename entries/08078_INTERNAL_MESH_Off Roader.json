@@ -1,0 +1,11 @@
+{
+  "id": 8078,
+  "name": "INTERNAL_MESH_Off Roader",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Off Roader",
+  "stackable": false
+}

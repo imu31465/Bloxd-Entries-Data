@@ -1,0 +1,21 @@
+{
+  "id": 8598,
+  "name": "Gorilla Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:gorillaSpawnOrb",
+    "text": "Gorilla Spawn Orb"
+  },
+  "description": {
+    "key": "item:gorillaSpawnOrbDescription",
+    "text": "Throw to spawn a Gorilla at the landing location",
+    "params": {
+      "mob": "Gorilla"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "gorilla_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 101,
+  "name": "Aspen Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenLeaves",
+    "text": "Aspen Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_aspen",
+  "harvestType": "cuttable",
+  "atlasIdx": 207,
+  "stackable": true
+}

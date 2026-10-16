@@ -1,0 +1,14 @@
+{
+  "id": 8812,
+  "name": "Jungle Spinefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:jungleSpinefish",
+    "text": "Jungle Spinefish"
+  },
+  "type": "Item",
+  "textureInfo": "jungle_spinefish",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

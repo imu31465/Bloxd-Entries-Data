@@ -1,0 +1,33 @@
+{
+  "id": 2042,
+  "name": "Red Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redPortal",
+    "text": "Red Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "red_portal0",
+      "red_portal1",
+      "red_portal2",
+      "red_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    9,
+    3,
+    3
+  ],
+  "atlasIdx": [
+    15,
+    74,
+    75,
+    76
+  ],
+  "stackable": true
+}

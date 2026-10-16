@@ -1,0 +1,14 @@
+{
+  "id": 2095,
+  "name": "Potato Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:potatoBlock",
+    "text": "Potato Block"
+  },
+  "ttb": 600,
+  "textureInfo": "potato_block",
+  "harvestType": "wood",
+  "atlasIdx": 835,
+  "stackable": true
+}

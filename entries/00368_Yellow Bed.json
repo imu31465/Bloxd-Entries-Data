@@ -1,0 +1,24 @@
+{
+  "id": 368,
+  "name": "Yellow Bed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowBed",
+    "text": "Yellow Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "yellow_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Yellow Bed",
+    "rootId": 368,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Yellow Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Yellow Bed"
+}

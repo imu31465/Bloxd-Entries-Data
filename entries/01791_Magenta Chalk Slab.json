@@ -1,0 +1,42 @@
+{
+  "id": 1791,
+  "name": "Magenta Chalk Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:magenta)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:magenta)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_magenta",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Magenta Chalk Slab",
+    "rootId": 1791,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Magenta Chalk Slab|meta|rot1|bot",
+  "atlasIdx": 761,
+  "stackable": true,
+  "slabFullBlock": "Magenta Chalk"
+}

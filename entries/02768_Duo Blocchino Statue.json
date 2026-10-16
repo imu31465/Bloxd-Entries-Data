@@ -1,0 +1,17 @@
+{
+  "id": 2768,
+  "name": "Duo Blocchino Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "2_block",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "2_block",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

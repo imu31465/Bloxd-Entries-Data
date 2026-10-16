@@ -1,0 +1,19 @@
+{
+  "id": 9172,
+  "name": "Spectral Shard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralShard",
+    "text": "Spectral Shard"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "spectral_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "spectral_shard",
+  "stackable": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 945,
+  "name": "Pear Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearBlock",
+    "text": "Pear Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "pear_block_side",
+    "pear_block_top",
+    "pear_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    442,
+    443,
+    444
+  ],
+  "stackable": true
+}

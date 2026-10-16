@@ -1,0 +1,21 @@
+{
+  "id": 8098,
+  "name": "Super RPG",
+  "kind": "item",
+  "displayName": {
+    "key": "item:superRpg",
+    "text": "Super RPG"
+  },
+  "description": {
+    "key": "item:superRpgDescription",
+    "text": "Fire rocket for massive BOOM"
+  },
+  "type": "FullAuto",
+  "textureInfo": "super_rpg",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": true,
+  "secondaryDamage": 20,
+  "holdAsAiming": true,
+  "hideAimingUI": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8204,
+  "name": "Knight Heart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:knightHeart",
+    "text": "Knight Heart"
+  },
+  "description": {
+    "key": "item:knightHeartDescription",
+    "text": "Use me to craft special weapons and armour"
+  },
+  "type": "Item",
+  "textureInfo": "knight_heart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

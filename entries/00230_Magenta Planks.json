@@ -1,0 +1,14 @@
+{
+  "id": 230,
+  "name": "Magenta Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaPlanks",
+    "text": "Magenta Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "magenta_planks",
+  "harvestType": "wood",
+  "atlasIdx": 270,
+  "stackable": true
+}

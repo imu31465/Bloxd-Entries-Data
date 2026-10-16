@@ -1,0 +1,47 @@
+{
+  "id": 6249,
+  "name": "Gray Chalk Stairs|meta|rot1|bot|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_gray",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Gray Chalk Stairs",
+    "rootId": 3861,
+    "metaStr": "meta|rot1|bot|outerLeft",
+    "rot": 1,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 766,
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7911,
+  "name": "Spiked Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spikedBoots",
+    "text": "Spiked Boots"
+  },
+  "description": {
+    "key": "item:spikedBootsDescription",
+    "text": "Deals stomp damage when falling on enemies and increases speed on snowy blocks"
+  },
+  "type": "Armour",
+  "textureInfo": "spiked_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.09
+}

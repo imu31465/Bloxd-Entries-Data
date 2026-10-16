@@ -1,0 +1,32 @@
+{
+  "id": 1601,
+  "name": "Generator Spawn Block (Moonstone)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moonstoneGeneratorSpawnBlock",
+    "text": "Moonstone Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:moonstoneGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Moonstone Generator when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "moonstone_gen_spawn_top",
+    "moonstone_gen_spawn_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    723,
+    724
+  ],
+  "stackable": true
+}

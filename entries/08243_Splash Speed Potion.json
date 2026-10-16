@@ -1,0 +1,25 @@
+{
+  "id": 8243,
+  "name": "Splash Speed Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashSpeedPotion",
+    "text": "Splash Speed Potion"
+  },
+  "description": {
+    "key": "item:splashSpeedPotionDescription",
+    "text": "Launch speed buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_speed_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Splash Speed Potion",
+    "rootId": 8243,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Splash Speed Potion|meta|charging1"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1984,
+  "name": "_Mango Door Top|meta|rot4|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Mango Door",
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Mango Door Top",
+    "rootId": 1978,
+    "metaStr": "meta|rot4|closed",
+    "rot": 4,
+    "open": false
+  },
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8459,
+  "name": "Green Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenPaintballExplosive",
+    "text": "Green Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_green",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

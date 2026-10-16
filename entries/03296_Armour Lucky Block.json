@@ -1,0 +1,27 @@
+{
+  "id": 3296,
+  "name": "Armour Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Armour Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "blue_lucky_block",
+    "armour_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    908,
+    909
+  ],
+  "stackable": true
+}

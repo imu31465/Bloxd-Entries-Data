@@ -1,0 +1,14 @@
+{
+  "id": 133,
+  "name": "Chiseled Block of Quartz",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chiseledBlockOfQuartz",
+    "text": "Chiseled Block of Quartz"
+  },
+  "ttb": 960,
+  "textureInfo": "quartz_block_chiseled",
+  "harvestType": "rock",
+  "atlasIdx": 239,
+  "stackable": true
+}

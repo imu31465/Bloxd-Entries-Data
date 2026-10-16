@@ -1,0 +1,14 @@
+{
+  "id": 83,
+  "name": "Black Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackBakedClay",
+    "text": "Black Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_black",
+  "harvestType": "rock",
+  "atlasIdx": 189,
+  "stackable": true
+}

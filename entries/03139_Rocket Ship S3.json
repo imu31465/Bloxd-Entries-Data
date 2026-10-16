@@ -1,0 +1,24 @@
+{
+  "id": 3139,
+  "name": "Rocket Ship S3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rocketShipS3",
+    "text": "Stage 3 Rocket Ship (Hull)"
+  },
+  "description": {
+    "key": "item:rocketShipDescription",
+    "text": "Use it to go to the moon! A towering rocket ship built in stages. Place it and right-click to upgrade."
+  },
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "rocket",
+  "drops": null,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "heldItemGlb": "Rocket Ship",
+  "blockModel": "rocket_southwest_1"
+}

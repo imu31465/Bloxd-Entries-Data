@@ -1,0 +1,19 @@
+{
+  "id": 116,
+  "name": "Magenta Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaGlass",
+    "text": "Magenta Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_magenta",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 223,
+  "stackable": true
+}

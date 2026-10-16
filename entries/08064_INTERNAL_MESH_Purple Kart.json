@@ -1,0 +1,11 @@
+{
+  "id": 8064,
+  "name": "INTERNAL_MESH_Purple Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "purple_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Purple Kart",
+  "stackable": false
+}

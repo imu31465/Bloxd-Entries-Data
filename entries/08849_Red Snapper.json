@@ -1,0 +1,14 @@
+{
+  "id": 8849,
+  "name": "Red Snapper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redSnapper",
+    "text": "Red Snapper"
+  },
+  "type": "Item",
+  "textureInfo": "red_snapper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

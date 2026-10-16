@@ -1,0 +1,20 @@
+{
+  "id": 1099,
+  "name": "Cranberries",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cranberries",
+    "text": "Cranberries"
+  },
+  "description": {
+    "key": "item:cranberriesDescription",
+    "text": "Plant to grow a cranberry bush"
+  },
+  "ttb": 400,
+  "textureInfo": "berry_bush_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cranberries",
+  "solid": false,
+  "stackable": true
+}

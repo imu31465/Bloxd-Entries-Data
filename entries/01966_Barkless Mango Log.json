@@ -1,0 +1,14 @@
+{
+  "id": 1966,
+  "name": "Barkless Mango Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessMangoLog",
+    "text": "Barkless Mango Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_mango_log",
+  "harvestType": "wood",
+  "atlasIdx": 807,
+  "stackable": true
+}

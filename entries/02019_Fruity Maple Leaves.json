@@ -1,0 +1,19 @@
+{
+  "id": 2019,
+  "name": "Fruity Maple Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityMapleLeaves",
+    "text": "Fruity Maple Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_maple_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Maple Leaves"
+  },
+  "atlasIdx": 816,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 232,
+  "name": "Yellow Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowPlanks",
+    "text": "Yellow Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "yellow_planks",
+  "harvestType": "wood",
+  "atlasIdx": 272,
+  "stackable": true
+}

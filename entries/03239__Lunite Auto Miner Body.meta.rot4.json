@@ -1,0 +1,20 @@
+{
+  "id": 3239,
+  "name": "_Lunite Auto Miner Body|meta|rot4",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Lunite Auto Miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Lunite Auto Miner Body",
+    "rootId": 3236,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_lunite_body"
+}

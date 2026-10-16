@@ -1,0 +1,22 @@
+{
+  "id": 3044,
+  "name": "Invisible Blue Light",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": "invisible_solid",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    3,
+    3,
+    14
+  ],
+  "atlasIdx": 233,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 504,
+  "name": "Palm Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmWoodPlanks",
+    "text": "Palm Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_palm",
+  "harvestType": "wood",
+  "atlasIdx": 388,
+  "stackable": true
+}

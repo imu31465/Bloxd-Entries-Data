@@ -1,0 +1,41 @@
+{
+  "id": 2159,
+  "name": "_Magenta Banner Flag|meta|rot1|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaBanner",
+    "text": "Magenta Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_magenta",
+  "drops": "Magenta Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Magenta Banner Flag",
+    "rootId": 2151,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Magenta Banner Flag"
+}

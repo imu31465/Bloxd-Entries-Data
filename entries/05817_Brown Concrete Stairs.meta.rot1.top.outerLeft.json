@@ -1,0 +1,37 @@
+{
+  "id": 5817,
+  "name": "Brown Concrete Stairs|meta|rot1|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownConcreteStairs",
+    "text": "Brown Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "brown_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Brown Concrete Stairs",
+    "rootId": 3749,
+    "metaStr": "meta|rot1|top|outerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 194,
+  "stackable": true
+}

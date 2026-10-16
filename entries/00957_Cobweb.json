@@ -1,0 +1,21 @@
+{
+  "id": 957,
+  "name": "Cobweb",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cobweb",
+    "text": "Cobweb"
+  },
+  "description": {
+    "key": "item:cobwebDescription",
+    "text": "Slows players inside"
+  },
+  "ttb": 300,
+  "textureInfo": "cobweb",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cobweb",
+  "solid": false,
+  "heldItemScale": 1,
+  "stackable": true
+}

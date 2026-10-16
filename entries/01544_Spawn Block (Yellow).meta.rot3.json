@@ -1,0 +1,36 @@
+{
+  "id": 1544,
+  "name": "Spawn Block (Yellow)|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "yellow_spawn_block_top[rot[1",
+    "yellow_spawn_block_top[rot[2",
+    "yellow_spawn_block_top[rot[3",
+    "yellow_spawn_block_top[rot[4",
+    "yellow_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    0,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Yellow)",
+    "rootId": 1512,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    596,
+    597,
+    598,
+    599,
+    600
+  ],
+  "stackable": true
+}

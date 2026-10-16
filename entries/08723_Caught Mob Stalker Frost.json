@@ -1,0 +1,15 @@
+{
+  "id": 8723,
+  "name": "Caught Mob Stalker Frost",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_stalker_frost",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Stalker Frost",
+    "rootId": 8723,
+    "caughtMobType": "Stalker"
+  }
+}

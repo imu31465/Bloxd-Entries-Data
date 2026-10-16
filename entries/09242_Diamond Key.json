@@ -1,0 +1,15 @@
+{
+  "id": 9242,
+  "name": "Diamond Key",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondKey",
+    "text": "Diamond Key"
+  },
+  "type": "Item",
+  "textureInfo": "diamond_key",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "diamond_key",
+  "stackable": true
+}

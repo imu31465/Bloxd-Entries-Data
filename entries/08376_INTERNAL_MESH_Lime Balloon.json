@@ -1,0 +1,11 @@
+{
+  "id": 8376,
+  "name": "INTERNAL_MESH_Lime Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "lime_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Lime Balloon",
+  "stackable": false
+}

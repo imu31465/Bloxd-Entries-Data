@@ -1,0 +1,14 @@
+{
+  "id": 90,
+  "name": "Light Blue Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueConcrete",
+    "text": "Light Blue Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "light_blue_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 196,
+  "stackable": true
+}

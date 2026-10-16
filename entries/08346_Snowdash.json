@@ -1,0 +1,19 @@
+{
+  "id": 8346,
+  "name": "Snowdash",
+  "kind": "item",
+  "displayName": {
+    "key": "item:snowdash",
+    "text": "Snowdash"
+  },
+  "description": {
+    "key": "item:snowdashDescription",
+    "text": "Dash forwards!"
+  },
+  "type": "FullAuto",
+  "textureInfo": "snowdash",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "fireInterval": 500
+}

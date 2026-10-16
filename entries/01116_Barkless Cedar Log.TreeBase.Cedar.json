@@ -1,0 +1,18 @@
+{
+  "id": 1116,
+  "name": "Barkless Cedar Log|TreeBase|Cedar",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_cedar_log",
+  "harvestType": "wood",
+  "drops": "Barkless Cedar Log",
+  "meta": {
+    "rootName": "Barkless Cedar Log",
+    "rootId": 26,
+    "metaStr": "TreeBase|Cedar",
+    "treeBase": true,
+    "woodType": "Cedar"
+  },
+  "atlasIdx": 134,
+  "stackable": true
+}

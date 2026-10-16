@@ -1,0 +1,36 @@
+{
+  "id": 1554,
+  "name": "Spawn Block (Green)|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "green_spawn_block_top[rot[1",
+    "green_spawn_block_top[rot[2",
+    "green_spawn_block_top[rot[3",
+    "green_spawn_block_top[rot[4",
+    "green_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    0,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Green)",
+    "rootId": 1522,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    646,
+    647,
+    648,
+    649,
+    650
+  ],
+  "stackable": true
+}

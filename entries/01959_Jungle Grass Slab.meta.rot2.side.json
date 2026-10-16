@@ -1,0 +1,45 @@
+{
+  "id": 1959,
+  "name": "Jungle Grass Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleGrassSlab",
+    "text": "Jungle Grass Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_jungle_grass_top_side",
+    "jungle_grass_block"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Jungle Grass Slab",
+    "rootId": 1956,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    805,
+    804
+  ],
+  "stackable": true,
+  "slabFullBlock": "Jungle Grass Block"
+}

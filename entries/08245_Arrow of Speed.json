@@ -1,0 +1,15 @@
+{
+  "id": 8245,
+  "name": "Arrow of Speed",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfSpeed",
+    "text": "Arrow of Speed"
+  },
+  "type": "Item",
+  "textureInfo": "speed_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

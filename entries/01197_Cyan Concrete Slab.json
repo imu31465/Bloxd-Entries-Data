@@ -1,0 +1,32 @@
+{
+  "id": 1197,
+  "name": "Cyan Concrete Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanConcreteSlab",
+    "text": "Cyan Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "cyan_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Cyan Concrete Slab",
+    "rootId": 1197,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Cyan Concrete Slab|meta|rot1|bot",
+  "atlasIdx": 195,
+  "stackable": true,
+  "slabFullBlock": "Cyan Concrete"
+}

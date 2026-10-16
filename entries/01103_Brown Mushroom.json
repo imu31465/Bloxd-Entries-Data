@@ -1,0 +1,16 @@
+{
+  "id": 1103,
+  "name": "Brown Mushroom",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownMushroom",
+    "text": "Brown Mushroom"
+  },
+  "ttb": 400,
+  "textureInfo": "brown_mushroom",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "brown_mushroom",
+  "solid": false,
+  "stackable": true
+}

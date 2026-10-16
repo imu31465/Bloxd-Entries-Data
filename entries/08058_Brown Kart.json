@@ -1,0 +1,15 @@
+{
+  "id": 8058,
+  "name": "Brown Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownKart",
+    "text": "Brown Kart"
+  },
+  "type": "Item",
+  "textureInfo": "brown_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Brown Kart Item",
+  "stackable": false
+}

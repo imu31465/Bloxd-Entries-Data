@@ -1,0 +1,14 @@
+{
+  "id": 8819,
+  "name": "Rotslab Eel",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rotslabEel",
+    "text": "Rotslab Eel"
+  },
+  "type": "Item",
+  "textureInfo": "rotslab_eel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3301,
+  "name": "Super Tools Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Super Tools Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "orange_lucky_block_super",
+    "tools_lucky_block_super"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    918,
+    919
+  ],
+  "stackable": true
+}

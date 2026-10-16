@@ -1,0 +1,18 @@
+{
+  "id": 8392,
+  "name": "Lime Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limePopupTower",
+    "text": "Lime Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "lime_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": 277,
+  "name": "Light Gray Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayCeramic",
+    "text": "Light Gray Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "light_gray_glazed_terracotta[rot[1",
+    "light_gray_glazed_terracotta[rot[2",
+    "light_gray_glazed_terracotta[rot[3",
+    "light_gray_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Light Gray Ceramic",
+    "rootId": 277,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Light Gray Ceramic|meta|rot1",
+  "atlasIdx": [
+    318,
+    319,
+    320,
+    321
+  ],
+  "stackable": true
+}

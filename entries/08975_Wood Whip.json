@@ -1,0 +1,24 @@
+{
+  "id": 8975,
+  "name": "Wood Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodWhip",
+    "text": "Wood Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 8,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

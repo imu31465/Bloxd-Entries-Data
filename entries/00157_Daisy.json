@@ -1,0 +1,16 @@
+{
+  "id": 157,
+  "name": "Daisy",
+  "kind": "block",
+  "displayName": {
+    "key": "item:daisy",
+    "text": "Daisy"
+  },
+  "ttb": 300,
+  "textureInfo": "oxeye_daisy",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "oxeye_daisy",
+  "solid": false,
+  "stackable": true
+}

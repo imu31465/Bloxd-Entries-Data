@@ -1,0 +1,14 @@
+{
+  "id": 132,
+  "name": "Block of Quartz",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfQuartz",
+    "text": "Block of Quartz"
+  },
+  "ttb": 960,
+  "textureInfo": "quartz_block_side",
+  "harvestType": "rock",
+  "atlasIdx": 238,
+  "stackable": true
+}

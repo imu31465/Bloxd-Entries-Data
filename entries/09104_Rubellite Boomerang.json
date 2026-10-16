@@ -1,0 +1,23 @@
+{
+  "id": 9104,
+  "name": "Rubellite Boomerang",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "rubellite_boomerang",
+  "stackable": false,
+  "damage": 20,
+  "secondaryDamage": 20,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1105,
+  "name": "Cotton_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cotton",
+    "text": "Cotton"
+  },
+  "ttb": 400,
+  "textureInfo": "cotton_plant_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": "Cotton Seeds",
+  "solid": false,
+  "stackable": true
+}

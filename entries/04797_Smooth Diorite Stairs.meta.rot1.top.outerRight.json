@@ -1,0 +1,37 @@
+{
+  "id": 4797,
+  "name": "Smooth Diorite Stairs|meta|rot1|top|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothDioriteStairs",
+    "text": "Smooth Diorite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_diorite_smooth",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Smooth Diorite Stairs",
+    "rootId": 3493,
+    "metaStr": "meta|rot1|top|outerRight",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 139,
+  "stackable": true
+}

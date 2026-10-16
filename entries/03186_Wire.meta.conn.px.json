@@ -1,0 +1,29 @@
+{
+  "id": 3186,
+  "name": "Wire|meta|conn|px",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wire",
+    "text": "Wire"
+  },
+  "description": {
+    "key": "item:wireDescription",
+    "text": "Connects Solar Panels to Auto Miners to carry power."
+  },
+  "ttb": 400,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "wire",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Wire",
+    "rootId": 3182,
+    "metaStr": "meta|conn|px"
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "wire_end_px",
+  "blockModelItem": true
+}

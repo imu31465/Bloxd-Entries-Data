@@ -1,0 +1,19 @@
+{
+  "id": 113,
+  "name": "Green Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenGlass",
+    "text": "Green Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_green",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 220,
+  "stackable": true
+}

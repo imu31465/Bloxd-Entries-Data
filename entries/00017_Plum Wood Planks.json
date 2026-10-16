@@ -1,0 +1,14 @@
+{
+  "id": 17,
+  "name": "Plum Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumWoodPlanks",
+    "text": "Plum Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_plum",
+  "harvestType": "wood",
+  "atlasIdx": 125,
+  "stackable": true
+}

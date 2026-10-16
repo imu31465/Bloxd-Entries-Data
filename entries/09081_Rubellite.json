@@ -1,0 +1,14 @@
+{
+  "id": 9081,
+  "name": "Rubellite",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite"
+  },
+  "type": "Item",
+  "textureInfo": "rubellite",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite",
+  "stackable": true
+}

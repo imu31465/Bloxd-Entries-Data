@@ -1,0 +1,15 @@
+{
+  "id": 8054,
+  "name": "Light Blue Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueKart",
+    "text": "Light Blue Kart"
+  },
+  "type": "Item",
+  "textureInfo": "light_blue_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Light Blue Kart Item",
+  "stackable": false
+}

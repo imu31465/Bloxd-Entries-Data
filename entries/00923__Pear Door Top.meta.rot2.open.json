@@ -1,0 +1,24 @@
+{
+  "id": 923,
+  "name": "_Pear Door Top|meta|rot2|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Pear Door",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "_Pear Door Top",
+    "rootId": 920,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "stackable": true
+}

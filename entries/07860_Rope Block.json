@@ -1,0 +1,18 @@
+{
+  "id": 7860,
+  "name": "Rope Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ropeBlock",
+    "text": "Rope Block"
+  },
+  "ttb": 960,
+  "textureInfo": "rope_block",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 944,
+  "stackable": true
+}

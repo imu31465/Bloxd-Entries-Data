@@ -1,0 +1,15 @@
+{
+  "id": 8677,
+  "name": "Caught Mob Wildcat Grey",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_wildcat_grey",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Wildcat Grey",
+    "rootId": 8677,
+    "caughtMobType": "Wildcat"
+  }
+}

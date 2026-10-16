@@ -1,0 +1,16 @@
+{
+  "id": 488,
+  "name": "Ice Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:iceBricks",
+    "text": "Ice Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "ice_brick",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": 383,
+  "stackable": true
+}

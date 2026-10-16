@@ -1,0 +1,11 @@
+{
+  "id": 8076,
+  "name": "INTERNAL_MESH_Black Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "black_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Black Kart",
+  "stackable": false
+}

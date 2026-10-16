@@ -1,0 +1,20 @@
+{
+  "id": 8919,
+  "name": "Deep Sea Rod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:deepSeaRod",
+    "text": "Deep Sea Rod"
+  },
+  "type": "Item",
+  "textureInfo": "deep_sea_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "fishingRodInfo": {
+    "biteDelayMs": [
+      2000,
+      4000
+    ]
+  }
+}

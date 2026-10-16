@@ -1,0 +1,19 @@
+{
+  "id": 8989,
+  "name": "Onion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:onion",
+    "text": "Onion"
+  },
+  "description": {
+    "key": "item:onionDescription",
+    "text": "A fresh onion"
+  },
+  "type": "Item",
+  "textureInfo": "onion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "onion",
+  "stackable": false
+}

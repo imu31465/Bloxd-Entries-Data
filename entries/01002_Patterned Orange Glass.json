@@ -1,0 +1,19 @@
+{
+  "id": 1002,
+  "name": "Patterned Orange Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedOrangeGlass",
+    "text": "Patterned Orange Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_orange",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 473,
+  "stackable": true
+}

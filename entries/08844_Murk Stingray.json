@@ -1,0 +1,14 @@
+{
+  "id": 8844,
+  "name": "Murk Stingray",
+  "kind": "item",
+  "displayName": {
+    "key": "item:murkStingray",
+    "text": "Murk Stingray"
+  },
+  "type": "Item",
+  "textureInfo": "murk_stingray",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2021,
+  "name": "Fruity Plum Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityPlumLeaves",
+    "text": "Fruity Plum Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_plum_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Plum Leaves"
+  },
+  "atlasIdx": 818,
+  "stackable": true
+}

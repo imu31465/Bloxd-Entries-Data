@@ -1,0 +1,15 @@
+{
+  "id": 8704,
+  "name": "Caught Mob Draugr_Zombie Corrupted2",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_zombie_corrupted2",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Zombie Corrupted2",
+    "rootId": 8704,
+    "caughtMobType": "Draugr Zombie"
+  }
+}

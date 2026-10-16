@@ -1,0 +1,18 @@
+{
+  "id": 503,
+  "name": "Palm Log|TreeBase|Palm",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_palm",
+  "harvestType": "wood",
+  "drops": "Palm Log",
+  "meta": {
+    "rootName": "Palm Log",
+    "rootId": 502,
+    "metaStr": "TreeBase|Palm",
+    "treeBase": true,
+    "woodType": "Palm"
+  },
+  "atlasIdx": 387,
+  "stackable": true
+}

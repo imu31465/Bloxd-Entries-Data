@@ -1,0 +1,13 @@
+{
+  "id": 1111,
+  "name": "Faction Protector",
+  "kind": "block",
+  "description": {
+    "text": "Prevents other factions from changing blocks and\nopening chests in the placed chunk"
+  },
+  "ttb": 5000,
+  "textureInfo": "protector_faction",
+  "harvestType": "rock",
+  "atlasIdx": 490,
+  "stackable": true
+}

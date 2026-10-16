@@ -1,0 +1,17 @@
+{
+  "id": 2785,
+  "name": "Hob Frying",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "hob_frying",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "hob_frying",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

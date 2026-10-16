@@ -1,0 +1,20 @@
+{
+  "id": 2096,
+  "name": "Potato Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:potatoSeeds",
+    "text": "Potato Seeds"
+  },
+  "description": {
+    "key": "item:potatoSeedsDescription",
+    "text": "Plant to grow to potatoes"
+  },
+  "ttb": 400,
+  "textureInfo": "potato_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "potato_seeds",
+  "solid": false,
+  "stackable": true
+}

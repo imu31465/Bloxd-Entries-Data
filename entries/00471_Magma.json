@@ -1,0 +1,19 @@
+{
+  "id": 471,
+  "name": "Magma",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magma",
+    "text": "Magma"
+  },
+  "ttb": 600,
+  "textureInfo": "magma",
+  "harvestType": "rock",
+  "lm": [
+    9,
+    3,
+    1
+  ],
+  "atlasIdx": 366,
+  "stackable": true
+}

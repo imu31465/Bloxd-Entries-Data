@@ -1,0 +1,34 @@
+{
+  "id": 1585,
+  "name": "Generator Spawn Block (Blue)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueGeneratorSpawnBlock",
+    "text": "Blue Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:teamGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Coal and Iron Bars when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "blue_gen_spawn_top",
+    "blue_gen_spawn_coal",
+    "blue_gen_spawn_iron"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    688,
+    689,
+    690
+  ],
+  "stackable": true
+}

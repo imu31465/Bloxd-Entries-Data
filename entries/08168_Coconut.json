@@ -1,0 +1,19 @@
+{
+  "id": 8168,
+  "name": "Coconut",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coconut",
+    "text": "Coconut"
+  },
+  "description": {
+    "key": "item:coconutDescription",
+    "text": "Throw on the ground to break into a cracked coconut"
+  },
+  "type": "Item",
+  "textureInfo": "coconut",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 5
+}

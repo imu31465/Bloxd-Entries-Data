@@ -1,0 +1,16 @@
+{
+  "id": 9167,
+  "name": "Sanguine Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineHelmet",
+    "text": "Sanguine Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "sanguine_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "sanguine_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

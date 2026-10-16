@@ -1,0 +1,46 @@
+{
+  "id": 775,
+  "name": "Andesite Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:andesiteBricksSlab",
+    "text": "Andesite Bricks Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_andesite_brick_side",
+    "andesite_brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Andesite Bricks Slab",
+    "rootId": 775,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Andesite Bricks Slab|meta|rot1|bot",
+  "atlasIdx": [
+    413,
+    380
+  ],
+  "stackable": true,
+  "slabFullBlock": "Andesite Bricks"
+}

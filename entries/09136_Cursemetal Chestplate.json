@@ -1,0 +1,16 @@
+{
+  "id": 9136,
+  "name": "Cursemetal Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cursemetalChestplate",
+    "text": "Cursemetal Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "cursemetal_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "cursemetal_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

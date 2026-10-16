@@ -1,0 +1,17 @@
+{
+  "id": 2772,
+  "name": "Brra Brra Pachim Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "brra_brra_pachim",
+  "modelScale": 2.5,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "brra_brra_pachim",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

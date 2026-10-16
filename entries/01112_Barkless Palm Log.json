@@ -1,0 +1,14 @@
+{
+  "id": 1112,
+  "name": "Barkless Palm Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessPalmLog",
+    "text": "Barkless Palm Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_palm_log",
+  "harvestType": "wood",
+  "atlasIdx": 491,
+  "stackable": true
+}

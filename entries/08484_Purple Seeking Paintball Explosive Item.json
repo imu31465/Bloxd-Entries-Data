@@ -1,0 +1,18 @@
+{
+  "id": 8484,
+  "name": "Purple Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleSeekingPaintballExplosive",
+    "text": "Purple Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_purple",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

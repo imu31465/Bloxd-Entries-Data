@@ -1,0 +1,14 @@
+{
+  "id": 237,
+  "name": "Cyan Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanPlanks",
+    "text": "Cyan Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "cyan_planks",
+  "harvestType": "wood",
+  "atlasIdx": 277,
+  "stackable": true
+}

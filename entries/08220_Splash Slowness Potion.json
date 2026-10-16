@@ -1,0 +1,25 @@
+{
+  "id": 8220,
+  "name": "Splash Slowness Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashSlownessPotion",
+    "text": "Splash Slowness Potion"
+  },
+  "description": {
+    "key": "item:splashSlownessPotionDescription",
+    "text": "Slow other players down"
+  },
+  "type": "Item",
+  "textureInfo": "splash_slowness_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Splash Slowness Potion",
+    "rootId": 8220,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Splash Slowness Potion|meta|charging1"
+}

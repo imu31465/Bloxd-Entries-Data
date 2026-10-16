@@ -1,0 +1,18 @@
+{
+  "id": 8474,
+  "name": "Light Blue Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_light_blue",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

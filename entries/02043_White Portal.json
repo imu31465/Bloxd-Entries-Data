@@ -1,0 +1,33 @@
+{
+  "id": 2043,
+  "name": "White Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whitePortal",
+    "text": "White Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "white_portal0",
+      "white_portal1",
+      "white_portal2",
+      "white_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    9,
+    9,
+    9
+  ],
+  "atlasIdx": [
+    16,
+    77,
+    78,
+    79
+  ],
+  "stackable": true
+}

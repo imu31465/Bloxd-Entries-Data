@@ -1,0 +1,21 @@
+{
+  "id": 8099,
+  "name": "Grenade Launcher",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grenadeLauncher",
+    "text": "Grenade Launcher"
+  },
+  "description": {
+    "key": "item:grenadeLauncherDescription",
+    "text": "Use bouncing grenades to cause explosions"
+  },
+  "type": "FullAuto",
+  "textureInfo": "grenade_launcher",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": true,
+  "secondaryDamage": 16,
+  "holdAsAiming": true,
+  "hideAimingUI": true
+}

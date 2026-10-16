@@ -1,0 +1,30 @@
+{
+  "id": 8932,
+  "name": "Meaty Bone",
+  "kind": "item",
+  "displayName": {
+    "key": "item:meatyBone",
+    "text": "Meaty Bone"
+  },
+  "description": {
+    "key": "item:meatyBoneDescription",
+    "text": "Combine to make Blinding Pebbles to give opponents blindness."
+  },
+  "type": "Chargeable",
+  "textureInfo": "meaty_bone",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Meaty Bone",
+    "rootId": 8932,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Meaty Bone|meta|charging1"
+}

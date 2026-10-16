@@ -1,0 +1,19 @@
+{
+  "id": 8254,
+  "name": "Splash Strength Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashStrengthPotionII",
+    "text": "Splash Strength Potion II"
+  },
+  "description": {
+    "key": "item:splashStrengthPotionDescription",
+    "text": "Launch attack buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_strength_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Strength Potion",
+  "stackable": false
+}

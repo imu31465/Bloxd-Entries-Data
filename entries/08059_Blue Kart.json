@@ -1,0 +1,15 @@
+{
+  "id": 8059,
+  "name": "Blue Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blueKart",
+    "text": "Blue Kart"
+  },
+  "type": "Item",
+  "textureInfo": "blue_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Blue Kart Item",
+  "stackable": false
+}

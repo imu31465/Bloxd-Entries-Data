@@ -1,0 +1,21 @@
+{
+  "id": 8580,
+  "name": "Horse Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:horseSpawnOrb",
+    "text": "Horse Spawn Orb"
+  },
+  "description": {
+    "key": "item:horseSpawnOrbDescription",
+    "text": "Throw to spawn a Horse at the landing location",
+    "params": {
+      "mob": "Horse"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "horse_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

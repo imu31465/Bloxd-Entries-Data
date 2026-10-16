@@ -1,0 +1,21 @@
+{
+  "id": 2672,
+  "name": "Small Light Gray Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallLightGrayPod",
+    "text": "Small Light Gray Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_light_gray_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Light Gray Pod"
+}

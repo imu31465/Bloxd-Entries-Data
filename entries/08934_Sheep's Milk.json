@@ -1,0 +1,30 @@
+{
+  "id": 8934,
+  "name": "Sheep's Milk",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sheepsMilk",
+    "text": "Sheep's Milk"
+  },
+  "description": {
+    "key": "item:sheepsMilkDescription",
+    "text": "Combine to make a Yoghurt Pot to give you Lifesteal."
+  },
+  "type": "Chargeable",
+  "textureInfo": "sheeps_milk",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "drink",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Sheep's Milk",
+    "rootId": 8934,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Sheep's Milk|meta|charging1"
+}

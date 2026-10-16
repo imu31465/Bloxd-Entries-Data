@@ -1,0 +1,19 @@
+{
+  "id": 110,
+  "name": "Cyan Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanGlass",
+    "text": "Cyan Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_cyan",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 217,
+  "stackable": true
+}

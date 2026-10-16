@@ -1,0 +1,18 @@
+{
+  "id": 8509,
+  "name": "Cyan Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanQuickPaintballExplosive",
+    "text": "Cyan Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_cyan",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

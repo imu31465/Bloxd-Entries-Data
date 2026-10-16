@@ -1,0 +1,15 @@
+{
+  "id": 8081,
+  "name": "Light Blue Car",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueCar",
+    "text": "Light Blue Car"
+  },
+  "type": "Item",
+  "textureInfo": "light_blue_car",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Car Item",
+  "stackable": false
+}

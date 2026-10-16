@@ -1,0 +1,15 @@
+{
+  "id": 8680,
+  "name": "Caught Mob Wildcat Siamese",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_wildcat_siamese",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Wildcat Siamese",
+    "rootId": 8680,
+    "caughtMobType": "Wildcat"
+  }
+}

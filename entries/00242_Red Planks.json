@@ -1,0 +1,14 @@
+{
+  "id": 242,
+  "name": "Red Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redPlanks",
+    "text": "Red Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "red_planks",
+  "harvestType": "wood",
+  "atlasIdx": 282,
+  "stackable": true
+}

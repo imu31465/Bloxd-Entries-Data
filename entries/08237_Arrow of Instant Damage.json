@@ -1,0 +1,15 @@
+{
+  "id": 8237,
+  "name": "Arrow of Instant Damage",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfInstantDamage",
+    "text": "Arrow of Instant Damage"
+  },
+  "type": "Item",
+  "textureInfo": "instant_damage_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

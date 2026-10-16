@@ -1,0 +1,16 @@
+{
+  "id": 9236,
+  "name": "Astral Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralLeggings",
+    "text": "Astral Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "astral_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "astral_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

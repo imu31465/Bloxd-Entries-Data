@@ -1,0 +1,14 @@
+{
+  "id": 240,
+  "name": "Brown Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownPlanks",
+    "text": "Brown Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "brown_planks",
+  "harvestType": "wood",
+  "atlasIdx": 280,
+  "stackable": true
+}

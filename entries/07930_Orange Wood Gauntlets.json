@@ -1,0 +1,15 @@
+{
+  "id": 7930,
+  "name": "Orange Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeWoodGauntlets",
+    "text": "Orange Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

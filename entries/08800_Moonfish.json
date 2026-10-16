@@ -1,0 +1,14 @@
+{
+  "id": 8800,
+  "name": "Moonfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonfish",
+    "text": "Moonfish"
+  },
+  "type": "Item",
+  "textureInfo": "moonfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

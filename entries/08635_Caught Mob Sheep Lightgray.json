@@ -1,0 +1,16 @@
+{
+  "id": 8635,
+  "name": "Caught Mob Sheep Lightgray",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_sheep_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Caught Mob Sheep Default",
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Sheep Lightgray",
+    "rootId": 8635,
+    "caughtMobType": "Sheep"
+  }
+}

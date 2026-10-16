@@ -1,0 +1,18 @@
+{
+  "id": 3242,
+  "name": "Bowling Alley Floor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bowlingAlleyFloor",
+    "text": "Bowling Alley Floor"
+  },
+  "ttb": 960,
+  "textureInfo": "bowling_alley_floor",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 892,
+  "stackable": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1457,
+  "name": "Brown Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownStrongbed",
+    "text": "Brown Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "brown_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Brown Strongbed",
+    "rootId": 1457,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Brown Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Brown Strongbed"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7995,
+  "name": "Red Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redWoodGauntlets",
+    "text": "Red Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9065,
+  "name": "Magmasteel Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "magmasteel_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

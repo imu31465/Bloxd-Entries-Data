@@ -1,0 +1,19 @@
+{
+  "id": 994,
+  "name": "Patterned Brown Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedBrownGlass",
+    "text": "Patterned Brown Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_brown",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 465,
+  "stackable": true
+}

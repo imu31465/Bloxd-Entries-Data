@@ -1,0 +1,22 @@
+{
+  "id": 8997,
+  "name": "Common Lottery Ticket",
+  "kind": "item",
+  "displayName": [
+    {
+      "str": "Common Lottery Ticket",
+      "style": {
+        "color": "#4d4d4d"
+      }
+    }
+  ],
+  "description": {
+    "text": "Take it to the Lottery stall in the spawn hub to redeem it for a reward."
+  },
+  "type": "Item",
+  "textureInfo": "book",
+  "weight": 0,
+  "heldItemScale": 1,
+  "heldItemGlb": "Book",
+  "stackable": true
+}

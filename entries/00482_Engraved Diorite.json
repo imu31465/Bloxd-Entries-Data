@@ -1,0 +1,14 @@
+{
+  "id": 482,
+  "name": "Engraved Diorite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedDiorite",
+    "text": "Engraved Diorite"
+  },
+  "ttb": 1800,
+  "textureInfo": "engraved_diorite",
+  "harvestType": "rock",
+  "atlasIdx": 377,
+  "stackable": true
+}

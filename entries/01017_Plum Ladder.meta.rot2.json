@@ -1,0 +1,34 @@
+{
+  "id": 1017,
+  "name": "Plum Ladder|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumLadder",
+    "text": "Plum Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_plum",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    0.25,
+    1,
+    1
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Plum Ladder",
+    "rootId": 1016,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "stackable": true,
+  "blockModel": "Plum Ladder",
+  "blockModelItem": true,
+  "rotatableOffsetAmt": 0.375
+}

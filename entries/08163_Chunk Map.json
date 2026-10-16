@@ -1,0 +1,16 @@
+{
+  "id": 8163,
+  "name": "Chunk Map",
+  "kind": "item",
+  "displayName": {
+    "text": "Chunk Map"
+  },
+  "description": {
+    "text": "Drop into any locked chunk to instantly unlock it."
+  },
+  "type": "Item",
+  "textureInfo": "chunk_map",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

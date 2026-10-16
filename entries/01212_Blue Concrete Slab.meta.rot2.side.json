@@ -1,0 +1,31 @@
+{
+  "id": 1212,
+  "name": "Blue Concrete Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueConcreteSlab",
+    "text": "Blue Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "blue_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Blue Concrete Slab",
+    "rootId": 1209,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 193,
+  "stackable": true,
+  "slabFullBlock": "Blue Concrete"
+}

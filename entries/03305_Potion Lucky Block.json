@@ -1,0 +1,27 @@
+{
+  "id": 3305,
+  "name": "Potion Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Potion Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "lucky_block_pink_question",
+    "potion_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    873,
+    926
+  ],
+  "stackable": true
+}

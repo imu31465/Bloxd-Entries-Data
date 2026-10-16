@@ -1,0 +1,30 @@
+{
+  "id": 9203,
+  "name": "Geo Crossbow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoCrossbow",
+    "text": "Geo Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "geo_crossbow_charging_4",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "geo_crossbow_charging_4",
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Geo Crossbow",
+    "rootId": 9200,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  },
+  "textureName": "diamond_crossbow"
+}

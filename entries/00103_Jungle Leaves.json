@@ -1,0 +1,14 @@
+{
+  "id": 103,
+  "name": "Jungle Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleLeaves",
+    "text": "Jungle Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_jungle",
+  "harvestType": "cuttable",
+  "atlasIdx": 209,
+  "stackable": true
+}

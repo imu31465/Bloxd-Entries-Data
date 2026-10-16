@@ -1,0 +1,28 @@
+{
+  "id": 3049,
+  "name": "Gun Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:gunLuckyBlock",
+    "text": "Gun Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "red_lucky_block",
+    "gun_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    847,
+    865
+  ],
+  "stackable": true
+}

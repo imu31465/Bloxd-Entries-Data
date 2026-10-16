@@ -1,0 +1,18 @@
+{
+  "id": 8426,
+  "name": "Light Blue Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBluePaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "light_blue_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

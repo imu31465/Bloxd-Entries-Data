@@ -1,0 +1,33 @@
+{
+  "id": 2038,
+  "name": "Magenta Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaPortal",
+    "text": "Magenta Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "magenta_portal0",
+      "magenta_portal1",
+      "magenta_portal2",
+      "magenta_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    8,
+    4,
+    8
+  ],
+  "atlasIdx": [
+    11,
+    62,
+    63,
+    64
+  ],
+  "stackable": true
+}

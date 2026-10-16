@@ -1,0 +1,18 @@
+{
+  "id": 8495,
+  "name": "Blue Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blueSeekingPaintballExplosive",
+    "text": "Blue Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_blue",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

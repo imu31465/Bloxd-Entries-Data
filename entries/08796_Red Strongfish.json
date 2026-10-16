@@ -1,0 +1,14 @@
+{
+  "id": 8796,
+  "name": "Red Strongfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redStrongfish",
+    "text": "Red Strongfish"
+  },
+  "type": "Item",
+  "textureInfo": "strongfish_red",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 9233,
+  "name": "Astral Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralHelmet",
+    "text": "Astral Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "astral_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "astral_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

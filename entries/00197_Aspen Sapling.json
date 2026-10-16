@@ -1,0 +1,16 @@
+{
+  "id": 197,
+  "name": "Aspen Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenSapling",
+    "text": "Aspen Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "aspen_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "aspen_sapling",
+  "solid": false,
+  "stackable": true
+}

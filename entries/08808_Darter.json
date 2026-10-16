@@ -1,0 +1,30 @@
+{
+  "id": 8808,
+  "name": "Darter",
+  "kind": "item",
+  "displayName": {
+    "key": "item:darter",
+    "text": "Darter"
+  },
+  "description": {
+    "key": "item:darterDescription",
+    "text": "Eat to restore 10 HP and gain Speed for 8 seconds."
+  },
+  "type": "Chargeable",
+  "textureInfo": "darter",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 10,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Darter",
+    "rootId": 8808,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Darter|meta|charging1"
+}

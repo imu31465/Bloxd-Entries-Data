@@ -1,0 +1,30 @@
+{
+  "id": 3308,
+  "name": "Block Destroyer TNT",
+  "kind": "block",
+  "displayName": {
+    "text": "Block Destroyer TNT"
+  },
+  "description": {
+    "text": "Place it to start a 30 second fuse. When it goes off, every placed block on the map is removed. Lucky blocks survive."
+  },
+  "ttb": 50,
+  "textureInfo": [
+    "block_destroyer_tnt_side",
+    "block_destroyer_tnt_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    931,
+    932
+  ],
+  "stackable": true
+}

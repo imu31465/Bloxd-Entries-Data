@@ -1,0 +1,36 @@
+{
+  "id": 1077,
+  "name": "Bookshelf|meta|rot2|books4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bookshelf",
+    "text": "Bookshelf"
+  },
+  "ttb": 1800,
+  "textureInfo": [
+    "bookshelf_4",
+    "planks_maple"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "wood",
+  "drops": null,
+  "meta": {
+    "rootName": "Bookshelf",
+    "rootId": 1056,
+    "metaStr": "meta|rot2|books4",
+    "rot": 2,
+    "books": 4
+  },
+  "atlasIdx": [
+    484,
+    123
+  ],
+  "stackable": true
+}

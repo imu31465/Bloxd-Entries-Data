@@ -1,0 +1,18 @@
+{
+  "id": 8239,
+  "name": "Splash Milk Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashMilkPotion",
+    "text": "Splash Milk Potion"
+  },
+  "description": {
+    "key": "item:milkPotionDescription",
+    "text": "Removes all potion effects"
+  },
+  "type": "Item",
+  "textureInfo": "splash_milk_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8984,
+  "name": "Egg",
+  "kind": "item",
+  "displayName": {
+    "key": "item:egg",
+    "text": "Egg"
+  },
+  "description": {
+    "key": "item:eggDescription",
+    "text": "A fresh egg"
+  },
+  "type": "Item",
+  "textureInfo": "egg",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "egg",
+  "stackable": false
+}

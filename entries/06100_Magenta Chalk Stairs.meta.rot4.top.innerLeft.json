@@ -1,0 +1,53 @@
+{
+  "id": 6100,
+  "name": "Magenta Chalk Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:magenta)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:magenta)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_magenta",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Magenta Chalk Stairs",
+    "rootId": 3821,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 761,
+  "stackable": true
+}

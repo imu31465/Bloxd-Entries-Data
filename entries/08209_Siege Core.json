@@ -1,0 +1,16 @@
+{
+  "id": 8209,
+  "name": "Siege Core",
+  "kind": "item",
+  "displayName": {
+    "text": "Siege Core"
+  },
+  "description": {
+    "text": "The firing heart of a barrage. Salvaged from a Siege Engine."
+  },
+  "type": "Item",
+  "textureInfo": "siege_core",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1748,
+  "name": "Light Blue Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:light_blue)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:light_blue)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_light_blue",
+  "harvestType": "rock",
+  "atlasIdx": 780,
+  "stackable": true
+}

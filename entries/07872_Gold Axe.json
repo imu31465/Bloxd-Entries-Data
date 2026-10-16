@@ -1,0 +1,22 @@
+{
+  "id": 7872,
+  "name": "Gold Axe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldAxe",
+    "text": "Gold Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "golden_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 33,
+  "harvests": "wood",
+  "multiplier": 7,
+  "level": 4
+}

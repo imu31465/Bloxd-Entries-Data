@@ -1,0 +1,14 @@
+{
+  "id": 1122,
+  "name": "Mystery Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mysteryBlock",
+    "text": "Mystery Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "mystery_block",
+  "harvestType": "rock",
+  "atlasIdx": 493,
+  "stackable": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9102,
+  "name": "Rubellite Spear",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "rubellite_spear",
+  "stackable": false,
+  "damage": 32,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

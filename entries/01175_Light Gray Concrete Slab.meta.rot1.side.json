@@ -1,0 +1,31 @@
+{
+  "id": 1175,
+  "name": "Light Gray Concrete Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayConcreteSlab",
+    "text": "Light Gray Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "light_gray_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Light Gray Concrete Slab",
+    "rootId": 1173,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 191,
+  "stackable": true,
+  "slabFullBlock": "Light Gray Concrete"
+}

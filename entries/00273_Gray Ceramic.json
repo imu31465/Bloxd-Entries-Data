@@ -1,0 +1,39 @@
+{
+  "id": 273,
+  "name": "Gray Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayCeramic",
+    "text": "Gray Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "gray_glazed_terracotta[rot[1",
+    "gray_glazed_terracotta[rot[2",
+    "gray_glazed_terracotta[rot[3",
+    "gray_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Gray Ceramic",
+    "rootId": 273,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Gray Ceramic|meta|rot1",
+  "atlasIdx": [
+    314,
+    315,
+    316,
+    317
+  ],
+  "stackable": true
+}

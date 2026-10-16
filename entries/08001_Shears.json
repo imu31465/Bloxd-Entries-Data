@@ -1,0 +1,18 @@
+{
+  "id": 8001,
+  "name": "Shears",
+  "kind": "item",
+  "displayName": {
+    "key": "item:shears",
+    "text": "Shears"
+  },
+  "type": "Tool",
+  "textureInfo": "shears",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 27,
+  "harvests": "cuttable",
+  "multiplier": 3,
+  "level": 3
+}

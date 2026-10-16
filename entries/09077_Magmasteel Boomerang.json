@@ -1,0 +1,23 @@
+{
+  "id": 9077,
+  "name": "Magmasteel Boomerang",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "magmasteel_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "magmasteel_boomerang",
+  "stackable": false,
+  "damage": 20,
+  "secondaryDamage": 20,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

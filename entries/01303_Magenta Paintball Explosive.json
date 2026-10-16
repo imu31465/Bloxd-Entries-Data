@@ -1,0 +1,24 @@
+{
+  "id": 1303,
+  "name": "Magenta Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": [
+    "explosive_paint_magenta_side",
+    "explosive_paint_magenta_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    523,
+    524
+  ],
+  "stackable": true
+}

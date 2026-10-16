@@ -1,0 +1,10 @@
+{
+  "id": 1316,
+  "name": "Purple Quick Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_quick_purple",
+  "harvestType": "cuttable",
+  "atlasIdx": 546,
+  "stackable": true
+}

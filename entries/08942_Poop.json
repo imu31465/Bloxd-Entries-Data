@@ -1,0 +1,19 @@
+{
+  "id": 8942,
+  "name": "Poop",
+  "kind": "item",
+  "displayName": {
+    "key": "item:poop",
+    "text": "Poop"
+  },
+  "description": {
+    "key": "item:poopDescription",
+    "text": "Craft either into Fertiliser to speed up plant growth or into Coal for fuel"
+  },
+  "type": "Item",
+  "textureInfo": "poop",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

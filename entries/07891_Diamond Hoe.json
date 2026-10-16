@@ -1,0 +1,22 @@
+{
+  "id": 7891,
+  "name": "Diamond Hoe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondHoe",
+    "text": "Diamond Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 28,
+  "harvests": "cuttable",
+  "multiplier": 4.25,
+  "level": 5
+}

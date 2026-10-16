@@ -1,0 +1,14 @@
+{
+  "id": 9054,
+  "name": "Magmasteel",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel"
+  },
+  "type": "Item",
+  "textureInfo": "magmasteel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel",
+  "stackable": true
+}

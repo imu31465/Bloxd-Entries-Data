@@ -1,0 +1,15 @@
+{
+  "id": 7956,
+  "name": "Gray Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayWoodHelmet",
+    "text": "Gray Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1531,
+  "name": "Spawn Block (Purple)|meta|rot2",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "purple_spawn_block_top[rot[1",
+    "purple_spawn_block_top[rot[2",
+    "purple_spawn_block_top[rot[3",
+    "purple_spawn_block_top[rot[4",
+    "purple_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    3,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Purple)",
+    "rootId": 1515,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    611,
+    612,
+    613,
+    614,
+    615
+  ],
+  "stackable": true
+}

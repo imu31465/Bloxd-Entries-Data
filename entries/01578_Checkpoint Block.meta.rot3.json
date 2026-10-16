@@ -1,0 +1,42 @@
+{
+  "id": 1578,
+  "name": "Checkpoint Block|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:checkpointBlock",
+    "text": "Checkpoint Block"
+  },
+  "description": {
+    "key": "item:checkpointBlockDescription",
+    "text": "Stand on to set as respawn point or use when exporting custom maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "checkpoint_block[rot[1",
+    "checkpoint_block[rot[2",
+    "checkpoint_block[rot[3",
+    "checkpoint_block[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Checkpoint Block",
+    "rootId": 1576,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    676,
+    677,
+    678,
+    679
+  ],
+  "stackable": true
+}

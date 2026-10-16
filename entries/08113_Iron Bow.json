@@ -1,0 +1,31 @@
+{
+  "id": 8113,
+  "name": "Iron Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironBow",
+    "text": "Iron Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "iron_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 57,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Iron Bow",
+    "rootId": 8113,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Iron Bow|meta|charging1",
+  "textureName": "iron_bow"
+}

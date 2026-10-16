@@ -1,0 +1,14 @@
+{
+  "id": 8882,
+  "name": "Glacial Lanternfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:glacialLanternfish",
+    "text": "Glacial Lanternfish"
+  },
+  "type": "Item",
+  "textureInfo": "glacial_lanternfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

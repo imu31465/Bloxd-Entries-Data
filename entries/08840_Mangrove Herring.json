@@ -1,0 +1,14 @@
+{
+  "id": 8840,
+  "name": "Mangrove Herring",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mangroveHerring",
+    "text": "Mangrove Herring"
+  },
+  "type": "Item",
+  "textureInfo": "mangrove_herring",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

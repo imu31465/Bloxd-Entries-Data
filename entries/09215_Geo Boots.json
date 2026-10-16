@@ -1,0 +1,16 @@
+{
+  "id": 9215,
+  "name": "Geo Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoBoots",
+    "text": "Geo Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "geo_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

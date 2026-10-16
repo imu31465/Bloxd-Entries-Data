@@ -1,0 +1,20 @@
+{
+  "id": 309,
+  "name": "Wheat Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wheatSeeds",
+    "text": "Wheat Seeds"
+  },
+  "description": {
+    "key": "item:wheatSeedsDescription",
+    "text": "Plant to grow wheat"
+  },
+  "ttb": 400,
+  "textureInfo": "wheat_stage0",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "itemTexture": "wheat_seeds",
+  "solid": false,
+  "stackable": true
+}

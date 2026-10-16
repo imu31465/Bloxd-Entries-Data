@@ -1,0 +1,14 @@
+{
+  "id": 71,
+  "name": "Light Blue Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueBakedClay",
+    "text": "Light Blue Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_light_blue",
+  "harvestType": "rock",
+  "atlasIdx": 177,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "name": "Gravel",
+  "kind": "block",
+  "displayName": {
+    "key": "item:gravel",
+    "text": "Gravel"
+  },
+  "ttb": 720,
+  "textureInfo": "gravel",
+  "harvestType": "granule",
+  "atlasIdx": 115,
+  "stackable": true
+}

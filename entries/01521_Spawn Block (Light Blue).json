@@ -1,0 +1,45 @@
+{
+  "id": 1521,
+  "name": "Spawn Block (Light Blue)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueSpawnBlock",
+    "text": "Spawn Block (Light Blue)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "light_blue_spawn_block_top[rot[1",
+    "light_blue_spawn_block_top[rot[2",
+    "light_blue_spawn_block_top[rot[3",
+    "light_blue_spawn_block_top[rot[4",
+    "light_blue_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Light Blue)",
+    "rootId": 1521,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Light Blue)|meta|rot1",
+  "atlasIdx": [
+    641,
+    642,
+    643,
+    644,
+    645
+  ],
+  "stackable": true
+}

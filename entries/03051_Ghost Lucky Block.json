@@ -1,0 +1,13 @@
+{
+  "id": 3051,
+  "name": "Ghost Lucky Block",
+  "kind": "block",
+  "ttb": 1,
+  "textureInfo": "ghost_lucky_block",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "atlasIdx": 871,
+  "stackable": true
+}

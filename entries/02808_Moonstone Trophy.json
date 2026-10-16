@@ -1,0 +1,26 @@
+{
+  "id": 2808,
+  "name": "Moonstone Trophy",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moonstoneTrophy",
+    "text": "Moonstone Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "moonstone_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Moonstone Trophy",
+    "rootId": 2808,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Moonstone Trophy|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Moonstone Trophy"
+}

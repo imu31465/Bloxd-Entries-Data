@@ -1,0 +1,19 @@
+{
+  "id": 332,
+  "name": "Allium|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "allium",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "allium",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Allium",
+    "rootId": 160,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

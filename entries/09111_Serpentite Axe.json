@@ -1,0 +1,22 @@
+{
+  "id": 9111,
+  "name": "Serpentite Axe",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "serpentite_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_axe",
+  "stackable": false,
+  "damage": 36,
+  "harvests": "wood",
+  "multiplier": 8,
+  "level": 5
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8296,
+  "name": "Arrow of X-Ray Vision",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfXRayVision",
+    "text": "Arrow of X-Ray Vision"
+  },
+  "type": "Item",
+  "textureInfo": "x_ray_vision_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

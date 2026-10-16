@@ -1,0 +1,14 @@
+{
+  "id": 8875,
+  "name": "Embermark Wrasse",
+  "kind": "item",
+  "displayName": {
+    "key": "item:embermarkWrasse",
+    "text": "Embermark Wrasse"
+  },
+  "type": "Item",
+  "textureInfo": "embermark_wrasse",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

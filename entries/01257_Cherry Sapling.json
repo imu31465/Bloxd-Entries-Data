@@ -1,0 +1,16 @@
+{
+  "id": 1257,
+  "name": "Cherry Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherrySapling",
+    "text": "Cherry Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "cherry_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cherry_sapling",
+  "solid": false,
+  "stackable": true
+}

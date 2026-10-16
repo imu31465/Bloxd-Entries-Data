@@ -1,0 +1,43 @@
+{
+  "id": 5299,
+  "name": "Red Sandstone Bricks Stairs|meta|rot3|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redSandstoneBricksStairs",
+    "text": "Red Sandstone Bricks Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "red_sandstone_brick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Red Sandstone Bricks Stairs",
+    "rootId": 3621,
+    "metaStr": "meta|rot3|top|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 390,
+  "stackable": true
+}

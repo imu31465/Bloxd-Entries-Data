@@ -1,0 +1,19 @@
+{
+  "id": 1001,
+  "name": "Patterned Magenta Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedMagentaGlass",
+    "text": "Patterned Magenta Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_magenta",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 472,
+  "stackable": true
+}

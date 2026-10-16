@@ -1,0 +1,23 @@
+{
+  "id": 2072,
+  "name": "Cauliflower Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cauliflower",
+    "text": "Cauliflower"
+  },
+  "ttb": 400,
+  "textureInfo": "cauliflower_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cauliflower_plant_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Cauliflower Plant",
+    "rootId": 2070,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

@@ -1,0 +1,19 @@
+{
+  "id": 126,
+  "name": "Water",
+  "kind": "block",
+  "displayName": {
+    "key": "item:water",
+    "text": "Water"
+  },
+  "textureInfo": [
+    0.5,
+    0.5,
+    0.8,
+    0.9
+  ],
+  "harvestType": "rock",
+  "drops": null,
+  "dm": true,
+  "stackable": true
+}

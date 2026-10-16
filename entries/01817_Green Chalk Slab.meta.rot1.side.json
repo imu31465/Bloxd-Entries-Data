@@ -1,0 +1,41 @@
+{
+  "id": 1817,
+  "name": "Green Chalk Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_green",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Green Chalk Slab",
+    "rootId": 1815,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 765,
+  "stackable": true,
+  "slabFullBlock": "Green Chalk"
+}

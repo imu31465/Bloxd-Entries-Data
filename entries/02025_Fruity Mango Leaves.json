@@ -1,0 +1,19 @@
+{
+  "id": 2025,
+  "name": "Fruity Mango Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityMangoLeaves",
+    "text": "Fruity Mango Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_mango_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Mango Leaves"
+  },
+  "atlasIdx": 822,
+  "stackable": true
+}

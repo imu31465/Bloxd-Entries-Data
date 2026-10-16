@@ -1,0 +1,30 @@
+{
+  "id": 2093,
+  "name": "Carrot Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:carrotBlock",
+    "text": "Carrot Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "carrot_block_side",
+    "carrot_block_top",
+    "carrot_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    832,
+    833,
+    834
+  ],
+  "stackable": true
+}

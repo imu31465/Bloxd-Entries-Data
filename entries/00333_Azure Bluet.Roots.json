@@ -1,0 +1,19 @@
+{
+  "id": 333,
+  "name": "Azure Bluet|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "azure_bluet",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "azure_bluet",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Azure Bluet",
+    "rootId": 161,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

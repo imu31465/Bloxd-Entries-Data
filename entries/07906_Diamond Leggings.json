@@ -1,0 +1,15 @@
+{
+  "id": 7906,
+  "name": "Diamond Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondLeggings",
+    "text": "Diamond Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "diamond_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.19
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8698,
+  "name": "Caught Mob Draugr_Zombie Flower",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_zombie_flower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Zombie Flower",
+    "rootId": 8698,
+    "caughtMobType": "Draugr Zombie"
+  }
+}

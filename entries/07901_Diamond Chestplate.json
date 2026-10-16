@@ -1,0 +1,15 @@
+{
+  "id": 7901,
+  "name": "Diamond Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondChestplate",
+    "text": "Diamond Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "diamond_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.24
+}

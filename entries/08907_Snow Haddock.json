@@ -1,0 +1,14 @@
+{
+  "id": 8907,
+  "name": "Snow Haddock",
+  "kind": "item",
+  "displayName": {
+    "key": "item:snowHaddock",
+    "text": "Snow Haddock"
+  },
+  "type": "Item",
+  "textureInfo": "snow_haddock",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

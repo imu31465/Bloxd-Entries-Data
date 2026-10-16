@@ -1,0 +1,21 @@
+{
+  "id": 956,
+  "name": "Net",
+  "kind": "block",
+  "displayName": {
+    "key": "item:net",
+    "text": "Net"
+  },
+  "description": {
+    "key": "item:netDescription",
+    "text": "Slows players inside"
+  },
+  "ttb": 400,
+  "textureInfo": "net",
+  "harvestType": "wood",
+  "model": "CentreCross",
+  "itemTexture": "net",
+  "solid": false,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8007,
+  "name": "Iron Fragment",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironFragment",
+    "text": "Iron Fragment"
+  },
+  "description": {
+    "key": "item:ironFragmentDescription",
+    "text": "Combine using a workbench to get iron"
+  },
+  "type": "Item",
+  "textureInfo": "iron_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

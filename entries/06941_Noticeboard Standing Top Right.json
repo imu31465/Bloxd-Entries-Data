@@ -1,0 +1,37 @@
+{
+  "id": 6941,
+  "name": "Noticeboard Standing Top Right",
+  "kind": "block",
+  "displayName": {
+    "key": "item:noticeboardStandingTopRight",
+    "text": "Noticeboard Standing Top Right"
+  },
+  "ttb": 1800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "noticeboard_standing_top_right",
+  "solid": true,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Noticeboard Standing Top Right",
+    "rootId": 6941,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Noticeboard Standing Top Right|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "noticeboard_standing_top_right",
+  "blockModelItem": true
+}

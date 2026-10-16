@@ -1,0 +1,30 @@
+{
+  "id": 1270,
+  "name": "Cherry Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryBlock",
+    "text": "Cherry Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "cherry_block_side",
+    "cherry_block_top",
+    "cherry_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    503,
+    504,
+    505
+  ],
+  "stackable": true
+}

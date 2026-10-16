@@ -1,0 +1,14 @@
+{
+  "id": 94,
+  "name": "Pink Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkConcrete",
+    "text": "Pink Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "pink_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 200,
+  "stackable": true
+}

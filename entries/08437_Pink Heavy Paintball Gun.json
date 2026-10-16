@@ -1,0 +1,22 @@
+{
+  "id": 8437,
+  "name": "Pink Heavy Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkHeavyPaintballGun",
+    "text": "Pink Heavy Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "pink_heavy_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "secondaryDamage": 250,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 1000
+}

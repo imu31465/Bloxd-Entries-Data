@@ -1,0 +1,18 @@
+{
+  "id": 8451,
+  "name": "Red Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redPaintballExplosive",
+    "text": "Red Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_red",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

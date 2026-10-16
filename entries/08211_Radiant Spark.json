@@ -1,0 +1,16 @@
+{
+  "id": 8211,
+  "name": "Radiant Spark",
+  "kind": "item",
+  "displayName": {
+    "text": "Radiant Spark"
+  },
+  "description": {
+    "text": "A mote of the failure state itself. Salvaged from Breach Zero."
+  },
+  "type": "Item",
+  "textureInfo": "radiant_spark",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

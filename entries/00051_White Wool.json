@@ -1,0 +1,18 @@
+{
+  "id": 51,
+  "name": "White Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteWool",
+    "text": "White Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_white",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 157,
+  "stackable": true
+}

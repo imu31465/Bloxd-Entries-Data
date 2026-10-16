@@ -1,0 +1,55 @@
+{
+  "id": 1867,
+  "name": "Red Chalk Bricks Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksSlab",
+    "text": "{{colour}} Chalk Bricks Slab",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": [
+    "chalk_bricks_slab_side_red",
+    "chalk_bricks_red"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Red Chalk Bricks Slab",
+    "rootId": 1863,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    789,
+    773
+  ],
+  "stackable": true,
+  "slabFullBlock": "Red Chalk Bricks"
+}

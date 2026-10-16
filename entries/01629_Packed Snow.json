@@ -1,0 +1,18 @@
+{
+  "id": 1629,
+  "name": "Packed Snow",
+  "kind": "block",
+  "displayName": {
+    "key": "item:packedSnow",
+    "text": "Packed Snow"
+  },
+  "ttb": 1800,
+  "textureInfo": "packed_snow",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "snow",
+    "place": "snow"
+  },
+  "atlasIdx": 741,
+  "stackable": true
+}

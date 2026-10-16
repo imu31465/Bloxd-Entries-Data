@@ -1,0 +1,39 @@
+{
+  "id": 973,
+  "name": "Attached Pumpkin Stem|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:attachedPumpkinStem",
+    "text": "Attached Pumpking Stem"
+  },
+  "ttb": 400,
+  "textureInfo": [
+    "attached_melon_stem_wrapper",
+    "attached_melon_stem"
+  ],
+  "harvestType": "cuttable",
+  "model": "CustomPlanes|rotatable",
+  "drops": "Pumpkin Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Attached Pumpkin Stem",
+    "rootId": 971,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customPlanesInfo": [
+    {
+      "textureIdx": 0,
+      "yRot": 0.7853981633974483
+    },
+    {
+      "textureIdx": 0,
+      "yRot": 2.356194490192345
+    },
+    {
+      "textureIdx": 1,
+      "yRot": 4.71238898038469
+    }
+  ],
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2067,
+  "name": "Coffee Plant",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coffeeBean",
+    "text": "Coffee Bean"
+  },
+  "ttb": 400,
+  "textureInfo": "coffee_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "coffee_plant_stage0",
+  "solid": false,
+  "stackable": true
+}

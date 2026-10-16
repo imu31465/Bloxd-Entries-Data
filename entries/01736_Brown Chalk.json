@@ -1,0 +1,24 @@
+{
+  "id": 1736,
+  "name": "Brown Chalk",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalk",
+    "text": "{{colour}} Chalk",
+    "params": {
+      "colour": "$t(colour:brown)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:brown)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_brown",
+  "harvestType": "rock",
+  "atlasIdx": 768,
+  "stackable": true
+}

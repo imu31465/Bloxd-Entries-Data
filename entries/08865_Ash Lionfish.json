@@ -1,0 +1,14 @@
+{
+  "id": 8865,
+  "name": "Ash Lionfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ashLionfish",
+    "text": "Ash Lionfish"
+  },
+  "type": "Item",
+  "textureInfo": "ash_lionfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

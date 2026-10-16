@@ -1,0 +1,19 @@
+{
+  "id": 8751,
+  "name": "Toxin Ball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:toxinBall",
+    "text": "Toxin Ball"
+  },
+  "description": {
+    "key": "item:toxinBallDescription",
+    "text": "Shoot at players to poison them!"
+  },
+  "type": "Item",
+  "textureInfo": "toxin_ball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 13
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8507,
+  "name": "Green Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenQuickPaintballExplosive",
+    "text": "Green Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_green",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

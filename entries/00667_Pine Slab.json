@@ -1,0 +1,46 @@
+{
+  "id": 667,
+  "name": "Pine Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineSlab",
+    "text": "Pine Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_pine_side",
+    "planks_pine"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Pine Slab",
+    "rootId": 667,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Pine Slab|meta|rot1|bot",
+  "atlasIdx": [
+    395,
+    127
+  ],
+  "stackable": true,
+  "slabFullBlock": "Pine Wood Planks"
+}

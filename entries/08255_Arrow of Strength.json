@@ -1,0 +1,15 @@
+{
+  "id": 8255,
+  "name": "Arrow of Strength",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfStrength",
+    "text": "Arrow of Strength"
+  },
+  "type": "Item",
+  "textureInfo": "strength_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

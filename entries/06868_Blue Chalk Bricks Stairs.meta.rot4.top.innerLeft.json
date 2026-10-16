@@ -1,0 +1,53 @@
+{
+  "id": 6868,
+  "name": "Blue Chalk Bricks Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:blue)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:blue)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_blue",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Blue Chalk Bricks Stairs",
+    "rootId": 4013,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 785,
+  "stackable": true
+}

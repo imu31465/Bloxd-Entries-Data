@@ -1,0 +1,14 @@
+{
+  "id": 91,
+  "name": "Lime Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeConcrete",
+    "text": "Lime Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "lime_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 197,
+  "stackable": true
+}

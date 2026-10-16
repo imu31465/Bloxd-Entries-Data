@@ -1,0 +1,15 @@
+{
+  "id": 7903,
+  "name": "Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodLeggings",
+    "text": "Wood Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8814,
+  "name": "Mossback Arapaima",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mossbackArapaima",
+    "text": "Mossback Arapaima"
+  },
+  "type": "Item",
+  "textureInfo": "mossback_arapaima",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

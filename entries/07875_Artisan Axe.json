@@ -1,0 +1,21 @@
+{
+  "id": 7875,
+  "name": "Artisan Axe",
+  "kind": "item",
+  "displayName": {
+    "text": "Artisan Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "artisan_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 31,
+  "harvests": "wood",
+  "multiplier": 6,
+  "level": 3
+}

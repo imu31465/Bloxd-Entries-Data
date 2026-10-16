@@ -1,0 +1,38 @@
+{
+  "id": 7788,
+  "name": "Cherry Fence Gate|meta|rot3|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryFenceGate",
+    "text": "Cherry Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cherry",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "cherry_fence_gate",
+  "Am": [
+    0.875,
+    0,
+    0.375,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.375,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cherry Fence Gate",
+    "rootId": 7783,
+    "metaStr": "meta|rot3|open",
+    "rot": 3,
+    "open": true
+  },
+  "atlasIdx": 499,
+  "stackable": true,
+  "attachedTop": "_Cherry Fence Gate Top|meta|rot3|open"
+}

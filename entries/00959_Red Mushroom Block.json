@@ -1,0 +1,14 @@
+{
+  "id": 959,
+  "name": "Red Mushroom Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redMushroomBlock",
+    "text": "Red Mushroom Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "red_mushroom_block",
+  "harvestType": "cuttable",
+  "atlasIdx": 452,
+  "stackable": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1697,
+  "name": "Pine Grass Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineGrassSlab",
+    "text": "Pine Grass Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_pine_grass_top_side",
+    "pine_grass_block"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Pine Grass Slab",
+    "rootId": 1695,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    750,
+    749
+  ],
+  "stackable": true,
+  "slabFullBlock": "Pine Grass Block"
+}

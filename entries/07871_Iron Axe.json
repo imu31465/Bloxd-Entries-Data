@@ -1,0 +1,22 @@
+{
+  "id": 7871,
+  "name": "Iron Axe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironAxe",
+    "text": "Iron Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 31,
+  "harvests": "wood",
+  "multiplier": 6,
+  "level": 3
+}

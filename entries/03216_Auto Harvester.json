@@ -1,0 +1,38 @@
+{
+  "id": 3216,
+  "name": "Auto Harvester",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autoHarvester",
+    "text": "Auto Harvester"
+  },
+  "description": {
+    "key": "item:autoHarvesterDescription",
+    "text": "Automatically harvests grown crops within a 2-block radius and replants them. Burns coal, or connect a Solar Panel with wire to run for free. Right-click to deposit coal. Crops output through a connected pipe."
+  },
+  "ttb": 3600,
+  "textureInfo": [
+    "harvester_side0",
+    "harvester_side1",
+    "harvester_top",
+    "harvester_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1
+  ],
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "atlasIdx": [
+    880,
+    881,
+    882,
+    883
+  ],
+  "stackable": true
+}

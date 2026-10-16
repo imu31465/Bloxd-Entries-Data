@@ -1,0 +1,15 @@
+{
+  "id": 8744,
+  "name": "Caught Mob 67 Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_67_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob 67 Default",
+    "rootId": 8744,
+    "caughtMobType": "67"
+  }
+}

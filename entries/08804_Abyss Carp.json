@@ -1,0 +1,14 @@
+{
+  "id": 8804,
+  "name": "Abyss Carp",
+  "kind": "item",
+  "displayName": {
+    "key": "item:abyssCarp",
+    "text": "Abyss Carp"
+  },
+  "type": "Item",
+  "textureInfo": "abyss_carp",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

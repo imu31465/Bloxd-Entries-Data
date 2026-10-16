@@ -1,0 +1,14 @@
+{
+  "id": 26,
+  "name": "Barkless Cedar Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessCedarLog",
+    "text": "Barkless Cedar Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_cedar_log",
+  "harvestType": "wood",
+  "atlasIdx": 134,
+  "stackable": true
+}

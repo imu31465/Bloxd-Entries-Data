@@ -1,0 +1,31 @@
+{
+  "id": 1186,
+  "name": "Green Concrete Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenConcreteSlab",
+    "text": "Green Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "green_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Green Concrete Slab",
+    "rootId": 1185,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 204,
+  "stackable": true,
+  "slabFullBlock": "Green Concrete"
+}

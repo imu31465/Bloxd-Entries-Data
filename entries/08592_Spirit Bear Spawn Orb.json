@@ -1,0 +1,21 @@
+{
+  "id": 8592,
+  "name": "Spirit Bear Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spiritBearSpawnOrb",
+    "text": "Spirit Bear Spawn Orb"
+  },
+  "description": {
+    "key": "item:spiritBearSpawnOrbDescription",
+    "text": "Throw to spawn a Spirit Bear at the landing location",
+    "params": {
+      "mob": "Spirit Bear"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "spirit_bear_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

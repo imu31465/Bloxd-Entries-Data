@@ -1,0 +1,31 @@
+{
+  "id": 1206,
+  "name": "Brown Concrete Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownConcreteSlab",
+    "text": "Brown Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "brown_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Brown Concrete Slab",
+    "rootId": 1203,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 194,
+  "stackable": true,
+  "slabFullBlock": "Brown Concrete"
+}

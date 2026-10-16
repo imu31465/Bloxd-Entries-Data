@@ -1,0 +1,14 @@
+{
+  "id": 486,
+  "name": "Engraved Granite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedGranite",
+    "text": "Engraved Granite"
+  },
+  "ttb": 1800,
+  "textureInfo": "engraved_granite",
+  "harvestType": "rock",
+  "atlasIdx": 381,
+  "stackable": true
+}

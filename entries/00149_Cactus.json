@@ -1,0 +1,16 @@
+{
+  "id": 149,
+  "name": "Cactus",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cactus",
+    "text": "Cactus"
+  },
+  "ttb": 300,
+  "textureInfo": "small_cactus",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

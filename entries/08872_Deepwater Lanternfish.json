@@ -1,0 +1,14 @@
+{
+  "id": 8872,
+  "name": "Deepwater Lanternfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:deepwaterLanternfish",
+    "text": "Deepwater Lanternfish"
+  },
+  "type": "Item",
+  "textureInfo": "deepwater_lanternfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

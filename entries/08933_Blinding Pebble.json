@@ -1,0 +1,19 @@
+{
+  "id": 8933,
+  "name": "Blinding Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blindingPebble",
+    "text": "Blinding Pebble"
+  },
+  "description": {
+    "key": "item:blindingPebbleDescription",
+    "text": "Throw to temporarily blind players."
+  },
+  "type": "Item",
+  "textureInfo": "blinding_pebble",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

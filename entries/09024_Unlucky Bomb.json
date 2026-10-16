@@ -1,0 +1,17 @@
+{
+  "id": 9024,
+  "name": "Unlucky Bomb",
+  "kind": "item",
+  "displayName": {
+    "text": "Unlucky Bomb"
+  },
+  "description": {
+    "text": "A random unlucky effect for everyone it splashes, you included. Usually bad!"
+  },
+  "type": "Item",
+  "textureInfo": "unlucky_bomb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

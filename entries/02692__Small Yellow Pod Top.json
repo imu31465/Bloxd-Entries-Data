@@ -1,0 +1,21 @@
+{
+  "id": 2692,
+  "name": "_Small Yellow Pod Top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallYellowPod",
+    "text": "Small Yellow Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_yellow_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Small Yellow Pod Top"
+}

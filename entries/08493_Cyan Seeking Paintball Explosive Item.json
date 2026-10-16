@@ -1,0 +1,18 @@
+{
+  "id": 8493,
+  "name": "Cyan Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanSeekingPaintballExplosive",
+    "text": "Cyan Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_cyan",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

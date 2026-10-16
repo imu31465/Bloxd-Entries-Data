@@ -1,0 +1,14 @@
+{
+  "id": 1632,
+  "name": "Spectral Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralLog",
+    "text": "Spectral Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_spectral",
+  "harvestType": "wood",
+  "atlasIdx": 743,
+  "stackable": true
+}

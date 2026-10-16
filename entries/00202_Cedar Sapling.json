@@ -1,0 +1,16 @@
+{
+  "id": 202,
+  "name": "Cedar Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarSapling",
+    "text": "Cedar Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "cedar_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cedar_sapling",
+  "solid": false,
+  "stackable": true
+}

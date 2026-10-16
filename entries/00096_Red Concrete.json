@@ -1,0 +1,14 @@
+{
+  "id": 96,
+  "name": "Red Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redConcrete",
+    "text": "Red Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "red_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 202,
+  "stackable": true
+}

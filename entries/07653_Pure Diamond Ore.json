@@ -1,0 +1,51 @@
+{
+  "id": 7653,
+  "name": "Pure Diamond Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pureDiamondOre",
+    "text": "Pure Diamond Ore"
+  },
+  "ttb": 45000,
+  "textureInfo": "pure_diamond_ore",
+  "harvestType": "rock",
+  "drops": "Diamond",
+  "Jm": 9,
+  "harvestLevel": 3,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Pure Diamond Ore"
+  },
+  "specialToolBonusDrops": {
+    "Golem Pickaxe": [
+      {
+        "bonusDrop": "Iron Fragment",
+        "probabilityOfDrop": 0.3333333333333333
+      },
+      {
+        "bonusDrop": "Gold Fragment",
+        "probabilityOfDrop": 0.25
+      },
+      {
+        "bonusDrop": "Diamond Fragment",
+        "probabilityOfDrop": 0.2
+      },
+      {
+        "bonusDrop": "Moonstone Fragment",
+        "probabilityOfDrop": 0.16666666666666666
+      },
+      {
+        "bonusDrop": "Coal",
+        "probabilityOfDrop": 0.14285714285714285
+      }
+    ]
+  },
+  "lm": [
+    2,
+    6,
+    6
+  ],
+  "atlasIdx": 941,
+  "stackable": true,
+  "onMinedAura": 360
+}

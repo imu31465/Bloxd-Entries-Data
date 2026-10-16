@@ -1,0 +1,30 @@
+{
+  "id": 8306,
+  "name": "Teleportation Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:teleportationPotion",
+    "text": "Teleportation Potion"
+  },
+  "description": {
+    "key": "item:teleportationPotionDescription",
+    "text": "Teleports you"
+  },
+  "type": "Chargeable",
+  "textureInfo": "teleportation_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 600,
+  "meta": {
+    "rootName": "Teleportation Potion",
+    "rootId": 8306,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Teleportation Potion|meta|charging1"
+}

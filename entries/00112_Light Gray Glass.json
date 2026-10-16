@@ -1,0 +1,19 @@
+{
+  "id": 112,
+  "name": "Light Gray Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayGlass",
+    "text": "Light Gray Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_light_gray",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 219,
+  "stackable": true
+}

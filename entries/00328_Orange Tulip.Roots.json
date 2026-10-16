@@ -1,0 +1,19 @@
+{
+  "id": 328,
+  "name": "Orange Tulip|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "orange_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "orange_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Orange Tulip",
+    "rootId": 156,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

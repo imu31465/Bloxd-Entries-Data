@@ -1,0 +1,15 @@
+{
+  "id": 8222,
+  "name": "Arrow of Slowness",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfSlowness",
+    "text": "Arrow of Slowness"
+  },
+  "type": "Item",
+  "textureInfo": "slowness_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

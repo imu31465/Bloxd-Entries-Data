@@ -1,0 +1,32 @@
+{
+  "id": 226,
+  "name": "Iron Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironLadder",
+    "text": "Iron Ladder"
+  },
+  "ttb": 1800,
+  "harvestType": "rock",
+  "model": "rotatableOffset",
+  "itemTexture": "iron_ladder",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Iron Ladder",
+    "rootId": 224,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Iron Ladder",
+  "blockModelItem": true
+}

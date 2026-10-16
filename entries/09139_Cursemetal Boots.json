@@ -1,0 +1,16 @@
+{
+  "id": 9139,
+  "name": "Cursemetal Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cursemetalBoots",
+    "text": "Cursemetal Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "cursemetal_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "cursemetal_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

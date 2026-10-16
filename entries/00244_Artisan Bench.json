@@ -1,0 +1,32 @@
+{
+  "id": 244,
+  "name": "Artisan Bench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:artisanBench",
+    "text": "Artisan Bench"
+  },
+  "description": {
+    "key": "item:artisanBenchDescription",
+    "text": "Create decorative blocks"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "artisan_table_side",
+    "artisan_table_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    284,
+    285
+  ],
+  "stackable": true
+}

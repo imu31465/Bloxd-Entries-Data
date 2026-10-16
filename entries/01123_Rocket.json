@@ -1,0 +1,15 @@
+{
+  "id": 1123,
+  "name": "Rocket",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rocket",
+    "unresolved": true
+  },
+  "ttb": 1,
+  "textureInfo": "rocket_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 494,
+  "stackable": true
+}

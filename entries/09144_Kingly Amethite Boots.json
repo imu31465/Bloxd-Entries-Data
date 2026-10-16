@@ -1,0 +1,16 @@
+{
+  "id": 9144,
+  "name": "Kingly Amethite Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyAmethiteBoots",
+    "text": "Kingly Amethite Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_amethite_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_amethite_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

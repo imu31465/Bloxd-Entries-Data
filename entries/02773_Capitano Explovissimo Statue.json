@@ -1,0 +1,17 @@
+{
+  "id": 2773,
+  "name": "Capitano Explovissimo Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "capitano_explovissimo",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "capitano_explovissimo",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

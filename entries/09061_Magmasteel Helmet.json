@@ -1,0 +1,15 @@
+{
+  "id": 9061,
+  "name": "Magmasteel Helmet",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "magmasteel_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

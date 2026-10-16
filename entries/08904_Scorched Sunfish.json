@@ -1,0 +1,14 @@
+{
+  "id": 8904,
+  "name": "Scorched Sunfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:scorchedSunfish",
+    "text": "Scorched Sunfish"
+  },
+  "type": "Item",
+  "textureInfo": "scorched_sunfish",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

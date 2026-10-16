@@ -1,0 +1,23 @@
+{
+  "id": 7874,
+  "name": "Moonstone Axe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneAxe",
+    "text": "Moonstone Axe"
+  },
+  "description": {
+    "key": "item:moonstoneAxeDescription",
+    "text": "Cuts down entire tree trunks"
+  },
+  "type": "Tool",
+  "textureInfo": "moonstone_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 36,
+  "harvests": "wood",
+  "multiplier": 9,
+  "level": 5,
+  "lumberjackHeight": 6
+}

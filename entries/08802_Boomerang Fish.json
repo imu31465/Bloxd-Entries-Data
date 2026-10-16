@@ -1,0 +1,14 @@
+{
+  "id": 8802,
+  "name": "Boomerang Fish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:boomerangFish",
+    "text": "Boomerang Fish"
+  },
+  "type": "Item",
+  "textureInfo": "boomerang_fish",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

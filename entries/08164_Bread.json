@@ -1,0 +1,30 @@
+{
+  "id": 8164,
+  "name": "Bread",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bread",
+    "text": "Bread"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "bread",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 24,
+  "chargeStages": 1,
+  "chargeTime": 950,
+  "meta": {
+    "rootName": "Bread",
+    "rootId": 8164,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Bread|meta|charging1"
+}

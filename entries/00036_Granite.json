@@ -1,0 +1,14 @@
+{
+  "id": 36,
+  "name": "Granite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:granite",
+    "text": "Granite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_granite",
+  "harvestType": "rock",
+  "atlasIdx": 142,
+  "stackable": true
+}

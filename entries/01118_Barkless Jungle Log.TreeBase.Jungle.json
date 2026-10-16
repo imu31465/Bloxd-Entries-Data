@@ -1,0 +1,18 @@
+{
+  "id": 1118,
+  "name": "Barkless Jungle Log|TreeBase|Jungle",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_jungle_log",
+  "harvestType": "wood",
+  "drops": "Barkless Jungle Log",
+  "meta": {
+    "rootName": "Barkless Jungle Log",
+    "rootId": 24,
+    "metaStr": "TreeBase|Jungle",
+    "treeBase": true,
+    "woodType": "Jungle"
+  },
+  "atlasIdx": 132,
+  "stackable": true
+}

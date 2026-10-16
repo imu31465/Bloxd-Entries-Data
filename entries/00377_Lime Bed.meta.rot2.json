@@ -1,0 +1,23 @@
+{
+  "id": 377,
+  "name": "Lime Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeBed",
+    "text": "Lime Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "lime_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Lime Bed",
+    "rootId": 376,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Lime Bed"
+}

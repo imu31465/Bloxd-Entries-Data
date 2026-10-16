@@ -1,0 +1,17 @@
+{
+  "id": 938,
+  "name": "Pear Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_pear",
+  "harvestType": "cuttable",
+  "drops": "Pear Leaves",
+  "meta": {
+    "rootName": "Pear Leaves",
+    "rootId": 911,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 440,
+  "stackable": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8577,
+  "name": "Pig Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pigSpawnOrb",
+    "text": "Pig Spawn Orb"
+  },
+  "description": {
+    "key": "item:pigSpawnOrbDescription",
+    "text": "Throw to spawn a Pig at the landing location",
+    "params": {
+      "mob": "Pig"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "pig_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

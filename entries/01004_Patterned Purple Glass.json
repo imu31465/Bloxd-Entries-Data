@@ -1,0 +1,19 @@
+{
+  "id": 1004,
+  "name": "Patterned Purple Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedPurpleGlass",
+    "text": "Patterned Purple Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_purple",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 475,
+  "stackable": true
+}

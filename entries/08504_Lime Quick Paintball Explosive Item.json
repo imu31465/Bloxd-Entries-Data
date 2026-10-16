@@ -1,0 +1,18 @@
+{
+  "id": 8504,
+  "name": "Lime Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeQuickPaintballExplosive",
+    "text": "Lime Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_lime",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

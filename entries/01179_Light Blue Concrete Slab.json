@@ -1,0 +1,32 @@
+{
+  "id": 1179,
+  "name": "Light Blue Concrete Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueConcreteSlab",
+    "text": "Light Blue Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "light_blue_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Light Blue Concrete Slab",
+    "rootId": 1179,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Light Blue Concrete Slab|meta|rot1|bot",
+  "atlasIdx": 196,
+  "stackable": true,
+  "slabFullBlock": "Light Blue Concrete"
+}

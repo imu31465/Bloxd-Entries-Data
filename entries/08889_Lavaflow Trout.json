@@ -1,0 +1,14 @@
+{
+  "id": 8889,
+  "name": "Lavaflow Trout",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lavaflowTrout",
+    "text": "Lavaflow Trout"
+  },
+  "type": "Item",
+  "textureInfo": "lavaflow_trout",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

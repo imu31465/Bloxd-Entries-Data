@@ -1,0 +1,19 @@
+{
+  "id": 8086,
+  "name": "Reinforced Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:reinforcedPebble",
+    "text": "Reinforced Pebble"
+  },
+  "description": {
+    "key": "item:throwableItemDescription",
+    "text": "Throw at players to do damage"
+  },
+  "type": "Item",
+  "textureInfo": "reinforced_pebble",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 13
+}

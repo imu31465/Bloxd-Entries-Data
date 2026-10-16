@@ -1,0 +1,21 @@
+{
+  "id": 8593,
+  "name": "Spirit Stag Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spiritStagSpawnOrb",
+    "text": "Spirit Stag Spawn Orb"
+  },
+  "description": {
+    "key": "item:spiritStagSpawnOrbDescription",
+    "text": "Throw to spawn a Spirit Stag at the landing location",
+    "params": {
+      "mob": "Spirit Stag"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "spirit_stag_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

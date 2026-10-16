@@ -1,0 +1,30 @@
+{
+  "id": 8815,
+  "name": "Sandbelly Piranha",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sandbellyPiranha",
+    "text": "Sandbelly Piranha"
+  },
+  "description": {
+    "key": "item:sandbellyPiranhaDescription",
+    "text": "Eat to restore 10 HP and gain Damage Up for 8 seconds. Found only in oasis waters in Survival."
+  },
+  "type": "Chargeable",
+  "textureInfo": "sandbelly_piranha",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 10,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Sandbelly Piranha",
+    "rootId": 8815,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Sandbelly Piranha|meta|charging1"
+}

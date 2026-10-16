@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "name": "Maple Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleWoodPlanks",
+    "text": "Maple Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_maple",
+  "harvestType": "wood",
+  "atlasIdx": 123,
+  "stackable": true
+}

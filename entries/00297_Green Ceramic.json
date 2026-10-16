@@ -1,0 +1,39 @@
+{
+  "id": 297,
+  "name": "Green Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenCeramic",
+    "text": "Green Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "green_glazed_terracotta[rot[1",
+    "green_glazed_terracotta[rot[2",
+    "green_glazed_terracotta[rot[3",
+    "green_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Green Ceramic",
+    "rootId": 297,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Green Ceramic|meta|rot1",
+  "atlasIdx": [
+    338,
+    339,
+    340,
+    341
+  ],
+  "stackable": true
+}

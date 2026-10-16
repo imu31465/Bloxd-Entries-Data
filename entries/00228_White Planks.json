@@ -1,0 +1,14 @@
+{
+  "id": 228,
+  "name": "White Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whitePlanks",
+    "text": "White Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "white_planks",
+  "harvestType": "wood",
+  "atlasIdx": 268,
+  "stackable": true
+}

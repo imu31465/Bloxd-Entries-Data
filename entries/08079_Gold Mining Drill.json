@@ -1,0 +1,15 @@
+{
+  "id": 8079,
+  "name": "Gold Mining Drill",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldMiningDrill",
+    "text": "Gold Mining Drill"
+  },
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Off Roader Item",
+  "stackable": false
+}

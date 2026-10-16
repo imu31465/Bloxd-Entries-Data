@@ -1,0 +1,22 @@
+{
+  "id": 7887,
+  "name": "Wood Hoe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodHoe",
+    "text": "Wood Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "wooden_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 15,
+  "harvests": "cuttable",
+  "multiplier": 2,
+  "level": 1
+}

@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "name": "Obsidian",
+  "kind": "block",
+  "displayName": {
+    "key": "item:obsidian",
+    "text": "Obsidian"
+  },
+  "ttb": 40000,
+  "textureInfo": "obsidian",
+  "harvestType": "rock",
+  "harvestLevel": 5,
+  "atlasIdx": 246,
+  "stackable": true
+}

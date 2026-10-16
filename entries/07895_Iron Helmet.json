@@ -1,0 +1,15 @@
+{
+  "id": 7895,
+  "name": "Iron Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironHelmet",
+    "text": "Iron Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "iron_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.09
+}

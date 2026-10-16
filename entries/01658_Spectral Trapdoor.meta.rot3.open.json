@@ -1,0 +1,24 @@
+{
+  "id": 1658,
+  "name": "Spectral Trapdoor|meta|rot3|open",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Spectral Trapdoor",
+    "rootId": 1653,
+    "metaStr": "meta|rot3|open",
+    "rot": 3,
+    "open": true
+  },
+  "stackable": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8032,
+  "name": "INTERNAL_MESH_Obsidian Boat",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "obsidian_boat",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Obsidian Boat",
+  "stackable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1741,
+  "name": "Red Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_red",
+  "harvestType": "rock",
+  "atlasIdx": 773,
+  "stackable": true
+}

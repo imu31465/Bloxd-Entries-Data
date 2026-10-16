@@ -1,0 +1,22 @@
+{
+  "id": 9087,
+  "name": "Rubellite Hoe",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_hoe",
+  "stackable": false,
+  "damage": 28,
+  "harvests": "cuttable",
+  "multiplier": 4.25,
+  "level": 5
+}

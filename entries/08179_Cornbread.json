@@ -1,0 +1,31 @@
+{
+  "id": 8179,
+  "name": "Cornbread",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cornbread",
+    "text": "Cornbread"
+  },
+  "description": {
+    "key": "item:cornbreadDescription",
+    "text": "Eat to regain health and gain shield"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cornbread",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatShieldAmt": 20,
+  "eatHealAmt": 24,
+  "chargeStages": 1,
+  "chargeTime": 950,
+  "meta": {
+    "rootName": "Cornbread",
+    "rootId": 8179,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cornbread|meta|charging1"
+}

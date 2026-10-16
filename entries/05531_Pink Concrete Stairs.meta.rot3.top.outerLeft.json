@@ -1,0 +1,37 @@
+{
+  "id": 5531,
+  "name": "Pink Concrete Stairs|meta|rot3|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkConcreteStairs",
+    "text": "Pink Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "pink_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Pink Concrete Stairs",
+    "rootId": 3677,
+    "metaStr": "meta|rot3|top|outerLeft",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 200,
+  "stackable": true
+}

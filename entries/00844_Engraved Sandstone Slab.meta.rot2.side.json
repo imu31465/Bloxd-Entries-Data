@@ -1,0 +1,45 @@
+{
+  "id": 844,
+  "name": "Engraved Sandstone Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedSandstoneSlab",
+    "text": "Engraved Sandstone Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_chiseled_sandstone_side",
+    "chiseled_sandstone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Sandstone Slab",
+    "rootId": 841,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    423,
+    244
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Sandstone"
+}

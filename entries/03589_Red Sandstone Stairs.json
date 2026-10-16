@@ -1,0 +1,37 @@
+{
+  "id": 3589,
+  "name": "Red Sandstone Stairs",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redSandstoneStairs",
+    "text": "Red Sandstone Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "red_sandstone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Red Sandstone Stairs",
+    "rootId": 3589,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Red Sandstone Stairs|meta|rot1|bot",
+  "atlasIdx": 369,
+  "stackable": true
+}

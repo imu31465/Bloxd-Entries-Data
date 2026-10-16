@@ -1,0 +1,45 @@
+{
+  "id": 660,
+  "name": "Fallen Maple Leaves|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fallenMapleLeaves",
+    "text": "Fallen Maple Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": [
+    "fallen_maple_leaves_side",
+    "leaves_maple_autumn"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "model": "Slab",
+  "solid": false,
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Fallen Maple Leaves",
+    "rootId": 655,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    393,
+    392
+  ],
+  "stackable": true
+}

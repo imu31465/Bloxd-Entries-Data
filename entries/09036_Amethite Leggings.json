@@ -1,0 +1,15 @@
+{
+  "id": 9036,
+  "name": "Amethite Leggings",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "amethite_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

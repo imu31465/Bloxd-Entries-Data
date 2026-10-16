@@ -1,0 +1,19 @@
+{
+  "id": 326,
+  "name": "Pink Tulip|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "pink_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "pink_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Pink Tulip",
+    "rootId": 154,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

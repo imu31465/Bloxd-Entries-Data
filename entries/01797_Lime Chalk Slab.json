@@ -1,0 +1,42 @@
+{
+  "id": 1797,
+  "name": "Lime Chalk Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_lime",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Lime Chalk Slab",
+    "rootId": 1797,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Lime Chalk Slab|meta|rot1|bot",
+  "atlasIdx": 762,
+  "stackable": true,
+  "slabFullBlock": "Lime Chalk"
+}

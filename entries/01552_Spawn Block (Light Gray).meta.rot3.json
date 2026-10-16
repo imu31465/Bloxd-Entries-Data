@@ -1,0 +1,36 @@
+{
+  "id": 1552,
+  "name": "Spawn Block (Light Gray)|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "light_gray_spawn_block_top[rot[1",
+    "light_gray_spawn_block_top[rot[2",
+    "light_gray_spawn_block_top[rot[3",
+    "light_gray_spawn_block_top[rot[4",
+    "light_gray_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    0,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Light Gray)",
+    "rootId": 1520,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    636,
+    637,
+    638,
+    639,
+    640
+  ],
+  "stackable": true
+}

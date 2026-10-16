@@ -1,0 +1,23 @@
+{
+  "id": 1109,
+  "name": "Tall Grass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tallGrass",
+    "text": "Tall Grass"
+  },
+  "ttb": 1,
+  "textureInfo": "tall_grass_bottom",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "tall_grass_bottom",
+  "drops": null,
+  "solid": false,
+  "heldItemScale": 0.5,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Tall Grass"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

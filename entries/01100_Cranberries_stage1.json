@@ -1,0 +1,12 @@
+{
+  "id": 1100,
+  "name": "Cranberries_stage1",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "berry_bush_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": "Cranberries",
+  "solid": false,
+  "stackable": true
+}

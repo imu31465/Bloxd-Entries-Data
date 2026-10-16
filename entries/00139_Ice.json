@@ -1,0 +1,16 @@
+{
+  "id": 139,
+  "name": "Ice",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ice",
+    "text": "Ice"
+  },
+  "ttb": 1200,
+  "textureInfo": "ice",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": 245,
+  "stackable": true
+}

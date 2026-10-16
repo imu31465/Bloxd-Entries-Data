@@ -1,0 +1,19 @@
+{
+  "id": 8982,
+  "name": "Chicken",
+  "kind": "item",
+  "displayName": {
+    "key": "item:chicken",
+    "text": "Chicken"
+  },
+  "description": {
+    "key": "item:chickenDescription",
+    "text": "A fresh chicken"
+  },
+  "type": "Item",
+  "textureInfo": "chicken",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "chicken",
+  "stackable": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 491,
+  "name": "Plum Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumLeaves",
+    "text": "Plum Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_plum",
+  "harvestType": "cuttable",
+  "atlasIdx": 384,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 56,
+  "name": "Lime Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeWool",
+    "text": "Lime Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_lime",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 162,
+  "stackable": true
+}

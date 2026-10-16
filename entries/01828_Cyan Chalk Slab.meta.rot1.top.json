@@ -1,0 +1,41 @@
+{
+  "id": 1828,
+  "name": "Cyan Chalk Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_cyan",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cyan Chalk Slab",
+    "rootId": 1827,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 767,
+  "stackable": true,
+  "slabFullBlock": "Cyan Chalk"
+}

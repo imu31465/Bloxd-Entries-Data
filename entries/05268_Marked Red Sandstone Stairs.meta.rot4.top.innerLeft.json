@@ -1,0 +1,43 @@
+{
+  "id": 5268,
+  "name": "Marked Red Sandstone Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:markedRedSandstoneStairs",
+    "text": "Marked Red Sandstone Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "cut_red_sandstone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Marked Red Sandstone Stairs",
+    "rootId": 3613,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 372,
+  "stackable": true
+}

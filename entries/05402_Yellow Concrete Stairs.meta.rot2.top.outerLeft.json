@@ -1,0 +1,37 @@
+{
+  "id": 5402,
+  "name": "Yellow Concrete Stairs|meta|rot2|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowConcreteStairs",
+    "text": "Yellow Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "yellow_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Yellow Concrete Stairs",
+    "rootId": 3645,
+    "metaStr": "meta|rot2|top|outerLeft",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 205,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8050,
+  "name": "Orange Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeKart",
+    "text": "Orange Kart"
+  },
+  "type": "Item",
+  "textureInfo": "orange_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Orange Kart Item",
+  "stackable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 270,
+  "name": "Pink Ceramic|meta|rot2",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "pink_glazed_terracotta[rot[1",
+    "pink_glazed_terracotta[rot[2",
+    "pink_glazed_terracotta[rot[3",
+    "pink_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    3,
+    1,
+    3,
+    3,
+    2,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Pink Ceramic",
+    "rootId": 269,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    310,
+    311,
+    312,
+    313
+  ],
+  "stackable": true
+}

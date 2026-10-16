@@ -1,0 +1,15 @@
+{
+  "id": 8638,
+  "name": "Caught Mob Horse Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_horse_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Horse Default",
+    "rootId": 8638,
+    "caughtMobType": "Horse"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 39,
+  "name": "Yellowstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowstone",
+    "text": "Yellowstone"
+  },
+  "ttb": 3600,
+  "textureInfo": "end_stone",
+  "harvestType": "rock",
+  "atlasIdx": 145,
+  "stackable": true
+}

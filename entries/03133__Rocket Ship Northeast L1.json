@@ -1,0 +1,14 @@
+{
+  "id": 3133,
+  "name": "_Rocket Ship Northeast L1",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "drops": null,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "rocket_northeast_1"
+}

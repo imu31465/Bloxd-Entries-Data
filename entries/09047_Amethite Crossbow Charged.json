@@ -1,0 +1,20 @@
+{
+  "id": 9047,
+  "name": "Amethite Crossbow Charged",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Crossbow Charged"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "amethite_crossbow_charged",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "amethite_crossbow_charged",
+  "stackable": false,
+  "secondaryDamage": 68,
+  "holdAsAiming": true
+}

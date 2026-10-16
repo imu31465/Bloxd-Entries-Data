@@ -1,0 +1,15 @@
+{
+  "id": 7926,
+  "name": "Orange Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeWoodHelmet",
+    "text": "Orange Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

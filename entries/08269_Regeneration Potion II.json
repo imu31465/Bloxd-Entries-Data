@@ -1,0 +1,31 @@
+{
+  "id": 8269,
+  "name": "Regeneration Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:regenerationPotionII",
+    "text": "Regeneration Potion II"
+  },
+  "description": {
+    "key": "item:regenerationPotionDescription",
+    "text": "Temporarily increases health regeneration"
+  },
+  "type": "Chargeable",
+  "textureInfo": "regen_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Regeneration Potion",
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Regeneration Potion II",
+    "rootId": 8269,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Regeneration Potion II|meta|charging1"
+}

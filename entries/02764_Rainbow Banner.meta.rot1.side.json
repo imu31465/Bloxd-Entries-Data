@@ -1,0 +1,40 @@
+{
+  "id": 2764,
+  "name": "Rainbow Banner|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rainbowBanner",
+    "text": "Rainbow Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_rainbow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Rainbow Banner",
+    "rootId": 2744,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Rainbow Banner Hanging"
+}

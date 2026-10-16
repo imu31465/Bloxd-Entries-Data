@@ -1,0 +1,15 @@
+{
+  "id": 8290,
+  "name": "Arrow of Double Jump",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfDoubleJump",
+    "text": "Arrow of Double Jump"
+  },
+  "type": "Item",
+  "textureInfo": "double_jump_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

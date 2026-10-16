@@ -1,0 +1,15 @@
+{
+  "id": 8686,
+  "name": "Caught Mob Spirit_Gorilla Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_spirit_gorilla_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Spirit_Gorilla Default",
+    "rootId": 8686,
+    "caughtMobType": "Spirit Gorilla"
+  }
+}

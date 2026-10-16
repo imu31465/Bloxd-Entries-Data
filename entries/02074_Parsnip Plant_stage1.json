@@ -1,0 +1,17 @@
+{
+  "id": 2074,
+  "name": "Parsnip Plant_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:parsnip",
+    "text": "Parsnip"
+  },
+  "ttb": 400,
+  "textureInfo": "parsnip_plant_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "parsnip_plant_stage1",
+  "drops": null,
+  "solid": false,
+  "stackable": true
+}

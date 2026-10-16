@@ -1,0 +1,18 @@
+{
+  "id": 1224,
+  "name": "Barkless Cherry Log|TreeBase|Cherry",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_cherry_log",
+  "harvestType": "wood",
+  "drops": "Barkless Cherry Log",
+  "meta": {
+    "rootName": "Barkless Cherry Log",
+    "rootId": 1223,
+    "metaStr": "TreeBase|Cherry",
+    "treeBase": true,
+    "woodType": "Cherry"
+  },
+  "atlasIdx": 498,
+  "stackable": true
+}

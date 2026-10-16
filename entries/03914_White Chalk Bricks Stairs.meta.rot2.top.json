@@ -1,0 +1,46 @@
+{
+  "id": 3914,
+  "name": "White Chalk Bricks Stairs|meta|rot2|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_white",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "White Chalk Bricks Stairs",
+    "rootId": 3909,
+    "metaStr": "meta|rot2|top",
+    "rot": 2,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 772,
+  "stackable": true
+}

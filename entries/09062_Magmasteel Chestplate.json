@@ -1,0 +1,15 @@
+{
+  "id": 9062,
+  "name": "Magmasteel Chestplate",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "magmasteel_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8851,
+  "name": "Reef Sardine",
+  "kind": "item",
+  "displayName": {
+    "key": "item:reefSardine",
+    "text": "Reef Sardine"
+  },
+  "type": "Item",
+  "textureInfo": "reef_sardine",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

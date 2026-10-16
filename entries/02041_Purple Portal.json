@@ -1,0 +1,33 @@
+{
+  "id": 2041,
+  "name": "Purple Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purplePortal",
+    "text": "Purple Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "purple_portal0",
+      "purple_portal1",
+      "purple_portal2",
+      "purple_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    6,
+    3,
+    8
+  ],
+  "atlasIdx": [
+    14,
+    71,
+    72,
+    73
+  ],
+  "stackable": true
+}

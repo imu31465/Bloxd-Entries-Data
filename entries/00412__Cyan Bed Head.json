@@ -1,0 +1,21 @@
+{
+  "id": 412,
+  "name": "_Cyan Bed Head",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "cyan_bed",
+  "drops": "Cyan Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Cyan Bed Head",
+    "rootId": 412,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Cyan Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Cyan Bed Head"
+}

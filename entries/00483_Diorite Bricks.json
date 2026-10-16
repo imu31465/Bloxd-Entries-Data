@@ -1,0 +1,14 @@
+{
+  "id": 483,
+  "name": "Diorite Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dioriteBricks",
+    "text": "Diorite Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "diorite_brick",
+  "harvestType": "rock",
+  "atlasIdx": 378,
+  "stackable": true
+}

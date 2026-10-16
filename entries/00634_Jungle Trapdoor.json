@@ -1,0 +1,33 @@
+{
+  "id": 634,
+  "name": "Jungle Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleTrapdoor",
+    "text": "Jungle Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "jungle_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Jungle Trapdoor",
+    "rootId": 634,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Jungle Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Jungle Trapdoor",
+  "blockModelItem": true
+}

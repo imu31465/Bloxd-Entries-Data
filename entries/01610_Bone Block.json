@@ -1,0 +1,28 @@
+{
+  "id": 1610,
+  "name": "Bone Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:boneBlock",
+    "text": "Bone Block"
+  },
+  "ttb": 960,
+  "textureInfo": [
+    "bone_block_side",
+    "bone_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    733,
+    734
+  ],
+  "stackable": true
+}

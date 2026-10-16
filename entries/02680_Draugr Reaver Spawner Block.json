@@ -1,0 +1,42 @@
+{
+  "id": 2680,
+  "name": "Draugr Reaver Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:draugrReaverMobSpawnerBlock",
+    "text": "Draugr Reaver Spawner Block"
+  },
+  "description": {
+    "key": "item:draugrReaverMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Draugr Reavers"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "draugr_reaver_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Draugr Reaver Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

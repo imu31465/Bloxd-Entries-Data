@@ -1,0 +1,53 @@
+{
+  "id": 5990,
+  "name": "Purple Chalk Stairs|meta|rot2|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_purple",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Purple Chalk Stairs",
+    "rootId": 3797,
+    "metaStr": "meta|rot2|bot|innerRight",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 758,
+  "stackable": true
+}

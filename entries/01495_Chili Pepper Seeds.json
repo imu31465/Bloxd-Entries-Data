@@ -1,0 +1,24 @@
+{
+  "id": 1495,
+  "name": "Chili Pepper Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chiliPepperSeeds",
+    "text": "Chili Pepper Seeds"
+  },
+  "description": {
+    "key": "item:chiliPepperSeedsDescription",
+    "text": "Plant to grow chili peppers"
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "chili_pepper_seeds",
+  "solid": false,
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "chili_pepper_stage0_model"
+}

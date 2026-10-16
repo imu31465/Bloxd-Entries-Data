@@ -1,0 +1,25 @@
+{
+  "id": 8949,
+  "name": "Diamond Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondSpear",
+    "text": "Diamond Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 32,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8803,
+  "name": "Root Flounder",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rootFlounder",
+    "text": "Root Flounder Fish"
+  },
+  "type": "Item",
+  "textureInfo": "root_flounder",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

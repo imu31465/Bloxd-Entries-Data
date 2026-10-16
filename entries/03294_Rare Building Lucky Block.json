@@ -1,0 +1,27 @@
+{
+  "id": 3294,
+  "name": "Rare Building Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Rare Building Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "purple_lucky_block_rare",
+    "building_lucky_block_rare"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    904,
+    905
+  ],
+  "stackable": true
+}

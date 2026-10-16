@@ -1,0 +1,21 @@
+{
+  "id": 8585,
+  "name": "Moonstone Goofy Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneGoofyGolemSpawnOrb",
+    "text": "Moonstone Goofy Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:moonstoneGoofyGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Moonstone Goofy Golem at the landing location",
+    "params": {
+      "mob": "Moonstone Goofy Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_goofy_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

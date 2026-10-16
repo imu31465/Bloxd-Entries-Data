@@ -1,0 +1,11 @@
+{
+  "id": 8044,
+  "name": "INTERNAL_MESH_Hovercraft",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "hovercraft",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Hovercraft",
+  "stackable": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 963,
+  "name": "Watermelon Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:watermelonSeeds",
+    "text": "Watermelon Seeds"
+  },
+  "description": {
+    "key": "item:watermelonSeedsDescription",
+    "text": "Plant a stem that grows watermelons"
+  },
+  "ttb": 400,
+  "textureInfo": "melon_stem",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "watermelon_seeds",
+  "solid": false,
+  "stackable": true
+}

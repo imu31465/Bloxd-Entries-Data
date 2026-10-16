@@ -1,0 +1,30 @@
+{
+  "id": 8283,
+  "name": "Shield Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:shieldPotion",
+    "text": "Shield Potion"
+  },
+  "description": {
+    "key": "item:shieldPotionDescription",
+    "text": "Gives you a shield"
+  },
+  "type": "Chargeable",
+  "textureInfo": "shield_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Shield Potion",
+    "rootId": 8283,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Shield Potion|meta|charging1"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2030,
+  "name": "Brown Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownPortal",
+    "text": "Brown Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "brown_portal0",
+      "brown_portal1",
+      "brown_portal2",
+      "brown_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    5,
+    4,
+    3
+  ],
+  "atlasIdx": [
+    3,
+    38,
+    39,
+    40
+  ],
+  "stackable": true
+}

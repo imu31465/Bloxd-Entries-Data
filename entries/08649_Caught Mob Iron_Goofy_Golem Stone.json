@@ -1,0 +1,15 @@
+{
+  "id": 8649,
+  "name": "Caught Mob Iron_Goofy_Golem Stone",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_iron_goofy_golem_stone",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Iron_Goofy_Golem Stone",
+    "rootId": 8649,
+    "caughtMobType": "Iron Goofy Golem"
+  }
+}

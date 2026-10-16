@@ -1,0 +1,14 @@
+{
+  "id": 8863,
+  "name": "Game Dev Fish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:gameDevFish",
+    "text": "Game Dev Fish"
+  },
+  "type": "Item",
+  "textureInfo": "ellie_fish",
+  "weight": 1,
+  "heldItemScale": 1.75,
+  "stackable": true
+}

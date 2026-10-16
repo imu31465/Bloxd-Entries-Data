@@ -1,0 +1,22 @@
+{
+  "id": 7870,
+  "name": "Stone Axe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneAxe",
+    "text": "Stone Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 24,
+  "harvests": "wood",
+  "multiplier": 3.5,
+  "level": 2
+}

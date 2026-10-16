@@ -1,0 +1,20 @@
+{
+  "id": 8925,
+  "name": "Mythic Rod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mythicRod",
+    "text": "Mythic Rod"
+  },
+  "type": "Item",
+  "textureInfo": "mythic_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "fishingRodInfo": {
+    "biteDelayMs": [
+      2000,
+      4000
+    ]
+  }
+}

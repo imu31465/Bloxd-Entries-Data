@@ -1,0 +1,17 @@
+{
+  "id": 210,
+  "name": "Maple Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_maple",
+  "harvestType": "cuttable",
+  "drops": "Maple Leaves",
+  "meta": {
+    "rootName": "Maple Leaves",
+    "rootId": 102,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 208,
+  "stackable": true
+}

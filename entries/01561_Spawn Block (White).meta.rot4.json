@@ -1,0 +1,36 @@
+{
+  "id": 1561,
+  "name": "Spawn Block (White)|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "white_spawn_block_top[rot[1",
+    "white_spawn_block_top[rot[2",
+    "white_spawn_block_top[rot[3",
+    "white_spawn_block_top[rot[4",
+    "white_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    1,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (White)",
+    "rootId": 1513,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    601,
+    602,
+    603,
+    604,
+    605
+  ],
+  "stackable": true
+}

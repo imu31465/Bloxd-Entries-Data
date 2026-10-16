@@ -1,0 +1,20 @@
+{
+  "id": 1280,
+  "name": "Corn Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cornSeeds",
+    "text": "Corn Seeds"
+  },
+  "description": {
+    "key": "item:cornSeedsDescription",
+    "text": "Plant to grow corn"
+  },
+  "ttb": 400,
+  "textureInfo": "corn_stage0",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "itemTexture": "corn_seeds",
+  "solid": false,
+  "stackable": true
+}

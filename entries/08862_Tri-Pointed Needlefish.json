@@ -1,0 +1,14 @@
+{
+  "id": 8862,
+  "name": "Tri-Pointed Needlefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:triPointedNeedlefish",
+    "text": "Tri-Pointed Needlefish"
+  },
+  "type": "Item",
+  "textureInfo": "tri_pointed_needlefish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

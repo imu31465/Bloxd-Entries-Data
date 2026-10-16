@@ -1,0 +1,25 @@
+{
+  "id": 8946,
+  "name": "Stone Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneSpear",
+    "text": "Stone Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 22,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 20,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 2
+}

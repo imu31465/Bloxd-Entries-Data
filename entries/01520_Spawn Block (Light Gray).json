@@ -1,0 +1,45 @@
+{
+  "id": 1520,
+  "name": "Spawn Block (Light Gray)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGraySpawnBlock",
+    "text": "Spawn Block (Light Gray)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "light_gray_spawn_block_top[rot[1",
+    "light_gray_spawn_block_top[rot[2",
+    "light_gray_spawn_block_top[rot[3",
+    "light_gray_spawn_block_top[rot[4",
+    "light_gray_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Light Gray)",
+    "rootId": 1520,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Light Gray)|meta|rot1",
+  "atlasIdx": [
+    636,
+    637,
+    638,
+    639,
+    640
+  ],
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7900,
+  "name": "Gold Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldChestplate",
+    "text": "Gold Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "golden_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.21
+}

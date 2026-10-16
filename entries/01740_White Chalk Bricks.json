@@ -1,0 +1,24 @@
+{
+  "id": 1740,
+  "name": "White Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_white",
+  "harvestType": "rock",
+  "atlasIdx": 772,
+  "stackable": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2000,
+  "name": "Mango Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoSlab",
+    "text": "Mango Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_mango_side",
+    "planks_mango"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Mango Slab",
+    "rootId": 1997,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    810,
+    808
+  ],
+  "stackable": true,
+  "slabFullBlock": "Mango Wood Planks"
+}

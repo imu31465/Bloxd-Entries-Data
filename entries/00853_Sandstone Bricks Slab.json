@@ -1,0 +1,46 @@
+{
+  "id": 853,
+  "name": "Sandstone Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sandstoneBricksSlab",
+    "text": "Sandstone Bricks Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_sandstone_brick_side",
+    "sandstone_brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Sandstone Bricks Slab",
+    "rootId": 853,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Sandstone Bricks Slab|meta|rot1|bot",
+  "atlasIdx": [
+    425,
+    376
+  ],
+  "stackable": true,
+  "slabFullBlock": "Sandstone Bricks"
+}

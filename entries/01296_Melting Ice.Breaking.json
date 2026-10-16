@@ -1,0 +1,19 @@
+{
+  "id": 1296,
+  "name": "Melting Ice|Breaking",
+  "kind": "block",
+  "ttb": 200,
+  "textureInfo": "melting_ice",
+  "harvestType": "rock",
+  "drops": null,
+  "meta": {
+    "rootName": "Melting Ice",
+    "rootId": 1295,
+    "metaStr": "Breaking",
+    "breaking": true
+  },
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": 510,
+  "stackable": true
+}

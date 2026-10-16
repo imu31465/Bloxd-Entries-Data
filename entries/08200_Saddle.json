@@ -1,0 +1,14 @@
+{
+  "id": 8200,
+  "name": "Saddle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:saddle",
+    "text": "Saddle"
+  },
+  "type": "Item",
+  "textureInfo": "saddle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

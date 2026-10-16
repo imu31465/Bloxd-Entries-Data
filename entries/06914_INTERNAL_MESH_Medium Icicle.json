@@ -1,0 +1,13 @@
+{
+  "id": 6914,
+  "name": "INTERNAL_MESH_Medium Icicle",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Medium Icicle",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

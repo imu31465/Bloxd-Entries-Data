@@ -1,0 +1,14 @@
+{
+  "id": 2092,
+  "name": "Crate",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crate",
+    "text": "Crate"
+  },
+  "ttb": 600,
+  "textureInfo": "crate",
+  "harvestType": "wood",
+  "atlasIdx": 831,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 123,
+  "name": "UNUSED BLOCK TYPE",
+  "kind": "block",
+  "ttb": 450,
+  "textureInfo": "glass_silver",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 230,
+  "stackable": true
+}

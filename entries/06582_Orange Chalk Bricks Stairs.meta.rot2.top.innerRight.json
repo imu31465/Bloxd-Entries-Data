@@ -1,0 +1,53 @@
+{
+  "id": 6582,
+  "name": "Orange Chalk Bricks Stairs|meta|rot2|top|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_orange",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Orange Chalk Bricks Stairs",
+    "rootId": 3941,
+    "metaStr": "meta|rot2|top|innerRight",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 776,
+  "stackable": true
+}

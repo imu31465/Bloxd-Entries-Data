@@ -1,0 +1,41 @@
+{
+  "id": 1787,
+  "name": "Orange Chalk Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_orange",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Orange Chalk Slab",
+    "rootId": 1785,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 760,
+  "stackable": true,
+  "slabFullBlock": "Orange Chalk"
+}

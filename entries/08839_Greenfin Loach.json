@@ -1,0 +1,14 @@
+{
+  "id": 8839,
+  "name": "Greenfin Loach",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenfinLoach",
+    "text": "Greenfin Loach"
+  },
+  "type": "Item",
+  "textureInfo": "greenfin_loach",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

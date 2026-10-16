@@ -1,0 +1,19 @@
+{
+  "id": 995,
+  "name": "Patterned Cyan Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedCyanGlass",
+    "text": "Patterned Cyan Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_cyan",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 466,
+  "stackable": true
+}

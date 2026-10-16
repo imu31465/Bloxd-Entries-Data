@@ -1,0 +1,43 @@
+{
+  "id": 5874,
+  "name": "Black Concrete Stairs|meta|rot2|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackConcreteStairs",
+    "text": "Black Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "black_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Black Concrete Stairs",
+    "rootId": 3765,
+    "metaStr": "meta|rot2|top|innerLeft",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 192,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8470,
+  "name": "Orange Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_orange",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8829,
+  "name": "Bull Shark",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bullShark",
+    "text": "Bull Shark"
+  },
+  "type": "Item",
+  "textureInfo": "bull_shark",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

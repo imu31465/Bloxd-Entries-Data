@@ -1,0 +1,44 @@
+{
+  "id": 1581,
+  "name": "Custom Lobby Block|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:customLobbyBlock",
+    "text": "Custom Lobby Block"
+  },
+  "description": {
+    "key": "item:customLobbyBlockDescription",
+    "text": "Set special blocks for exporting map for custom lobbies"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "custom_lobby_block_top[rot[1",
+    "custom_lobby_block_top[rot[2",
+    "custom_lobby_block_top[rot[3",
+    "custom_lobby_block_top[rot[4",
+    "custom_lobby_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    3,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Custom Lobby Block",
+    "rootId": 1580,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    680,
+    681,
+    682,
+    683,
+    684
+  ],
+  "stackable": true
+}

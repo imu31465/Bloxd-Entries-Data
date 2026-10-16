@@ -1,0 +1,34 @@
+{
+  "id": 1591,
+  "name": "Generator Spawn Block (Gray)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayGeneratorSpawnBlock",
+    "text": "Gray Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:teamGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Coal and Iron Bars when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "gray_gen_spawn_top",
+    "gray_gen_spawn_coal",
+    "gray_gen_spawn_iron"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    706,
+    707,
+    708
+  ],
+  "stackable": true
+}

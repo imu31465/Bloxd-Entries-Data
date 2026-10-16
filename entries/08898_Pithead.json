@@ -1,0 +1,14 @@
+{
+  "id": 8898,
+  "name": "Pithead",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pithead",
+    "text": "Pithead"
+  },
+  "type": "Item",
+  "textureInfo": "pithead",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

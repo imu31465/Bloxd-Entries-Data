@@ -1,0 +1,15 @@
+{
+  "id": 8282,
+  "name": "Arrow of Haste",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfHaste",
+    "text": "Arrow of Haste"
+  },
+  "type": "Item",
+  "textureInfo": "haste_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

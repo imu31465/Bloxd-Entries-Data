@@ -1,0 +1,29 @@
+{
+  "id": 3153,
+  "name": "Extractor Pipe|meta|conn|nx_py",
+  "kind": "block",
+  "displayName": {
+    "key": "item:extractorPipe",
+    "text": "Extractor Pipe"
+  },
+  "description": {
+    "key": "item:extractorPipeDescription",
+    "text": "Place next to a chest to pull items into connected pipes."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "extractor_pipe",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Extractor Pipe",
+    "rootId": 3143,
+    "metaStr": "meta|conn|nx_py"
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "extractor_pipe_elbow_nx_py",
+  "blockModelItem": true
+}

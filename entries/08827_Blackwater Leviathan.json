@@ -1,0 +1,14 @@
+{
+  "id": 8827,
+  "name": "Blackwater Leviathan",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackwaterLeviathan",
+    "text": "Blackwater Leviathan"
+  },
+  "type": "Item",
+  "textureInfo": "blackwater_leviathan",
+  "weight": 1,
+  "heldItemScale": 5,
+  "stackable": true
+}

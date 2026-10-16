@@ -1,0 +1,16 @@
+{
+  "id": 9190,
+  "name": "Spectral Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralChestplate",
+    "text": "Spectral Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "spectral_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "spectral_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

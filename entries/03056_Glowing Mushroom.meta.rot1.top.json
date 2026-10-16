@@ -1,0 +1,35 @@
+{
+  "id": 3056,
+  "name": "Glowing Mushroom|meta|rot1|top",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "glowing_mushroom",
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Glowing Mushroom",
+    "rootId": 3055,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    8,
+    15,
+    15
+  ],
+  "stackable": true,
+  "blockModel": "glowing_mushroom",
+  "blockModelItem": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1243,
+  "name": "_Cherry Door Top|meta|rot2|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Cherry Door",
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Cherry Door Top",
+    "rootId": 1241,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "stackable": true
+}

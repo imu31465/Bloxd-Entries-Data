@@ -1,0 +1,14 @@
+{
+  "id": 8811,
+  "name": "Grass Snapper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grassSnapper",
+    "text": "Grass Snapper"
+  },
+  "type": "Item",
+  "textureInfo": "grass_snapper",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

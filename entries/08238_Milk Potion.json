@@ -1,0 +1,30 @@
+{
+  "id": 8238,
+  "name": "Milk Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:milkPotion",
+    "text": "Milk Potion"
+  },
+  "description": {
+    "key": "item:milkPotionDescription",
+    "text": "Removes all potion effects"
+  },
+  "type": "Chargeable",
+  "textureInfo": "milk_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Milk Potion",
+    "rootId": 8238,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Milk Potion|meta|charging1"
+}

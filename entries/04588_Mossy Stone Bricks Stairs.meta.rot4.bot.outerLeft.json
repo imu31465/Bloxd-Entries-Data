@@ -1,0 +1,37 @@
+{
+  "id": 4588,
+  "name": "Mossy Stone Bricks Stairs|meta|rot4|bot|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mossyStoneBricksStairs",
+    "text": "Mossy Stone Bricks Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick_mossy",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Mossy Stone Bricks Stairs",
+    "rootId": 3445,
+    "metaStr": "meta|rot4|bot|outerLeft",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 241,
+  "stackable": true
+}

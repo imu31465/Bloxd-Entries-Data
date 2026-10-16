@@ -1,0 +1,22 @@
+{
+  "id": 7881,
+  "name": "Wood Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodSword",
+    "text": "Wood Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "wooden_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 22,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

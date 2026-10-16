@@ -1,0 +1,39 @@
+{
+  "id": 5370,
+  "name": "Ice Bricks Stairs|meta|rot2|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:iceBricksStairs",
+    "text": "Ice Bricks Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "ice_brick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Ice Bricks Stairs",
+    "rootId": 3637,
+    "metaStr": "meta|rot2|top|outerLeft",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
+  "atlasIdx": 383,
+  "stackable": true
+}

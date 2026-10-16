@@ -1,0 +1,14 @@
+{
+  "id": 487,
+  "name": "Granite Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:graniteBricks",
+    "text": "Granite Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "granite_brick",
+  "harvestType": "rock",
+  "atlasIdx": 382,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8487,
+  "name": "Magenta Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaSeekingPaintballExplosive",
+    "text": "Magenta Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_magenta",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

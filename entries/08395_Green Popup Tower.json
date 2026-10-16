@@ -1,0 +1,18 @@
+{
+  "id": 8395,
+  "name": "Green Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenPopupTower",
+    "text": "Green Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "green_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

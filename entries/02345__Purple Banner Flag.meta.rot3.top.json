@@ -1,0 +1,41 @@
+{
+  "id": 2345,
+  "name": "_Purple Banner Flag|meta|rot3|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleBanner",
+    "text": "Purple Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_purple",
+  "drops": "Purple Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.625,
+    1,
+    1,
+    0.75
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Purple Banner Flag",
+    "rootId": 2343,
+    "metaStr": "meta|rot3|top",
+    "rot": 3,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Purple Banner Flag Hanging"
+}

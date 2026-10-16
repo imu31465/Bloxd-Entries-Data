@@ -1,0 +1,24 @@
+{
+  "id": 392,
+  "name": "Gray Bed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayBed",
+    "text": "Gray Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "gray_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Gray Bed",
+    "rootId": 392,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Gray Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Gray Bed"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2058,
+  "name": "Strawberry Bush_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:strawberries",
+    "text": "Strawberries"
+  },
+  "ttb": 400,
+  "textureInfo": "strawberry_bush_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "strawberry_bush_stage1",
+  "drops": null,
+  "solid": false,
+  "stackable": true
+}

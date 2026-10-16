@@ -1,0 +1,36 @@
+{
+  "id": 1008,
+  "name": "Potion Table",
+  "kind": "block",
+  "displayName": {
+    "key": "item:potionTable",
+    "text": "Potion Table"
+  },
+  "description": {
+    "key": "item:potionTableDescription",
+    "text": "Make tasty potions!"
+  },
+  "ttb": 1200,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "potion_table",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.875,
+    1
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Potion Table",
+    "rootId": 1008,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Potion Table|meta|rot1",
+  "stackable": true,
+  "blockModel": "Potion Table"
+}

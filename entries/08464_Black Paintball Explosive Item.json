@@ -1,0 +1,18 @@
+{
+  "id": 8464,
+  "name": "Black Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackPaintballExplosive",
+    "text": "Black Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_black",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

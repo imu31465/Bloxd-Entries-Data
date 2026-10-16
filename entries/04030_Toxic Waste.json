@@ -1,0 +1,47 @@
+{
+  "id": 4030,
+  "name": "Toxic Waste",
+  "kind": "block",
+  "displayName": {
+    "key": "item:toxicWaste",
+    "text": "Toxic Waste"
+  },
+  "textureInfo": {
+    "colour": [
+      0.36,
+      0.93,
+      0.3,
+      0.95
+    ],
+    "animTextures": [
+      "toxic_waste0",
+      "toxic_waste1",
+      "toxic_waste2",
+      "toxic_waste3",
+      "toxic_waste4",
+      "toxic_waste5",
+      "toxic_waste6",
+      "toxic_waste7"
+    ],
+    "animationInterval": 200
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "dm": true,
+  "lm": [
+    6,
+    14,
+    4
+  ],
+  "atlasIdx": [
+    24,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107
+  ],
+  "stackable": true
+}

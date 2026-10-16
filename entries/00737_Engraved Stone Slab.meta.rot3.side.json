@@ -1,0 +1,45 @@
+{
+  "id": 737,
+  "name": "Engraved Stone Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedStoneSlab",
+    "text": "Engraved Stone Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stonebrick_carved_side",
+    "stonebrick_carved"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Stone Slab",
+    "rootId": 733,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    406,
+    240
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Stone"
+}

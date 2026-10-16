@@ -1,0 +1,52 @@
+{
+  "id": 8317,
+  "name": "M1911|RequiresAmmo",
+  "kind": "item",
+  "displayName": {
+    "text": "M1911"
+  },
+  "type": "Gun",
+  "textureInfo": "M1911",
+  "weight": 1,
+  "heldItemScale": 2,
+  "heldItemGlb": "M1911",
+  "stackable": false,
+  "damage": 22,
+  "meta": {
+    "rootName": "M1911",
+    "rootId": 8316,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  },
+  "keepMetaInChest": true,
+  "gunType": "pistol",
+  "scopeType": "none",
+  "muzzleFlashOffsetFromGun": [
+    -3.5,
+    -1,
+    0
+  ],
+  "autoFireWithMouse": false,
+  "fireRate": 800,
+  "reloadTime": 1500,
+  "clipSize": 16,
+  "tagSpeedMult": 0.8,
+  "subsequentTagSpeedReductionScalar": 0.55,
+  "inaccuracyStanding": 15,
+  "inaccuracyFromShot": 20,
+  "inaccuracyMovement": 15,
+  "yVelocityInaccuracy": 1.5,
+  "inaccuracyFromJump": 15,
+  "altInaccuracyStanding": 12,
+  "altInaccuracyFromShot": 12,
+  "altInaccuracyMovement": 10,
+  "recoveryRate": 0.01,
+  "kickbackDecreaseRate": 0.000008,
+  "minKickback": 0.045,
+  "maxKickback": 0.05,
+  "kickbackRate": 0,
+  "msPerRound": 75,
+  "msPerRoundTouchScreen": 75,
+  "altYVelocityInaccuracy": 1.5,
+  "altInaccuracyFromJump": 15
+}

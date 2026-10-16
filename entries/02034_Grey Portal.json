@@ -1,0 +1,33 @@
+{
+  "id": 2034,
+  "name": "Grey Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greyPortal",
+    "text": "Grey Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "grey_portal0",
+      "grey_portal1",
+      "grey_portal2",
+      "grey_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    4,
+    4,
+    4
+  ],
+  "atlasIdx": [
+    7,
+    50,
+    51,
+    52
+  ],
+  "stackable": true
+}

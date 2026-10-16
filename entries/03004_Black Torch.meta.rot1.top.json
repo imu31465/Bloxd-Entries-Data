@@ -1,0 +1,32 @@
+{
+  "id": 3004,
+  "name": "Black Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_black",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Black Torch",
+    "rootId": 3003,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    2,
+    2,
+    2
+  ],
+  "stackable": true,
+  "blockModel": "torch_black",
+  "blockModelItem": true
+}

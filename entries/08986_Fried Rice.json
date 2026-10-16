@@ -1,0 +1,18 @@
+{
+  "id": 8986,
+  "name": "Fried Rice",
+  "kind": "item",
+  "displayName": {
+    "key": "item:friedRice",
+    "text": "Fried Rice"
+  },
+  "description": {
+    "key": "item:friedRiceDescription",
+    "text": "A flavourful bowl of fried rice"
+  },
+  "type": "Item",
+  "textureInfo": "fried_rice",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

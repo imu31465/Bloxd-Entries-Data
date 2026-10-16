@@ -1,0 +1,19 @@
+{
+  "id": 1000,
+  "name": "Patterned Lime Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedLimeGlass",
+    "text": "Patterned Lime Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_lime",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 471,
+  "stackable": true
+}

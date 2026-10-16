@@ -1,0 +1,17 @@
+{
+  "id": 2777,
+  "name": "Lucchia Blocchi Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "lucchia_blocchi",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "lucchia_blocchi",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

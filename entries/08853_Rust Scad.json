@@ -1,0 +1,14 @@
+{
+  "id": 8853,
+  "name": "Rust Scad",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rustScad",
+    "text": "Rust Scad"
+  },
+  "type": "Item",
+  "textureInfo": "rust_scad",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

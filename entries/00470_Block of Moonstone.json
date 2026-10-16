@@ -1,0 +1,14 @@
+{
+  "id": 470,
+  "name": "Block of Moonstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfMoonstone",
+    "text": "Block of Moonstone"
+  },
+  "ttb": 6750,
+  "textureInfo": "moonstone_block",
+  "harvestType": "rock",
+  "atlasIdx": 365,
+  "stackable": true
+}

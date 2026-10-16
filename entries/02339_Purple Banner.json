@@ -1,0 +1,41 @@
+{
+  "id": 2339,
+  "name": "Purple Banner",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleBanner",
+    "text": "Purple Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_purple",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Purple Banner",
+    "rootId": 2339,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Purple Banner|meta|rot1|bot",
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Purple Banner"
+}

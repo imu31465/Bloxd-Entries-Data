@@ -1,0 +1,17 @@
+{
+  "id": 2904,
+  "name": "67 Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "67",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "67",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

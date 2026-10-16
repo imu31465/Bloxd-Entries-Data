@@ -1,0 +1,14 @@
+{
+  "id": 8908,
+  "name": "Volcanic Catfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:volcanicCatfish",
+    "text": "Volcanic Catfish"
+  },
+  "type": "Item",
+  "textureInfo": "volcanic_catfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

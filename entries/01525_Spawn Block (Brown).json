@@ -1,0 +1,45 @@
+{
+  "id": 1525,
+  "name": "Spawn Block (Brown)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownSpawnBlock",
+    "text": "Spawn Block (Brown)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "brown_spawn_block_top[rot[1",
+    "brown_spawn_block_top[rot[2",
+    "brown_spawn_block_top[rot[3",
+    "brown_spawn_block_top[rot[4",
+    "brown_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Brown)",
+    "rootId": 1525,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Brown)|meta|rot1",
+  "atlasIdx": [
+    661,
+    662,
+    663,
+    664,
+    665
+  ],
+  "stackable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": 221,
+  "name": "Vines|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:vines",
+    "text": "Vines"
+  },
+  "ttb": 225,
+  "harvestType": "cuttable",
+  "model": "rotatableOffset",
+  "itemTexture": "vine_coloured",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Vines",
+    "rootId": 219,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Vines",
+  "blockModelItem": true
+}

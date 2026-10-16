@@ -1,0 +1,21 @@
+{
+  "id": 8096,
+  "name": "RPG",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rpg",
+    "text": "RPG"
+  },
+  "description": {
+    "key": "item:rpgDescription",
+    "text": "Fire rocket for BOOM"
+  },
+  "type": "FullAuto",
+  "textureInfo": "rpg",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": true,
+  "secondaryDamage": 13,
+  "holdAsAiming": true,
+  "hideAimingUI": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2098,
+  "name": "Beetroot Seeds",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beetrootSeeds",
+    "text": "Beetroot Seeds"
+  },
+  "description": {
+    "key": "item:beetrootSeedsDescription",
+    "text": "Plant to grow beetroot"
+  },
+  "ttb": 400,
+  "textureInfo": "beetroot_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "beetroot_seeds",
+  "solid": false,
+  "stackable": true
+}

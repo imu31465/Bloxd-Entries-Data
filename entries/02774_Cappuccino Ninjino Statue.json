@@ -1,0 +1,17 @@
+{
+  "id": 2774,
+  "name": "Cappuccino Ninjino Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "cappuccino_ninjino",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "cappuccino_ninjino",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

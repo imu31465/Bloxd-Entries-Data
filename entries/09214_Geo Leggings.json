@@ -1,0 +1,16 @@
+{
+  "id": 9214,
+  "name": "Geo Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoLeggings",
+    "text": "Geo Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "geo_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3071,
+  "name": "Overgrown Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:overgrownGrassBlock",
+    "text": "Overgrown Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": "grass_top",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": 112,
+  "stackable": true
+}

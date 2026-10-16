@@ -1,0 +1,25 @@
+{
+  "id": 9209,
+  "name": "Geo Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoWhip",
+    "text": "Geo Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "geo_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "geo_whip",
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

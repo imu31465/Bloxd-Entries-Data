@@ -1,0 +1,15 @@
+{
+  "id": 8743,
+  "name": "Caught Mob NPC Chef",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_chef",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Chef",
+    "rootId": 8743,
+    "caughtMobType": "NPC"
+  }
+}

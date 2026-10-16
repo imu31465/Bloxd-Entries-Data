@@ -1,0 +1,20 @@
+{
+  "id": 431,
+  "name": "_Blue Bed Head|meta|rot4",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "blue_bed",
+  "drops": "Blue Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Blue Bed Head",
+    "rootId": 428,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Blue Bed Head"
+}

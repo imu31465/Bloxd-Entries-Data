@@ -1,0 +1,37 @@
+{
+  "id": 3517,
+  "name": "Granite Stairs",
+  "kind": "block",
+  "displayName": {
+    "key": "item:graniteStairs",
+    "text": "Granite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_granite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Granite Stairs",
+    "rootId": 3517,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Granite Stairs|meta|rot1|bot",
+  "atlasIdx": 142,
+  "stackable": true
+}

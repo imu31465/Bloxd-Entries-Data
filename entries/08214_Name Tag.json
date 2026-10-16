@@ -1,0 +1,18 @@
+{
+  "id": 8214,
+  "name": "Name Tag",
+  "kind": "item",
+  "displayName": {
+    "key": "item:nameTag",
+    "text": "Name Tag"
+  },
+  "description": {
+    "key": "item:nameTagDescription",
+    "text": "Rename items"
+  },
+  "type": "Item",
+  "textureInfo": "name_tag",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

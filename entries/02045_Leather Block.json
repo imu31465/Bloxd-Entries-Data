@@ -1,0 +1,32 @@
+{
+  "id": 2045,
+  "name": "Leather Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:leatherBlock",
+    "text": "Leather Block"
+  },
+  "ttb": 960,
+  "textureInfo": [
+    "leather_block_side",
+    "leather_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": [
+    823,
+    824
+  ],
+  "stackable": true
+}

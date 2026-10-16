@@ -1,0 +1,30 @@
+{
+  "id": 1494,
+  "name": "Chili Pepper Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chiliPepperBlock",
+    "text": "Chili Pepper Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "chili_pepper_block_side",
+    "chili_pepper_block_top",
+    "chili_pepper_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    591,
+    592,
+    593
+  ],
+  "stackable": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3352,
+  "name": "Jungle Stairs|meta|rot4|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleStairs",
+    "text": "Jungle Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_jungle",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Jungle Stairs",
+    "rootId": 3349,
+    "metaStr": "meta|rot4|bot",
+    "rot": 4,
+    "halfblockPlacement": 0
+  },
+  "atlasIdx": 126,
+  "stackable": true
+}

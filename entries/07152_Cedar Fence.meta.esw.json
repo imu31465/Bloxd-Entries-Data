@@ -1,0 +1,48 @@
+{
+  "id": 7152,
+  "name": "Cedar Fence|meta|esw",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarFence",
+    "text": "Cedar Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cedar",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "cedar_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.625,
+    0,
+    0.375,
+    1,
+    1,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    1,
+    1,
+    0,
+    0,
+    0.375,
+    0.375,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Cedar Fence",
+    "rootId": 7138,
+    "metaStr": "meta|esw"
+  },
+  "atlasIdx": 128,
+  "stackable": true,
+  "attachedTop": "_Cedar Fence Top|meta|esw"
+}

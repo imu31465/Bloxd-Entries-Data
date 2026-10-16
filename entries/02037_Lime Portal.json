@@ -1,0 +1,33 @@
+{
+  "id": 2037,
+  "name": "Lime Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limePortal",
+    "text": "Lime Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "lime_portal0",
+      "lime_portal1",
+      "lime_portal2",
+      "lime_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    6,
+    9,
+    4
+  ],
+  "atlasIdx": [
+    10,
+    59,
+    60,
+    61
+  ],
+  "stackable": true
+}

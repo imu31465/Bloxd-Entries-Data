@@ -1,0 +1,14 @@
+{
+  "id": 8013,
+  "name": "Moonstone",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstone",
+    "text": "Moonstone"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

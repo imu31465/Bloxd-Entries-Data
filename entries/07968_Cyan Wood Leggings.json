@@ -1,0 +1,15 @@
+{
+  "id": 7968,
+  "name": "Cyan Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanWoodLeggings",
+    "text": "Cyan Wood Leggings"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

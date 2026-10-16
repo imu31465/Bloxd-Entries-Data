@@ -1,0 +1,15 @@
+{
+  "id": 8675,
+  "name": "Caught Mob Wildcat Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_wildcat_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Wildcat Default",
+    "rootId": 8675,
+    "caughtMobType": "Wildcat"
+  }
+}

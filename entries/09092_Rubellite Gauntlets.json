@@ -1,0 +1,15 @@
+{
+  "id": 9092,
+  "name": "Rubellite Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "rubellite_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

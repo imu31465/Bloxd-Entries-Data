@@ -1,0 +1,19 @@
+{
+  "id": 8350,
+  "name": "Ice Bridge",
+  "kind": "item",
+  "displayName": {
+    "key": "item:iceBridge",
+    "text": "Ice Bridge"
+  },
+  "description": {
+    "key": "item:iceBridgeDescription",
+    "text": "Create a bridge of melting ice"
+  },
+  "type": "Item",
+  "textureInfo": "ice_bridge",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "bridgeLength": 16
+}

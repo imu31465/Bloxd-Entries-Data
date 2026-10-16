@@ -1,0 +1,23 @@
+{
+  "id": 1240,
+  "name": "Cherry Door|meta|rot4|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cherry Door",
+    "rootId": 1233,
+    "metaStr": "meta|rot4|open",
+    "rot": 4,
+    "open": true
+  },
+  "stackable": true
+}

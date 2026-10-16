@@ -1,0 +1,20 @@
+{
+  "id": 3106,
+  "name": "_Auto Miner Drill Back|meta|rot2",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Auto Miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Auto Miner Drill Back",
+    "rootId": 3105,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_drill_back"
+}

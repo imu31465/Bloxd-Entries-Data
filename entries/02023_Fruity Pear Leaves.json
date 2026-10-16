@@ -1,0 +1,19 @@
+{
+  "id": 2023,
+  "name": "Fruity Pear Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityPearLeaves",
+    "text": "Fruity Pear Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_pear_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Pear Leaves"
+  },
+  "atlasIdx": 820,
+  "stackable": true
+}

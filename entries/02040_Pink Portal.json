@@ -1,0 +1,33 @@
+{
+  "id": 2040,
+  "name": "Pink Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkPortal",
+    "text": "Pink Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "pink_portal0",
+      "pink_portal1",
+      "pink_portal2",
+      "pink_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    9,
+    6,
+    7
+  ],
+  "atlasIdx": [
+    13,
+    68,
+    69,
+    70
+  ],
+  "stackable": true
+}

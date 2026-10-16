@@ -1,0 +1,23 @@
+{
+  "id": 7859,
+  "name": "Crystal Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crystalBlock",
+    "text": "Crystal Block"
+  },
+  "ttb": 1500,
+  "textureInfo": "crystal_block",
+  "harvestType": "rock",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    9,
+    15,
+    5
+  ],
+  "atlasIdx": 943,
+  "stackable": true
+}

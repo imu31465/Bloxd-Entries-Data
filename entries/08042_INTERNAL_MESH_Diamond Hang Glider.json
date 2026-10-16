@@ -1,0 +1,11 @@
+{
+  "id": 8042,
+  "name": "INTERNAL_MESH_Diamond Hang Glider",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "hang_glider_diamond",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Diamond Hang Glider",
+  "stackable": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 65,
+  "name": "Red Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redWool",
+    "text": "Red Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_red",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 171,
+  "stackable": true
+}

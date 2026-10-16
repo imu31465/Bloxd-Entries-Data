@@ -1,0 +1,41 @@
+{
+  "id": 2459,
+  "name": "Black Banner",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackBanner",
+    "text": "Black Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_black",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Black Banner",
+    "rootId": 2459,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Black Banner|meta|rot1|bot",
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Black Banner"
+}

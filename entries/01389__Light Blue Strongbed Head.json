@@ -1,0 +1,21 @@
+{
+  "id": 1389,
+  "name": "_Light Blue Strongbed Head",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "light_blue_strongbed",
+  "drops": "Light Blue Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Light Blue Strongbed Head",
+    "rootId": 1389,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Light Blue Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Light Blue Strongbed Head"
+}

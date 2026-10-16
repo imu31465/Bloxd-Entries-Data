@@ -1,0 +1,45 @@
+{
+  "id": 666,
+  "name": "Maple Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleSlab",
+    "text": "Maple Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_maple_side",
+    "planks_maple"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Slab",
+    "rootId": 661,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    394,
+    123
+  ],
+  "stackable": true,
+  "slabFullBlock": "Maple Wood Planks"
+}

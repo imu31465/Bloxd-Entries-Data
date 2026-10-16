@@ -1,0 +1,27 @@
+{
+  "id": 7837,
+  "name": "Cannon|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cannon",
+    "text": "Cannon"
+  },
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Cannon",
+    "rootId": 7835,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "cannon_bottom_back",
+  "blockModelItem": true
+}

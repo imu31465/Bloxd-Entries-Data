@@ -1,0 +1,24 @@
+{
+  "id": 8980,
+  "name": "Moonstone Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneWhip",
+    "text": "Moonstone Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "moonstone_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

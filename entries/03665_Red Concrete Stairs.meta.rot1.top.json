@@ -1,0 +1,36 @@
+{
+  "id": 3665,
+  "name": "Red Concrete Stairs|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redConcreteStairs",
+    "text": "Red Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "red_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Red Concrete Stairs",
+    "rootId": 3661,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 202,
+  "stackable": true
+}

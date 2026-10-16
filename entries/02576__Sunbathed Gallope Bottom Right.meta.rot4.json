@@ -1,0 +1,30 @@
+{
+  "id": 2576,
+  "name": "_Sunbathed Gallope Bottom Right|meta|rot4",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "horse_painting",
+  "drops": "Sunbathed Gallope",
+  "solid": false,
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "_Sunbathed Gallope Bottom Right",
+    "rootId": 2573,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "heldItemGlb": "Horse Painting",
+  "blockModel": "_Horse Painting Bottom Right"
+}

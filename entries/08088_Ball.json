@@ -1,0 +1,18 @@
+{
+  "id": 8088,
+  "name": "Ball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ball",
+    "text": "Ball"
+  },
+  "description": {
+    "key": "item:ballDescription",
+    "text": "A bouncy ball.\\nDoes wood actually bounce this much? idk"
+  },
+  "type": "Item",
+  "textureInfo": "ball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8005,
+  "name": "Raw Iron",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawIron",
+    "text": "Raw Iron"
+  },
+  "description": {
+    "key": "item:rawIronDescription",
+    "text": "Smelt me to get an Iron Bar"
+  },
+  "type": "Item",
+  "textureInfo": "raw_iron",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

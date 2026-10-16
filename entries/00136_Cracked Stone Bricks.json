@@ -1,0 +1,14 @@
+{
+  "id": 136,
+  "name": "Cracked Stone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crackedStoneBricks",
+    "text": "Cracked Stone Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick_cracked",
+  "harvestType": "rock",
+  "atlasIdx": 242,
+  "stackable": true
+}

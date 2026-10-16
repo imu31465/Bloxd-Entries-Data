@@ -1,0 +1,29 @@
+{
+  "id": 8753,
+  "name": "Aura XP Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:auraXpOrb",
+    "text": "Aura XP Orb"
+  },
+  "description": {
+    "key": "item:auraXpOrbDescription",
+    "text": "Consume to gain Aura Levels"
+  },
+  "type": "Chargeable",
+  "textureInfo": "aura_xp_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 1250,
+  "meta": {
+    "rootName": "Aura XP Orb",
+    "rootId": 8753,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Aura XP Orb|meta|charging1"
+}

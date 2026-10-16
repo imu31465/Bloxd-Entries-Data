@@ -1,0 +1,17 @@
+{
+  "id": 496,
+  "name": "Palm Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_palm",
+  "harvestType": "cuttable",
+  "drops": "Palm Leaves",
+  "meta": {
+    "rootName": "Palm Leaves",
+    "rootId": 493,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 386,
+  "stackable": true
+}

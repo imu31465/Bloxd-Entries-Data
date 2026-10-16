@@ -1,0 +1,19 @@
+{
+  "id": 1003,
+  "name": "Patterned Pink Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedPinkGlass",
+    "text": "Patterned Pink Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_pink",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 474,
+  "stackable": true
+}

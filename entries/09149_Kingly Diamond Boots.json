@@ -1,0 +1,16 @@
+{
+  "id": 9149,
+  "name": "Kingly Diamond Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyDiamondBoots",
+    "text": "Kingly Diamond Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_diamond_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_diamond_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

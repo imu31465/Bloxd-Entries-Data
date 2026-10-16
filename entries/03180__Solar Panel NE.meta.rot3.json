@@ -1,0 +1,33 @@
+{
+  "id": 3180,
+  "name": "_Solar Panel NE|meta|rot3",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": [
+    "solar_panel_side",
+    "solar_panel_top",
+    "solar_panel_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": "Solar Panel",
+  "meta": {
+    "rootName": "_Solar Panel NE",
+    "rootId": 3178,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    877,
+    878,
+    879
+  ],
+  "stackable": true
+}

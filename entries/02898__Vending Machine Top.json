@@ -1,0 +1,22 @@
+{
+  "id": 2898,
+  "name": "_Vending Machine Top",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Vending Machine",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Vending Machine Top",
+    "rootId": 2898,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Vending Machine Top|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "vending_machine_top"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8189,
+  "name": "Raw Beef",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawBeef",
+    "text": "Raw Beef"
+  },
+  "description": {
+    "key": "item:rawFoodDescription",
+    "text": "Cook and eat to gain health (or eat RAW for a nasty surprise...)"
+  },
+  "type": "Chargeable",
+  "textureInfo": "raw_beef",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 28,
+  "chargeStages": 1,
+  "chargeTime": 1200,
+  "meta": {
+    "rootName": "Raw Beef",
+    "rootId": 8189,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Raw Beef|meta|charging1"
+}

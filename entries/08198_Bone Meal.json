@@ -1,0 +1,18 @@
+{
+  "id": 8198,
+  "name": "Bone Meal",
+  "kind": "item",
+  "displayName": {
+    "key": "item:boneMeal",
+    "text": "Bone Meal"
+  },
+  "description": {
+    "key": "item:boneMealDescription",
+    "text": "Use on tree saplings and crops to instantly grow them"
+  },
+  "type": "Item",
+  "textureInfo": "bone_meal",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

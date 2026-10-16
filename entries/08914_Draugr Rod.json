@@ -1,0 +1,20 @@
+{
+  "id": 8914,
+  "name": "Draugr Rod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrRod",
+    "text": "Draugr Rod"
+  },
+  "type": "Item",
+  "textureInfo": "draugr_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "fishingRodInfo": {
+    "biteDelayMs": [
+      2000,
+      4000
+    ]
+  }
+}

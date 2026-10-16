@@ -1,0 +1,26 @@
+{
+  "id": 8226,
+  "name": "Splash Poison Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashPoisonPotionII",
+    "text": "Splash Poison Potion II"
+  },
+  "description": {
+    "key": "item:splashPoisonPotionDescription",
+    "text": "Poison anyone who stands in your way!"
+  },
+  "type": "Item",
+  "textureInfo": "splash_poison",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Poison Potion",
+  "stackable": false,
+  "meta": {
+    "rootName": "Splash Poison Potion II",
+    "rootId": 8226,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Splash Poison Potion II|meta|charging1"
+}

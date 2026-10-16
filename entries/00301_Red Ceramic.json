@@ -1,0 +1,39 @@
+{
+  "id": 301,
+  "name": "Red Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redCeramic",
+    "text": "Red Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "red_glazed_terracotta[rot[1",
+    "red_glazed_terracotta[rot[2",
+    "red_glazed_terracotta[rot[3",
+    "red_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Red Ceramic",
+    "rootId": 301,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Red Ceramic|meta|rot1",
+  "atlasIdx": [
+    342,
+    343,
+    344,
+    345
+  ],
+  "stackable": true
+}

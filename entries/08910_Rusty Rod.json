@@ -1,0 +1,24 @@
+{
+  "id": 8910,
+  "name": "Rusty Rod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rustyRod",
+    "text": "Rusty Rod"
+  },
+  "description": {
+    "key": "item:rustyRodDescription",
+    "text": "Cast into water, then click or tap when a fish bites."
+  },
+  "type": "Item",
+  "textureInfo": "rusty_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "fishingRodInfo": {
+    "biteDelayMs": [
+      7000,
+      9000
+    ]
+  }
+}

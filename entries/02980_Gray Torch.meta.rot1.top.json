@@ -1,0 +1,32 @@
+{
+  "id": 2980,
+  "name": "Gray Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_gray",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Gray Torch",
+    "rootId": 2979,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    5,
+    5,
+    5
+  ],
+  "stackable": true,
+  "blockModel": "torch_gray",
+  "blockModelItem": true
+}

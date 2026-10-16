@@ -1,0 +1,24 @@
+{
+  "id": 1361,
+  "name": "White Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteStrongbed",
+    "text": "White Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "white_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "White Strongbed",
+    "rootId": 1361,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "White Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "White Strongbed"
+}

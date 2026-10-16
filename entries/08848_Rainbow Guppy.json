@@ -1,0 +1,14 @@
+{
+  "id": 8848,
+  "name": "Rainbow Guppy",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rainbowGuppy",
+    "text": "Rainbow Guppy"
+  },
+  "type": "Item",
+  "textureInfo": "rainbow_guppy",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

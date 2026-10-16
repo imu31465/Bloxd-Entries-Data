@@ -1,0 +1,16 @@
+{
+  "id": 9020,
+  "name": "Lucky Tools Upgrade",
+  "kind": "item",
+  "displayName": {
+    "text": "Tools Upgrade"
+  },
+  "description": {
+    "text": "Use to permanently advance your Pickaxe and Axe tier for this match. Share spare upgrades with your team."
+  },
+  "type": "Item",
+  "textureInfo": "lucky_tools_upgrade",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

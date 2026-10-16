@@ -1,0 +1,32 @@
+{
+  "id": 2998,
+  "name": "Blue Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_blue",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Blue Torch",
+    "rootId": 2997,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    3,
+    3,
+    14
+  ],
+  "stackable": true,
+  "blockModel": "torch_blue",
+  "blockModelItem": true
+}

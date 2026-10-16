@@ -1,0 +1,19 @@
+{
+  "id": 8351,
+  "name": "Maple Planks Bridge",
+  "kind": "item",
+  "displayName": {
+    "key": "item:maplePlanksBridge",
+    "text": "Maple Planks Bridge"
+  },
+  "description": {
+    "key": "item:maplePlanksBridgeDescription",
+    "text": "Create a bridge of maple wood planks"
+  },
+  "type": "Item",
+  "textureInfo": "maple_planks_bridge",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "bridgeLength": 16
+}

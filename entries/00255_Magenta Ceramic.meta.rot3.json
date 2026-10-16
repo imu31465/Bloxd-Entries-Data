@@ -1,0 +1,34 @@
+{
+  "id": 255,
+  "name": "Magenta Ceramic|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "magenta_glazed_terracotta[rot[1",
+    "magenta_glazed_terracotta[rot[2",
+    "magenta_glazed_terracotta[rot[3",
+    "magenta_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    2,
+    0,
+    0,
+    0,
+    1,
+    3
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Magenta Ceramic",
+    "rootId": 253,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    294,
+    295,
+    296,
+    297
+  ],
+  "stackable": true
+}

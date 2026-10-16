@@ -1,0 +1,33 @@
+{
+  "id": 2947,
+  "name": "Orange Torch|meta|rot3|side",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "torch_orange",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Orange Torch",
+    "rootId": 2943,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 3.141592653589793
+  },
+  "lm": [
+    15,
+    11,
+    3
+  ],
+  "stackable": true,
+  "blockModel": "torch_wall_orange",
+  "blockModelItem": true
+}

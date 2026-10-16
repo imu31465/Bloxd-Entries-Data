@@ -1,0 +1,21 @@
+{
+  "id": 452,
+  "name": "_Red Bed Head",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "red_bed",
+  "drops": "Red Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Red Bed Head",
+    "rootId": 452,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Red Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Red Bed Head"
+}

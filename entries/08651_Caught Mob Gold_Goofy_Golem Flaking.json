@@ -1,0 +1,15 @@
+{
+  "id": 8651,
+  "name": "Caught Mob Gold_Goofy_Golem Flaking",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_gold_goofy_golem_flaking",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Gold_Goofy_Golem Flaking",
+    "rootId": 8651,
+    "caughtMobType": "Gold Goofy Golem"
+  }
+}

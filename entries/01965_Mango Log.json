@@ -1,0 +1,14 @@
+{
+  "id": 1965,
+  "name": "Mango Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoLog",
+    "text": "Mango Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_mango",
+  "harvestType": "wood",
+  "atlasIdx": 806,
+  "stackable": true
+}

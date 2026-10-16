@@ -1,0 +1,14 @@
+{
+  "id": 910,
+  "name": "Pear Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearWoodPlanks",
+    "text": "Pear Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pear",
+  "harvestType": "wood",
+  "atlasIdx": 439,
+  "stackable": true
+}

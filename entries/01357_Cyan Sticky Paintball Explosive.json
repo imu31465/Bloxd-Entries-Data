@@ -1,0 +1,10 @@
+{
+  "id": 1357,
+  "name": "Cyan Sticky Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_sticky_cyan",
+  "harvestType": "cuttable",
+  "atlasIdx": 587,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8057,
+  "name": "Cyan Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanKart",
+    "text": "Cyan Kart"
+  },
+  "type": "Item",
+  "textureInfo": "cyan_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Cyan Kart Item",
+  "stackable": false
+}

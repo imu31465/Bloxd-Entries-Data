@@ -1,0 +1,15 @@
+{
+  "id": 2625,
+  "name": "Hollow Crate",
+  "kind": "block",
+  "displayName": {
+    "key": "item:hollowCrate",
+    "text": "Hollow Crate"
+  },
+  "ttb": 600,
+  "textureInfo": "crate",
+  "harvestType": "wood",
+  "solid": false,
+  "atlasIdx": 831,
+  "stackable": true
+}

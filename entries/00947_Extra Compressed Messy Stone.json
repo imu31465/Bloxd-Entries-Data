@@ -1,0 +1,14 @@
+{
+  "id": 947,
+  "name": "Extra Compressed Messy Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:extraCompressedMessyStone",
+    "text": "Extra Compressed Messy Stone"
+  },
+  "ttb": 24000,
+  "textureInfo": "extra_compressed_messy_stone",
+  "harvestType": "rock",
+  "atlasIdx": 446,
+  "stackable": true
+}

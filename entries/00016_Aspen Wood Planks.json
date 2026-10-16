@@ -1,0 +1,14 @@
+{
+  "id": 16,
+  "name": "Aspen Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenWoodPlanks",
+    "text": "Aspen Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_aspen",
+  "harvestType": "wood",
+  "atlasIdx": 124,
+  "stackable": true
+}

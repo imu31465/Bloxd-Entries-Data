@@ -1,0 +1,24 @@
+{
+  "id": 9053,
+  "name": "Amethite Whip",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "amethite_whip",
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

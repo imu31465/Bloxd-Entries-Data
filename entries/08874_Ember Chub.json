@@ -1,0 +1,14 @@
+{
+  "id": 8874,
+  "name": "Ember Chub",
+  "kind": "item",
+  "displayName": {
+    "key": "item:emberChub",
+    "text": "Ember Chub"
+  },
+  "type": "Item",
+  "textureInfo": "ember_chub",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

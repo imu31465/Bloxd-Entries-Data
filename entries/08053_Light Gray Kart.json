@@ -1,0 +1,15 @@
+{
+  "id": 8053,
+  "name": "Light Gray Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayKart",
+    "text": "Light Gray Kart"
+  },
+  "type": "Item",
+  "textureInfo": "light_gray_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Light Gray Kart Item",
+  "stackable": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 937,
+  "name": "Pear Log|TreeBase|Pear",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_pear",
+  "harvestType": "wood",
+  "drops": "Pear Log",
+  "meta": {
+    "rootName": "Pear Log",
+    "rootId": 909,
+    "metaStr": "TreeBase|Pear",
+    "treeBase": true,
+    "woodType": "Pear"
+  },
+  "atlasIdx": 438,
+  "stackable": true
+}

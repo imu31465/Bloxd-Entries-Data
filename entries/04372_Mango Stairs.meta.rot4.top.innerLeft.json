@@ -1,0 +1,43 @@
+{
+  "id": 4372,
+  "name": "Mango Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoStairs",
+    "text": "Mango Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Mango Stairs",
+    "rootId": 3389,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 808,
+  "stackable": true
+}

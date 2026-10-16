@@ -1,0 +1,14 @@
+{
+  "id": 8878,
+  "name": "Frost Wolf Eel",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostWolfEel",
+    "text": "Frost Wolf Eel"
+  },
+  "type": "Item",
+  "textureInfo": "frost_wolf_eel",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8208,
+  "name": "Choir Bell",
+  "kind": "item",
+  "displayName": {
+    "text": "Choir Bell"
+  },
+  "description": {
+    "text": "The toll that calls the dead. Salvaged from a Hollow Choir."
+  },
+  "type": "Item",
+  "textureInfo": "choir_bell",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

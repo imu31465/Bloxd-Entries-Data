@@ -1,0 +1,25 @@
+{
+  "id": 7234,
+  "name": "Jungle Fence",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleFence",
+    "text": "Jungle Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_jungle",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "jungle_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "atlasIdx": 126,
+  "stackable": true,
+  "attachedTop": "_Jungle Fence Top"
+}

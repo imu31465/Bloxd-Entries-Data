@@ -1,0 +1,19 @@
+{
+  "id": 106,
+  "name": "Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:glass",
+    "text": "Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 213,
+  "stackable": true
+}

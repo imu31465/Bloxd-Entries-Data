@@ -1,0 +1,53 @@
+{
+  "id": 8337,
+  "name": "SKAR|RequiresAmmo",
+  "kind": "item",
+  "displayName": {
+    "text": "SKAR"
+  },
+  "type": "Gun",
+  "textureInfo": "SKAR",
+  "weight": 1,
+  "heldItemScale": 2.5,
+  "heldItemGlb": "SKAR",
+  "stackable": false,
+  "damage": 33,
+  "meta": {
+    "rootName": "SKAR",
+    "rootId": 8336,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  },
+  "keepMetaInChest": true,
+  "gunType": "semi_automatic",
+  "scopeType": "none",
+  "muzzleFlashOffsetFromGun": [
+    -5.5,
+    -0.5,
+    0
+  ],
+  "muzzleFlashScale": 1.5,
+  "autoFireWithMouse": true,
+  "fireRate": 550,
+  "reloadTime": 2800,
+  "clipSize": 20,
+  "tagSpeedMult": 0.8,
+  "subsequentTagSpeedReductionScalar": 0.55,
+  "inaccuracyStanding": 8,
+  "inaccuracyFromShot": 22,
+  "inaccuracyMovement": 35,
+  "yVelocityInaccuracy": 4,
+  "inaccuracyFromJump": 45,
+  "altInaccuracyStanding": 3,
+  "altInaccuracyFromShot": 15,
+  "altInaccuracyMovement": 20,
+  "recoveryRate": 0.008,
+  "kickbackDecreaseRate": 0.000005,
+  "minKickback": 0.04,
+  "maxKickback": 0.109,
+  "kickbackRate": 10,
+  "msPerRound": 109.09090909090908,
+  "msPerRoundTouchScreen": 109.09090909090908,
+  "altYVelocityInaccuracy": 4,
+  "altInaccuracyFromJump": 45
+}

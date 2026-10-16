@@ -1,0 +1,30 @@
+{
+  "id": 8190,
+  "name": "Steak",
+  "kind": "item",
+  "displayName": {
+    "key": "item:steak",
+    "text": "Steak"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "steak",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 28,
+  "chargeStages": 1,
+  "chargeTime": 1200,
+  "meta": {
+    "rootName": "Steak",
+    "rootId": 8190,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Steak|meta|charging1"
+}

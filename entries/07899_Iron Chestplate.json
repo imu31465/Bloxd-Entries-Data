@@ -1,0 +1,15 @@
+{
+  "id": 7899,
+  "name": "Iron Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironChestplate",
+    "text": "Iron Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "iron_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.18
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8971,
+  "name": "Iron Mace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironMace",
+    "text": "Iron Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 17,
+  "velocityMultiplier": 2.6,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 3
+}

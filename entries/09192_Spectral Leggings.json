@@ -1,0 +1,16 @@
+{
+  "id": 9192,
+  "name": "Spectral Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralLeggings",
+    "text": "Spectral Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "spectral_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "spectral_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

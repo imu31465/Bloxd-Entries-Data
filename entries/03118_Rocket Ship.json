@@ -1,0 +1,23 @@
+{
+  "id": 3118,
+  "name": "Rocket Ship",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rocketShip",
+    "text": "Stage 1 Rocket Ship"
+  },
+  "description": {
+    "key": "item:rocketShipDescription",
+    "text": "Use it to go to the moon! A towering rocket ship built in stages. Place it and right-click to upgrade."
+  },
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "rocket",
+  "drops": null,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "rocket_southwest_1"
+}

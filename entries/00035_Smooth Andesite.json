@@ -1,0 +1,14 @@
+{
+  "id": 35,
+  "name": "Smooth Andesite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothAndesite",
+    "text": "Smooth Andesite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_andesite_smooth",
+  "harvestType": "rock",
+  "atlasIdx": 141,
+  "stackable": true
+}

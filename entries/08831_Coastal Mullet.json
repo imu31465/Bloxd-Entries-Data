@@ -1,0 +1,14 @@
+{
+  "id": 8831,
+  "name": "Coastal Mullet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coastalMullet",
+    "text": "Coastal Mullet"
+  },
+  "type": "Item",
+  "textureInfo": "coastal_mullet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

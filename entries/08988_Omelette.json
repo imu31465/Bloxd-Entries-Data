@@ -1,0 +1,19 @@
+{
+  "id": 8988,
+  "name": "Omelette",
+  "kind": "item",
+  "displayName": {
+    "key": "item:omelette",
+    "text": "Omelette"
+  },
+  "description": {
+    "key": "item:omeletteDescription",
+    "text": "A fluffy golden omelette"
+  },
+  "type": "Item",
+  "textureInfo": "omelette",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "omelette",
+  "stackable": false
+}

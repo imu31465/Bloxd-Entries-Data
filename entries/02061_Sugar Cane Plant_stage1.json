@@ -1,0 +1,17 @@
+{
+  "id": 2061,
+  "name": "Sugar Cane Plant_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sugarCane",
+    "text": "Sugar Cane"
+  },
+  "ttb": 400,
+  "textureInfo": "sugar_cane_plant_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "sugar_cane_plant_stage1",
+  "drops": null,
+  "solid": false,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 962,
+  "name": "Iceball Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:iceballBlock",
+    "text": "Iceball Block"
+  },
+  "ttb": 1,
+  "textureInfo": "iceball_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 455,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 493,
+  "name": "Palm Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmLeaves",
+    "text": "Palm Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_palm",
+  "harvestType": "cuttable",
+  "atlasIdx": 386,
+  "stackable": true
+}

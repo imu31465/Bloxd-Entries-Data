@@ -1,0 +1,15 @@
+{
+  "id": 8654,
+  "name": "Caught Mob Gold_Goofy_Golem Bare",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_gold_goofy_golem_bare",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Gold_Goofy_Golem Bare",
+    "rootId": 8654,
+    "caughtMobType": "Gold Goofy Golem"
+  }
+}

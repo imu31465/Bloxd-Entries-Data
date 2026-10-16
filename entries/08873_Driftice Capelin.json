@@ -1,0 +1,14 @@
+{
+  "id": 8873,
+  "name": "Driftice Capelin",
+  "kind": "item",
+  "displayName": {
+    "key": "item:drifticeCapelin",
+    "text": "Driftice Capelin"
+  },
+  "type": "Item",
+  "textureInfo": "driftice_capelin",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

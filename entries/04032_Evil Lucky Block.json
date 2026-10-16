@@ -1,0 +1,32 @@
+{
+  "id": 4032,
+  "name": "Evil Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:evilLuckyBlock",
+    "text": "Evil Lucky Block"
+  },
+  "description": {
+    "key": "item:evilLuckyBlockDescription",
+    "text": "Whoever opens it gets something bad."
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "evil_lucky_block",
+    "evil_lucky_block_face"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    936,
+    937
+  ],
+  "stackable": true
+}

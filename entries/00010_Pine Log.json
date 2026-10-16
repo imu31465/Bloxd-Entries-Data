@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "name": "Pine Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineLog",
+    "text": "Pine Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_pine",
+  "harvestType": "wood",
+  "atlasIdx": 118,
+  "stackable": true
+}

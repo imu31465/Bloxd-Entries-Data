@@ -1,0 +1,21 @@
+{
+  "id": 9160,
+  "name": "Sanguine Crossbow Charged",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineCrossbowCharged",
+    "text": "Sanguine Crossbow Charged"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "sanguine_crossbow_charged",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "sanguine_crossbow_charged",
+  "stackable": false,
+  "secondaryDamage": 68,
+  "holdAsAiming": true
+}

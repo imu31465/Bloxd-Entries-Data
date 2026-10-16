@@ -1,0 +1,46 @@
+{
+  "id": 769,
+  "name": "Engraved Andesite Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedAndesiteSlab",
+    "text": "Engraved Andesite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_engraved_andesite_side",
+    "engraved_andesite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Andesite Slab",
+    "rootId": 769,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Engraved Andesite Slab|meta|rot1|bot",
+  "atlasIdx": [
+    412,
+    379
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Andesite"
+}

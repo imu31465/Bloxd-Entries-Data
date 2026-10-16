@@ -1,0 +1,18 @@
+{
+  "id": 9245,
+  "name": "Deepbite Drill Tip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:deepbiteDrillTip",
+    "text": "Deepbite Drill Tip"
+  },
+  "description": {
+    "key": "item:deepbiteDrillTipDescription",
+    "text": "A hardened iron drill tip, fluted to bite deep into stone."
+  },
+  "type": "Item",
+  "textureInfo": "deepbite_drill_tip",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

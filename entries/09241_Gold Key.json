@@ -1,0 +1,15 @@
+{
+  "id": 9241,
+  "name": "Gold Key",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldKey",
+    "text": "Gold Key"
+  },
+  "type": "Item",
+  "textureInfo": "gold_key",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "gold_key",
+  "stackable": true
+}

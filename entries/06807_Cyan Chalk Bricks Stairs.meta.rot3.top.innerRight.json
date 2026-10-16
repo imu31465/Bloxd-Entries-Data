@@ -1,0 +1,53 @@
+{
+  "id": 6807,
+  "name": "Cyan Chalk Bricks Stairs|meta|rot3|top|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_cyan",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    1,
+    0.5,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Cyan Chalk Bricks Stairs",
+    "rootId": 3997,
+    "metaStr": "meta|rot3|top|innerRight",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 783,
+  "stackable": true
+}

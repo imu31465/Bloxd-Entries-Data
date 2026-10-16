@@ -1,0 +1,14 @@
+{
+  "id": 73,
+  "name": "Lime Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeBakedClay",
+    "text": "Lime Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_lime",
+  "harvestType": "rock",
+  "atlasIdx": 179,
+  "stackable": true
+}

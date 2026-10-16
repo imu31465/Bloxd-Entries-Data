@@ -1,0 +1,32 @@
+{
+  "id": 912,
+  "name": "Pear Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearDoor",
+    "text": "Pear Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "pear_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Pear Door",
+    "rootId": 912,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Pear Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Pear Door"
+}

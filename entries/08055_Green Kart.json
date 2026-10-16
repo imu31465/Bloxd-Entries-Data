@@ -1,0 +1,15 @@
+{
+  "id": 8055,
+  "name": "Green Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenKart",
+    "text": "Green Kart"
+  },
+  "type": "Item",
+  "textureInfo": "green_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Green Kart Item",
+  "stackable": false
+}

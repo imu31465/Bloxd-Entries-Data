@@ -1,0 +1,18 @@
+{
+  "id": 1967,
+  "name": "Barkless Mango Log|TreeBase|Mango",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_mango_log",
+  "harvestType": "wood",
+  "drops": "Barkless Mango Log",
+  "meta": {
+    "rootName": "Barkless Mango Log",
+    "rootId": 1966,
+    "metaStr": "TreeBase|Mango",
+    "treeBase": true,
+    "woodType": "Mango"
+  },
+  "atlasIdx": 807,
+  "stackable": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2678,
+  "name": "INTERNAL_MESH_Gold Trophy",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Gold Trophy",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

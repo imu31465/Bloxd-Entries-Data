@@ -1,0 +1,15 @@
+{
+  "id": 8267,
+  "name": "Arrow of Knockback",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfKnockback",
+    "text": "Arrow of Knockback"
+  },
+  "type": "Item",
+  "textureInfo": "knockback_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

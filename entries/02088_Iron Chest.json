@@ -1,0 +1,45 @@
+{
+  "id": 2088,
+  "name": "Iron Chest",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironChest",
+    "text": "Iron Chest"
+  },
+  "description": {
+    "key": "item:ironChestDescription",
+    "text": "Lock using a passkey"
+  },
+  "ttb": 7200,
+  "textureInfo": [
+    "iron_chest_front",
+    "iron_chest_side",
+    "iron_chest_top_1",
+    "iron_chest_top_2",
+    "iron_chest_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    3,
+    3,
+    0,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Iron Chest",
+    "rootId": 2088,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Iron Chest|meta|rot1",
+  "atlasIdx": [
+    826,
+    827,
+    828,
+    829,
+    830
+  ],
+  "stackable": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1433,
+  "name": "Cyan Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanStrongbed",
+    "text": "Cyan Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "cyan_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Cyan Strongbed",
+    "rootId": 1433,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Cyan Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Cyan Strongbed"
+}

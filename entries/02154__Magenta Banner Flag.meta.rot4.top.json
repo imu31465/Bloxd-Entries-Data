@@ -1,0 +1,41 @@
+{
+  "id": 2154,
+  "name": "_Magenta Banner Flag|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaBanner",
+    "text": "Magenta Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_magenta",
+  "drops": "Magenta Banner",
+  "solid": false,
+  "Am": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Magenta Banner Flag",
+    "rootId": 2151,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Magenta Banner Flag Hanging"
+}

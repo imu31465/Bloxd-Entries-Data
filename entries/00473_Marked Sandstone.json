@@ -1,0 +1,14 @@
+{
+  "id": 473,
+  "name": "Marked Sandstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:markedSandstone",
+    "text": "Marked Sandstone"
+  },
+  "ttb": 960,
+  "textureInfo": "cut_sandstone",
+  "harvestType": "rock",
+  "atlasIdx": 368,
+  "stackable": true
+}

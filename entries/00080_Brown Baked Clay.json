@@ -1,0 +1,14 @@
+{
+  "id": 80,
+  "name": "Brown Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownBakedClay",
+    "text": "Brown Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_brown",
+  "harvestType": "rock",
+  "atlasIdx": 186,
+  "stackable": true
+}

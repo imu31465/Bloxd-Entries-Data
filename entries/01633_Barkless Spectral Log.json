@@ -1,0 +1,14 @@
+{
+  "id": 1633,
+  "name": "Barkless Spectral Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessSpectralLog",
+    "text": "Barkless Spectral Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_spectral_log",
+  "harvestType": "wood",
+  "atlasIdx": 744,
+  "stackable": true
+}

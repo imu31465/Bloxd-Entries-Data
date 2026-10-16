@@ -1,0 +1,19 @@
+{
+  "id": 8028,
+  "name": "Lava Bucket",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lavaBucket",
+    "text": "Lava Bucket"
+  },
+  "type": "Item",
+  "textureInfo": "lava_bucket",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "lm": [
+    12,
+    7,
+    2
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 89,
+  "name": "Cyan Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanConcrete",
+    "text": "Cyan Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "cyan_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 195,
+  "stackable": true
+}

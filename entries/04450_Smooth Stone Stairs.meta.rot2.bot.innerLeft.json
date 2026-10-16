@@ -1,0 +1,43 @@
+{
+  "id": 4450,
+  "name": "Smooth Stone Stairs|meta|rot2|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothStoneStairs",
+    "text": "Smooth Stone Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "smooth_stone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Smooth Stone Stairs",
+    "rootId": 3413,
+    "metaStr": "meta|rot2|bot|innerLeft",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 137,
+  "stackable": true
+}

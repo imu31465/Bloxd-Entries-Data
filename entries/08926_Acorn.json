@@ -1,0 +1,30 @@
+{
+  "id": 8926,
+  "name": "Acorn",
+  "kind": "item",
+  "displayName": {
+    "key": "item:acorn",
+    "text": "Acorn"
+  },
+  "description": {
+    "key": "item:acornDescription",
+    "text": "Combine to make Acorn Jelly to give you mining haste."
+  },
+  "type": "Chargeable",
+  "textureInfo": "acorn",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Acorn",
+    "rootId": 8926,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Acorn|meta|charging1"
+}

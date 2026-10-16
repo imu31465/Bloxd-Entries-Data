@@ -1,0 +1,33 @@
+{
+  "id": 928,
+  "name": "Pear Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearTrapdoor",
+    "text": "Pear Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "pear_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Pear Trapdoor",
+    "rootId": 928,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Pear Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Pear Trapdoor",
+  "blockModelItem": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": 697,
+  "name": "Palm Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmSlab",
+    "text": "Palm Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_palm_side",
+    "planks_palm"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Palm Slab",
+    "rootId": 697,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Palm Slab|meta|rot1|bot",
+  "atlasIdx": [
+    400,
+    388
+  ],
+  "stackable": true,
+  "slabFullBlock": "Palm Wood Planks"
+}

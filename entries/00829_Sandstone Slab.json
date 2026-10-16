@@ -1,0 +1,46 @@
+{
+  "id": 829,
+  "name": "Sandstone Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sandstoneSlab",
+    "text": "Sandstone Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_sandstone_normal_side",
+    "sandstone_normal"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Sandstone Slab",
+    "rootId": 829,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Sandstone Slab|meta|rot1|bot",
+  "atlasIdx": [
+    422,
+    144
+  ],
+  "stackable": true,
+  "slabFullBlock": "Sandstone"
+}

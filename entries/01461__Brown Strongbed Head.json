@@ -1,0 +1,21 @@
+{
+  "id": 1461,
+  "name": "_Brown Strongbed Head",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "brown_strongbed",
+  "drops": "Brown Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Brown Strongbed Head",
+    "rootId": 1461,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Brown Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Brown Strongbed Head"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 9132,
+  "name": "Serpentite Club",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "serpentite_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "serpentite_club",
+  "stackable": false,
+  "damage": 40,
+  "knockbackHorizontalScalar": 2.5,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

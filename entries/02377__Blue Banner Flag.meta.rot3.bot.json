@@ -1,0 +1,41 @@
+{
+  "id": 2377,
+  "name": "_Blue Banner Flag|meta|rot3|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueBanner",
+    "text": "Blue Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_blue",
+  "drops": "Blue Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.625
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Blue Banner Flag",
+    "rootId": 2367,
+    "metaStr": "meta|rot3|bot",
+    "rot": 3,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Blue Banner Flag"
+}

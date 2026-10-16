@@ -1,0 +1,22 @@
+{
+  "id": 7880,
+  "name": "Diamond Spade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondSpade",
+    "text": "Diamond Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 28,
+  "harvests": "granule",
+  "multiplier": 8,
+  "level": 5
+}

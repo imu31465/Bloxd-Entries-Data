@@ -1,0 +1,27 @@
+{
+  "id": 3291,
+  "name": "Rare Weapon Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Rare Weapon Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "red_lucky_block_rare",
+    "weapon_lucky_block_rare"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    898,
+    899
+  ],
+  "stackable": true
+}

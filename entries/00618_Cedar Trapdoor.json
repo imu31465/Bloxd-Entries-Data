@@ -1,0 +1,33 @@
+{
+  "id": 618,
+  "name": "Cedar Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarTrapdoor",
+    "text": "Cedar Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "cedar_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Cedar Trapdoor",
+    "rootId": 618,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Cedar Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Cedar Trapdoor",
+  "blockModelItem": true
+}

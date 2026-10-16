@@ -1,0 +1,18 @@
+{
+  "id": 8502,
+  "name": "Orange Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeQuickPaintballExplosive",
+    "text": "Orange Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_orange",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

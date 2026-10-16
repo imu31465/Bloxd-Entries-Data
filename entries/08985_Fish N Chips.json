@@ -1,0 +1,18 @@
+{
+  "id": 8985,
+  "name": "Fish N Chips",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fishNChips",
+    "text": "Fish N Chips"
+  },
+  "description": {
+    "key": "item:fishNChipsDescription",
+    "text": "Classic battered fish and chips"
+  },
+  "type": "Item",
+  "textureInfo": "fish_n_chips",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

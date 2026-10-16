@@ -1,0 +1,25 @@
+{
+  "id": 2791,
+  "name": "Wood Trophy|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:woodTrophy",
+    "text": "Wood Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "wood_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Wood Trophy",
+    "rootId": 2788,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Wood Trophy"
+}

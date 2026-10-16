@@ -1,0 +1,15 @@
+{
+  "id": 8736,
+  "name": "Caught Mob NPC Leo",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_leo",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Leo",
+    "rootId": 8736,
+    "caughtMobType": "NPC"
+  }
+}

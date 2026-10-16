@@ -1,0 +1,14 @@
+{
+  "id": 37,
+  "name": "Smooth Granite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothGranite",
+    "text": "Smooth Granite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_granite_smooth",
+  "harvestType": "rock",
+  "atlasIdx": 143,
+  "stackable": true
+}

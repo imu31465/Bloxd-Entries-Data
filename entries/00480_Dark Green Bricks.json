@@ -1,0 +1,14 @@
+{
+  "id": 480,
+  "name": "Dark Green Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:darkGreenBricks",
+    "text": "Dark Green Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "dark_green_bricks",
+  "harvestType": "rock",
+  "atlasIdx": 375,
+  "stackable": true
+}

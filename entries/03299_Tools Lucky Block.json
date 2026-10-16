@@ -1,0 +1,27 @@
+{
+  "id": 3299,
+  "name": "Tools Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Tools Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "orange_lucky_block",
+    "tools_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    914,
+    915
+  ],
+  "stackable": true
+}

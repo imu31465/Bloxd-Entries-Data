@@ -1,0 +1,18 @@
+{
+  "id": 8943,
+  "name": "Fertiliser",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fertiliser",
+    "text": "Fertiliser"
+  },
+  "description": {
+    "key": "item:fertiliserDescription",
+    "text": "Place me on Tilled Soil to make vegetation grow faster."
+  },
+  "type": "Item",
+  "textureInfo": "fertiliser",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

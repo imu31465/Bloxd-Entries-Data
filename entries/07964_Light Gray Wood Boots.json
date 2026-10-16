@@ -1,0 +1,15 @@
+{
+  "id": 7964,
+  "name": "Light Gray Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayWoodBoots",
+    "text": "Light Gray Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

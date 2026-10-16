@@ -1,0 +1,24 @@
+{
+  "id": 1725,
+  "name": "Red Chalk",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalk",
+    "text": "{{colour}} Chalk",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:red)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_red",
+  "harvestType": "rock",
+  "atlasIdx": 757,
+  "stackable": true
+}

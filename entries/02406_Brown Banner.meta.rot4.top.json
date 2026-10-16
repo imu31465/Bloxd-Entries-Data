@@ -1,0 +1,40 @@
+{
+  "id": 2406,
+  "name": "Brown Banner|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownBanner",
+    "text": "Brown Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_brown",
+  "solid": false,
+  "Am": [
+    0.75,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Brown Banner",
+    "rootId": 2387,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Brown Banner Hanging"
+}

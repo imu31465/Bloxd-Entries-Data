@@ -1,0 +1,19 @@
+{
+  "id": 143,
+  "name": "Beacon",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beacon",
+    "text": "Beacon"
+  },
+  "ttb": 3600,
+  "textureInfo": "beacon",
+  "harvestType": "rock",
+  "lm": [
+    5,
+    14,
+    14
+  ],
+  "atlasIdx": 249,
+  "stackable": true
+}

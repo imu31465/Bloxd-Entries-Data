@@ -1,0 +1,21 @@
+{
+  "id": 8603,
+  "name": "Frost Zombie Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostZombieSpawnOrb",
+    "text": "Frost Zombie Spawn Orb"
+  },
+  "description": {
+    "key": "item:frostZombieSpawnOrbDescription",
+    "text": "Throw to spawn a Frost Zombie at the landing location",
+    "params": {
+      "mob": "Frost Zombie"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "frost_zombie_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

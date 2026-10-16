@@ -1,0 +1,22 @@
+{
+  "id": 7877,
+  "name": "Stone Spade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneSpade",
+    "text": "Stone Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 19,
+  "harvests": "granule",
+  "multiplier": 3.5,
+  "level": 2
+}

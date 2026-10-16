@@ -1,0 +1,21 @@
+{
+  "id": 8606,
+  "name": "Draugr Huntress Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrHuntressSpawnOrb",
+    "text": "Draugr Huntress Spawn Orb"
+  },
+  "description": {
+    "key": "item:draugrHuntressSpawnOrbDescription",
+    "text": "Throw to spawn a Draugr Huntress at the landing location",
+    "params": {
+      "mob": "Draugr Huntress"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "draugr_huntress_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

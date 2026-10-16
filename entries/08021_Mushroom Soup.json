@@ -1,0 +1,27 @@
+{
+  "id": 8021,
+  "name": "Mushroom Soup",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mushroomSoup",
+    "text": "Mushroom Soup"
+  },
+  "type": "Chargeable",
+  "textureInfo": "mushroom_soup",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "afterEatenItem": "Bowl",
+  "eatHealAmt": 15,
+  "chargeStages": 1,
+  "chargeTime": 375,
+  "meta": {
+    "rootName": "Mushroom Soup",
+    "rootId": 8021,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Mushroom Soup|meta|charging1"
+}

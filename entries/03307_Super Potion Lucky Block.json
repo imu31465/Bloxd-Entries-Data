@@ -1,0 +1,27 @@
+{
+  "id": 3307,
+  "name": "Super Potion Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Super Potion Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "lucky_block_pink_question_super",
+    "potion_lucky_block_super"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    929,
+    930
+  ],
+  "stackable": true
+}

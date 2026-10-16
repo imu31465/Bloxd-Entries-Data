@@ -1,0 +1,14 @@
+{
+  "id": 317,
+  "name": "Tilled Soil",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tilledSoil",
+    "text": "Tilled Soil"
+  },
+  "ttb": 600,
+  "textureInfo": "farmland",
+  "harvestType": "granule",
+  "atlasIdx": 350,
+  "stackable": true
+}

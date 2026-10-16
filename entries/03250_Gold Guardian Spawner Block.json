@@ -1,0 +1,42 @@
+{
+  "id": 3250,
+  "name": "Gold Guardian Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldGuardianMobSpawnerBlock",
+    "text": "Gold Guardian Spawner Block"
+  },
+  "description": {
+    "key": "item:goldGuardianMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Gold Guardians"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "gold_guardian_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Gold Guardian Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

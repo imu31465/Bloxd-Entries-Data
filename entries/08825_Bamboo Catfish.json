@@ -1,0 +1,14 @@
+{
+  "id": 8825,
+  "name": "Bamboo Catfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bambooCatfish",
+    "text": "Bamboo Catfish"
+  },
+  "type": "Item",
+  "textureInfo": "bamboo_catfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

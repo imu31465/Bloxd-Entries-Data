@@ -1,0 +1,30 @@
+{
+  "id": 8217,
+  "name": "Water Bottle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:waterBottle",
+    "text": "Water Bottle"
+  },
+  "description": {
+    "key": "item:waterBottleDescription",
+    "text": "Mmm room temp water"
+  },
+  "type": "Chargeable",
+  "textureInfo": "water_bottle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Water Bottle",
+    "rootId": 8217,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Water Bottle|meta|charging1"
+}

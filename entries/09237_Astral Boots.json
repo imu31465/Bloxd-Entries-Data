@@ -1,0 +1,16 @@
+{
+  "id": 9237,
+  "name": "Astral Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralBoots",
+    "text": "Astral Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "astral_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "astral_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

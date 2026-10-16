@@ -1,0 +1,17 @@
+{
+  "id": 158,
+  "name": "Bluebell",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bluebell",
+    "text": "Bluebell"
+  },
+  "ttb": 300,
+  "textureInfo": "blue_orchid",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "blue_orchid",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

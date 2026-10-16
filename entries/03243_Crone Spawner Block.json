@@ -1,0 +1,42 @@
+{
+  "id": 3243,
+  "name": "Crone Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:croneMobSpawnerBlock",
+    "text": "Crone Spawner Block"
+  },
+  "description": {
+    "key": "item:croneMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Crones"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "crone_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Crone Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

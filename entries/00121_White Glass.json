@@ -1,0 +1,19 @@
+{
+  "id": 121,
+  "name": "White Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteGlass",
+    "text": "White Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_white",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 228,
+  "stackable": true
+}

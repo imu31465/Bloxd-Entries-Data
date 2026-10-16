@@ -1,0 +1,37 @@
+{
+  "id": 4142,
+  "name": "Cedar Stairs|meta|rot2|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarStairs",
+    "text": "Cedar Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cedar",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cedar Stairs",
+    "rootId": 3333,
+    "metaStr": "meta|rot2|bot|outerRight",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 128,
+  "stackable": true
+}

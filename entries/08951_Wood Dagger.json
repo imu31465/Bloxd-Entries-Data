@@ -1,0 +1,36 @@
+{
+  "id": 8951,
+  "name": "Wood Dagger",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodDagger",
+    "text": "Wood Dagger"
+  },
+  "description": {
+    "key": "item:daggerDescription",
+    "text": "Does increasing damage each hit, and can backstab"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_dagger",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 20,
+  "attackRange": 2.5,
+  "knockbackHorizontalScalar": 0.4,
+  "knockbackVerticalScalar": 0.8,
+  "attackCooldownMs": 250,
+  "comboInfo": {
+    "comboWindowMs": 800,
+    "comboMultipliers": [
+      0.5,
+      0.6666666666666666,
+      0.8333333333333334,
+      1
+    ],
+    "backstabAngle": 2.0943951023931953
+  },
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8466,
+  "name": "White Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_white",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

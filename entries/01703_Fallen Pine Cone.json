@@ -1,0 +1,15 @@
+{
+  "id": 1703,
+  "name": "Fallen Pine Cone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fallenPineCone",
+    "text": "Fallen Pine Cone"
+  },
+  "ttb": 1,
+  "textureInfo": "fallen_pine_cone",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "solid": false,
+  "stackable": true
+}

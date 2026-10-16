@@ -1,0 +1,21 @@
+{
+  "id": 2693,
+  "name": "Small Lime Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallLimePod",
+    "text": "Small Lime Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_lime_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Lime Pod"
+}

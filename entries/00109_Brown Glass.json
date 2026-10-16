@@ -1,0 +1,19 @@
+{
+  "id": 109,
+  "name": "Brown Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownGlass",
+    "text": "Brown Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_brown",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 216,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 88,
+  "name": "Brown Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownConcrete",
+    "text": "Brown Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "brown_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 194,
+  "stackable": true
+}

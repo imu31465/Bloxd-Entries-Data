@@ -1,0 +1,26 @@
+{
+  "id": 9183,
+  "name": "Spectral Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralSpear",
+    "text": "Spectral Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "spectral_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "spectral_spear",
+  "stackable": false,
+  "damage": 32,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

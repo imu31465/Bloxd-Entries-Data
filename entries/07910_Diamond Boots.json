@@ -1,0 +1,15 @@
+{
+  "id": 7910,
+  "name": "Diamond Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondBoots",
+    "text": "Diamond Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "diamond_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

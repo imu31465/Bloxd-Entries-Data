@@ -1,0 +1,19 @@
+{
+  "id": 114,
+  "name": "Light Blue Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueGlass",
+    "text": "Light Blue Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_light_blue",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 221,
+  "stackable": true
+}

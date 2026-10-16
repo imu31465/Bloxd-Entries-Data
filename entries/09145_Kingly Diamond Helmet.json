@@ -1,0 +1,16 @@
+{
+  "id": 9145,
+  "name": "Kingly Diamond Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyDiamondHelmet",
+    "text": "Kingly Diamond Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_diamond_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_diamond_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

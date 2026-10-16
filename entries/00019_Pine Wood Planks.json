@@ -1,0 +1,14 @@
+{
+  "id": 19,
+  "name": "Pine Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineWoodPlanks",
+    "text": "Pine Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pine",
+  "harvestType": "wood",
+  "atlasIdx": 127,
+  "stackable": true
+}

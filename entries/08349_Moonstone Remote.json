@@ -1,0 +1,18 @@
+{
+  "id": 8349,
+  "name": "Moonstone Remote",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneRemote",
+    "text": "Moonstone Remote"
+  },
+  "description": {
+    "key": "item:moonstoneRemoteDescription",
+    "text": "Detonate your bomb from afar!"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_remote",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

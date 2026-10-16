@@ -1,0 +1,18 @@
+{
+  "id": 8981,
+  "name": "Beef Stew",
+  "kind": "item",
+  "displayName": {
+    "key": "item:beefStew",
+    "text": "Beef Stew"
+  },
+  "description": {
+    "key": "item:beefStewDescription",
+    "text": "A hearty stew with tender beef and vegetables"
+  },
+  "type": "Item",
+  "textureInfo": "beef_stew",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1102,
+  "name": "Red Mushroom",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redMushroom",
+    "text": "Red Mushroom"
+  },
+  "ttb": 400,
+  "textureInfo": "red_mushroom",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "red_mushroom",
+  "solid": false,
+  "stackable": true
+}

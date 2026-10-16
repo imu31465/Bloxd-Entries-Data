@@ -1,0 +1,18 @@
+{
+  "id": 8469,
+  "name": "Pink Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_pink",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

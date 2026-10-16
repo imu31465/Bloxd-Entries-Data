@@ -1,0 +1,32 @@
+{
+  "id": 1215,
+  "name": "Black Concrete Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackConcreteSlab",
+    "text": "Black Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "black_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Black Concrete Slab",
+    "rootId": 1215,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Black Concrete Slab|meta|rot1|bot",
+  "atlasIdx": 192,
+  "stackable": true,
+  "slabFullBlock": "Black Concrete"
+}

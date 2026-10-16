@@ -1,0 +1,39 @@
+{
+  "id": 2641,
+  "name": "Inactive Radar|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:inactiveRadar",
+    "text": "Inactive Radar"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "radar_side_inactive",
+    "radar_top_inactive",
+    "radar_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "itemTexture": "inactive_radar",
+  "drops": "Radar",
+  "meta": {
+    "rootName": "Inactive Radar",
+    "rootId": 2639,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    843,
+    844,
+    842
+  ],
+  "stackable": true,
+  "twoDBlockItem": true
+}

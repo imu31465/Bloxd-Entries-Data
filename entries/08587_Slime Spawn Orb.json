@@ -1,0 +1,21 @@
+{
+  "id": 8587,
+  "name": "Slime Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:slimeSpawnOrb",
+    "text": "Slime Spawn Orb"
+  },
+  "description": {
+    "key": "item:slimeSpawnOrbDescription",
+    "text": "Throw to spawn a Slime at the landing location",
+    "params": {
+      "mob": "Slime"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "slime_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

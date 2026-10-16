@@ -1,0 +1,29 @@
+{
+  "id": 8143,
+  "name": "Diamond Crossbow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondCrossbow",
+    "text": "Diamond Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "diamond_crossbow_charging_3",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Diamond Crossbow",
+    "rootId": 8141,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  },
+  "textureName": "diamond_crossbow"
+}

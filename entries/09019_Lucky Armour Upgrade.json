@@ -1,0 +1,16 @@
+{
+  "id": 9019,
+  "name": "Lucky Armour Upgrade",
+  "kind": "item",
+  "displayName": {
+    "text": "Armour Upgrade"
+  },
+  "description": {
+    "text": "Use to permanently advance your Armour tier for this match. Share spare upgrades with your team."
+  },
+  "type": "Item",
+  "textureInfo": "lucky_armour_upgrade",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

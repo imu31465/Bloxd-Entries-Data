@@ -1,0 +1,36 @@
+{
+  "id": 7110,
+  "name": "Plum Fence|meta|s|Stacked",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumFence",
+    "text": "Plum Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_plum",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "plum_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Plum Fence",
+    "rootId": 7090,
+    "metaStr": "meta|s|Stacked"
+  },
+  "atlasIdx": 125,
+  "stackable": true,
+  "attachedTop": "_Plum Fence Top|meta|s"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 3266,
+  "name": "Lantern|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lantern",
+    "text": "Lantern"
+  },
+  "ttb": 2500,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "lantern",
+  "Am": [
+    0.125,
+    0,
+    0.25,
+    0.875,
+    1,
+    1
+  ],
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Lantern",
+    "rootId": 3263,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 0
+  },
+  "lm": [
+    15,
+    15,
+    13
+  ],
+  "stackable": true,
+  "blockModel": "lantern_wall",
+  "blockModelItem": true
+}

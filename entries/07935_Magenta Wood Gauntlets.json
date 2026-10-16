@@ -1,0 +1,15 @@
+{
+  "id": 7935,
+  "name": "Magenta Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaWoodGauntlets",
+    "text": "Magenta Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

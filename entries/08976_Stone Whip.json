@@ -1,0 +1,24 @@
+{
+  "id": 8976,
+  "name": "Stone Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneWhip",
+    "text": "Stone Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 11,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 2
+}

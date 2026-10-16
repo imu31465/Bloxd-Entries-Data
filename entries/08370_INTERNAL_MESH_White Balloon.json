@@ -1,0 +1,11 @@
+{
+  "id": 8370,
+  "name": "INTERNAL_MESH_White Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "white_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "White Balloon",
+  "stackable": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8797,
+  "name": "Green Strongfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenStrongfish",
+    "text": "Green Strongfish"
+  },
+  "type": "Item",
+  "textureInfo": "strongfish_green",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2615,
+  "name": "_Whiskers Top Right|meta|rot3",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "wildcat_painting",
+  "drops": "Whiskers",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "_Whiskers Top Right",
+    "rootId": 2613,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "heldItemGlb": "Wildcat Painting",
+  "blockModel": "_Wildcat Painting Top Right"
+}

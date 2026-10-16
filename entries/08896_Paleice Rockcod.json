@@ -1,0 +1,14 @@
+{
+  "id": 8896,
+  "name": "Paleice Rockcod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:paleiceRockcod",
+    "text": "Paleice Rockcod"
+  },
+  "type": "Item",
+  "textureInfo": "paleice_rockcod",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

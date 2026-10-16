@@ -1,0 +1,14 @@
+{
+  "id": 8837,
+  "name": "Giant Stingray",
+  "kind": "item",
+  "displayName": {
+    "key": "item:giantStingray",
+    "text": "Giant Stingray"
+  },
+  "type": "Item",
+  "textureInfo": "giant_stingray",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

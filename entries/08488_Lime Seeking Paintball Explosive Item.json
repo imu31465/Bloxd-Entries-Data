@@ -1,0 +1,18 @@
+{
+  "id": 8488,
+  "name": "Lime Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeSeekingPaintballExplosive",
+    "text": "Lime Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_lime",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

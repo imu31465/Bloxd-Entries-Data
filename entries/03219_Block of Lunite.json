@@ -1,0 +1,18 @@
+{
+  "id": 3219,
+  "name": "Block of Lunite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfLunite",
+    "text": "Block of Lunite"
+  },
+  "description": {
+    "key": "item:blockOfLuniteDescription",
+    "text": "Decorative. Obtained using Moonstone Pickaxe."
+  },
+  "ttb": 6750,
+  "textureInfo": "lunite_block",
+  "harvestType": "rock",
+  "atlasIdx": 885,
+  "stackable": true
+}

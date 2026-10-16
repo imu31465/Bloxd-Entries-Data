@@ -1,0 +1,18 @@
+{
+  "id": 58,
+  "name": "Gray Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayWool",
+    "text": "Gray Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_gray",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 164,
+  "stackable": true
+}

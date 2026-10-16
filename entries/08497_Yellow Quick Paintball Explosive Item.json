@@ -1,0 +1,18 @@
+{
+  "id": 8497,
+  "name": "Yellow Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowQuickPaintballExplosive",
+    "text": "Yellow Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

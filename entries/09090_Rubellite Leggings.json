@@ -1,0 +1,15 @@
+{
+  "id": 9090,
+  "name": "Rubellite Leggings",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "rubellite_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

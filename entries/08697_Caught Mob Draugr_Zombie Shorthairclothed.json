@@ -1,0 +1,15 @@
+{
+  "id": 8697,
+  "name": "Caught Mob Draugr_Zombie Shorthairclothed",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_zombie_shortHairClothed",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Zombie Shorthairclothed",
+    "rootId": 8697,
+    "caughtMobType": "Draugr Zombie"
+  }
+}

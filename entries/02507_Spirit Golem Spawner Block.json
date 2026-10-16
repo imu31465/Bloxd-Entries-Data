@@ -1,0 +1,42 @@
+{
+  "id": 2507,
+  "name": "Spirit Golem Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spiritGolemMobSpawnerBlock",
+    "text": "Spirit Golem Spawner Block"
+  },
+  "description": {
+    "key": "item:spiritGolemMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Spirit Golems"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_neutral_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "spirit_golem_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Spirit Golem Spawner Block"
+  },
+  "atlasIdx": [
+    753,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

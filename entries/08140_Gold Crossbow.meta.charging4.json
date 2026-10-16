@@ -1,0 +1,29 @@
+{
+  "id": 8140,
+  "name": "Gold Crossbow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldCrossbow",
+    "text": "Gold Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "gold_crossbow_charging_4",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Gold Crossbow",
+    "rootId": 8137,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  },
+  "textureName": "gold_crossbow"
+}

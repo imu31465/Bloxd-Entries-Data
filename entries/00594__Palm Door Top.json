@@ -1,0 +1,29 @@
+{
+  "id": 594,
+  "name": "_Palm Door Top",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "palm_door",
+  "drops": "Palm Door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Palm Door Top",
+    "rootId": 594,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "_Palm Door Top|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Palm Door Top"
+}

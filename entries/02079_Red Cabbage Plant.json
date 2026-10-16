@@ -1,0 +1,16 @@
+{
+  "id": 2079,
+  "name": "Red Cabbage Plant",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redCabbage",
+    "text": "Red Cabbage"
+  },
+  "ttb": 400,
+  "textureInfo": "red_cabbage_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "red_cabbage_stage0",
+  "solid": false,
+  "stackable": true
+}

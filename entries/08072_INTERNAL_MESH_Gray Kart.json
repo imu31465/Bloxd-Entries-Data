@@ -1,0 +1,11 @@
+{
+  "id": 8072,
+  "name": "INTERNAL_MESH_Gray Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "gray_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Gray Kart",
+  "stackable": false
+}

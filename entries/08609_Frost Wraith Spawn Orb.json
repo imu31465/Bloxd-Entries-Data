@@ -1,0 +1,21 @@
+{
+  "id": 8609,
+  "name": "Frost Wraith Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostWraithSpawnOrb",
+    "text": "Frost Wraith Spawn Orb"
+  },
+  "description": {
+    "key": "item:frostWraithSpawnOrbDescription",
+    "text": "Throw to spawn a Frost Wraith at the landing location",
+    "params": {
+      "mob": "Frost Wraith"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "frost_wraith_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

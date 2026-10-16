@@ -1,0 +1,41 @@
+{
+  "id": 1848,
+  "name": "Black Chalk Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_black",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Black Chalk Slab",
+    "rootId": 1845,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 770,
+  "stackable": true,
+  "slabFullBlock": "Black Chalk"
+}

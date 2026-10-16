@@ -1,0 +1,22 @@
+{
+  "id": 8408,
+  "name": "Lime Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limePaintballGun",
+    "text": "Lime Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "lime_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

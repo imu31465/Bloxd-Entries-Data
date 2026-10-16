@@ -1,0 +1,23 @@
+{
+  "id": 2648,
+  "name": "_Inactive Radar Dish|meta|rot2",
+  "kind": "block",
+  "ttb": 3000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Radar",
+  "solid": false,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Inactive Radar Dish",
+    "rootId": 2647,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Radar Dish Down"
+}

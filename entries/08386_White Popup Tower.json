@@ -1,0 +1,18 @@
+{
+  "id": 8386,
+  "name": "White Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whitePopupTower",
+    "text": "White Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "white_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

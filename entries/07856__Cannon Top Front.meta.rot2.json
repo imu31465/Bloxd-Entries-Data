@@ -1,0 +1,22 @@
+{
+  "id": 7856,
+  "name": "_Cannon Top Front|meta|rot2",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Cannon",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Cannon Top Front",
+    "rootId": 7855,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "cannon_top_front"
+}

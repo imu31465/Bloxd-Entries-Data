@@ -1,0 +1,30 @@
+{
+  "id": 8193,
+  "name": "Raw Venison",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawVenison",
+    "text": "Raw Venison"
+  },
+  "description": {
+    "key": "item:rawFoodDescription",
+    "text": "Cook and eat to gain health (or eat RAW for a nasty surprise...)"
+  },
+  "type": "Chargeable",
+  "textureInfo": "raw_venison",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 16,
+  "chargeStages": 1,
+  "chargeTime": 600,
+  "meta": {
+    "rootName": "Raw Venison",
+    "rootId": 8193,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Raw Venison|meta|charging1"
+}

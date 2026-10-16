@@ -1,0 +1,14 @@
+{
+  "id": 11,
+  "name": "Plum Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumLog",
+    "text": "Plum Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_plum",
+  "harvestType": "wood",
+  "atlasIdx": 119,
+  "stackable": true
+}

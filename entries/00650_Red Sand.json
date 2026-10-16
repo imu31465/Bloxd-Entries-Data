@@ -1,0 +1,18 @@
+{
+  "id": 650,
+  "name": "Red Sand",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redSand",
+    "text": "Red Sand"
+  },
+  "ttb": 600,
+  "textureInfo": "red_sand",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "sand",
+    "place": "sand"
+  },
+  "atlasIdx": 389,
+  "stackable": true
+}

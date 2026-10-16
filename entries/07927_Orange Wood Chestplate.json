@@ -1,0 +1,15 @@
+{
+  "id": 7927,
+  "name": "Orange Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeWoodChestplate",
+    "text": "Orange Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

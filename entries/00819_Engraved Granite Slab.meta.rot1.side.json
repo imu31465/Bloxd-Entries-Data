@@ -1,0 +1,45 @@
+{
+  "id": 819,
+  "name": "Engraved Granite Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedGraniteSlab",
+    "text": "Engraved Granite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_engraved_granite_side",
+    "engraved_granite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Engraved Granite Slab",
+    "rootId": 817,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    420,
+    381
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Granite"
+}

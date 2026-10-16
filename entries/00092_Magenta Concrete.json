@@ -1,0 +1,14 @@
+{
+  "id": 92,
+  "name": "Magenta Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaConcrete",
+    "text": "Magenta Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "magenta_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 198,
+  "stackable": true
+}

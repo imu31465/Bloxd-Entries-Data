@@ -1,0 +1,43 @@
+{
+  "id": 4648,
+  "name": "Smooth Andesite Stairs|meta|rot4|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothAndesiteStairs",
+    "text": "Smooth Andesite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_andesite_smooth",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Smooth Andesite Stairs",
+    "rootId": 3461,
+    "metaStr": "meta|rot4|bot|innerRight",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 141,
+  "stackable": true
+}

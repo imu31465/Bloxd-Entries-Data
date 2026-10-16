@@ -1,0 +1,18 @@
+{
+  "id": 8500,
+  "name": "Purple Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleQuickPaintballExplosive",
+    "text": "Purple Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_purple",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "name": "Barkless Aspen Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessAspenLog",
+    "text": "Barkless Aspen Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_aspen_log",
+  "harvestType": "wood",
+  "atlasIdx": 130,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8843,
+  "name": "Mudline Perch",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mudlinePerch",
+    "text": "Mudline Perch"
+  },
+  "type": "Item",
+  "textureInfo": "mudline_perch",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

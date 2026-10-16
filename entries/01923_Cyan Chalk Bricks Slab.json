@@ -1,0 +1,56 @@
+{
+  "id": 1923,
+  "name": "Cyan Chalk Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksSlab",
+    "text": "{{colour}} Chalk Bricks Slab",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:cyan)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": [
+    "chalk_bricks_slab_side_cyan",
+    "chalk_bricks_cyan"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Cyan Chalk Bricks Slab",
+    "rootId": 1923,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Cyan Chalk Bricks Slab|meta|rot1|bot",
+  "atlasIdx": [
+    799,
+    783
+  ],
+  "stackable": true,
+  "slabFullBlock": "Cyan Chalk Bricks"
+}

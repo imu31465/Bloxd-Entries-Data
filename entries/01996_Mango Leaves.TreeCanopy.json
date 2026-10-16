@@ -1,0 +1,17 @@
+{
+  "id": 1996,
+  "name": "Mango Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_mango",
+  "harvestType": "cuttable",
+  "drops": "Mango Leaves",
+  "meta": {
+    "rootName": "Mango Leaves",
+    "rootId": 1969,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 809,
+  "stackable": true
+}

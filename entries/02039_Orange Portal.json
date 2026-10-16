@@ -1,0 +1,33 @@
+{
+  "id": 2039,
+  "name": "Orange Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangePortal",
+    "text": "Orange Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "orange_portal0",
+      "orange_portal1",
+      "orange_portal2",
+      "orange_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    9,
+    7,
+    3
+  ],
+  "atlasIdx": [
+    12,
+    65,
+    66,
+    67
+  ],
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1499,
+  "name": "Chili Pepper Plant_stage4",
+  "kind": "block",
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "drops": "Chili Pepper Seeds",
+  "solid": false,
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "chili_pepper_stage4_model"
+}

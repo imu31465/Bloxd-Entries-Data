@@ -1,0 +1,30 @@
+{
+  "id": 907,
+  "name": "Plum Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumBlock",
+    "text": "Plum Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "plum_block_side",
+    "plum_block_top",
+    "plum_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    432,
+    433,
+    434
+  ],
+  "stackable": true
+}

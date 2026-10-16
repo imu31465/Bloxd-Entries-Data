@@ -1,0 +1,15 @@
+{
+  "id": 1221,
+  "name": "Grenade",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grenade",
+    "unresolved": true
+  },
+  "ttb": 1,
+  "textureInfo": "grenade_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 496,
+  "stackable": true
+}

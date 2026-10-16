@@ -1,0 +1,15 @@
+{
+  "id": 8726,
+  "name": "Caught Mob Iron_Guardian Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_iron_guardian_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Iron_Guardian Default",
+    "rootId": 8726,
+    "caughtMobType": "Iron Guardian"
+  }
+}

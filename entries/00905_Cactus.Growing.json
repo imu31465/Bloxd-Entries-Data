@@ -1,0 +1,19 @@
+{
+  "id": 905,
+  "name": "Cactus|Growing",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "small_cactus",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "small_cactus",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Cactus",
+    "rootId": 149,
+    "metaStr": "Growing",
+    "kt": true
+  },
+  "stackable": true
+}

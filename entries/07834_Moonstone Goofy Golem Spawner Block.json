@@ -1,0 +1,42 @@
+{
+  "id": 7834,
+  "name": "Moonstone Goofy Golem Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moonstoneGoofyGolemMobSpawnerBlock",
+    "text": "Moonstone Goofy Golem Spawner Block"
+  },
+  "description": {
+    "key": "item:moonstoneGoofyGolemMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Moonstone Goofy Golems"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_passive_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "moonstone_goofy_golem_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Moonstone Goofy Golem Spawner Block"
+  },
+  "atlasIdx": [
+    735,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

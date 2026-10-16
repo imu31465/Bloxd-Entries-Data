@@ -1,0 +1,18 @@
+{
+  "id": 8429,
+  "name": "Cyan Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanPaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "cyan_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

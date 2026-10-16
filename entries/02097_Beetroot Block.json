@@ -1,0 +1,30 @@
+{
+  "id": 2097,
+  "name": "Beetroot Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beetrootBlock",
+    "text": "Beetroot Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "beetroot_block_side",
+    "beetroot_block_top",
+    "beetroot_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    836,
+    837,
+    838
+  ],
+  "stackable": true
+}

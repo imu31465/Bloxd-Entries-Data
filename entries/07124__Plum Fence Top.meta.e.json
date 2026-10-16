@@ -1,0 +1,37 @@
+{
+  "id": 7124,
+  "name": "_Plum Fence Top|meta|e",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumFence",
+    "text": "Plum Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_plum",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "plum_fence",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    0.5,
+    0.625,
+    0.625,
+    0,
+    0.375,
+    1,
+    0.5,
+    0.625
+  ],
+  "meta": {
+    "rootName": "_Plum Fence Top",
+    "rootId": 7122,
+    "metaStr": "meta|e"
+  },
+  "atlasIdx": 125,
+  "stackable": true,
+  "canBePlacedOver": true
+}

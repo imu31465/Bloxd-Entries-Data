@@ -1,0 +1,53 @@
+{
+  "id": 6321,
+  "name": "Brown Chalk Stairs|meta|rot1|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:brown)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:brown)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_brown",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Brown Chalk Stairs",
+    "rootId": 3877,
+    "metaStr": "meta|rot1|top|innerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 768,
+  "stackable": true
+}

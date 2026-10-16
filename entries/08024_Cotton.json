@@ -1,0 +1,14 @@
+{
+  "id": 8024,
+  "name": "Cotton",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cotton",
+    "text": "Cotton"
+  },
+  "type": "Item",
+  "textureInfo": "cotton",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

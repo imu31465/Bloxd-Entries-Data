@@ -1,0 +1,15 @@
+{
+  "id": 7919,
+  "name": "Military Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:militaryLeggings",
+    "text": "Military Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "military_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.16
+}

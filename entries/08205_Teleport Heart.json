@@ -1,0 +1,16 @@
+{
+  "id": 8205,
+  "name": "Teleport Heart",
+  "kind": "item",
+  "displayName": {
+    "text": "Teleport Heart"
+  },
+  "description": {
+    "text": "The still-beating core of a Blink. Salvaged from a Warp Stalker."
+  },
+  "type": "Item",
+  "textureInfo": "teleport_heart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

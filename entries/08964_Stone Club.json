@@ -1,0 +1,24 @@
+{
+  "id": 8964,
+  "name": "Stone Club",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneClub",
+    "text": "Stone Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 27,
+  "knockbackHorizontalScalar": 1.9,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 2
+}

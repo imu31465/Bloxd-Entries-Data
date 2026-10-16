@@ -1,0 +1,32 @@
+{
+  "id": 1600,
+  "name": "Generator Spawn Block (Diamond)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diamondGeneratorSpawnBlock",
+    "text": "Diamond Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:diamondGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Diamond Generator when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "diamond_gen_spawn_top",
+    "diamond_gen_spawn_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    721,
+    722
+  ],
+  "stackable": true
+}

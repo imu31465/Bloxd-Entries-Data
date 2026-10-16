@@ -1,0 +1,18 @@
+{
+  "id": 8203,
+  "name": "Golem Eye",
+  "kind": "item",
+  "displayName": {
+    "key": "item:golemEye",
+    "text": "Golem Eye"
+  },
+  "description": {
+    "key": "item:golemEyeDescription",
+    "text": "Use me to craft special tools"
+  },
+  "type": "Item",
+  "textureInfo": "golem_eye",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

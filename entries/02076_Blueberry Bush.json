@@ -1,0 +1,16 @@
+{
+  "id": 2076,
+  "name": "Blueberry Bush",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueberries",
+    "text": "Blueberries"
+  },
+  "ttb": 400,
+  "textureInfo": "blueberry_bush_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "blueberry_bush_stage0",
+  "solid": false,
+  "stackable": true
+}

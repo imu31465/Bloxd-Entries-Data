@@ -1,0 +1,11 @@
+{
+  "id": 8071,
+  "name": "INTERNAL_MESH_Green Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "green_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Green Kart",
+  "stackable": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "name": "Plum Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumSapling",
+    "text": "Plum Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "plum_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "plum_sapling",
+  "solid": false,
+  "stackable": true
+}

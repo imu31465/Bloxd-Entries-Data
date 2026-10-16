@@ -1,0 +1,14 @@
+{
+  "id": 8897,
+  "name": "Permafrost Halibut",
+  "kind": "item",
+  "displayName": {
+    "key": "item:permafrostHalibut",
+    "text": "Permafrost Halibut"
+  },
+  "type": "Item",
+  "textureInfo": "permafrost_halibut",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

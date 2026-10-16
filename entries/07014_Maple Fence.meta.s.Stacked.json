@@ -1,0 +1,36 @@
+{
+  "id": 7014,
+  "name": "Maple Fence|meta|s|Stacked",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleFence",
+    "text": "Maple Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_maple",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "maple_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Fence",
+    "rootId": 6994,
+    "metaStr": "meta|s|Stacked"
+  },
+  "atlasIdx": 123,
+  "stackable": true,
+  "attachedTop": "_Maple Fence Top|meta|s"
+}

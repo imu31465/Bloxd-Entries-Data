@@ -1,0 +1,15 @@
+{
+  "id": 214,
+  "name": "Dry Fat Cactus",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dryFatCactus",
+    "text": "Dry Fat Cactus"
+  },
+  "ttb": 400,
+  "textureInfo": "cactus_dry",
+  "harvestType": "cuttable",
+  "damage": 27,
+  "atlasIdx": 267,
+  "stackable": true
+}

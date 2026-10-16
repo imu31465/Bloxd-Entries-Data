@@ -1,0 +1,45 @@
+{
+  "id": 941,
+  "name": "Pear Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearSlab",
+    "text": "Pear Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_pear_side",
+    "planks_pear"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Pear Slab",
+    "rootId": 939,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    441,
+    439
+  ],
+  "stackable": true,
+  "slabFullBlock": "Pear Wood Planks"
+}

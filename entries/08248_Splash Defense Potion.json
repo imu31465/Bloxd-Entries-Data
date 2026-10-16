@@ -1,0 +1,18 @@
+{
+  "id": 8248,
+  "name": "Splash Defense Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashDefensePotion",
+    "text": "Splash Defense Potion"
+  },
+  "description": {
+    "key": "item:splashDefensePotionDescription",
+    "text": "Launch defense buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_defense_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

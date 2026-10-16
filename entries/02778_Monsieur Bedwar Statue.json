@@ -1,0 +1,17 @@
+{
+  "id": 2778,
+  "name": "Monsieur Bedwar Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "monsieur_bedwar",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "monsieur_bedwar",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

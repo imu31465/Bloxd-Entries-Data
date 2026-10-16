@@ -1,0 +1,18 @@
+{
+  "id": 8257,
+  "name": "Splash Invisibility Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashInvisibilityPotion",
+    "text": "Splash Invisibility Potion"
+  },
+  "description": {
+    "key": "item:splashInvisibilityPotionDescription",
+    "text": "Launch invisibility buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_invisibility_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1616,
+  "name": "Draugr Skeleton Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:draugrSkeletonMobSpawnerBlock",
+    "text": "Draugr Skeleton Spawner Block"
+  },
+  "description": {
+    "key": "item:draugrSkeletonMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Draugr Skeletons"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "draugr_skeleton_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Draugr Skeleton Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

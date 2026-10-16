@@ -1,0 +1,14 @@
+{
+  "id": 1969,
+  "name": "Mango Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoLeaves",
+    "text": "Mango Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_mango",
+  "harvestType": "cuttable",
+  "atlasIdx": 809,
+  "stackable": true
+}

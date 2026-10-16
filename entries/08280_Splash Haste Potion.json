@@ -1,0 +1,18 @@
+{
+  "id": 8280,
+  "name": "Splash Haste Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashHastePotion",
+    "text": "Splash Haste Potion"
+  },
+  "description": {
+    "key": "item:splashHastePotionDescription",
+    "text": "Increase mining speed of your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_haste_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

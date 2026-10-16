@@ -1,0 +1,14 @@
+{
+  "id": 87,
+  "name": "Blue Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueConcrete",
+    "text": "Blue Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "blue_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 193,
+  "stackable": true
+}

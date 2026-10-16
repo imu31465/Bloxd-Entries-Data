@@ -1,0 +1,17 @@
+{
+  "id": 1663,
+  "name": "Spectral Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_spectral",
+  "harvestType": "cuttable",
+  "drops": "Spectral Leaves",
+  "meta": {
+    "rootName": "Spectral Leaves",
+    "rootId": 1636,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 746,
+  "stackable": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8401,
+  "name": "Yellow Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowPaintballGun",
+    "text": "Yellow Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "yellow_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

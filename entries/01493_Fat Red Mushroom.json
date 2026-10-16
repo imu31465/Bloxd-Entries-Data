@@ -1,0 +1,22 @@
+{
+  "id": 1493,
+  "name": "Fat Red Mushroom",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fatRedMushroom",
+    "text": "Fat Red Mushroom"
+  },
+  "description": {
+    "key": "item:fatMushroomDescription",
+    "text": "A bouncy block.\\nDo mushrooms actually bounce this much? idk"
+  },
+  "ttb": 1200,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "fatRedMushroom",
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "stackable": true,
+  "blockModel": "Fat Red Mushroom",
+  "blockModelItem": true
+}

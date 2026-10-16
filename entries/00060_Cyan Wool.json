@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "name": "Cyan Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanWool",
+    "text": "Cyan Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_cyan",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 166,
+  "stackable": true
+}

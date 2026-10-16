@@ -1,0 +1,30 @@
+{
+  "id": 2526,
+  "name": "_Grant Wool Bottom Right|meta|rot2",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "sheep_painting",
+  "drops": "Grant Wool",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "_Grant Wool Bottom Right",
+    "rootId": 2525,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "heldItemGlb": "Sheep Painting",
+  "blockModel": "_Sheep Painting Bottom Right"
+}

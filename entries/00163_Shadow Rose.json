@@ -1,0 +1,17 @@
+{
+  "id": 163,
+  "name": "Shadow Rose",
+  "kind": "block",
+  "displayName": {
+    "key": "item:shadowRose",
+    "text": "Shadow Rose"
+  },
+  "ttb": 300,
+  "textureInfo": "shadow_rose",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "shadow_rose",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

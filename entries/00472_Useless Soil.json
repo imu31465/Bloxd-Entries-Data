@@ -1,0 +1,14 @@
+{
+  "id": 472,
+  "name": "Useless Soil",
+  "kind": "block",
+  "displayName": {
+    "key": "item:uselessSoil",
+    "text": "Useless Soil"
+  },
+  "ttb": 600,
+  "textureInfo": "podzol_top",
+  "harvestType": "granule",
+  "atlasIdx": 367,
+  "stackable": true
+}

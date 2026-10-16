@@ -1,0 +1,19 @@
+{
+  "id": 8286,
+  "name": "Splash Shield Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashShieldPotionII",
+    "text": "Splash Shield Potion II"
+  },
+  "description": {
+    "key": "item:splashShieldPotionDescription",
+    "text": "Gives other players a shield"
+  },
+  "type": "Item",
+  "textureInfo": "splash_shield_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Shield Potion",
+  "stackable": false
+}

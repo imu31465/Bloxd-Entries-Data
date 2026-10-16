@@ -1,0 +1,29 @@
+{
+  "id": 181,
+  "name": "_Maple Door Top",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "maple_door",
+  "drops": "Maple Door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Maple Door Top",
+    "rootId": 181,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "_Maple Door Top|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Maple Door Top"
+}

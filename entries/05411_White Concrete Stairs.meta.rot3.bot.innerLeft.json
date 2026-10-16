@@ -1,0 +1,43 @@
+{
+  "id": 5411,
+  "name": "White Concrete Stairs|meta|rot3|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteConcreteStairs",
+    "text": "White Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "white_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "White Concrete Stairs",
+    "rootId": 3653,
+    "metaStr": "meta|rot3|bot|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 203,
+  "stackable": true
+}

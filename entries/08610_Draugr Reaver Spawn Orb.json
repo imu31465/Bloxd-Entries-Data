@@ -1,0 +1,21 @@
+{
+  "id": 8610,
+  "name": "Draugr Reaver Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrReaverSpawnOrb",
+    "text": "Draugr Reaver Spawn Orb"
+  },
+  "description": {
+    "key": "item:draugrReaverSpawnOrbDescription",
+    "text": "Throw to spawn a Draugr Reaver at the landing location",
+    "params": {
+      "mob": "Draugr Reaver"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "draugr_reaver_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7186,
+  "name": "Aspen Fence",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenFence",
+    "text": "Aspen Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_aspen",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "aspen_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "atlasIdx": 124,
+  "stackable": true,
+  "attachedTop": "_Aspen Fence Top"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8604,
+  "name": "Frost Skeleton Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostSkeletonSpawnOrb",
+    "text": "Frost Skeleton Spawn Orb"
+  },
+  "description": {
+    "key": "item:frostSkeletonSpawnOrbDescription",
+    "text": "Throw to spawn a Frost Skeleton at the landing location",
+    "params": {
+      "mob": "Frost Skeleton"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "frost_skeleton_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

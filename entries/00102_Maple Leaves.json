@@ -1,0 +1,14 @@
+{
+  "id": 102,
+  "name": "Maple Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleLeaves",
+    "text": "Maple Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_maple",
+  "harvestType": "cuttable",
+  "atlasIdx": 208,
+  "stackable": true
+}

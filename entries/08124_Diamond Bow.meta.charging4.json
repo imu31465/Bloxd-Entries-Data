@@ -1,0 +1,30 @@
+{
+  "id": 8124,
+  "name": "Diamond Bow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondBow",
+    "text": "Diamond Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "diamond_bow_charging_4",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 68,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Diamond Bow",
+    "rootId": 8121,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  },
+  "textureName": "diamond_bow"
+}

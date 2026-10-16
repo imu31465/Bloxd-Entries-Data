@@ -1,0 +1,25 @@
+{
+  "id": 7330,
+  "name": "Pear Fence",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearFence",
+    "text": "Pear Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pear",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "pear_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625
+  ],
+  "atlasIdx": 439,
+  "stackable": true,
+  "attachedTop": "_Pear Fence Top"
+}

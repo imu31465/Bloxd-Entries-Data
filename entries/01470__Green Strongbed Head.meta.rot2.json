@@ -1,0 +1,20 @@
+{
+  "id": 1470,
+  "name": "_Green Strongbed Head|meta|rot2",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "green_strongbed",
+  "drops": "Green Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Green Strongbed Head",
+    "rootId": 1469,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Green Strongbed Head"
+}

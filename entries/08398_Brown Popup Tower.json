@@ -1,0 +1,18 @@
+{
+  "id": 8398,
+  "name": "Brown Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownPopupTower",
+    "text": "Brown Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "brown_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

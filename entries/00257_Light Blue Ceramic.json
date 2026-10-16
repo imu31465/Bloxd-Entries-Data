@@ -1,0 +1,39 @@
+{
+  "id": 257,
+  "name": "Light Blue Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueCeramic",
+    "text": "Light Blue Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "light_blue_glazed_terracotta[rot[1",
+    "light_blue_glazed_terracotta[rot[2",
+    "light_blue_glazed_terracotta[rot[3",
+    "light_blue_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Light Blue Ceramic",
+    "rootId": 257,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Light Blue Ceramic|meta|rot1",
+  "atlasIdx": [
+    298,
+    299,
+    300,
+    301
+  ],
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 997,
+  "name": "Patterned Light Gray Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedLightGrayGlass",
+    "text": "Patterned Light Gray Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_light_gray",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 468,
+  "stackable": true
+}

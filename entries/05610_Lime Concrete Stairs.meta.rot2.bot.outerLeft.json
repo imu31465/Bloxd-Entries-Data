@@ -1,0 +1,37 @@
+{
+  "id": 5610,
+  "name": "Lime Concrete Stairs|meta|rot2|bot|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeConcreteStairs",
+    "text": "Lime Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "lime_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Lime Concrete Stairs",
+    "rootId": 3701,
+    "metaStr": "meta|rot2|bot|outerLeft",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 197,
+  "stackable": true
+}

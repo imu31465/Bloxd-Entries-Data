@@ -1,0 +1,33 @@
+{
+  "id": 1034,
+  "name": "Palm Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmLadder",
+    "text": "Palm Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_palm",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Palm Ladder",
+    "rootId": 1032,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "stackable": true,
+  "blockModel": "Palm Ladder",
+  "blockModelItem": true
+}

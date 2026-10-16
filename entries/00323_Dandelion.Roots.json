@@ -1,0 +1,19 @@
+{
+  "id": 323,
+  "name": "Dandelion|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "dandelion",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "dandelion",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Dandelion",
+    "rootId": 151,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8045,
+  "name": "Yellow Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowKart",
+    "text": "Yellow Kart"
+  },
+  "type": "Item",
+  "textureInfo": "yellow_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Yellow Kart Item",
+  "stackable": false
+}

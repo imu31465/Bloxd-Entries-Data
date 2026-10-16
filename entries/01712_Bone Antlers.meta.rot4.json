@@ -1,0 +1,28 @@
+{
+  "id": 1712,
+  "name": "Bone Antlers|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:boneAntlers",
+    "text": "Bone Antlers"
+  },
+  "description": {
+    "key": "item:antlersDescription",
+    "text": "Use to decorate your home and remind you of your conquest over nature..."
+  },
+  "ttb": 1500,
+  "harvestType": "rock",
+  "model": "rotatableOffset",
+  "itemTexture": "bone_antlers_icon",
+  "solid": false,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Bone Antlers",
+    "rootId": 1709,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "bone_antlers_model"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 49,
+  "name": "Block of Lapis Lazuli",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfLapisLazuli",
+    "text": "Block of Lapis Lazuli"
+  },
+  "ttb": 6300,
+  "textureInfo": "lapis_block",
+  "harvestType": "rock",
+  "atlasIdx": 155,
+  "stackable": true
+}

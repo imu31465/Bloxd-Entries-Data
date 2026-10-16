@@ -1,0 +1,31 @@
+{
+  "id": 1680,
+  "name": "Stone Enchanting Table|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneEnchantingTable",
+    "text": "Stone Enchanting Table"
+  },
+  "description": {
+    "key": "item:enchantingTableDescription",
+    "text": "Power up your items with enchantments using this table!"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "stone_enchanting_table",
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Stone Enchanting Table",
+    "rootId": 1678,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "lm": [
+    4,
+    0,
+    4
+  ],
+  "stackable": true,
+  "blockModel": "Stone Enchanting Table"
+}

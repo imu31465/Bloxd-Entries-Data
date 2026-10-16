@@ -1,0 +1,15 @@
+{
+  "id": 7920,
+  "name": "Military Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:militaryBoots",
+    "text": "Military Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "military_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.09
+}

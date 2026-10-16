@@ -1,0 +1,21 @@
+{
+  "id": 2676,
+  "name": "_Small Red Pod Mid",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallRedPod",
+    "text": "Small Red Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_red_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Small Red Pod Mid"
+}

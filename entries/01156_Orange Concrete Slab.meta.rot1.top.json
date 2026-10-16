@@ -1,0 +1,31 @@
+{
+  "id": 1156,
+  "name": "Orange Concrete Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeConcreteSlab",
+    "text": "Orange Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "orange_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Orange Concrete Slab",
+    "rootId": 1155,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 199,
+  "stackable": true,
+  "slabFullBlock": "Orange Concrete"
+}

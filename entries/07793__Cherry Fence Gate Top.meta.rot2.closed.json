@@ -1,0 +1,33 @@
+{
+  "id": 7793,
+  "name": "_Cherry Fence Gate Top|meta|rot2|closed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryFenceGate",
+    "text": "Cherry Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cherry",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "cherry_fence_gate",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.625,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "_Cherry Fence Gate Top",
+    "rootId": 7791,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "atlasIdx": 499,
+  "stackable": true,
+  "canBePlacedOver": true
+}

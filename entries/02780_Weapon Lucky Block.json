@@ -1,0 +1,28 @@
+{
+  "id": 2780,
+  "name": "Weapon Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:weaponLuckyBlock",
+    "text": "Weapon Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "red_lucky_block",
+    "weapon_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    847,
+    848
+  ],
+  "stackable": true
+}

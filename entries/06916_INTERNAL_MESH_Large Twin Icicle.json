@@ -1,0 +1,13 @@
+{
+  "id": 6916,
+  "name": "INTERNAL_MESH_Large Twin Icicle",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Large Twin Icicle",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

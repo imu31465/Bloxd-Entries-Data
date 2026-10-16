@@ -1,0 +1,15 @@
+{
+  "id": 7989,
+  "name": "Green Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenWoodBoots",
+    "text": "Green Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

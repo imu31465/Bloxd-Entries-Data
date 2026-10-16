@@ -1,0 +1,11 @@
+{
+  "id": 8062,
+  "name": "INTERNAL_MESH_White Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "white_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "White Kart",
+  "stackable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": 805,
+  "name": "Granite Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:graniteSlab",
+    "text": "Granite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_granite_side",
+    "stone_granite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Granite Slab",
+    "rootId": 805,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Granite Slab|meta|rot1|bot",
+  "atlasIdx": [
+    418,
+    142
+  ],
+  "stackable": true,
+  "slabFullBlock": "Granite"
+}

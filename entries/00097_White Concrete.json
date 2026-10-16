@@ -1,0 +1,14 @@
+{
+  "id": 97,
+  "name": "White Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteConcrete",
+    "text": "White Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "white_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 203,
+  "stackable": true
+}

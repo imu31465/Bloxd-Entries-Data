@@ -1,0 +1,17 @@
+{
+  "id": 906,
+  "name": "Fat Cactus|Growing",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "cactus_top",
+  "harvestType": "cuttable",
+  "meta": {
+    "rootName": "Fat Cactus",
+    "rootId": 213,
+    "metaStr": "Growing",
+    "kt": true
+  },
+  "damage": 22,
+  "atlasIdx": 266,
+  "stackable": true
+}

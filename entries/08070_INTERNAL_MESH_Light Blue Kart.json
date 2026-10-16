@@ -1,0 +1,11 @@
+{
+  "id": 8070,
+  "name": "INTERNAL_MESH_Light Blue Kart",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "light_blue_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Light Blue Kart",
+  "stackable": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 8104,
+  "name": "Scatter Pellet",
+  "kind": "item",
+  "displayName": {
+    "text": "Scatter Pellet"
+  },
+  "description": {
+    "text": "Primary spread shot from Scatter in Heroes v Brainrots"
+  },
+  "type": "Item",
+  "textureInfo": "pebble",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 8
+}

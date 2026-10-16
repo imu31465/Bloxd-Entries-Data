@@ -1,0 +1,19 @@
+{
+  "id": 998,
+  "name": "Patterned Green Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedGreenGlass",
+    "text": "Patterned Green Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_green",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 469,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 479,
+  "name": "Green Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenBricks",
+    "text": "Green Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "green_bricks",
+  "harvestType": "rock",
+  "atlasIdx": 374,
+  "stackable": true
+}

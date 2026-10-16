@@ -1,0 +1,32 @@
+{
+  "id": 7819,
+  "name": "Mango Fence Gate|meta|rot3|closed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoFenceGate",
+    "text": "Mango Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "mango_fence_gate",
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Mango Fence Gate",
+    "rootId": 7815,
+    "metaStr": "meta|rot3|closed",
+    "rot": 3,
+    "open": false
+  },
+  "atlasIdx": 808,
+  "stackable": true,
+  "attachedTop": "_Mango Fence Gate Top|meta|rot3|closed"
+}

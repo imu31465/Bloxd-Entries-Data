@@ -1,0 +1,38 @@
+{
+  "id": 3241,
+  "name": "Lunite Auto Harvester",
+  "kind": "block",
+  "displayName": {
+    "key": "item:luniteAutoHarvester",
+    "text": "Lunite Auto Harvester"
+  },
+  "description": {
+    "key": "item:luniteAutoHarvesterDescription",
+    "text": "An upgraded Auto Harvester with a 25% chance to duplicate each crop drop it harvests. Burns coal or runs on solar power."
+  },
+  "ttb": 3600,
+  "textureInfo": [
+    "harvester_lunite_side_0",
+    "harvester_lunite_side_1",
+    "harvester_lunite_top",
+    "harvester_lunite_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1
+  ],
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "atlasIdx": [
+    888,
+    889,
+    890,
+    891
+  ],
+  "stackable": true
+}

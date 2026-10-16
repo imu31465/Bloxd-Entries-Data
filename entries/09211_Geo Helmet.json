@@ -1,0 +1,16 @@
+{
+  "id": 9211,
+  "name": "Geo Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoHelmet",
+    "text": "Geo Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "geo_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

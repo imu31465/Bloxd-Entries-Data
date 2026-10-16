@@ -1,0 +1,36 @@
+{
+  "id": 7430,
+  "name": "Spectral Fence|meta|s",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralFence",
+    "text": "Spectral Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_spectral",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "spectral_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Spectral Fence",
+    "rootId": 7426,
+    "metaStr": "meta|s"
+  },
+  "atlasIdx": 745,
+  "stackable": true,
+  "attachedTop": "_Spectral Fence Top|meta|s"
+}

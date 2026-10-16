@@ -1,0 +1,41 @@
+{
+  "id": 2326,
+  "name": "_Cyan Banner Flag|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanBanner",
+    "text": "Cyan Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_cyan",
+  "drops": "Cyan Banner",
+  "solid": false,
+  "Am": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Cyan Banner Flag",
+    "rootId": 2319,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Cyan Banner Flag Hanging"
+}

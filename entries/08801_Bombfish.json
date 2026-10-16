@@ -1,0 +1,14 @@
+{
+  "id": 8801,
+  "name": "Bombfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bombfish",
+    "text": "Bombfish"
+  },
+  "type": "Item",
+  "textureInfo": "bombfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

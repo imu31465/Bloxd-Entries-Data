@@ -1,0 +1,18 @@
+{
+  "id": 8014,
+  "name": "Lunite",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lunite",
+    "text": "Lunite"
+  },
+  "description": {
+    "key": "item:luniteDescription",
+    "text": "Found on the moon. Launch a rocket to go to the moon."
+  },
+  "type": "Item",
+  "textureInfo": "lunite",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

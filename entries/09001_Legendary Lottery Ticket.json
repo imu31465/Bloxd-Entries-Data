@@ -1,0 +1,22 @@
+{
+  "id": 9001,
+  "name": "Legendary Lottery Ticket",
+  "kind": "item",
+  "displayName": [
+    {
+      "str": "Legendary Lottery Ticket",
+      "style": {
+        "color": "#ffa500"
+      }
+    }
+  ],
+  "description": {
+    "text": "Take it to the Lottery stall in the spawn hub to redeem it for a reward."
+  },
+  "type": "Item",
+  "textureInfo": "book",
+  "weight": 0,
+  "heldItemScale": 1,
+  "heldItemGlb": "Book",
+  "stackable": true
+}

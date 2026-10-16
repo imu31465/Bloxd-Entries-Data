@@ -1,0 +1,18 @@
+{
+  "id": 8838,
+  "name": "Golden Mahseer",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldenMahseer",
+    "text": "Golden Mahseer"
+  },
+  "description": {
+    "key": "item:goldenMahseerDescription",
+    "text": "An inedible trophy fish. Found in oasis waters in Survival."
+  },
+  "type": "Item",
+  "textureInfo": "golden_mahseer",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

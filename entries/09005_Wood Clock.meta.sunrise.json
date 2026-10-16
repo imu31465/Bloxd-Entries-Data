@@ -1,0 +1,24 @@
+{
+  "id": 9005,
+  "name": "Wood Clock|meta|sunrise",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodClock",
+    "text": "Wood Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_wood_sunrise",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_wood_sunrise",
+  "stackable": false,
+  "meta": {
+    "rootName": "Wood Clock",
+    "rootId": 9002,
+    "metaStr": "meta|sunrise"
+  }
+}

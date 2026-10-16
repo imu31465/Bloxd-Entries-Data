@@ -1,0 +1,24 @@
+{
+  "id": 532,
+  "name": "_Plum Door Top|meta|rot2|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Plum Door",
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Plum Door Top",
+    "rootId": 530,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8809,
+  "name": "Shadow Darter",
+  "kind": "item",
+  "displayName": {
+    "key": "item:shadowDarter",
+    "text": "Shadow Darter"
+  },
+  "type": "Item",
+  "textureInfo": "darter_shadow",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2483,
+  "name": "Draugr Banner",
+  "kind": "block",
+  "displayName": {
+    "key": "item:draugrBanner",
+    "text": "Draugr Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_draugr",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Draugr Banner",
+    "rootId": 2483,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Draugr Banner|meta|rot1|bot",
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Draugr Banner"
+}

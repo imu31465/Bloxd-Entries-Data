@@ -1,0 +1,36 @@
+{
+  "id": 7382,
+  "name": "Cherry Fence|meta|s",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryFence",
+    "text": "Cherry Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cherry",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "cherry_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cherry Fence",
+    "rootId": 7378,
+    "metaStr": "meta|s"
+  },
+  "atlasIdx": 499,
+  "stackable": true,
+  "attachedTop": "_Cherry Fence Top|meta|s"
+}

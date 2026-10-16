@@ -1,0 +1,14 @@
+{
+  "id": 231,
+  "name": "Light Blue Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBluePlanks",
+    "text": "Light Blue Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "light_blue_planks",
+  "harvestType": "wood",
+  "atlasIdx": 271,
+  "stackable": true
+}

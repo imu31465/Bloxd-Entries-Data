@@ -1,0 +1,30 @@
+{
+  "id": 8521,
+  "name": "Red Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redPaintBow",
+    "text": "Red Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "red_paint_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Red Paint Bow",
+    "rootId": 8521,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Red Paint Bow|meta|charging1",
+  "textureName": "red_paint_bow"
+}

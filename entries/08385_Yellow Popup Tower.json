@@ -1,0 +1,18 @@
+{
+  "id": 8385,
+  "name": "Yellow Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowPopupTower",
+    "text": "Yellow Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "yellow_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

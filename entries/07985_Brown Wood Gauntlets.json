@@ -1,0 +1,15 @@
+{
+  "id": 7985,
+  "name": "Brown Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownWoodGauntlets",
+    "text": "Brown Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

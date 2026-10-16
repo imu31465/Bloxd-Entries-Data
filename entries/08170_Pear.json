@@ -1,0 +1,29 @@
+{
+  "id": 8170,
+  "name": "Pear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pear",
+    "text": "Pear"
+  },
+  "description": {
+    "key": "item:pearDescription",
+    "text": "Temporarily receive reduced damage"
+  },
+  "type": "Chargeable",
+  "textureInfo": "pear",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Pear",
+    "rootId": 8170,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Pear|meta|charging1"
+}

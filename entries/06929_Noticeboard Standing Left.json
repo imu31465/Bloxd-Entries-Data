@@ -1,0 +1,37 @@
+{
+  "id": 6929,
+  "name": "Noticeboard Standing Left",
+  "kind": "block",
+  "displayName": {
+    "key": "item:noticeboardStandingLeft",
+    "text": "Noticeboard Standing Left"
+  },
+  "ttb": 1800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "noticeboard_standing_left",
+  "solid": true,
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Noticeboard Standing Left",
+    "rootId": 6929,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Noticeboard Standing Left|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "noticeboard_standing_left",
+  "blockModelItem": true
+}

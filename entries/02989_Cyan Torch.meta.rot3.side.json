@@ -1,0 +1,33 @@
+{
+  "id": 2989,
+  "name": "Cyan Torch|meta|rot3|side",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "torch_cyan",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Cyan Torch",
+    "rootId": 2985,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 3.141592653589793
+  },
+  "lm": [
+    4,
+    14,
+    14
+  ],
+  "stackable": true,
+  "blockModel": "torch_wall_cyan",
+  "blockModelItem": true
+}

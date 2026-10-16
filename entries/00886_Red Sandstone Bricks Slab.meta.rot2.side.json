@@ -1,0 +1,45 @@
+{
+  "id": 886,
+  "name": "Red Sandstone Bricks Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redSandstoneBricksSlab",
+    "text": "Red Sandstone Bricks Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_red_sandstone_brick_side",
+    "red_sandstone_brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Red Sandstone Bricks Slab",
+    "rootId": 883,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    429,
+    390
+  ],
+  "stackable": true,
+  "slabFullBlock": "Red Sandstone Bricks"
+}

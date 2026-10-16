@@ -1,0 +1,16 @@
+{
+  "id": 9146,
+  "name": "Kingly Diamond Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyDiamondChestplate",
+    "text": "Kingly Diamond Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_diamond_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_diamond_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

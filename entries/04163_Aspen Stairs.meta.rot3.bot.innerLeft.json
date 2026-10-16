@@ -1,0 +1,43 @@
+{
+  "id": 4163,
+  "name": "Aspen Stairs|meta|rot3|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenStairs",
+    "text": "Aspen Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_aspen",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Aspen Stairs",
+    "rootId": 3341,
+    "metaStr": "meta|rot3|bot|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 124,
+  "stackable": true
+}

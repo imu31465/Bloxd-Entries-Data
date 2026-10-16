@@ -1,0 +1,18 @@
+{
+  "id": 1117,
+  "name": "Barkless Aspen Log|TreeBase|Aspen",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_aspen_log",
+  "harvestType": "wood",
+  "drops": "Barkless Aspen Log",
+  "meta": {
+    "rootName": "Barkless Aspen Log",
+    "rootId": 22,
+    "metaStr": "TreeBase|Aspen",
+    "treeBase": true,
+    "woodType": "Aspen"
+  },
+  "atlasIdx": 130,
+  "stackable": true
+}

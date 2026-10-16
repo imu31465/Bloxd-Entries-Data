@@ -1,0 +1,19 @@
+{
+  "id": 8794,
+  "name": "Black Firecracker Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackFirecrackerPebble",
+    "text": "Black Firecracker Pebble"
+  },
+  "description": {
+    "key": "item:firecrackerPebbleDescription",
+    "text": "Throw at players to do damage (and annoy them with a colorful explosion)"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_pebble_black",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

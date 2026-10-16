@@ -1,0 +1,37 @@
+{
+  "id": 4304,
+  "name": "Cherry Stairs|meta|rot4|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryStairs",
+    "text": "Cherry Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cherry",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Cherry Stairs",
+    "rootId": 3373,
+    "metaStr": "meta|rot4|bot|outerRight",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 499,
+  "stackable": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3300,
+  "name": "Rare Tools Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Rare Tools Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "orange_lucky_block_rare",
+    "tools_lucky_block_rare"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    916,
+    917
+  ],
+  "stackable": true
+}

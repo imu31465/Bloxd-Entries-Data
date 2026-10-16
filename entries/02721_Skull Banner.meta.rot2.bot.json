@@ -1,0 +1,40 @@
+{
+  "id": 2721,
+  "name": "Skull Banner|meta|rot2|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:skullBanner",
+    "text": "Skull Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_skull",
+  "solid": false,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Skull Banner",
+    "rootId": 2720,
+    "metaStr": "meta|rot2|bot",
+    "rot": 2,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Skull Banner"
+}

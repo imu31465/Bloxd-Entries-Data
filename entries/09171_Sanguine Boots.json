@@ -1,0 +1,16 @@
+{
+  "id": 9171,
+  "name": "Sanguine Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineBoots",
+    "text": "Sanguine Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "sanguine_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "sanguine_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

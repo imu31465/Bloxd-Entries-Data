@@ -1,0 +1,15 @@
+{
+  "id": 8227,
+  "name": "Arrow of Poison",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfPoison",
+    "text": "Arrow of Poison"
+  },
+  "type": "Item",
+  "textureInfo": "poison_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

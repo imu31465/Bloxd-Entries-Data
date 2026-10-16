@@ -1,0 +1,24 @@
+{
+  "id": 8979,
+  "name": "Diamond Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondWhip",
+    "text": "Diamond Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "diamond_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

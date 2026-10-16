@@ -1,0 +1,37 @@
+{
+  "id": 4505,
+  "name": "Engraved Stone Stairs|meta|rot1|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedStoneStairs",
+    "text": "Engraved Stone Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick_carved",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Engraved Stone Stairs",
+    "rootId": 3421,
+    "metaStr": "meta|rot1|top|outerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 240,
+  "stackable": true
+}

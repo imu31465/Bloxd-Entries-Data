@@ -1,0 +1,15 @@
+{
+  "id": 2512,
+  "name": "Fertilised Soil",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fertilisedSoil",
+    "text": "Fertilised Soil"
+  },
+  "ttb": 600,
+  "textureInfo": "fertilised_soil",
+  "harvestType": "granule",
+  "drops": "Tilled Soil",
+  "atlasIdx": 839,
+  "stackable": true
+}

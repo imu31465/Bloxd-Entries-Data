@@ -1,0 +1,11 @@
+{
+  "id": 8082,
+  "name": "INTERNAL_MESH_Car",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "light_blue_car",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Car",
+  "stackable": false
+}

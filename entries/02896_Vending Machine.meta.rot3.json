@@ -1,0 +1,21 @@
+{
+  "id": 2896,
+  "name": "Vending Machine|meta|rot3",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "vending_machine",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Vending Machine",
+    "rootId": 2894,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "vending_machine_bottom"
+}

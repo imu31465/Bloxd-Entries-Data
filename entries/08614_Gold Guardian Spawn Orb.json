@@ -1,0 +1,21 @@
+{
+  "id": 8614,
+  "name": "Gold Guardian Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldGuardianSpawnOrb",
+    "text": "Gold Guardian Spawn Orb"
+  },
+  "description": {
+    "key": "item:goldGuardianSpawnOrbDescription",
+    "text": "Throw to spawn a Gold Guardian at the landing location",
+    "params": {
+      "mob": "Gold Guardian"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "gold_guardian_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

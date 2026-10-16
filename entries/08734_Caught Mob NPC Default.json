@@ -1,0 +1,15 @@
+{
+  "id": 8734,
+  "name": "Caught Mob NPC Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Default",
+    "rootId": 8734,
+    "caughtMobType": "NPC"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8887,
+  "name": "Iceshelf Skate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:iceshelfSkate",
+    "text": "Iceshelf Skate"
+  },
+  "type": "Item",
+  "textureInfo": "iceshelf_skate",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": 693,
+  "name": "Jungle Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleSlab",
+    "text": "Jungle Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_jungle_side",
+    "planks_jungle"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Jungle Slab",
+    "rootId": 691,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    399,
+    126
+  ],
+  "stackable": true,
+  "slabFullBlock": "Jungle Wood Planks"
+}

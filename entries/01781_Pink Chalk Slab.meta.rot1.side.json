@@ -1,0 +1,41 @@
+{
+  "id": 1781,
+  "name": "Pink Chalk Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_pink",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Pink Chalk Slab",
+    "rootId": 1779,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 759,
+  "stackable": true,
+  "slabFullBlock": "Pink Chalk"
+}

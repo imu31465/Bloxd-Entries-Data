@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "name": "Cedar Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarLog",
+    "text": "Cedar Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_cedar",
+  "harvestType": "wood",
+  "atlasIdx": 120,
+  "stackable": true
+}

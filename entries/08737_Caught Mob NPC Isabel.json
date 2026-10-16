@@ -1,0 +1,15 @@
+{
+  "id": 8737,
+  "name": "Caught Mob NPC Isabel",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_isabel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Isabel",
+    "rootId": 8737,
+    "caughtMobType": "NPC"
+  }
+}

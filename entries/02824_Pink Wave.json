@@ -1,0 +1,16 @@
+{
+  "id": 2824,
+  "name": "Pink Wave",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "modelScale": 1,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "wave_pink",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

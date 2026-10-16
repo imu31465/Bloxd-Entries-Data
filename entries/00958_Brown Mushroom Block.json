@@ -1,0 +1,14 @@
+{
+  "id": 958,
+  "name": "Brown Mushroom Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownMushroomBlock",
+    "text": "Brown Mushroom Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "brown_mushroom_block",
+  "harvestType": "cuttable",
+  "atlasIdx": 451,
+  "stackable": true
+}

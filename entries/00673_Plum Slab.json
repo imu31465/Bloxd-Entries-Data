@@ -1,0 +1,46 @@
+{
+  "id": 673,
+  "name": "Plum Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumSlab",
+    "text": "Plum Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_plum_side",
+    "planks_plum"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Plum Slab",
+    "rootId": 673,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Plum Slab|meta|rot1|bot",
+  "atlasIdx": [
+    396,
+    125
+  ],
+  "stackable": true,
+  "slabFullBlock": "Plum Wood Planks"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 1353,
+  "name": "Light Gray Sticky Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_sticky_light_gray",
+  "harvestType": "cuttable",
+  "atlasIdx": 583,
+  "stackable": true
+}

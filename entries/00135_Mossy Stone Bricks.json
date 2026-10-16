@@ -1,0 +1,14 @@
+{
+  "id": 135,
+  "name": "Mossy Stone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mossyStoneBricks",
+    "text": "Mossy Stone Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick_mossy",
+  "harvestType": "rock",
+  "atlasIdx": 241,
+  "stackable": true
+}

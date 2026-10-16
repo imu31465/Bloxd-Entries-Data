@@ -1,0 +1,15 @@
+{
+  "id": 8684,
+  "name": "Caught Mob Spirit_Bear Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_spirit_bear_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Spirit_Bear Default",
+    "rootId": 8684,
+    "caughtMobType": "Spirit Bear"
+  }
+}

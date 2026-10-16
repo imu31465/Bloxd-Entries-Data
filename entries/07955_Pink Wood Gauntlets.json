@@ -1,0 +1,15 @@
+{
+  "id": 7955,
+  "name": "Pink Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkWoodGauntlets",
+    "text": "Pink Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7913,
+  "name": "Iron Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironGauntlets",
+    "text": "Iron Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "iron_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.08
+}

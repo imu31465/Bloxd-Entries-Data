@@ -1,0 +1,32 @@
+{
+  "id": 1278,
+  "name": "Kill Spikes",
+  "kind": "block",
+  "displayName": {
+    "key": "item:killSpikes",
+    "text": "Kill Spikes"
+  },
+  "description": {
+    "key": "item:killSpikesDescription",
+    "text": "Megaspikes. Players who touch these will instantly die!"
+  },
+  "ttb": 1200,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "spikes_kill",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1
+  ],
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.125
+  },
+  "stackable": true,
+  "blockModel": "Spikes_Kill"
+}

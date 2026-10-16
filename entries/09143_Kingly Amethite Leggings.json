@@ -1,0 +1,16 @@
+{
+  "id": 9143,
+  "name": "Kingly Amethite Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyAmethiteLeggings",
+    "text": "Kingly Amethite Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_amethite_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_amethite_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

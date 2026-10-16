@@ -1,0 +1,21 @@
+{
+  "id": 2051,
+  "name": "Carrot Plant",
+  "kind": "block",
+  "displayName": {
+    "key": "item:carrotSeeds",
+    "text": "Carrot Seeds"
+  },
+  "description": {
+    "key": "item:carrotSeedsDescription",
+    "text": "Plant to grow carrots"
+  },
+  "ttb": 400,
+  "textureInfo": "carrot_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "carrot_seeds",
+  "drops": "Carrot Seeds",
+  "solid": false,
+  "stackable": true
+}

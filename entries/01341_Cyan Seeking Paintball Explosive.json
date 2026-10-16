@@ -1,0 +1,10 @@
+{
+  "id": 1341,
+  "name": "Cyan Seeking Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_seeking_cyan",
+  "harvestType": "cuttable",
+  "atlasIdx": 571,
+  "stackable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1586,
+  "name": "Generator Spawn Block (Lime)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeGeneratorSpawnBlock",
+    "text": "Lime Generator Spawn Block"
+  },
+  "description": {
+    "key": "item:teamGeneratorSpawnBlockDescription",
+    "text": "Spawn Block for Coal and Iron Bars when exporting for custom Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "lime_gen_spawn_top",
+    "lime_gen_spawn_coal",
+    "lime_gen_spawn_iron"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    691,
+    692,
+    693
+  ],
+  "stackable": true
+}

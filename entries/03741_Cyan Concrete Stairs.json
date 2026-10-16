@@ -1,0 +1,37 @@
+{
+  "id": 3741,
+  "name": "Cyan Concrete Stairs",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanConcreteStairs",
+    "text": "Cyan Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "cyan_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Cyan Concrete Stairs",
+    "rootId": 3741,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Cyan Concrete Stairs|meta|rot1|bot",
+  "atlasIdx": 195,
+  "stackable": true
+}

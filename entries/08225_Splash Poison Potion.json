@@ -1,0 +1,25 @@
+{
+  "id": 8225,
+  "name": "Splash Poison Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashPoisonPotion",
+    "text": "Splash Poison Potion"
+  },
+  "description": {
+    "key": "item:splashPoisonPotionDescription",
+    "text": "Poison anyone who stands in your way!"
+  },
+  "type": "Item",
+  "textureInfo": "splash_poison",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Splash Poison Potion",
+    "rootId": 8225,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Splash Poison Potion|meta|charging1"
+}

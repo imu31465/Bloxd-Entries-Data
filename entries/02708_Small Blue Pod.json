@@ -1,0 +1,21 @@
+{
+  "id": 2708,
+  "name": "Small Blue Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallBluePod",
+    "text": "Small Blue Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_blue_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Blue Pod"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1963,
+  "name": "Jungle Tall Grass|Top",
+  "kind": "block",
+  "ttb": 1,
+  "textureInfo": "jungle_tall_grass_top",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "jungle_tall_grass_top",
+  "drops": null,
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Jungle Tall Grass",
+    "rootId": 1962,
+    "metaStr": "Top",
+    "top": true
+  },
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Jungle Tall Grass"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

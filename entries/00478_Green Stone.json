@@ -1,0 +1,14 @@
+{
+  "id": 478,
+  "name": "Green Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenStone",
+    "text": "Green Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "green_stone",
+  "harvestType": "rock",
+  "atlasIdx": 373,
+  "stackable": true
+}

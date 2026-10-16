@@ -1,0 +1,14 @@
+{
+  "id": 492,
+  "name": "Cedar Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarLeaves",
+    "text": "Cedar Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_cedar",
+  "harvestType": "cuttable",
+  "atlasIdx": 385,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8452,
+  "name": "Purple Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purplePaintballExplosive",
+    "text": "Purple Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_purple",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

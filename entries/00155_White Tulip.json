@@ -1,0 +1,17 @@
+{
+  "id": 155,
+  "name": "White Tulip",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteTulip",
+    "text": "White Tulip"
+  },
+  "ttb": 300,
+  "textureInfo": "white_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "white_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

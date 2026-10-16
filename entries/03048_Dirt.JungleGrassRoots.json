@@ -1,0 +1,16 @@
+{
+  "id": 3048,
+  "name": "Dirt|JungleGrassRoots",
+  "kind": "block",
+  "ttb": 600,
+  "textureInfo": "dirt",
+  "harvestType": "granule",
+  "meta": {
+    "rootName": "Dirt",
+    "rootId": 2,
+    "metaStr": "JungleGrassRoots",
+    "grassRoots": true
+  },
+  "atlasIdx": 109,
+  "stackable": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9187,
+  "name": "Spectral Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralWhip",
+    "text": "Spectral Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "spectral_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "spectral_whip",
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3255,
+  "name": "Dead Bush",
+  "kind": "block",
+  "displayName": {
+    "key": "item:deadBush",
+    "text": "Dead Bush"
+  },
+  "ttb": 1,
+  "textureInfo": "dead_bush",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "heldItemScale": 0.5,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Dead Bush"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

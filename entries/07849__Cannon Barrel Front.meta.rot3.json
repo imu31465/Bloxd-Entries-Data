@@ -1,0 +1,22 @@
+{
+  "id": 7849,
+  "name": "_Cannon Barrel Front|meta|rot3",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Cannon",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Cannon Barrel Front",
+    "rootId": 7847,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "cannon_barrel_front"
+}

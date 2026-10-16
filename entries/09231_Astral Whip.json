@@ -1,0 +1,25 @@
+{
+  "id": 9231,
+  "name": "Astral Whip",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralWhip",
+    "text": "Astral Whip"
+  },
+  "description": {
+    "key": "item:whipDescription",
+    "text": "Pulls enemies in from long range"
+  },
+  "type": "Tool",
+  "textureInfo": "astral_whip",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "astral_whip",
+  "stackable": false,
+  "damage": 17,
+  "attackRange": 8,
+  "knockbackHorizontalScalar": -1.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2771,
+  "name": "Bobzilla Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "bobzilla",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "bobzilla",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

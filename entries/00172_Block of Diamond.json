@@ -1,0 +1,14 @@
+{
+  "id": 172,
+  "name": "Block of Diamond",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfDiamond",
+    "text": "Block of Diamond"
+  },
+  "ttb": 6750,
+  "textureInfo": "diamond_block",
+  "harvestType": "rock",
+  "atlasIdx": 259,
+  "stackable": true
+}

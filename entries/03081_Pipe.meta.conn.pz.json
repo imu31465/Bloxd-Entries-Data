@@ -1,0 +1,29 @@
+{
+  "id": 3081,
+  "name": "Pipe|meta|conn|pz",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pipe",
+    "text": "Pipe"
+  },
+  "description": {
+    "key": "item:pipeDescription",
+    "text": "Carries items between machines and chests. Use Extractor Pipes to pull from chests."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "pipe",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Pipe",
+    "rootId": 3075,
+    "metaStr": "meta|conn|pz"
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "pipe_end_pz",
+  "blockModelItem": true
+}

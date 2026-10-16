@@ -1,0 +1,24 @@
+{
+  "id": 565,
+  "name": "_Aspen Door Top|meta|rot2|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Aspen Door",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "_Aspen Door Top",
+    "rootId": 562,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "stackable": true
+}

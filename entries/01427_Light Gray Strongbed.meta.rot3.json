@@ -1,0 +1,23 @@
+{
+  "id": 1427,
+  "name": "Light Gray Strongbed|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayStrongbed",
+    "text": "Light Gray Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "light_gray_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Light Gray Strongbed",
+    "rootId": 1425,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Light Gray Strongbed"
+}

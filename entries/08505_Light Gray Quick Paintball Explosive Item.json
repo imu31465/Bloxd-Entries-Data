@@ -1,0 +1,18 @@
+{
+  "id": 8505,
+  "name": "Light Gray Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayQuickPaintballExplosive",
+    "text": "Light Gray Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_light_gray",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

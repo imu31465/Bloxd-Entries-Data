@@ -1,0 +1,14 @@
+{
+  "id": 322,
+  "name": "Mossy Messy Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mossyMessyStone",
+    "text": "Mossy Messy Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "mossy_cobblestone",
+  "harvestType": "rock",
+  "atlasIdx": 355,
+  "stackable": true
+}

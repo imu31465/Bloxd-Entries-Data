@@ -1,0 +1,10 @@
+{
+  "id": 1348,
+  "name": "Purple Sticky Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_sticky_purple",
+  "harvestType": "cuttable",
+  "atlasIdx": 578,
+  "stackable": true
+}

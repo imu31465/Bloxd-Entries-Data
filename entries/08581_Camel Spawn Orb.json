@@ -1,0 +1,21 @@
+{
+  "id": 8581,
+  "name": "Camel Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:camelSpawnOrb",
+    "text": "Camel Spawn Orb"
+  },
+  "description": {
+    "key": "item:camelSpawnOrbDescription",
+    "text": "Throw to spawn a Camel at the landing location",
+    "params": {
+      "mob": "Camel"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "camel_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

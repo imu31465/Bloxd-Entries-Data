@@ -1,0 +1,24 @@
+{
+  "id": 1651,
+  "name": "_Spectral Door Top|meta|rot4|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Spectral Door",
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Spectral Door Top",
+    "rootId": 1645,
+    "metaStr": "meta|rot4|closed",
+    "rot": 4,
+    "open": false
+  },
+  "stackable": true
+}

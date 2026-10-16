@@ -1,0 +1,14 @@
+{
+  "id": 8944,
+  "name": "Medkit",
+  "kind": "item",
+  "displayName": {
+    "key": "item:medkit",
+    "text": "Medkit"
+  },
+  "type": "Item",
+  "textureInfo": "medkit",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

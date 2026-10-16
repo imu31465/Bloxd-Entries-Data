@@ -1,0 +1,14 @@
+{
+  "id": 86,
+  "name": "Black Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackConcrete",
+    "text": "Black Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "black_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 192,
+  "stackable": true
+}

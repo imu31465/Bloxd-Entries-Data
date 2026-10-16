@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "name": "Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grassBlock",
+    "text": "Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": [
+    "grass_block_side",
+    "grass_top",
+    "dirt"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": [
+    111,
+    112,
+    109
+  ],
+  "stackable": true
+}

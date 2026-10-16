@@ -1,0 +1,43 @@
+{
+  "id": 5203,
+  "name": "Smooth Red Sandstone Stairs|meta|rot3|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothRedSandstoneStairs",
+    "text": "Smooth Red Sandstone Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "red_sandstone_top",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Smooth Red Sandstone Stairs",
+    "rootId": 3597,
+    "metaStr": "meta|rot3|top|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 370,
+  "stackable": true
+}

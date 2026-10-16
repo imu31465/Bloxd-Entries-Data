@@ -1,0 +1,24 @@
+{
+  "id": 1481,
+  "name": "Black Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackStrongbed",
+    "text": "Black Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "black_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Black Strongbed",
+    "rootId": 1481,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Black Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Black Strongbed"
+}

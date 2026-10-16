@@ -1,0 +1,17 @@
+{
+  "id": 494,
+  "name": "Plum Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_plum",
+  "harvestType": "cuttable",
+  "drops": "Plum Leaves",
+  "meta": {
+    "rootName": "Plum Leaves",
+    "rootId": 491,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 384,
+  "stackable": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 358,
+  "name": "_Magenta Bed Head|meta|rot3",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "magenta_bed",
+  "drops": "Magenta Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Magenta Bed Head",
+    "rootId": 356,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Magenta Bed Head"
+}

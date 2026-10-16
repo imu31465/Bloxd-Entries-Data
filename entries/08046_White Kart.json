@@ -1,0 +1,15 @@
+{
+  "id": 8046,
+  "name": "White Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteKart",
+    "text": "White Kart"
+  },
+  "type": "Item",
+  "textureInfo": "white_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "White Kart Item",
+  "stackable": false
+}

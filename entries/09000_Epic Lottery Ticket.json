@@ -1,0 +1,22 @@
+{
+  "id": 9000,
+  "name": "Epic Lottery Ticket",
+  "kind": "item",
+  "displayName": [
+    {
+      "str": "Epic Lottery Ticket",
+      "style": {
+        "color": "#800080"
+      }
+    }
+  ],
+  "description": {
+    "text": "Take it to the Lottery stall in the spawn hub to redeem it for a reward."
+  },
+  "type": "Item",
+  "textureInfo": "book",
+  "weight": 0,
+  "heldItemScale": 1,
+  "heldItemGlb": "Book",
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8240,
+  "name": "Arrow of Milk",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfMilk",
+    "text": "Arrow of Milk"
+  },
+  "type": "Item",
+  "textureInfo": "milk_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

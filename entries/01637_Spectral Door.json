@@ -1,0 +1,32 @@
+{
+  "id": 1637,
+  "name": "Spectral Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralDoor",
+    "text": "Spectral Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "spectral_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Spectral Door",
+    "rootId": 1637,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Spectral Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Spectral Door"
+}

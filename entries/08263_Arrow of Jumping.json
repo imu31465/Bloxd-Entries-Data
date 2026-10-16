@@ -1,0 +1,15 @@
+{
+  "id": 8263,
+  "name": "Arrow of Jumping",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfJumping",
+    "text": "Arrow of Jumping"
+  },
+  "type": "Item",
+  "textureInfo": "jump_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

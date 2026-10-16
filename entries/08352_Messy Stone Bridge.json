@@ -1,0 +1,19 @@
+{
+  "id": 8352,
+  "name": "Messy Stone Bridge",
+  "kind": "item",
+  "displayName": {
+    "key": "item:messyStoneBridge",
+    "text": "Messy Stone Bridge"
+  },
+  "description": {
+    "key": "item:messyStoneBridgeDescription",
+    "text": "Create a bridge of messy stone"
+  },
+  "type": "Item",
+  "textureInfo": "messy_stone_bridge",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "bridgeLength": 16
+}

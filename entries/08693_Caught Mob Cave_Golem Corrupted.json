@@ -1,0 +1,15 @@
+{
+  "id": 8693,
+  "name": "Caught Mob Cave_Golem Corrupted",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_cave_golem_corrupted",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Cave_Golem Corrupted",
+    "rootId": 8693,
+    "caughtMobType": "Cave Golem"
+  }
+}

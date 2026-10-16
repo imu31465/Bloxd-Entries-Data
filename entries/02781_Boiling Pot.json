@@ -1,0 +1,17 @@
+{
+  "id": 2781,
+  "name": "Boiling Pot",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "boiling_pot",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "boiling_pot",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

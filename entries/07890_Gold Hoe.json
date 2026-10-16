@@ -1,0 +1,22 @@
+{
+  "id": 7890,
+  "name": "Gold Hoe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldHoe",
+    "text": "Gold Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "golden_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 26,
+  "harvests": "cuttable",
+  "multiplier": 3.75,
+  "level": 4
+}

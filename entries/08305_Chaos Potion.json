@@ -1,0 +1,30 @@
+{
+  "id": 8305,
+  "name": "Chaos Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:chaosPotion",
+    "text": "Chaos Potion"
+  },
+  "description": {
+    "key": "item:chaosPotionDescription",
+    "text": "Gives one random positive and negative effect."
+  },
+  "type": "Chargeable",
+  "textureInfo": "chaos_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 600,
+  "meta": {
+    "rootName": "Chaos Potion",
+    "rootId": 8305,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Chaos Potion|meta|charging1"
+}

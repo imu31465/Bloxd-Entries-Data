@@ -1,0 +1,14 @@
+{
+  "id": 8902,
+  "name": "Red Pyreside",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redPyreside",
+    "text": "Red Pyreside"
+  },
+  "type": "Item",
+  "textureInfo": "red_pyreside",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 118,
+  "name": "Pink Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkGlass",
+    "text": "Pink Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_pink",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 225,
+  "stackable": true
+}

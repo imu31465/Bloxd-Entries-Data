@@ -1,0 +1,15 @@
+{
+  "id": 8738,
+  "name": "Caught Mob NPC Sanjay",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_sanjay",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Sanjay",
+    "rootId": 8738,
+    "caughtMobType": "NPC"
+  }
+}

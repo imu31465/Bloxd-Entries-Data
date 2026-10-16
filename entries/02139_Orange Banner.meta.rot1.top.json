@@ -1,0 +1,40 @@
+{
+  "id": 2139,
+  "name": "Orange Banner|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeBanner",
+    "text": "Orange Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_orange",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Orange Banner",
+    "rootId": 2123,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Orange Banner Hanging"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1375,
+  "name": "_Orange Strongbed Head|meta|rot3",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "orange_strongbed",
+  "drops": "Orange Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Orange Strongbed Head",
+    "rootId": 1373,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Orange Strongbed Head"
+}

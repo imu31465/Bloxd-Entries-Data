@@ -1,0 +1,29 @@
+{
+  "id": 8939,
+  "name": "Porridge",
+  "kind": "item",
+  "displayName": {
+    "key": "item:porridge",
+    "text": "Porridge"
+  },
+  "description": {
+    "key": "item:porridgeDescription",
+    "text": "Eat to be able to climb any wall."
+  },
+  "type": "Chargeable",
+  "textureInfo": "porridge",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Porridge",
+    "rootId": 8939,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Porridge|meta|charging1"
+}

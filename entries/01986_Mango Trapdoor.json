@@ -1,0 +1,33 @@
+{
+  "id": 1986,
+  "name": "Mango Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoTrapdoor",
+    "text": "Mango Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "mango_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Mango Trapdoor",
+    "rootId": 1986,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Mango Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Mango Trapdoor",
+  "blockModelItem": true
+}

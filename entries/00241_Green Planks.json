@@ -1,0 +1,14 @@
+{
+  "id": 241,
+  "name": "Green Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenPlanks",
+    "text": "Green Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "green_planks",
+  "harvestType": "wood",
+  "atlasIdx": 281,
+  "stackable": true
+}

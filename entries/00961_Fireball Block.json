@@ -1,0 +1,15 @@
+{
+  "id": 961,
+  "name": "Fireball Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fireballBlock",
+    "text": "Fireball Block"
+  },
+  "ttb": 1,
+  "textureInfo": "fireball_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 454,
+  "stackable": true
+}

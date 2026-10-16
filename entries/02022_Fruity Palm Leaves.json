@@ -1,0 +1,19 @@
+{
+  "id": 2022,
+  "name": "Fruity Palm Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityPalmLeaves",
+    "text": "Fruity Palm Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_palm_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Palm Leaves"
+  },
+  "atlasIdx": 819,
+  "stackable": true
+}

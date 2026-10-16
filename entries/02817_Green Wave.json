@@ -1,0 +1,16 @@
+{
+  "id": 2817,
+  "name": "Green Wave",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "modelScale": 1,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "wave_green",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

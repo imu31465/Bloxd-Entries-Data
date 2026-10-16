@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "name": "Maple Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleLog",
+    "text": "Maple Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_maple",
+  "harvestType": "wood",
+  "atlasIdx": 117,
+  "stackable": true
+}

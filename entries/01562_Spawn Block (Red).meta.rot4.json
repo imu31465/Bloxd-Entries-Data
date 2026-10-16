@@ -1,0 +1,36 @@
+{
+  "id": 1562,
+  "name": "Spawn Block (Red)|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "red_spawn_block_top[rot[1",
+    "red_spawn_block_top[rot[2",
+    "red_spawn_block_top[rot[3",
+    "red_spawn_block_top[rot[4",
+    "red_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    1,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Red)",
+    "rootId": 1514,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    606,
+    607,
+    608,
+    609,
+    610
+  ],
+  "stackable": true
+}

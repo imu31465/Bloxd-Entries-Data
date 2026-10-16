@@ -1,0 +1,11 @@
+{
+  "id": 8030,
+  "name": "INTERNAL_MESH_Boat",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "oak_boat",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Boat",
+  "stackable": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 498,
+  "name": "Plum Log|TreeBase|Plum",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_plum",
+  "harvestType": "wood",
+  "drops": "Plum Log",
+  "meta": {
+    "rootName": "Plum Log",
+    "rootId": 11,
+    "metaStr": "TreeBase|Plum",
+    "treeBase": true,
+    "woodType": "Plum"
+  },
+  "atlasIdx": 119,
+  "stackable": true
+}

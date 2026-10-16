@@ -1,0 +1,31 @@
+{
+  "id": 8260,
+  "name": "Jump Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:jumpPotionII",
+    "text": "Jump Potion II"
+  },
+  "description": {
+    "key": "item:jumpPotionDescription",
+    "text": "Temporarily jump higher"
+  },
+  "type": "Chargeable",
+  "textureInfo": "jump_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Jump Potion",
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1000,
+  "meta": {
+    "rootName": "Jump Potion II",
+    "rootId": 8260,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Jump Potion II|meta|charging1"
+}

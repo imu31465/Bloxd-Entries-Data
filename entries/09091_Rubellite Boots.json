@@ -1,0 +1,15 @@
+{
+  "id": 9091,
+  "name": "Rubellite Boots",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "rubellite_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

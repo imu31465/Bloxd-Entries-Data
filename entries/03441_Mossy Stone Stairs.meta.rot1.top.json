@@ -1,0 +1,36 @@
+{
+  "id": 3441,
+  "name": "Mossy Stone Stairs|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mossyStoneStairs",
+    "text": "Mossy Stone Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "mossy_cobblestone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Mossy Stone Stairs",
+    "rootId": 3437,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 355,
+  "stackable": true
+}

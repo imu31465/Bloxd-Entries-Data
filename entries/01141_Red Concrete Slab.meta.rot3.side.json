@@ -1,0 +1,31 @@
+{
+  "id": 1141,
+  "name": "Red Concrete Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redConcreteSlab",
+    "text": "Red Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "red_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Red Concrete Slab",
+    "rootId": 1137,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 202,
+  "stackable": true,
+  "slabFullBlock": "Red Concrete"
+}

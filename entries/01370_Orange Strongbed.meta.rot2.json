@@ -1,0 +1,23 @@
+{
+  "id": 1370,
+  "name": "Orange Strongbed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeStrongbed",
+    "text": "Orange Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "orange_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Orange Strongbed",
+    "rootId": 1369,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Orange Strongbed"
+}

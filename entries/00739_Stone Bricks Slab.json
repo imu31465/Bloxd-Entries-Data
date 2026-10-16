@@ -1,0 +1,46 @@
+{
+  "id": 739,
+  "name": "Stone Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneBricksSlab",
+    "text": "Stone Bricks Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stonebrick_side",
+    "stonebrick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Stone Bricks Slab",
+    "rootId": 739,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Stone Bricks Slab|meta|rot1|bot",
+  "atlasIdx": [
+    407,
+    235
+  ],
+  "stackable": true,
+  "slabFullBlock": "Stone Bricks"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8855,
+  "name": "Snakehead",
+  "kind": "item",
+  "displayName": {
+    "key": "item:snakehead",
+    "text": "Snakehead"
+  },
+  "type": "Item",
+  "textureInfo": "snakehead",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

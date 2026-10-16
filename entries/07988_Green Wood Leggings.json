@@ -1,0 +1,15 @@
+{
+  "id": 7988,
+  "name": "Green Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenWoodLeggings",
+    "text": "Green Wood Leggings"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

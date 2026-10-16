@@ -1,0 +1,14 @@
+{
+  "id": 8011,
+  "name": "Diamond",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamond",
+    "text": "Diamond"
+  },
+  "type": "Item",
+  "textureInfo": "diamond",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

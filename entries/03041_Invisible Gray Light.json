@@ -1,0 +1,22 @@
+{
+  "id": 3041,
+  "name": "Invisible Gray Light",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": "invisible_solid",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    5,
+    5,
+    5
+  ],
+  "atlasIdx": 233,
+  "stackable": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9093,
+  "name": "Rubellite Bow",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "rubellite_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "rubellite_bow",
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 68,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Rubellite Bow",
+    "rootId": 9093,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Rubellite Bow|meta|charging1",
+  "textureName": "diamond_bow"
+}

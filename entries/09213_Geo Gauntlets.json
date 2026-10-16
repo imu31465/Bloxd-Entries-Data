@@ -1,0 +1,16 @@
+{
+  "id": 9213,
+  "name": "Geo Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoGauntlets",
+    "text": "Geo Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "geo_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

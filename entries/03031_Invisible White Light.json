@@ -1,0 +1,22 @@
+{
+  "id": 3031,
+  "name": "Invisible White Light",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": "invisible_solid",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    15,
+    15,
+    15
+  ],
+  "atlasIdx": 233,
+  "stackable": true
+}

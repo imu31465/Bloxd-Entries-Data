@@ -1,0 +1,14 @@
+{
+  "id": 234,
+  "name": "Pink Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkPlanks",
+    "text": "Pink Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "pink_planks",
+  "harvestType": "wood",
+  "atlasIdx": 274,
+  "stackable": true
+}

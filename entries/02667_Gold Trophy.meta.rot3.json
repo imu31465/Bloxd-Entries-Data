@@ -1,0 +1,25 @@
+{
+  "id": 2667,
+  "name": "Gold Trophy|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldTrophy",
+    "text": "Gold Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "gold_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Gold Trophy",
+    "rootId": 2665,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Gold Trophy"
+}

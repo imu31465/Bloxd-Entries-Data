@@ -1,0 +1,18 @@
+{
+  "id": 1120,
+  "name": "Barkless Palm Log|TreeBase|Palm",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_palm_log",
+  "harvestType": "wood",
+  "drops": "Barkless Palm Log",
+  "meta": {
+    "rootName": "Barkless Palm Log",
+    "rootId": 1112,
+    "metaStr": "TreeBase|Palm",
+    "treeBase": true,
+    "woodType": "Palm"
+  },
+  "atlasIdx": 491,
+  "stackable": true
+}

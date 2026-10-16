@@ -1,0 +1,46 @@
+{
+  "id": 877,
+  "name": "Marked Red Sandstone Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:markedRedSandstoneSlab",
+    "text": "Marked Red Sandstone Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_cut_red_sandstone_side",
+    "cut_red_sandstone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Marked Red Sandstone Slab",
+    "rootId": 877,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Marked Red Sandstone Slab|meta|rot1|bot",
+  "atlasIdx": [
+    428,
+    372
+  ],
+  "stackable": true,
+  "slabFullBlock": "Marked Red Sandstone"
+}

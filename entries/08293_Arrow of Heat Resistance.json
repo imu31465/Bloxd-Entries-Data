@@ -1,0 +1,15 @@
+{
+  "id": 8293,
+  "name": "Arrow of Heat Resistance",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfHeatResistance",
+    "text": "Arrow of Heat Resistance"
+  },
+  "type": "Item",
+  "textureInfo": "heat_resistance_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8039,
+  "name": "Gold Hang Glider",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldHangGlider",
+    "text": "Gold Hang Glider"
+  },
+  "type": "Item",
+  "textureInfo": "hang_glider_gold",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Gold Hang Glider Item",
+  "stackable": false
+}

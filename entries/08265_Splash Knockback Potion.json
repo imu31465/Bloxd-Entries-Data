@@ -1,0 +1,18 @@
+{
+  "id": 8265,
+  "name": "Splash Knockback Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashKnockbackPotion",
+    "text": "Splash Knockback Potion"
+  },
+  "description": {
+    "key": "item:splashKnockbackPotionDescription",
+    "text": "Force people to leave you alone!"
+  },
+  "type": "Item",
+  "textureInfo": "splash_knockback_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

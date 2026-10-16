@@ -1,0 +1,20 @@
+{
+  "id": 1092,
+  "name": "Rice",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rice",
+    "text": "Rice"
+  },
+  "description": {
+    "key": "item:riceDescription",
+    "text": "Plant to grow rice"
+  },
+  "ttb": 400,
+  "textureInfo": "rice_stage0",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "itemTexture": "rice",
+  "solid": false,
+  "stackable": true
+}

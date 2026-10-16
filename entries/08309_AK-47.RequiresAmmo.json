@@ -1,0 +1,53 @@
+{
+  "id": 8309,
+  "name": "AK-47|RequiresAmmo",
+  "kind": "item",
+  "displayName": {
+    "text": "AK-47"
+  },
+  "type": "Gun",
+  "textureInfo": "AK-47",
+  "weight": 1,
+  "heldItemScale": 2,
+  "heldItemGlb": "AK-47",
+  "stackable": false,
+  "damage": 20,
+  "meta": {
+    "rootName": "AK-47",
+    "rootId": 8308,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  },
+  "keepMetaInChest": true,
+  "gunType": "semi_automatic",
+  "scopeType": "none",
+  "muzzleFlashOffsetFromGun": [
+    -5.5,
+    -0.25,
+    0
+  ],
+  "muzzleFlashScale": 1.5,
+  "autoFireWithMouse": true,
+  "fireRate": 800,
+  "reloadTime": 2300,
+  "clipSize": 30,
+  "tagSpeedMult": 0.8,
+  "subsequentTagSpeedReductionScalar": 0.55,
+  "inaccuracyStanding": 10,
+  "inaccuracyFromShot": 22,
+  "inaccuracyMovement": 45,
+  "yVelocityInaccuracy": 4,
+  "inaccuracyFromJump": 45,
+  "altInaccuracyStanding": 5,
+  "altInaccuracyFromShot": 9,
+  "altInaccuracyMovement": 28,
+  "recoveryRate": 0.005,
+  "kickbackDecreaseRate": 0.000005,
+  "minKickback": 0.023,
+  "maxKickback": 0.06,
+  "kickbackRate": 10,
+  "msPerRound": 75,
+  "msPerRoundTouchScreen": 75,
+  "altYVelocityInaccuracy": 4,
+  "altInaccuracyFromJump": 45
+}

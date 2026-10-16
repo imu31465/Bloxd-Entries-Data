@@ -1,0 +1,37 @@
+{
+  "id": 4697,
+  "name": "Engraved Andesite Stairs|meta|rot1|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedAndesiteStairs",
+    "text": "Engraved Andesite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "engraved_andesite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Engraved Andesite Stairs",
+    "rootId": 3469,
+    "metaStr": "meta|rot1|top|outerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 379,
+  "stackable": true
+}

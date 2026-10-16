@@ -1,0 +1,23 @@
+{
+  "id": 345,
+  "name": "Orange Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeBed",
+    "text": "Orange Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "orange_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Orange Bed",
+    "rootId": 344,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Orange Bed"
+}

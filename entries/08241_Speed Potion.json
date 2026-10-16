@@ -1,0 +1,30 @@
+{
+  "id": 8241,
+  "name": "Speed Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:speedPotion",
+    "text": "Speed Potion"
+  },
+  "description": {
+    "key": "item:speedPotionDescription",
+    "text": "Gotta go fast"
+  },
+  "type": "Chargeable",
+  "textureInfo": "speed_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Speed Potion",
+    "rootId": 8241,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Speed Potion|meta|charging1"
+}

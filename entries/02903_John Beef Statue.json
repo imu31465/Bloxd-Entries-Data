@@ -1,0 +1,17 @@
+{
+  "id": 2903,
+  "name": "John Beef Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "john_beef",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "john_beef",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

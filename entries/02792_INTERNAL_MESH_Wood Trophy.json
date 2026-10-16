@@ -1,0 +1,12 @@
+{
+  "id": 2792,
+  "name": "INTERNAL_MESH_Wood Trophy",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "wood",
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Wood Trophy",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

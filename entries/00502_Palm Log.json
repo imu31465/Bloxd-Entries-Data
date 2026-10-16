@@ -1,0 +1,14 @@
+{
+  "id": 502,
+  "name": "Palm Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmLog",
+    "text": "Palm Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_palm",
+  "harvestType": "wood",
+  "atlasIdx": 387,
+  "stackable": true
+}

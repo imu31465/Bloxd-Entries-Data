@@ -1,0 +1,23 @@
+{
+  "id": 572,
+  "name": "Jungle Door|meta|rot2|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Jungle Door",
+    "rootId": 570,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "stackable": true
+}

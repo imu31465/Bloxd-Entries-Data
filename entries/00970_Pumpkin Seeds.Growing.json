@@ -1,0 +1,18 @@
+{
+  "id": 970,
+  "name": "Pumpkin Seeds|Growing",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "melon_stem",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": "Pumpkin Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Pumpkin Seeds",
+    "rootId": 969,
+    "metaStr": "Growing",
+    "kt": true
+  },
+  "stackable": true
+}

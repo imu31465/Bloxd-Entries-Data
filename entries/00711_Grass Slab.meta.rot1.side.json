@@ -1,0 +1,45 @@
+{
+  "id": 711,
+  "name": "Grass Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grassSlab",
+    "text": "Grass Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_grass_top_side",
+    "grass_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Grass Slab",
+    "rootId": 709,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    402,
+    112
+  ],
+  "stackable": true,
+  "slabFullBlock": "Grass Block"
+}

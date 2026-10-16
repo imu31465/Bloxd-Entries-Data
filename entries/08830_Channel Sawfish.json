@@ -1,0 +1,14 @@
+{
+  "id": 8830,
+  "name": "Channel Sawfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:channelSawfish",
+    "text": "Channel Sawfish"
+  },
+  "type": "Item",
+  "textureInfo": "channel_sawfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

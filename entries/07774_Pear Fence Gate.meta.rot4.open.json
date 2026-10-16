@@ -1,0 +1,38 @@
+{
+  "id": 7774,
+  "name": "Pear Fence Gate|meta|rot4|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearFenceGate",
+    "text": "Pear Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pear",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "pear_fence_gate",
+  "Am": [
+    0.375,
+    0,
+    0,
+    1,
+    1,
+    0.125,
+    0.375,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Pear Fence Gate",
+    "rootId": 7767,
+    "metaStr": "meta|rot4|open",
+    "rot": 4,
+    "open": true
+  },
+  "atlasIdx": 439,
+  "stackable": true,
+  "attachedTop": "_Pear Fence Gate Top|meta|rot4|open"
+}

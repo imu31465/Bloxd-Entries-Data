@@ -1,0 +1,30 @@
+{
+  "id": 8940,
+  "name": "Dates",
+  "kind": "item",
+  "displayName": {
+    "key": "item:dates",
+    "text": "Dates"
+  },
+  "description": {
+    "key": "item:datesDescription",
+    "text": "Combine two Dates at a Workbench to make Date Pudding for Healing Pulse."
+  },
+  "type": "Chargeable",
+  "textureInfo": "dates",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Dates",
+    "rootId": 8940,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Dates|meta|charging1"
+}

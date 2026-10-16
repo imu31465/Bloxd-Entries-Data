@@ -1,0 +1,18 @@
+{
+  "id": 8388,
+  "name": "Purple Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purplePopupTower",
+    "text": "Purple Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "purple_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

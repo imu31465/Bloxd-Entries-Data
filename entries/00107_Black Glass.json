@@ -1,0 +1,19 @@
+{
+  "id": 107,
+  "name": "Black Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackGlass",
+    "text": "Black Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_black",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 214,
+  "stackable": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 638,
+  "name": "Jungle Trapdoor|meta|rot3|closed",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Jungle Trapdoor",
+    "rootId": 634,
+    "metaStr": "meta|rot3|closed",
+    "rot": 3,
+    "open": false
+  },
+  "stackable": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8165,
+  "name": "Bowl of Rice",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bowlOfRice",
+    "text": "Bowl of Rice"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "bowl_of_rice",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "afterEatenItem": "Bowl",
+  "eatHealAmt": 26,
+  "chargeStages": 1,
+  "chargeTime": 375,
+  "meta": {
+    "rootName": "Bowl of Rice",
+    "rootId": 8165,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Bowl of Rice|meta|charging1"
+}

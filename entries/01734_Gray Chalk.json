@@ -1,0 +1,24 @@
+{
+  "id": 1734,
+  "name": "Gray Chalk",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalk",
+    "text": "{{colour}} Chalk",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_gray",
+  "harvestType": "rock",
+  "atlasIdx": 766,
+  "stackable": true
+}

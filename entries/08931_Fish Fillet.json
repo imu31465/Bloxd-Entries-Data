@@ -1,0 +1,29 @@
+{
+  "id": 8931,
+  "name": "Fish Fillet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fishFillet",
+    "text": "Fish Fillet"
+  },
+  "description": {
+    "key": "item:fishFilletDescription",
+    "text": "Eat to steal from players on hit."
+  },
+  "type": "Chargeable",
+  "textureInfo": "fish_fillet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Fish Fillet",
+    "rootId": 8931,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Fish Fillet|meta|charging1"
+}

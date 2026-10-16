@@ -1,0 +1,19 @@
+{
+  "id": 992,
+  "name": "Patterned Black Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedBlackGlass",
+    "text": "Patterned Black Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_black",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 463,
+  "stackable": true
+}

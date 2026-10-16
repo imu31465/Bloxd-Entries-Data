@@ -1,0 +1,25 @@
+{
+  "id": 8947,
+  "name": "Iron Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironSpear",
+    "text": "Iron Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 28,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 22,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 3
+}

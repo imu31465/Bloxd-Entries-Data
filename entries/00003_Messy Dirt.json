@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "name": "Messy Dirt",
+  "kind": "block",
+  "displayName": {
+    "key": "item:messyDirt",
+    "text": "Messy Dirt"
+  },
+  "ttb": 600,
+  "textureInfo": "coarse_dirt",
+  "harvestType": "granule",
+  "atlasIdx": 110,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8883,
+  "name": "Glacial Silverfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:glacialSilverfish",
+    "text": "Glacial Silverfish"
+  },
+  "type": "Item",
+  "textureInfo": "glacial_silverfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

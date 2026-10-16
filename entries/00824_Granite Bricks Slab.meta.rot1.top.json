@@ -1,0 +1,45 @@
+{
+  "id": 824,
+  "name": "Granite Bricks Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:graniteBricksSlab",
+    "text": "Granite Bricks Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_granite_brick_side",
+    "granite_brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Granite Bricks Slab",
+    "rootId": 823,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": [
+    421,
+    382
+  ],
+  "stackable": true,
+  "slabFullBlock": "Granite Bricks"
+}

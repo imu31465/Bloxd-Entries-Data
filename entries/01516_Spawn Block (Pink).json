@@ -1,0 +1,45 @@
+{
+  "id": 1516,
+  "name": "Spawn Block (Pink)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkSpawnBlock",
+    "text": "Spawn Block (Pink)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "pink_spawn_block_top[rot[1",
+    "pink_spawn_block_top[rot[2",
+    "pink_spawn_block_top[rot[3",
+    "pink_spawn_block_top[rot[4",
+    "pink_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Pink)",
+    "rootId": 1516,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Pink)|meta|rot1",
+  "atlasIdx": [
+    616,
+    617,
+    618,
+    619,
+    620
+  ],
+  "stackable": true
+}

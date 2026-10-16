@@ -1,0 +1,53 @@
+{
+  "id": 6407,
+  "name": "Yellow Chalk Bricks Stairs|meta|rot3|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_yellow",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Yellow Chalk Bricks Stairs",
+    "rootId": 3901,
+    "metaStr": "meta|rot3|bot|innerRight",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 771,
+  "stackable": true
+}

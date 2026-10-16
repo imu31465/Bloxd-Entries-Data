@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "name": "Dirt|GrassRoots",
+  "kind": "block",
+  "ttb": 600,
+  "textureInfo": "dirt",
+  "harvestType": "granule",
+  "meta": {
+    "rootName": "Dirt",
+    "rootId": 2,
+    "metaStr": "GrassRoots",
+    "grassRoots": true
+  },
+  "atlasIdx": 109,
+  "stackable": true
+}

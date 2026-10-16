@@ -1,0 +1,18 @@
+{
+  "id": 8089,
+  "name": "Reinforced Ball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:reinforcedBall",
+    "text": "Reinforced Ball"
+  },
+  "description": {
+    "key": "item:reinforcedBallDescription",
+    "text": "Flies further than a normal ball"
+  },
+  "type": "Item",
+  "textureInfo": "reinforced_ball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

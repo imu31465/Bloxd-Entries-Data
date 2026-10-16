@@ -1,0 +1,20 @@
+{
+  "id": 1407,
+  "name": "_Lime Strongbed Head|meta|rot3",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "lime_strongbed",
+  "drops": "Lime Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Lime Strongbed Head",
+    "rootId": 1405,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Lime Strongbed Head"
+}

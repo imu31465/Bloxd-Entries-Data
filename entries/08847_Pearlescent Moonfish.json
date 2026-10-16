@@ -1,0 +1,14 @@
+{
+  "id": 8847,
+  "name": "Pearlescent Moonfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pearlescentMoonfish",
+    "text": "Pearlescent Moonfish"
+  },
+  "type": "Item",
+  "textureInfo": "pearlescent_moonfish",
+  "weight": 1,
+  "heldItemScale": 0.75,
+  "stackable": true
+}

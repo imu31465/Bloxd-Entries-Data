@@ -1,0 +1,30 @@
+{
+  "id": 8573,
+  "name": "Black Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackPaintBow",
+    "text": "Black Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "black_paint_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Black Paint Bow",
+    "rootId": 8573,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Black Paint Bow|meta|charging1",
+  "textureName": "black_paint_bow"
+}

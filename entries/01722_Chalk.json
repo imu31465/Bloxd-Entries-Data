@@ -1,0 +1,18 @@
+{
+  "id": 1722,
+  "name": "Chalk",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chalk",
+    "text": "Chalk"
+  },
+  "description": {
+    "key": "item:chalkDescription",
+    "text": "A decorative block found on riverbeds"
+  },
+  "ttb": 850,
+  "textureInfo": "chalk",
+  "harvestType": "rock",
+  "atlasIdx": 754,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9063,
+  "name": "Magmasteel Leggings",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "magmasteel_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

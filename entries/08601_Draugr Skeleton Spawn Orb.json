@@ -1,0 +1,21 @@
+{
+  "id": 8601,
+  "name": "Draugr Skeleton Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrSkeletonSpawnOrb",
+    "text": "Draugr Skeleton Spawn Orb"
+  },
+  "description": {
+    "key": "item:draugrSkeletonSpawnOrbDescription",
+    "text": "Throw to spawn a Draugr Skeleton at the landing location",
+    "params": {
+      "mob": "Draugr Skeleton"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "draugr_skeleton_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

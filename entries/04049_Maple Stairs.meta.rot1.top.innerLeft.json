@@ -1,0 +1,43 @@
+{
+  "id": 4049,
+  "name": "Maple Stairs|meta|rot1|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleStairs",
+    "text": "Maple Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_maple",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Stairs",
+    "rootId": 3309,
+    "metaStr": "meta|rot1|top|innerLeft",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 123,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1113,
+  "name": "Barkless Pear Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessPearLog",
+    "text": "Barkless Pear Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_pear_log",
+  "harvestType": "wood",
+  "atlasIdx": 492,
+  "stackable": true
+}

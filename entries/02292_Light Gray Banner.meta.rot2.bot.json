@@ -1,0 +1,40 @@
+{
+  "id": 2292,
+  "name": "Light Gray Banner|meta|rot2|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayBanner",
+    "text": "Light Gray Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_light_gray",
+  "solid": false,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Light Gray Banner",
+    "rootId": 2291,
+    "metaStr": "meta|rot2|bot",
+    "rot": 2,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Light Gray Banner"
+}

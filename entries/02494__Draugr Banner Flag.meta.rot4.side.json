@@ -1,0 +1,41 @@
+{
+  "id": 2494,
+  "name": "_Draugr Banner Flag|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:draugrBanner",
+    "text": "Draugr Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_draugr",
+  "drops": "Draugr Banner",
+  "solid": false,
+  "Am": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Draugr Banner Flag",
+    "rootId": 2487,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Draugr Banner Flag Hanging"
+}

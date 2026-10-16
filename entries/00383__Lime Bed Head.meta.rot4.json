@@ -1,0 +1,20 @@
+{
+  "id": 383,
+  "name": "_Lime Bed Head|meta|rot4",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "lime_bed",
+  "drops": "Lime Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Lime Bed Head",
+    "rootId": 380,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Lime Bed Head"
+}

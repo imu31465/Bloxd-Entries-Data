@@ -1,0 +1,26 @@
+{
+  "id": 9161,
+  "name": "Sanguine Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineSpear",
+    "text": "Sanguine Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "sanguine_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "sanguine_spear",
+  "stackable": false,
+  "damage": 32,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

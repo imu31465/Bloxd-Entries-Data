@@ -1,0 +1,14 @@
+{
+  "id": 233,
+  "name": "Lime Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limePlanks",
+    "text": "Lime Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "lime_planks",
+  "harvestType": "wood",
+  "atlasIdx": 273,
+  "stackable": true
+}

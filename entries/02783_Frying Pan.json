@@ -1,0 +1,17 @@
+{
+  "id": 2783,
+  "name": "Frying Pan",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "frying_pan",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "frying_pan",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

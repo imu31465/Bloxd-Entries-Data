@@ -1,0 +1,18 @@
+{
+  "id": 8397,
+  "name": "Cyan Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanPopupTower",
+    "text": "Cyan Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "cyan_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

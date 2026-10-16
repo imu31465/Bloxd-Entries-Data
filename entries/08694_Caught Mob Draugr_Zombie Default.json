@@ -1,0 +1,15 @@
+{
+  "id": 8694,
+  "name": "Caught Mob Draugr_Zombie Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_zombie_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Zombie Default",
+    "rootId": 8694,
+    "caughtMobType": "Draugr Zombie"
+  }
+}

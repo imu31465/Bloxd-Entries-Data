@@ -1,0 +1,22 @@
+{
+  "id": 7879,
+  "name": "Gold Spade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldSpade",
+    "text": "Gold Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "golden_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 26,
+  "harvests": "granule",
+  "multiplier": 7,
+  "level": 4
+}

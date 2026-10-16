@@ -1,0 +1,15 @@
+{
+  "id": 9240,
+  "name": "Iron Key",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironKey",
+    "text": "Iron Key"
+  },
+  "type": "Item",
+  "textureInfo": "iron_key",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "iron_key",
+  "stackable": true
+}

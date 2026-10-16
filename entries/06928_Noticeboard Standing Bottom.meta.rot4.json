@@ -1,0 +1,36 @@
+{
+  "id": 6928,
+  "name": "Noticeboard Standing Bottom|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:noticeboardStandingBottom",
+    "text": "Noticeboard Standing Bottom"
+  },
+  "ttb": 1800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "noticeboard_standing_bottom",
+  "solid": true,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ],
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Noticeboard Standing Bottom",
+    "rootId": 6925,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "noticeboard_standing_bottom",
+  "blockModelItem": true
+}

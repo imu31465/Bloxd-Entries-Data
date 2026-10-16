@@ -1,0 +1,21 @@
+{
+  "id": 8594,
+  "name": "Spirit Gorilla Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spiritGorillaSpawnOrb",
+    "text": "Spirit Gorilla Spawn Orb"
+  },
+  "description": {
+    "key": "item:spiritGorillaSpawnOrbDescription",
+    "text": "Throw to spawn a Spirit Gorilla at the landing location",
+    "params": {
+      "mob": "Spirit Gorilla"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "spirit_gorilla_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

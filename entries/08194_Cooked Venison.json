@@ -1,0 +1,30 @@
+{
+  "id": 8194,
+  "name": "Cooked Venison",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cookedVenison",
+    "text": "Cooked Venison"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cooked_venison",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 16,
+  "chargeStages": 1,
+  "chargeTime": 600,
+  "meta": {
+    "rootName": "Cooked Venison",
+    "rootId": 8194,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cooked Venison|meta|charging1"
+}

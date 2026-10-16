@@ -1,0 +1,21 @@
+{
+  "id": 2702,
+  "name": "Small Cyan Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallCyanPod",
+    "text": "Small Cyan Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_cyan_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Cyan Pod"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2837,
+  "name": "Magenta Directional Arrow",
+  "kind": "block",
+  "displayName": {
+    "key": "item:directionalArrow",
+    "text": "{{colour}} Directional Arrow",
+    "params": {
+      "colour": "$t(colour:magenta)"
+    }
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "magenta_directional_arrow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Magenta Directional Arrow",
+    "rootId": 2837,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Magenta Directional Arrow|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Magenta Directional Arrow",
+  "blockModelItem": true
+}

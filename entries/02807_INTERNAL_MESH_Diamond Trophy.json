@@ -1,0 +1,12 @@
+{
+  "id": 2807,
+  "name": "INTERNAL_MESH_Diamond Trophy",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Diamond Trophy",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

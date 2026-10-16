@@ -1,0 +1,42 @@
+{
+  "id": 6993,
+  "name": "Tiki Terror Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tikiTerrorMobSpawnerBlock",
+    "text": "Tiki Terror Spawner Block"
+  },
+  "description": {
+    "key": "item:tikiTerrorMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Tiki Terrors"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "tiki_terror_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Tiki Terror Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

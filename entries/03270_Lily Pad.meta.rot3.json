@@ -1,0 +1,35 @@
+{
+  "id": 3270,
+  "name": "Lily Pad|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lilyPad",
+    "text": "Lily Pad"
+  },
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "lily_pad",
+  "solid": true,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 7.5,
+  "meta": {
+    "rootName": "Lily Pad",
+    "rootId": 3268,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "lily_pad_model"
+}

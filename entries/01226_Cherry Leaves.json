@@ -1,0 +1,14 @@
+{
+  "id": 1226,
+  "name": "Cherry Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryLeaves",
+    "text": "Cherry Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_cherry",
+  "harvestType": "cuttable",
+  "atlasIdx": 500,
+  "stackable": true
+}

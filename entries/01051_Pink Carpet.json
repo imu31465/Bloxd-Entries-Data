@@ -1,0 +1,29 @@
+{
+  "id": 1051,
+  "name": "Pink Carpet",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkCarpet",
+    "text": "Pink Carpet"
+  },
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "carpet_pink_icon",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 10,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "carpet_pink_model"
+}

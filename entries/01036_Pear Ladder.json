@@ -1,0 +1,34 @@
+{
+  "id": 1036,
+  "name": "Pear Ladder",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearLadder",
+    "text": "Pear Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_pear",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Pear Ladder",
+    "rootId": 1036,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Pear Ladder|meta|rot1",
+  "stackable": true,
+  "blockModel": "Pear Ladder",
+  "blockModelItem": true
+}

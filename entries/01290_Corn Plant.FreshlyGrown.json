@@ -1,0 +1,19 @@
+{
+  "id": 1290,
+  "name": "Corn Plant|FreshlyGrown",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "corn_stage5",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "drops": "Corn Seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Corn Plant",
+    "rootId": 1289,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 10
+}

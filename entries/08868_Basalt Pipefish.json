@@ -1,0 +1,14 @@
+{
+  "id": 8868,
+  "name": "Basalt Pipefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:basaltPipefish",
+    "text": "Basalt Pipefish"
+  },
+  "type": "Item",
+  "textureInfo": "basalt_pipefish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1259,
+  "name": "Cherry Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_cherry",
+  "harvestType": "cuttable",
+  "drops": "Cherry Leaves",
+  "meta": {
+    "rootName": "Cherry Leaves",
+    "rootId": 1226,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 500,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8295,
+  "name": "Splash X-Ray Vision Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashXRayVisionPotion",
+    "text": "Splash X-Ray Vision Potion"
+  },
+  "description": {
+    "key": "item:splashXRayVisionPotionDescription",
+    "text": "Allows other players to see lifeforms through walls"
+  },
+  "type": "Item",
+  "textureInfo": "splash_x_ray_vision_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

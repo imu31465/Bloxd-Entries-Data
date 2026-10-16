@@ -1,0 +1,14 @@
+{
+  "id": 8798,
+  "name": "Moon Strongfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonStrongfish",
+    "text": "Moon Strongfish"
+  },
+  "type": "Item",
+  "textureInfo": "strongfish_moon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

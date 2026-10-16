@@ -1,0 +1,28 @@
+{
+  "id": 3054,
+  "name": "Pet Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:petLuckyBlock",
+    "text": "Pet Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "lucky_block_pink_question",
+    "pet_lucky_block"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    873,
+    874
+  ],
+  "stackable": true
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8930,
+  "name": "Caught Fish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:caughtFish",
+    "text": "Caught Fish"
+  },
+  "description": {
+    "key": "item:caughtFishDescription",
+    "text": "Combine to make Fish Fillet to give you Pickpocketing."
+  },
+  "type": "Chargeable",
+  "textureInfo": "caught_fish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Caught Fish",
+    "rootId": 8930,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Caught Fish|meta|charging1"
+}

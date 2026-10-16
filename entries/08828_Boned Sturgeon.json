@@ -1,0 +1,14 @@
+{
+  "id": 8828,
+  "name": "Boned Sturgeon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bonedSturgeon",
+    "text": "Boned Sturgeon"
+  },
+  "type": "Item",
+  "textureInfo": "boned_sturgeon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

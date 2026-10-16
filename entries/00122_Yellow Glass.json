@@ -1,0 +1,19 @@
+{
+  "id": 122,
+  "name": "Yellow Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowGlass",
+    "text": "Yellow Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_yellow",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 229,
+  "stackable": true
+}

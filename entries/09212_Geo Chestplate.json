@@ -1,0 +1,16 @@
+{
+  "id": 9212,
+  "name": "Geo Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoChestplate",
+    "text": "Geo Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "geo_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8012,
+  "name": "Diamond Fragment",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondFragment",
+    "text": "Diamond Fragment"
+  },
+  "description": {
+    "key": "item:diamondFragmentDescription",
+    "text": "Combine using a workbench to get diamond"
+  },
+  "type": "Item",
+  "textureInfo": "diamond_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

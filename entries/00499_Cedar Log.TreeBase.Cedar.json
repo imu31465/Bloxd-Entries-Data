@@ -1,0 +1,18 @@
+{
+  "id": 499,
+  "name": "Cedar Log|TreeBase|Cedar",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_cedar",
+  "harvestType": "wood",
+  "drops": "Cedar Log",
+  "meta": {
+    "rootName": "Cedar Log",
+    "rootId": 12,
+    "metaStr": "TreeBase|Cedar",
+    "treeBase": true,
+    "woodType": "Cedar"
+  },
+  "atlasIdx": 120,
+  "stackable": true
+}

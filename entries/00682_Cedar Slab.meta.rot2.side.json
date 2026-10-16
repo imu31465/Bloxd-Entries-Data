@@ -1,0 +1,45 @@
+{
+  "id": 682,
+  "name": "Cedar Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarSlab",
+    "text": "Cedar Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_cedar_side",
+    "planks_cedar"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cedar Slab",
+    "rootId": 679,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    397,
+    128
+  ],
+  "stackable": true,
+  "slabFullBlock": "Cedar Wood Planks"
+}

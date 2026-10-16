@@ -1,0 +1,18 @@
+{
+  "id": 1119,
+  "name": "Barkless Pine Log|TreeBase|Pine",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_pine_log",
+  "harvestType": "wood",
+  "drops": "Barkless Pine Log",
+  "meta": {
+    "rootName": "Barkless Pine Log",
+    "rootId": 25,
+    "metaStr": "TreeBase|Pine",
+    "treeBase": true,
+    "woodType": "Pine"
+  },
+  "atlasIdx": 133,
+  "stackable": true
+}

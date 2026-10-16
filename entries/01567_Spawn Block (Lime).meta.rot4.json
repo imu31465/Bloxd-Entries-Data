@@ -1,0 +1,36 @@
+{
+  "id": 1567,
+  "name": "Spawn Block (Lime)|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "lime_spawn_block_top[rot[1",
+    "lime_spawn_block_top[rot[2",
+    "lime_spawn_block_top[rot[3",
+    "lime_spawn_block_top[rot[4",
+    "lime_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    1,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Lime)",
+    "rootId": 1519,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    631,
+    632,
+    633,
+    634,
+    635
+  ],
+  "stackable": true
+}

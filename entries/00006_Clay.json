@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "name": "Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:clay",
+    "text": "Clay"
+  },
+  "ttb": 720,
+  "textureInfo": "clay",
+  "harvestType": "granule",
+  "atlasIdx": 114,
+  "stackable": true
+}

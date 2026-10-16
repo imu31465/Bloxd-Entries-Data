@@ -1,0 +1,18 @@
+{
+  "id": 54,
+  "name": "Light Blue Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueWool",
+    "text": "Light Blue Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_light_blue",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 160,
+  "stackable": true
+}

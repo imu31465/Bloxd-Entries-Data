@@ -1,0 +1,77 @@
+{
+  "id": 2654,
+  "name": "Active Radar|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:activeRadar",
+    "text": "Active Radar"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "radar_side_active",
+    "radar_bottom",
+    {
+      "animTextures": [
+        "radar_screen0[rot[1",
+        "radar_screen1[rot[1",
+        "radar_screen2[rot[1",
+        "radar_screen3[rot[1"
+      ],
+      "animationInterval": 200
+    },
+    {
+      "animTextures": [
+        "radar_screen0[rot[2",
+        "radar_screen1[rot[2",
+        "radar_screen2[rot[2",
+        "radar_screen3[rot[2"
+      ],
+      "animationInterval": 200
+    },
+    {
+      "animTextures": [
+        "radar_screen0[rot[3",
+        "radar_screen1[rot[3",
+        "radar_screen2[rot[3",
+        "radar_screen3[rot[3"
+      ],
+      "animationInterval": 200
+    },
+    {
+      "animTextures": [
+        "radar_screen0[rot[4",
+        "radar_screen1[rot[4",
+        "radar_screen2[rot[4",
+        "radar_screen3[rot[4"
+      ],
+      "animationInterval": 200
+    }
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    5,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "itemTexture": "active_radar",
+  "drops": "Radar",
+  "meta": {
+    "rootName": "Active Radar",
+    "rootId": 2651,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    840,
+    842,
+    18,
+    19,
+    20,
+    21
+  ],
+  "stackable": true,
+  "twoDBlockItem": true
+}

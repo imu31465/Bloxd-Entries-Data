@@ -1,0 +1,24 @@
+{
+  "id": 1754,
+  "name": "Black Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_black",
+  "harvestType": "rock",
+  "atlasIdx": 786,
+  "stackable": true
+}

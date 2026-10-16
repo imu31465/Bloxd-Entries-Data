@@ -1,0 +1,24 @@
+{
+  "id": 1746,
+  "name": "Lime Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:lime)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_lime",
+  "harvestType": "rock",
+  "atlasIdx": 778,
+  "stackable": true
+}

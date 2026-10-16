@@ -1,0 +1,45 @@
+{
+  "id": 1524,
+  "name": "Spawn Block (Cyan)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanSpawnBlock",
+    "text": "Spawn Block (Cyan)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "cyan_spawn_block_top[rot[1",
+    "cyan_spawn_block_top[rot[2",
+    "cyan_spawn_block_top[rot[3",
+    "cyan_spawn_block_top[rot[4",
+    "cyan_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Cyan)",
+    "rootId": 1524,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Cyan)|meta|rot1",
+  "atlasIdx": [
+    656,
+    657,
+    658,
+    659,
+    660
+  ],
+  "stackable": true
+}

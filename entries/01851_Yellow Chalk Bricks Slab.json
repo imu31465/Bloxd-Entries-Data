@@ -1,0 +1,56 @@
+{
+  "id": 1851,
+  "name": "Yellow Chalk Bricks Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksSlab",
+    "text": "{{colour}} Chalk Bricks Slab",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": [
+    "chalk_bricks_slab_side_yellow",
+    "chalk_bricks_yellow"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Yellow Chalk Bricks Slab",
+    "rootId": 1851,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Yellow Chalk Bricks Slab|meta|rot1|bot",
+  "atlasIdx": [
+    787,
+    771
+  ],
+  "stackable": true,
+  "slabFullBlock": "Yellow Chalk Bricks"
+}

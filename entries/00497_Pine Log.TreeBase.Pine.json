@@ -1,0 +1,18 @@
+{
+  "id": 497,
+  "name": "Pine Log|TreeBase|Pine",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_pine",
+  "harvestType": "wood",
+  "drops": "Pine Log",
+  "meta": {
+    "rootName": "Pine Log",
+    "rootId": 10,
+    "metaStr": "TreeBase|Pine",
+    "treeBase": true,
+    "woodType": "Pine"
+  },
+  "atlasIdx": 118,
+  "stackable": true
+}

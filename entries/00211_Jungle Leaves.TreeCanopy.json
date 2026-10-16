@@ -1,0 +1,17 @@
+{
+  "id": 211,
+  "name": "Jungle Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_jungle",
+  "harvestType": "cuttable",
+  "drops": "Jungle Leaves",
+  "meta": {
+    "rootName": "Jungle Leaves",
+    "rootId": 103,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 209,
+  "stackable": true
+}

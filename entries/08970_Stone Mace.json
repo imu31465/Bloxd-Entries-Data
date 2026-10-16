@@ -1,0 +1,23 @@
+{
+  "id": 8970,
+  "name": "Stone Mace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneMace",
+    "text": "Stone Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 14,
+  "velocityMultiplier": 2.4,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 2
+}

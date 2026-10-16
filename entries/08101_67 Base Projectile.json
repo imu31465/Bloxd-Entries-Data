@@ -1,0 +1,17 @@
+{
+  "id": 8101,
+  "name": "67 Base Projectile",
+  "kind": "item",
+  "displayName": {
+    "text": "67 Base Projectile"
+  },
+  "description": {
+    "text": "The base projectile for the 67 character in Heroes v Brainrots"
+  },
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 14,
+  "itemTexture": "67_projectile_base"
+}

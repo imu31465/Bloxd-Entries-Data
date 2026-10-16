@@ -1,0 +1,17 @@
+{
+  "id": 159,
+  "name": "Forget-me-not",
+  "kind": "block",
+  "displayName": {
+    "key": "item:forget-Me-Not",
+    "text": "Forget-me-not"
+  },
+  "ttb": 300,
+  "textureInfo": "cornflower",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cornflower",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

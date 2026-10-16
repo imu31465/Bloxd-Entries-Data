@@ -1,0 +1,37 @@
+{
+  "id": 4105,
+  "name": "Plum Stairs|meta|rot1|bot|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumStairs",
+    "text": "Plum Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_plum",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Plum Stairs",
+    "rootId": 3325,
+    "metaStr": "meta|rot1|bot|outerLeft",
+    "rot": 1,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 125,
+  "stackable": true
+}

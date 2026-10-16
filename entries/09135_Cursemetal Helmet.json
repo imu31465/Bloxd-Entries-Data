@@ -1,0 +1,16 @@
+{
+  "id": 9135,
+  "name": "Cursemetal Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cursemetalHelmet",
+    "text": "Cursemetal Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "cursemetal_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "cursemetal_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

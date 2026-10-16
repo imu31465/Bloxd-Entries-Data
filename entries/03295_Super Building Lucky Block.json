@@ -1,0 +1,27 @@
+{
+  "id": 3295,
+  "name": "Super Building Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Super Building Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "purple_lucky_block_super",
+    "building_lucky_block_super"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    906,
+    907
+  ],
+  "stackable": true
+}

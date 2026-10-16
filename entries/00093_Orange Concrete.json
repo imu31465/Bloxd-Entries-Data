@@ -1,0 +1,14 @@
+{
+  "id": 93,
+  "name": "Orange Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeConcrete",
+    "text": "Orange Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "orange_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 199,
+  "stackable": true
+}

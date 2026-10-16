@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "name": "Blue Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueWool",
+    "text": "Blue Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_blue",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 168,
+  "stackable": true
+}

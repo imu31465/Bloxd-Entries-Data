@@ -1,0 +1,38 @@
+{
+  "id": 7662,
+  "name": "Maple Fence Gate|meta|rot4|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mapleFenceGate",
+    "text": "Maple Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_maple",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "maple_fence_gate",
+  "Am": [
+    0.375,
+    0,
+    0,
+    1,
+    1,
+    0.125,
+    0.375,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Fence Gate",
+    "rootId": 7655,
+    "metaStr": "meta|rot4|open",
+    "rot": 4,
+    "open": true
+  },
+  "atlasIdx": 123,
+  "stackable": true,
+  "attachedTop": "_Maple Fence Gate Top|meta|rot4|open"
+}

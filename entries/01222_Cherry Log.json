@@ -1,0 +1,14 @@
+{
+  "id": 1222,
+  "name": "Cherry Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryLog",
+    "text": "Cherry Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_cherry",
+  "harvestType": "wood",
+  "atlasIdx": 497,
+  "stackable": true
+}

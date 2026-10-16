@@ -1,0 +1,23 @@
+{
+  "id": 8957,
+  "name": "Wood Boomerang",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodBoomerang",
+    "text": "Wood Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 11,
+  "secondaryDamage": 11,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

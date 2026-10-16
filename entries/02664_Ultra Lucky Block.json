@@ -1,0 +1,14 @@
+{
+  "id": 2664,
+  "name": "Ultra Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ultraLuckyBlock",
+    "text": "Ultra Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": "light_blue_lucky_block",
+  "harvestType": "rock",
+  "atlasIdx": 846,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8232,
+  "name": "Arrow of Weakness",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfWeakness",
+    "text": "Arrow of Weakness"
+  },
+  "type": "Item",
+  "textureInfo": "weakness_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

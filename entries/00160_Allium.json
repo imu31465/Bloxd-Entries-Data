@@ -1,0 +1,17 @@
+{
+  "id": 160,
+  "name": "Allium",
+  "kind": "block",
+  "displayName": {
+    "key": "item:allium",
+    "text": "Allium"
+  },
+  "ttb": 300,
+  "textureInfo": "allium",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "allium",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7905,
+  "name": "Gold Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldLeggings",
+    "text": "Gold Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "golden_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.16
+}

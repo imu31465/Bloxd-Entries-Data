@@ -1,0 +1,15 @@
+{
+  "id": 8250,
+  "name": "Arrow of Defense",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfDefense",
+    "text": "Arrow of Defense"
+  },
+  "type": "Item",
+  "textureInfo": "defense_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

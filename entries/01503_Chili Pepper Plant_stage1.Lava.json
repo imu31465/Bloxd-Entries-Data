@@ -1,0 +1,22 @@
+{
+  "id": 1503,
+  "name": "Chili Pepper Plant_stage1|Lava",
+  "kind": "block",
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "drops": "Chili Pepper Seeds",
+  "solid": false,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Chili Pepper Plant_stage1",
+    "rootId": 1496,
+    "metaStr": "Lava",
+    "lava": true
+  },
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "chili_pepper_stage1_lava_model"
+}

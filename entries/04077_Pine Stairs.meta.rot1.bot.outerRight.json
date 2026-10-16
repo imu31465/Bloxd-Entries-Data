@@ -1,0 +1,37 @@
+{
+  "id": 4077,
+  "name": "Pine Stairs|meta|rot1|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineStairs",
+    "text": "Pine Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pine",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Pine Stairs",
+    "rootId": 3317,
+    "metaStr": "meta|rot1|bot|outerRight",
+    "rot": 1,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 127,
+  "stackable": true
+}

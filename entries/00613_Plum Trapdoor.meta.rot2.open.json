@@ -1,0 +1,24 @@
+{
+  "id": 613,
+  "name": "Plum Trapdoor|meta|rot2|open",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Plum Trapdoor",
+    "rootId": 610,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "stackable": true
+}

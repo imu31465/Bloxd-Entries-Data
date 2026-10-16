@@ -1,0 +1,23 @@
+{
+  "id": 2075,
+  "name": "Parsnip Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:parsnip",
+    "text": "Parsnip"
+  },
+  "ttb": 400,
+  "textureInfo": "parsnip_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "parsnip_plant_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Parsnip Plant",
+    "rootId": 2073,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

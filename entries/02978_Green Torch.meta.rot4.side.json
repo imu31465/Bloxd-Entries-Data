@@ -1,0 +1,33 @@
+{
+  "id": 2978,
+  "name": "Green Torch|meta|rot4|side",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "torch_green",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Green Torch",
+    "rootId": 2973,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 3.141592653589793
+  },
+  "lm": [
+    9,
+    11,
+    4
+  ],
+  "stackable": true,
+  "blockModel": "torch_wall_green",
+  "blockModelItem": true
+}

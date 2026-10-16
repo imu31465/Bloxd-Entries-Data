@@ -1,0 +1,17 @@
+{
+  "id": 153,
+  "name": "Red Tulip",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redTulip",
+    "text": "Red Tulip"
+  },
+  "ttb": 300,
+  "textureInfo": "red_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "red_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

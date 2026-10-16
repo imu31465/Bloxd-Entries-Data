@@ -1,0 +1,19 @@
+{
+  "id": 8262,
+  "name": "Splash Jump Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashJumpPotionII",
+    "text": "Splash Jump Potion II"
+  },
+  "description": {
+    "key": "item:splashJumpPotionDescription",
+    "text": "Launch jump boosts at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_jump_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Jump Potion",
+  "stackable": false
+}

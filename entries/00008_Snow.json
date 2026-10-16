@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "name": "Snow",
+  "kind": "block",
+  "displayName": {
+    "key": "item:snow",
+    "text": "Snow"
+  },
+  "ttb": 600,
+  "textureInfo": "snow",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "snow",
+    "place": "snow"
+  },
+  "atlasIdx": 116,
+  "stackable": true
+}

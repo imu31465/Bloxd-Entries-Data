@@ -1,0 +1,21 @@
+{
+  "id": 8607,
+  "name": "Magma Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magmaGolemSpawnOrb",
+    "text": "Magma Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:magmaGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Magma Golem at the landing location",
+    "params": {
+      "mob": "Magma Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "magma_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

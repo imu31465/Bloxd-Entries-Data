@@ -1,0 +1,6 @@
+{
+  "id": 0,
+  "name": "Air",
+  "kind": "block",
+  "note": "Air is not instantiated in the registry; id 0 is a special value in the game code (Sj: 0 === id -> \"Air\")."
+}

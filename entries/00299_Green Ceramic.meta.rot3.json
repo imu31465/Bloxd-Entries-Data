@@ -1,0 +1,34 @@
+{
+  "id": 299,
+  "name": "Green Ceramic|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "green_glazed_terracotta[rot[1",
+    "green_glazed_terracotta[rot[2",
+    "green_glazed_terracotta[rot[3",
+    "green_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    2,
+    0,
+    0,
+    0,
+    1,
+    3
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Green Ceramic",
+    "rootId": 297,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    338,
+    339,
+    340,
+    341
+  ],
+  "stackable": true
+}

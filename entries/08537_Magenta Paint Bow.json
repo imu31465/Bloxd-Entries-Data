@@ -1,0 +1,30 @@
+{
+  "id": 8537,
+  "name": "Magenta Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaPaintBow",
+    "text": "Magenta Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "magenta_paint_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Magenta Paint Bow",
+    "rootId": 8537,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Magenta Paint Bow|meta|charging1",
+  "textureName": "magenta_paint_bow"
+}

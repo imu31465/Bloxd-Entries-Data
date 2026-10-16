@@ -1,0 +1,15 @@
+{
+  "id": 7904,
+  "name": "Iron Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironLeggings",
+    "text": "Iron Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "iron_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.14
+}

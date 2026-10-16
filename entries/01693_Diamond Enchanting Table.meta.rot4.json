@@ -1,0 +1,31 @@
+{
+  "id": 1693,
+  "name": "Diamond Enchanting Table|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diamondEnchantingTable",
+    "text": "Diamond Enchanting Table"
+  },
+  "description": {
+    "key": "item:enchantingTableDescription",
+    "text": "Power up your items with enchantments using this table!"
+  },
+  "ttb": 2000,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "diamond_enchanting_table",
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Diamond Enchanting Table",
+    "rootId": 1690,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "lm": [
+    10,
+    0,
+    10
+  ],
+  "stackable": true,
+  "blockModel": "Diamond Enchanting Table"
+}

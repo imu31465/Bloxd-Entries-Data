@@ -1,0 +1,19 @@
+{
+  "id": 8244,
+  "name": "Splash Speed Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashSpeedPotionII",
+    "text": "Splash Speed Potion II"
+  },
+  "description": {
+    "key": "item:splashSpeedPotionDescription",
+    "text": "Launch speed buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_speed_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Speed Potion",
+  "stackable": false
+}

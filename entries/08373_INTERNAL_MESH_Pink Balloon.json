@@ -1,0 +1,11 @@
+{
+  "id": 8373,
+  "name": "INTERNAL_MESH_Pink Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "pink_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Pink Balloon",
+  "stackable": false
+}

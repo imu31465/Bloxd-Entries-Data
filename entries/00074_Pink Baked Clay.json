@@ -1,0 +1,14 @@
+{
+  "id": 74,
+  "name": "Pink Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkBakedClay",
+    "text": "Pink Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_pink",
+  "harvestType": "rock",
+  "atlasIdx": 180,
+  "stackable": true
+}

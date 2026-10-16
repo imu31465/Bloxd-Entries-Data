@@ -1,0 +1,24 @@
+{
+  "id": 627,
+  "name": "Aspen Trapdoor|meta|rot1|open",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Aspen Trapdoor",
+    "rootId": 626,
+    "metaStr": "meta|rot1|open",
+    "rot": 1,
+    "open": true
+  },
+  "stackable": true
+}

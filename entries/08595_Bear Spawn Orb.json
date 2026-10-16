@@ -1,0 +1,21 @@
+{
+  "id": 8595,
+  "name": "Bear Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bearSpawnOrb",
+    "text": "Bear Spawn Orb"
+  },
+  "description": {
+    "key": "item:bearSpawnOrbDescription",
+    "text": "Throw to spawn a Bear at the landing location",
+    "params": {
+      "mob": "Bear"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "bear_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

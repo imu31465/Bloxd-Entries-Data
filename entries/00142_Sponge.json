@@ -1,0 +1,14 @@
+{
+  "id": 142,
+  "name": "Sponge",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sponge",
+    "text": "Sponge"
+  },
+  "ttb": 720,
+  "textureInfo": "sponge",
+  "harvestType": "granule",
+  "atlasIdx": 248,
+  "stackable": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": 5106,
+  "name": "Marked Sandstone Stairs|meta|rot2|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:markedSandstoneStairs",
+    "text": "Marked Sandstone Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "cut_sandstone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Marked Sandstone Stairs",
+    "rootId": 3573,
+    "metaStr": "meta|rot2|top|innerLeft",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 368,
+  "stackable": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": 209,
+  "name": "Aspen Leaves|TreeCanopy",
+  "kind": "block",
+  "ttb": 350,
+  "textureInfo": "leaves_aspen",
+  "harvestType": "cuttable",
+  "drops": "Aspen Leaves",
+  "meta": {
+    "rootName": "Aspen Leaves",
+    "rootId": 101,
+    "metaStr": "TreeCanopy",
+    "treeCanopy": true
+  },
+  "atlasIdx": 207,
+  "stackable": true
+}

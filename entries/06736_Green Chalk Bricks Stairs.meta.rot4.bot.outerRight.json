@@ -1,0 +1,47 @@
+{
+  "id": 6736,
+  "name": "Green Chalk Bricks Stairs|meta|rot4|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:green)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_green",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Green Chalk Bricks Stairs",
+    "rootId": 3981,
+    "metaStr": "meta|rot4|bot|outerRight",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 781,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8881,
+  "name": "Giant Trevally",
+  "kind": "item",
+  "displayName": {
+    "key": "item:giantTrevally",
+    "text": "Giant Trevally"
+  },
+  "type": "Item",
+  "textureInfo": "giant_trevally",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

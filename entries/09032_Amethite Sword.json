@@ -1,0 +1,22 @@
+{
+  "id": 9032,
+  "name": "Amethite Sword",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "amethite_sword",
+  "stackable": false,
+  "damage": 40,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

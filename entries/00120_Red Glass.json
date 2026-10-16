@@ -1,0 +1,19 @@
+{
+  "id": 120,
+  "name": "Red Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redGlass",
+    "text": "Red Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_red",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 227,
+  "stackable": true
+}

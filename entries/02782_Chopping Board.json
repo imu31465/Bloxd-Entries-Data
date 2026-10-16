@@ -1,0 +1,17 @@
+{
+  "id": 2782,
+  "name": "Chopping Board",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "chopping_board",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "chopping_board",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

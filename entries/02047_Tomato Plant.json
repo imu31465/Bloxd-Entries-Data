@@ -1,0 +1,16 @@
+{
+  "id": 2047,
+  "name": "Tomato Plant",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tomato",
+    "text": "Tomato"
+  },
+  "ttb": 400,
+  "textureInfo": "tomato_plant_stage0",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "tomato_plant_stage0",
+  "solid": false,
+  "stackable": true
+}

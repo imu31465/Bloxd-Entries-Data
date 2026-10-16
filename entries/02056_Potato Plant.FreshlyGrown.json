@@ -1,0 +1,27 @@
+{
+  "id": 2056,
+  "name": "Potato Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:potatoSeeds",
+    "text": "Potato Seeds"
+  },
+  "description": {
+    "key": "item:potatoSeedsDescription",
+    "text": "Plant to grow to potatoes"
+  },
+  "ttb": 400,
+  "textureInfo": "potato_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "potato_seeds",
+  "solid": false,
+  "meta": {
+    "rootName": "Potato Plant",
+    "rootId": 2054,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

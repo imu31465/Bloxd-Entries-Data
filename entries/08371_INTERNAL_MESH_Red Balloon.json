@@ -1,0 +1,11 @@
+{
+  "id": 8371,
+  "name": "INTERNAL_MESH_Red Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "red_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Red Balloon",
+  "stackable": false
+}

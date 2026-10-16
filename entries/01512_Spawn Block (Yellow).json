@@ -1,0 +1,45 @@
+{
+  "id": 1512,
+  "name": "Spawn Block (Yellow)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowSpawnBlock",
+    "text": "Spawn Block (Yellow)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "yellow_spawn_block_top[rot[1",
+    "yellow_spawn_block_top[rot[2",
+    "yellow_spawn_block_top[rot[3",
+    "yellow_spawn_block_top[rot[4",
+    "yellow_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Yellow)",
+    "rootId": 1512,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Yellow)|meta|rot1",
+  "atlasIdx": [
+    596,
+    597,
+    598,
+    599,
+    600
+  ],
+  "stackable": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 178,
+  "name": "Maple Door|meta|rot3|open",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Door",
+    "rootId": 173,
+    "metaStr": "meta|rot3|open",
+    "rot": 3,
+    "open": true
+  },
+  "stackable": true
+}

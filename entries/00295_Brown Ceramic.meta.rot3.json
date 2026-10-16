@@ -1,0 +1,34 @@
+{
+  "id": 295,
+  "name": "Brown Ceramic|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "brown_glazed_terracotta[rot[1",
+    "brown_glazed_terracotta[rot[2",
+    "brown_glazed_terracotta[rot[3",
+    "brown_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    2,
+    0,
+    0,
+    0,
+    1,
+    3
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Brown Ceramic",
+    "rootId": 293,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    334,
+    335,
+    336,
+    337
+  ],
+  "stackable": true
+}

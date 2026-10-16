@@ -1,0 +1,47 @@
+{
+  "id": 6157,
+  "name": "Light Gray Chalk Stairs|meta|rot1|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_light_gray",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Light Gray Chalk Stairs",
+    "rootId": 3837,
+    "metaStr": "meta|rot1|bot|outerRight",
+    "rot": 1,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 763,
+  "stackable": true
+}

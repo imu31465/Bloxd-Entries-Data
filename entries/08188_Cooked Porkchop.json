@@ -1,0 +1,30 @@
+{
+  "id": 8188,
+  "name": "Cooked Porkchop",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cookedPorkchop",
+    "text": "Cooked Porkchop"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cooked_porkchop",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 25,
+  "chargeStages": 1,
+  "chargeTime": 950,
+  "meta": {
+    "rootName": "Cooked Porkchop",
+    "rootId": 8188,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cooked Porkchop|meta|charging1"
+}

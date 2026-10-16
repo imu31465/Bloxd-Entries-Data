@@ -1,0 +1,22 @@
+{
+  "id": 1964,
+  "name": "Catnip",
+  "kind": "block",
+  "displayName": {
+    "key": "item:catnip",
+    "text": "Catnip"
+  },
+  "ttb": 1,
+  "textureInfo": "catnip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "heldItemScale": 0.5,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Catnip"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

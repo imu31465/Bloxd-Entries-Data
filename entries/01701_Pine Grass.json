@@ -1,0 +1,21 @@
+{
+  "id": 1701,
+  "name": "Pine Grass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineGrass",
+    "text": "Pine Grass"
+  },
+  "ttb": 1,
+  "textureInfo": "pine_grass",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Pine Grass"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

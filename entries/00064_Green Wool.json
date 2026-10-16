@@ -1,0 +1,18 @@
+{
+  "id": 64,
+  "name": "Green Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenWool",
+    "text": "Green Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_green",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 170,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8347,
+  "name": "Floor Creator",
+  "kind": "item",
+  "displayName": {
+    "key": "item:floorCreator",
+    "text": "Floor Creator"
+  },
+  "description": {
+    "key": "item:floorCreatorDescription",
+    "text": "Create a floor of gold underneath you!"
+  },
+  "type": "Item",
+  "textureInfo": "floor_creator",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

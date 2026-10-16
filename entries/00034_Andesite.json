@@ -1,0 +1,14 @@
+{
+  "id": 34,
+  "name": "Andesite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:andesite",
+    "text": "Andesite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_andesite",
+  "harvestType": "rock",
+  "atlasIdx": 140,
+  "stackable": true
+}

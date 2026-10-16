@@ -1,0 +1,22 @@
+{
+  "id": 8409,
+  "name": "Light Gray Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayPaintballGun",
+    "text": "Light Gray Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "light_gray_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

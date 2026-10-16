@@ -1,0 +1,18 @@
+{
+  "id": 9244,
+  "name": "Goldheart Engine",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldheartEngine",
+    "text": "Goldheart Engine"
+  },
+  "description": {
+    "key": "item:goldheartEngineDescription",
+    "text": "A drill engine with a heart of solid gold. Gabbro swears it purrs."
+  },
+  "type": "Item",
+  "textureInfo": "goldheart_engine",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1519,
+  "name": "Spawn Block (Lime)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeSpawnBlock",
+    "text": "Spawn Block (Lime)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "lime_spawn_block_top[rot[1",
+    "lime_spawn_block_top[rot[2",
+    "lime_spawn_block_top[rot[3",
+    "lime_spawn_block_top[rot[4",
+    "lime_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Lime)",
+    "rootId": 1519,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Lime)|meta|rot1",
+  "atlasIdx": [
+    631,
+    632,
+    633,
+    634,
+    635
+  ],
+  "stackable": true
+}

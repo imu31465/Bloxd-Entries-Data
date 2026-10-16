@@ -1,0 +1,41 @@
+{
+  "id": 1060,
+  "name": "Empty Bookshelf",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bookshelf",
+    "text": "Bookshelf"
+  },
+  "description": {
+    "key": "item:emptyBookshelfDescription",
+    "text": "Empty bookshelf"
+  },
+  "ttb": 1800,
+  "textureInfo": [
+    "bookshelf_empty",
+    "planks_maple"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "drops": null,
+  "meta": {
+    "rootName": "Empty Bookshelf",
+    "rootId": 1060,
+    "metaStr": "meta|rot1|books0",
+    "rot": 1,
+    "books": 0
+  },
+  "rootMetaDesc": "Empty Bookshelf|meta|rot1|books0",
+  "atlasIdx": [
+    480,
+    123
+  ],
+  "stackable": true
+}

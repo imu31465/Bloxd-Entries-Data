@@ -1,0 +1,14 @@
+{
+  "id": 8027,
+  "name": "Water Bucket",
+  "kind": "item",
+  "displayName": {
+    "key": "item:waterBucket",
+    "text": "Water Bucket"
+  },
+  "type": "Item",
+  "textureInfo": "water_bucket",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

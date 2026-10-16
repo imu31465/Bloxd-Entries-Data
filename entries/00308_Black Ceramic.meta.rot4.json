@@ -1,0 +1,34 @@
+{
+  "id": 308,
+  "name": "Black Ceramic|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "black_glazed_terracotta[rot[1",
+    "black_glazed_terracotta[rot[2",
+    "black_glazed_terracotta[rot[3",
+    "black_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    1,
+    3,
+    1,
+    1,
+    0,
+    2
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Black Ceramic",
+    "rootId": 305,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    346,
+    347,
+    348,
+    349
+  ],
+  "stackable": true
+}

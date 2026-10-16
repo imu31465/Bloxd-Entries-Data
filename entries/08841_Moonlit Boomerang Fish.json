@@ -1,0 +1,14 @@
+{
+  "id": 8841,
+  "name": "Moonlit Boomerang Fish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonlitBoomerangFish",
+    "text": "Moonlit Boomerang Fish"
+  },
+  "type": "Item",
+  "textureInfo": "moonlit_boomerang_fish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

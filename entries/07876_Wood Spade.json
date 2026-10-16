@@ -1,0 +1,22 @@
+{
+  "id": 7876,
+  "name": "Wood Spade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodSpade",
+    "text": "Wood Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "wooden_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 15,
+  "harvests": "granule",
+  "multiplier": 2,
+  "level": 1
+}

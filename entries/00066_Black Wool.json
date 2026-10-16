@@ -1,0 +1,18 @@
+{
+  "id": 66,
+  "name": "Black Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackWool",
+    "text": "Black Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_black",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 172,
+  "stackable": true
+}

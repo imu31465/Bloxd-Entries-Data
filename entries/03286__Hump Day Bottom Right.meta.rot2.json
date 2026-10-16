@@ -1,0 +1,30 @@
+{
+  "id": 3286,
+  "name": "_Hump Day Bottom Right|meta|rot2",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "camel_painting",
+  "drops": "Hump Day",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Hump Day Bottom Right",
+    "rootId": 3285,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "heldItemGlb": "Camel Painting",
+  "blockModel": "_Camel Painting Bottom Right"
+}

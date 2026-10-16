@@ -1,0 +1,23 @@
+{
+  "id": 1394,
+  "name": "Yellow Strongbed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowStrongbed",
+    "text": "Yellow Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "yellow_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Yellow Strongbed",
+    "rootId": 1393,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Yellow Strongbed"
+}

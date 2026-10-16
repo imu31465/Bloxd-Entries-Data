@@ -1,0 +1,36 @@
+{
+  "id": 1571,
+  "name": "Spawn Block (Gray)|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "gray_spawn_block_top[rot[1",
+    "gray_spawn_block_top[rot[2",
+    "gray_spawn_block_top[rot[3",
+    "gray_spawn_block_top[rot[4",
+    "gray_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    1,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Gray)",
+    "rootId": 1523,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    651,
+    652,
+    653,
+    654,
+    655
+  ],
+  "stackable": true
+}

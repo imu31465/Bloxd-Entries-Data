@@ -1,0 +1,19 @@
+{
+  "id": 8231,
+  "name": "Splash Weakness Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashWeaknessPotionII",
+    "text": "Splash Weakness Potion II"
+  },
+  "description": {
+    "key": "item:splashWeaknessPotionDescription",
+    "text": "Make others take more damage when attacked"
+  },
+  "type": "Item",
+  "textureInfo": "splash_weakness_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Weakness Potion",
+  "stackable": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8586,
+  "name": "Deer Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:deerSpawnOrb",
+    "text": "Deer Spawn Orb"
+  },
+  "description": {
+    "key": "item:deerSpawnOrbDescription",
+    "text": "Throw to spawn a Deer at the landing location",
+    "params": {
+      "mob": "Deer"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "deer_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

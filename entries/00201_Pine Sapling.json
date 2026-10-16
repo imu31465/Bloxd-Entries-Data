@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "name": "Pine Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineSapling",
+    "text": "Pine Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "pine_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "pine_sapling",
+  "solid": false,
+  "stackable": true
+}

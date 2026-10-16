@@ -1,0 +1,14 @@
+{
+  "id": 8818,
+  "name": "Mireback Carp",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mirebackCarp",
+    "text": "Mireback Carp"
+  },
+  "type": "Item",
+  "textureInfo": "mireback_carp",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

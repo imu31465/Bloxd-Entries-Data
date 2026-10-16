@@ -1,0 +1,20 @@
+{
+  "id": 1382,
+  "name": "_Magenta Strongbed Head|meta|rot2",
+  "kind": "block",
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "magenta_strongbed",
+  "drops": "Magenta Strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Magenta Strongbed Head",
+    "rootId": 1381,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Magenta Strongbed Head"
+}

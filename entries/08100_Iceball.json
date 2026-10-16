@@ -1,0 +1,19 @@
+{
+  "id": 8100,
+  "name": "Iceball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:iceball",
+    "text": "Iceball"
+  },
+  "description": {
+    "key": "item:iceballDescription",
+    "text": "Freezes players on explosion"
+  },
+  "type": "Item",
+  "textureInfo": "iceball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 8
+}

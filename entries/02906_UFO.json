@@ -1,0 +1,13 @@
+{
+  "id": 2906,
+  "name": "UFO",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "ufo",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

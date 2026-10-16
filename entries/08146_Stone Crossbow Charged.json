@@ -1,0 +1,20 @@
+{
+  "id": 8146,
+  "name": "Stone Crossbow Charged",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneCrossbowCharged",
+    "text": "Stone Crossbow Charged"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "stone_crossbow_charged",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "secondaryDamage": 45,
+  "holdAsAiming": true
+}

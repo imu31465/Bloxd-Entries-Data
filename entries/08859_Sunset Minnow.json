@@ -1,0 +1,14 @@
+{
+  "id": 8859,
+  "name": "Sunset Minnow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sunsetMinnow",
+    "text": "Sunset Minnow"
+  },
+  "type": "Item",
+  "textureInfo": "sunset_minnow",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

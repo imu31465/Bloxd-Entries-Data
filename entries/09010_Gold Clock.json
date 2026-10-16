@@ -1,0 +1,19 @@
+{
+  "id": 9010,
+  "name": "Gold Clock",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_gold_midday",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_gold_midday",
+  "stackable": false
+}

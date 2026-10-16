@@ -1,0 +1,18 @@
+{
+  "id": 8424,
+  "name": "Lime Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limePaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "lime_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

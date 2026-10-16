@@ -1,0 +1,18 @@
+{
+  "id": 1258,
+  "name": "Cherry Log|TreeBase|Cherry",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_cherry",
+  "harvestType": "wood",
+  "drops": "Cherry Log",
+  "meta": {
+    "rootName": "Cherry Log",
+    "rootId": 1222,
+    "metaStr": "TreeBase|Cherry",
+    "treeBase": true,
+    "woodType": "Cherry"
+  },
+  "atlasIdx": 497,
+  "stackable": true
+}

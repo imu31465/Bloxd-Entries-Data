@@ -1,0 +1,41 @@
+{
+  "id": 1766,
+  "name": "White Chalk Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:white)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_white",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "White Chalk Slab",
+    "rootId": 1761,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 756,
+  "stackable": true,
+  "slabFullBlock": "White Chalk"
+}

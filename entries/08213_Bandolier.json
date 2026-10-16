@@ -1,0 +1,16 @@
+{
+  "id": 8213,
+  "name": "Bandolier",
+  "kind": "item",
+  "displayName": {
+    "text": "Bandolier"
+  },
+  "description": {
+    "text": "Her charge belt. Three still on it, and nobody has volunteered to count again. Salvaged from a Deadlock."
+  },
+  "type": "Item",
+  "textureInfo": "bandolier",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

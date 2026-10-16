@@ -1,0 +1,45 @@
+{
+  "id": 706,
+  "name": "Dirt Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dirtSlab",
+    "text": "Dirt Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_dirt_side",
+    "dirt"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Dirt Slab",
+    "rootId": 703,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    401,
+    109
+  ],
+  "stackable": true,
+  "slabFullBlock": "Dirt"
+}

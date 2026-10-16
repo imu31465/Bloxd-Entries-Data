@@ -1,0 +1,49 @@
+{
+  "id": 7517,
+  "name": "_Mango Fence Top|meta|new",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoFence",
+    "text": "Mango Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "mango_fence",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    0.5,
+    0.625,
+    0.375,
+    0,
+    0,
+    0.625,
+    0.5,
+    0.375,
+    0.625,
+    0,
+    0.375,
+    1,
+    0.5,
+    0.625,
+    0,
+    0,
+    0.375,
+    0.375,
+    0.5,
+    0.625
+  ],
+  "meta": {
+    "rootName": "_Mango Fence Top",
+    "rootId": 7506,
+    "metaStr": "meta|new"
+  },
+  "atlasIdx": 808,
+  "stackable": true,
+  "canBePlacedOver": true
+}

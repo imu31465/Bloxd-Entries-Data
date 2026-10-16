@@ -1,0 +1,45 @@
+{
+  "id": 894,
+  "name": "Bricks Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bricksSlab",
+    "text": "Bricks Slab"
+  },
+  "ttb": 1600,
+  "textureInfo": [
+    "slab_brick_side",
+    "brick"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Bricks Slab",
+    "rootId": 889,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    430,
+    234
+  ],
+  "stackable": true,
+  "slabFullBlock": "Bricks"
+}

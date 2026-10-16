@@ -1,0 +1,14 @@
+{
+  "id": 236,
+  "name": "Light Gray Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayPlanks",
+    "text": "Light Gray Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "light_gray_planks",
+  "harvestType": "wood",
+  "atlasIdx": 276,
+  "stackable": true
+}

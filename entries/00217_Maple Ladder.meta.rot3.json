@@ -1,0 +1,31 @@
+{
+  "id": 217,
+  "name": "Maple Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ladder",
+    "text": "Maple Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_maple",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Maple Ladder",
+    "rootId": 215,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "stackable": true,
+  "blockModel": "Maple Ladder",
+  "blockModelItem": true
+}

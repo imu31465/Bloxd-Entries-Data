@@ -1,0 +1,10 @@
+{
+  "id": 1333,
+  "name": "Pink Seeking Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_seeking_pink",
+  "harvestType": "cuttable",
+  "atlasIdx": 563,
+  "stackable": true
+}

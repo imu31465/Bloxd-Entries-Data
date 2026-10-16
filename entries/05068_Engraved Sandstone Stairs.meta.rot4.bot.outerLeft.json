@@ -1,0 +1,37 @@
+{
+  "id": 5068,
+  "name": "Engraved Sandstone Stairs|meta|rot4|bot|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedSandstoneStairs",
+    "text": "Engraved Sandstone Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "chiseled_sandstone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Sandstone Stairs",
+    "rootId": 3565,
+    "metaStr": "meta|rot4|bot|outerLeft",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 244,
+  "stackable": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8210,
+  "name": "Flywheel",
+  "kind": "item",
+  "displayName": {
+    "text": "Flywheel"
+  },
+  "description": {
+    "text": "The wheel a room-mill spins around. Salvaged from a Carousel."
+  },
+  "type": "Item",
+  "textureInfo": "flywheel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

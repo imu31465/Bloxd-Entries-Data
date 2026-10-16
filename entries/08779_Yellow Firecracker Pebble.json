@@ -1,0 +1,19 @@
+{
+  "id": 8779,
+  "name": "Yellow Firecracker Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowFirecrackerPebble",
+    "text": "Yellow Firecracker Pebble"
+  },
+  "description": {
+    "key": "item:firecrackerPebbleDescription",
+    "text": "Throw at players to do damage (and annoy them with a colorful explosion)"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_pebble_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

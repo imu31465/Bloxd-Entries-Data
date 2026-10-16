@@ -1,0 +1,18 @@
+{
+  "id": 9246,
+  "name": "Empty Fuel Cell",
+  "kind": "item",
+  "displayName": {
+    "key": "item:emptyFuelCell",
+    "text": "Empty Fuel Cell"
+  },
+  "description": {
+    "key": "item:emptyFuelCellDescription",
+    "text": "A fuel cell waiting to be packed with coal. Only Old Smudge knows how."
+  },
+  "type": "Item",
+  "textureInfo": "empty_fuel_cell",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

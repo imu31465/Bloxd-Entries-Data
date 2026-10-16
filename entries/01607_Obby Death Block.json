@@ -1,0 +1,18 @@
+{
+  "id": 1607,
+  "name": "Obby Death Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:obbyDeathBlock",
+    "text": "Obby Death Block"
+  },
+  "description": {
+    "key": "item:obbyDeathBlockDescription",
+    "text": "For marking death zones when exporting for custom Rocket Obby maps"
+  },
+  "ttb": 1500,
+  "textureInfo": "obby_death_block",
+  "harvestType": "rock",
+  "atlasIdx": 730,
+  "stackable": true
+}

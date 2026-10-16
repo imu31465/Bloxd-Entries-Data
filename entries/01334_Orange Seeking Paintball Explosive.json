@@ -1,0 +1,10 @@
+{
+  "id": 1334,
+  "name": "Orange Seeking Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_seeking_orange",
+  "harvestType": "cuttable",
+  "atlasIdx": 564,
+  "stackable": true
+}

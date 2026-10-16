@@ -1,0 +1,45 @@
+{
+  "id": 1517,
+  "name": "Spawn Block (Orange)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeSpawnBlock",
+    "text": "Spawn Block (Orange)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "orange_spawn_block_top[rot[1",
+    "orange_spawn_block_top[rot[2",
+    "orange_spawn_block_top[rot[3",
+    "orange_spawn_block_top[rot[4",
+    "orange_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Orange)",
+    "rootId": 1517,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Orange)|meta|rot1",
+  "atlasIdx": [
+    621,
+    622,
+    623,
+    624,
+    625
+  ],
+  "stackable": true
+}

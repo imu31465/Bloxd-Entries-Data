@@ -1,0 +1,31 @@
+{
+  "id": 1169,
+  "name": "Lime Concrete Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeConcreteSlab",
+    "text": "Lime Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "lime_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Lime Concrete Slab",
+    "rootId": 1167,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 197,
+  "stackable": true,
+  "slabFullBlock": "Lime Concrete"
+}

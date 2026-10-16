@@ -1,0 +1,19 @@
+{
+  "id": 331,
+  "name": "Forget-me-not|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "cornflower",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cornflower",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Forget-me-not",
+    "rootId": 159,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

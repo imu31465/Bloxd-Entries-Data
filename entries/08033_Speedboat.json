@@ -1,0 +1,15 @@
+{
+  "id": 8033,
+  "name": "Speedboat",
+  "kind": "item",
+  "displayName": {
+    "key": "item:speedboat",
+    "text": "Speedboat"
+  },
+  "type": "Item",
+  "textureInfo": "speedboat",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Speedboat Item",
+  "stackable": false
+}

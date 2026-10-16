@@ -1,0 +1,18 @@
+{
+  "id": 1114,
+  "name": "Barkless Maple Log|TreeBase|Maple",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_maple_log",
+  "harvestType": "wood",
+  "drops": "Barkless Maple Log",
+  "meta": {
+    "rootName": "Barkless Maple Log",
+    "rootId": 21,
+    "metaStr": "TreeBase|Maple",
+    "treeBase": true,
+    "woodType": "Maple"
+  },
+  "atlasIdx": 129,
+  "stackable": true
+}

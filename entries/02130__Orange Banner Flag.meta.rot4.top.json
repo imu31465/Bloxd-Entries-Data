@@ -1,0 +1,41 @@
+{
+  "id": 2130,
+  "name": "_Orange Banner Flag|meta|rot4|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeBanner",
+    "text": "Orange Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_orange",
+  "drops": "Orange Banner",
+  "solid": false,
+  "Am": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Orange Banner Flag",
+    "rootId": 2127,
+    "metaStr": "meta|rot4|top",
+    "rot": 4,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Orange Banner Flag Hanging"
+}

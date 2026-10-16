@@ -1,0 +1,20 @@
+{
+  "id": 3023,
+  "name": "Blue Neon",
+  "kind": "block",
+  "ttb": 200,
+  "textureInfo": "neon_blue",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "unlitStandaloneMesh": true,
+  "lm": [
+    3,
+    3,
+    14
+  ],
+  "atlasIdx": 863,
+  "stackable": true
+}

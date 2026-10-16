@@ -1,0 +1,18 @@
+{
+  "id": 8202,
+  "name": "Fur",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fur",
+    "text": "Fur"
+  },
+  "description": {
+    "key": "item:furDescription",
+    "text": "Use me to craft special armour"
+  },
+  "type": "Item",
+  "textureInfo": "fur",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

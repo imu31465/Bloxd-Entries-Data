@@ -1,0 +1,15 @@
+{
+  "id": 7991,
+  "name": "Red Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redWoodHelmet",
+    "text": "Red Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

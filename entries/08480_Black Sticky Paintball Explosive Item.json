@@ -1,0 +1,18 @@
+{
+  "id": 8480,
+  "name": "Black Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_black",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

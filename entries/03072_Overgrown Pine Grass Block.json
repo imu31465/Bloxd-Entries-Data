@@ -1,0 +1,18 @@
+{
+  "id": 3072,
+  "name": "Overgrown Pine Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:overgrownPineGrassBlock",
+    "text": "Overgrown Pine Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": "pine_grass_block",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": 749,
+  "stackable": true
+}

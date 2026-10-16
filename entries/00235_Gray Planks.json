@@ -1,0 +1,14 @@
+{
+  "id": 235,
+  "name": "Gray Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayPlanks",
+    "text": "Gray Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "gray_planks",
+  "harvestType": "wood",
+  "atlasIdx": 275,
+  "stackable": true
+}

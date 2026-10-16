@@ -1,0 +1,42 @@
+{
+  "id": 1706,
+  "name": "Bear Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:bearMobSpawnerBlock",
+    "text": "Bear Spawner Block"
+  },
+  "description": {
+    "key": "item:bearMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Bears"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "bear_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Bear Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

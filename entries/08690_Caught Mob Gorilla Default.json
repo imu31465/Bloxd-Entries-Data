@@ -1,0 +1,15 @@
+{
+  "id": 8690,
+  "name": "Caught Mob Gorilla Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_gorilla_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Gorilla Default",
+    "rootId": 8690,
+    "caughtMobType": "Gorilla"
+  }
+}

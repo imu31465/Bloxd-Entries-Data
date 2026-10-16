@@ -1,0 +1,14 @@
+{
+  "id": 68,
+  "name": "White Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteBakedClay",
+    "text": "White Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_white",
+  "harvestType": "rock",
+  "atlasIdx": 174,
+  "stackable": true
+}

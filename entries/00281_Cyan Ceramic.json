@@ -1,0 +1,39 @@
+{
+  "id": 281,
+  "name": "Cyan Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanCeramic",
+    "text": "Cyan Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "cyan_glazed_terracotta[rot[1",
+    "cyan_glazed_terracotta[rot[2",
+    "cyan_glazed_terracotta[rot[3",
+    "cyan_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Cyan Ceramic",
+    "rootId": 281,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Cyan Ceramic|meta|rot1",
+  "atlasIdx": [
+    322,
+    323,
+    324,
+    325
+  ],
+  "stackable": true
+}

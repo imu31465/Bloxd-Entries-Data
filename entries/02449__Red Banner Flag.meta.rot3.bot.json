@@ -1,0 +1,41 @@
+{
+  "id": 2449,
+  "name": "_Red Banner Flag|meta|rot3|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redBanner",
+    "text": "Red Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_red",
+  "drops": "Red Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.625
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Red Banner Flag",
+    "rootId": 2439,
+    "metaStr": "meta|rot3|bot",
+    "rot": 3,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Red Banner Flag"
+}

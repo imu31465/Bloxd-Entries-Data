@@ -1,0 +1,15 @@
+{
+  "id": 8729,
+  "name": "Caught Mob Moonstone_Guardian Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_moonstone_guardian_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Moonstone_Guardian Default",
+    "rootId": 8729,
+    "caughtMobType": "Moonstone Guardian"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8774,
+  "name": "Brown Firecracker",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownFirecracker",
+    "text": "Brown Firecracker"
+  },
+  "description": {
+    "key": "item:firecrackerDescription",
+    "text": "Click or tap your Hang Glider with me in your inventory, and I'll give you a boost!"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_brown",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

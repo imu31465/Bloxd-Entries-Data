@@ -1,0 +1,14 @@
+{
+  "id": 77,
+  "name": "Cyan Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanBakedClay",
+    "text": "Cyan Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_cyan",
+  "harvestType": "rock",
+  "atlasIdx": 183,
+  "stackable": true
+}

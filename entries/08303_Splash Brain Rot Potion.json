@@ -1,0 +1,18 @@
+{
+  "id": 8303,
+  "name": "Splash Brain Rot Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashBrainRotPotion",
+    "text": "Splash Brain Rot Potion"
+  },
+  "description": {
+    "key": "item:splashBrainRotPotionDescription",
+    "text": "Rots many brains"
+  },
+  "type": "Item",
+  "textureInfo": "splash_brain_rot_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

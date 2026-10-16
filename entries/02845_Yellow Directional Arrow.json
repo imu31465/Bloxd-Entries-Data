@@ -1,0 +1,39 @@
+{
+  "id": 2845,
+  "name": "Yellow Directional Arrow",
+  "kind": "block",
+  "displayName": {
+    "key": "item:directionalArrow",
+    "text": "{{colour}} Directional Arrow",
+    "params": {
+      "colour": "$t(colour:yellow)"
+    }
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "yellow_directional_arrow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Yellow Directional Arrow",
+    "rootId": 2845,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Yellow Directional Arrow|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Yellow Directional Arrow",
+  "blockModelItem": true
+}

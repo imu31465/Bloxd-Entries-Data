@@ -1,0 +1,18 @@
+{
+  "id": 8462,
+  "name": "Brown Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownPaintballExplosive",
+    "text": "Brown Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_brown",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

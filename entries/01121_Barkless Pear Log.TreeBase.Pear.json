@@ -1,0 +1,18 @@
+{
+  "id": 1121,
+  "name": "Barkless Pear Log|TreeBase|Pear",
+  "kind": "block",
+  "ttb": 2000,
+  "textureInfo": "stripped_pear_log",
+  "harvestType": "wood",
+  "drops": "Barkless Pear Log",
+  "meta": {
+    "rootName": "Barkless Pear Log",
+    "rootId": 1113,
+    "metaStr": "TreeBase|Pear",
+    "treeBase": true,
+    "woodType": "Pear"
+  },
+  "atlasIdx": 492,
+  "stackable": true
+}

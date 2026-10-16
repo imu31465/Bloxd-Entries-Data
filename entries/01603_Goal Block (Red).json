@@ -1,0 +1,32 @@
+{
+  "id": 1603,
+  "name": "Goal Block (Red)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redGoalBlock",
+    "text": "Goal Block (Red)"
+  },
+  "description": {
+    "key": "item:goalBlockDescription",
+    "text": "Goal Blocks when exporting for custom Bridge maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "explosive_paint_red_top",
+    "red_spawn_block_top[rot[3"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    516,
+    608
+  ],
+  "stackable": true
+}

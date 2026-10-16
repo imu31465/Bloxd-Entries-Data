@@ -1,0 +1,14 @@
+{
+  "id": 652,
+  "name": "Rocky Dirt",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rockyDirt",
+    "text": "Rocky Dirt"
+  },
+  "ttb": 600,
+  "textureInfo": "rocky_dirt",
+  "harvestType": "granule",
+  "atlasIdx": 391,
+  "stackable": true
+}

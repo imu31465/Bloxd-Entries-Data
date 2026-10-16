@@ -1,0 +1,43 @@
+{
+  "id": 5126,
+  "name": "Sandstone Bricks Stairs|meta|rot2|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sandstoneBricksStairs",
+    "text": "Sandstone Bricks Stairs"
+  },
+  "ttb": 960,
+  "textureInfo": "sandstone_brick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Sandstone Bricks Stairs",
+    "rootId": 3581,
+    "metaStr": "meta|rot2|bot|innerRight",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 376,
+  "stackable": true
+}

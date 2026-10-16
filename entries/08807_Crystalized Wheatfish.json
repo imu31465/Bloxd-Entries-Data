@@ -1,0 +1,14 @@
+{
+  "id": 8807,
+  "name": "Crystalized Wheatfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:crystalizedWheatfish",
+    "text": "Crystalized Wheatfish"
+  },
+  "type": "Item",
+  "textureInfo": "crystalized_wheatfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

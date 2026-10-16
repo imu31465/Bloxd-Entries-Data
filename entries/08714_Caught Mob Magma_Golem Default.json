@@ -1,0 +1,15 @@
+{
+  "id": 8714,
+  "name": "Caught Mob Magma_Golem Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_magma_golem_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Magma_Golem Default",
+    "rootId": 8714,
+    "caughtMobType": "Magma Golem"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8482,
+  "name": "White Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteSeekingPaintballExplosive",
+    "text": "White Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_white",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

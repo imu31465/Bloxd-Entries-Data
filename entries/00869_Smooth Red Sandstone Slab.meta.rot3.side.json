@@ -1,0 +1,31 @@
+{
+  "id": 869,
+  "name": "Smooth Red Sandstone Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothRedSandstoneSlab",
+    "text": "Smooth Red Sandstone Slab"
+  },
+  "ttb": 640,
+  "textureInfo": "red_sandstone_top",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Smooth Red Sandstone Slab",
+    "rootId": 865,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 370,
+  "stackable": true,
+  "slabFullBlock": "Smooth Red Sandstone"
+}

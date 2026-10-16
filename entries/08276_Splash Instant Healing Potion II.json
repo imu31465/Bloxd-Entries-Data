@@ -1,0 +1,19 @@
+{
+  "id": 8276,
+  "name": "Splash Instant Healing Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashInstantHealingPotionII",
+    "text": "Splash Instant Healing Potion II"
+  },
+  "description": {
+    "key": "item:splashInstantHealingPotionDescription",
+    "text": "Increase health regen of your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_heal_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Instant Healing Potion",
+  "stackable": false
+}

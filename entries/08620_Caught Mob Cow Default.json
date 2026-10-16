@@ -1,0 +1,15 @@
+{
+  "id": 8620,
+  "name": "Caught Mob Cow Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_cow_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Cow Default",
+    "rootId": 8620,
+    "caughtMobType": "Cow"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7916,
+  "name": "Military Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:militaryHelmet",
+    "text": "Military Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "military_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11
+}

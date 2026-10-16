@@ -1,0 +1,32 @@
+{
+  "id": 7725,
+  "name": "Aspen Fence Gate|meta|rot4|closed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenFenceGate",
+    "text": "Aspen Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_aspen",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "aspen_fence_gate",
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Aspen Fence Gate",
+    "rootId": 7719,
+    "metaStr": "meta|rot4|closed",
+    "rot": 4,
+    "open": false
+  },
+  "atlasIdx": 124,
+  "stackable": true,
+  "attachedTop": "_Aspen Fence Gate Top|meta|rot4|closed"
+}

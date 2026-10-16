@@ -1,0 +1,16 @@
+{
+  "id": 9191,
+  "name": "Spectral Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralGauntlets",
+    "text": "Spectral Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "spectral_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "spectral_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

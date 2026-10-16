@@ -1,0 +1,19 @@
+{
+  "id": 9150,
+  "name": "Sanguine Shard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineShard",
+    "text": "Sanguine Shard"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "sanguine_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "sanguine_shard",
+  "stackable": true
+}

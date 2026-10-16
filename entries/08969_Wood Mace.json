@@ -1,0 +1,23 @@
+{
+  "id": 8969,
+  "name": "Wood Mace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodMace",
+    "text": "Wood Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 11,
+  "velocityMultiplier": 2.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

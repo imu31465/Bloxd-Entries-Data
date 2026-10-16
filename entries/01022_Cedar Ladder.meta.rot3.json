@@ -1,0 +1,33 @@
+{
+  "id": 1022,
+  "name": "Cedar Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarLadder",
+    "text": "Cedar Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_cedar",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Cedar Ladder",
+    "rootId": 1020,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "stackable": true,
+  "blockModel": "Cedar Ladder",
+  "blockModelItem": true
+}

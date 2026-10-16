@@ -1,0 +1,30 @@
+{
+  "id": 8297,
+  "name": "Mining Yield Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:miningYieldPotion",
+    "text": "Mining Yield Potion"
+  },
+  "description": {
+    "key": "item:miningYieldPotionDescription",
+    "text": "Increases the amount of materials you get when mining ores"
+  },
+  "type": "Chargeable",
+  "textureInfo": "mining_yield_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Mining Yield Potion",
+    "rootId": 8297,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Mining Yield Potion|meta|charging1"
+}

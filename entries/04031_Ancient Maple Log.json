@@ -1,0 +1,18 @@
+{
+  "id": 4031,
+  "name": "Ancient Maple Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ancientMapleLog",
+    "text": "Ancient Maple Log"
+  },
+  "description": {
+    "key": "item:ancientMapleLogDescription",
+    "text": "Heartwood from a sparkling maple in Timbertooth Woods."
+  },
+  "ttb": 2400,
+  "textureInfo": "log_ancient_maple",
+  "harvestType": "wood",
+  "atlasIdx": 935,
+  "stackable": true
+}

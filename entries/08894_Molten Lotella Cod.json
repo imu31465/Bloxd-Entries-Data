@@ -1,0 +1,14 @@
+{
+  "id": 8894,
+  "name": "Molten Lotella Cod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moltenLotellaCod",
+    "text": "Molten Lotella Cod"
+  },
+  "type": "Item",
+  "textureInfo": "molten_lotella_cod",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

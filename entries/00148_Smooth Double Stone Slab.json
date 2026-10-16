@@ -1,0 +1,14 @@
+{
+  "id": 148,
+  "name": "Smooth Double Stone Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothDoubleStoneSlab",
+    "text": "Smooth Double Stone Slab"
+  },
+  "ttb": 2400,
+  "textureInfo": "smooth_stone",
+  "harvestType": "rock",
+  "atlasIdx": 137,
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8994,
+  "name": "Sushi",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sushi",
+    "text": "Sushi"
+  },
+  "description": {
+    "key": "item:sushiDescription",
+    "text": "Freshly rolled sushi"
+  },
+  "type": "Item",
+  "textureInfo": "sushi",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "sushi",
+  "stackable": false
+}

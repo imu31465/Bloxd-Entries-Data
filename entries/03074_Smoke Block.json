@@ -1,0 +1,29 @@
+{
+  "id": 3074,
+  "name": "Smoke Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Smoke Block"
+  },
+  "ttb": 100,
+  "textureInfo": {
+    "animTextures": [
+      "smoke0",
+      "smoke1",
+      "smoke2",
+      "smoke3"
+    ],
+    "animationInterval": 250
+  },
+  "harvestType": "cuttable",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "atlasIdx": [
+    22,
+    95,
+    96,
+    97
+  ],
+  "stackable": true
+}

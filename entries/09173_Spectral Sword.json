@@ -1,0 +1,23 @@
+{
+  "id": 9173,
+  "name": "Spectral Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralSword",
+    "text": "Spectral Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "spectral_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "spectral_sword",
+  "stackable": false,
+  "damage": 40,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

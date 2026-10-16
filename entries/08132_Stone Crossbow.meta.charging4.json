@@ -1,0 +1,29 @@
+{
+  "id": 8132,
+  "name": "Stone Crossbow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneCrossbow",
+    "text": "Stone Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "stone_crossbow_charging_4",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Stone Crossbow",
+    "rootId": 8129,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  },
+  "textureName": "stone_crossbow"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8735,
+  "name": "Caught Mob NPC Emma",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_emma",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Emma",
+    "rootId": 8735,
+    "caughtMobType": "NPC"
+  }
+}

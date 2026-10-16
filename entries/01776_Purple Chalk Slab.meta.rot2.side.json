@@ -1,0 +1,41 @@
+{
+  "id": 1776,
+  "name": "Purple Chalk Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_purple",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Purple Chalk Slab",
+    "rootId": 1773,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 758,
+  "stackable": true,
+  "slabFullBlock": "Purple Chalk"
+}

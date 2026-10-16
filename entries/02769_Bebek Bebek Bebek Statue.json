@@ -1,0 +1,17 @@
+{
+  "id": 2769,
+  "name": "Bebek Bebek Bebek Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "bebek_bebek_bebek",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "bebek_bebek_bebek",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

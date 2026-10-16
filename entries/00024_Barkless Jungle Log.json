@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "name": "Barkless Jungle Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessJungleLog",
+    "text": "Barkless Jungle Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_jungle_log",
+  "harvestType": "wood",
+  "atlasIdx": 132,
+  "stackable": true
+}

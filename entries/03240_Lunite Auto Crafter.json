@@ -1,0 +1,36 @@
+{
+  "id": 3240,
+  "name": "Lunite Auto Crafter",
+  "kind": "block",
+  "displayName": {
+    "key": "item:luniteAutoCrafter",
+    "text": "Lunite Auto Crafter"
+  },
+  "description": {
+    "key": "item:luniteAutoCrafterDescription",
+    "text": "An upgraded Auto Crafter that crafts faster and has a 20% chance to produce a bonus copy of each craft (except block compression recipes)."
+  },
+  "ttb": 3600,
+  "textureInfo": [
+    "autocrafter_lunite_side",
+    "crafting_table_top",
+    "autocrafter_lunite_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "atlasIdx": [
+    886,
+    258,
+    887
+  ],
+  "stackable": true
+}

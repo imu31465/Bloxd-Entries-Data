@@ -1,0 +1,14 @@
+{
+  "id": 8845,
+  "name": "Needlefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:needlefish",
+    "text": "Needlefish"
+  },
+  "type": "Item",
+  "textureInfo": "needlefish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

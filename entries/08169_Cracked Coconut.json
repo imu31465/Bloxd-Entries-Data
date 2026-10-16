@@ -1,0 +1,29 @@
+{
+  "id": 8169,
+  "name": "Cracked Coconut",
+  "kind": "item",
+  "displayName": {
+    "key": "item:crackedCoconut",
+    "text": "Cracked Coconut"
+  },
+  "description": {
+    "key": "item:crackedCoconutDescription",
+    "text": "Temporarily gain increased speed"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cracked_coconut",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Cracked Coconut",
+    "rootId": 8169,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cracked Coconut|meta|charging1"
+}

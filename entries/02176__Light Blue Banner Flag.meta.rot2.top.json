@@ -1,0 +1,41 @@
+{
+  "id": 2176,
+  "name": "_Light Blue Banner Flag|meta|rot2|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueBanner",
+    "text": "Light Blue Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_light_blue",
+  "drops": "Light Blue Banner",
+  "solid": false,
+  "Am": [
+    0.25,
+    0,
+    0,
+    0.375,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Light Blue Banner Flag",
+    "rootId": 2175,
+    "metaStr": "meta|rot2|top",
+    "rot": 2,
+    "halfblockPlacement": 1
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Light Blue Banner Flag Hanging"
+}

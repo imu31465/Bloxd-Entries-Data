@@ -1,0 +1,14 @@
+{
+  "id": 476,
+  "name": "Engraved Red Sandstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedRedSandstone",
+    "text": "Engraved Red Sandstone"
+  },
+  "ttb": 960,
+  "textureInfo": "chiseled_red_sandstone",
+  "harvestType": "rock",
+  "atlasIdx": 371,
+  "stackable": true
+}

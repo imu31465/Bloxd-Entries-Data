@@ -1,0 +1,15 @@
+{
+  "id": 7975,
+  "name": "Purple Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleWoodGauntlets",
+    "text": "Purple Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

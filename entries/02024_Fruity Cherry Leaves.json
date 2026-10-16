@@ -1,0 +1,19 @@
+{
+  "id": 2024,
+  "name": "Fruity Cherry Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fruityCherryLeaves",
+    "text": "Fruity Cherry Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_cherry_fruity",
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Fruity Cherry Leaves"
+  },
+  "atlasIdx": 821,
+  "stackable": true
+}

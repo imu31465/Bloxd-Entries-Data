@@ -1,0 +1,16 @@
+{
+  "id": 9142,
+  "name": "Kingly Amethite Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyAmethiteGauntlets",
+    "text": "Kingly Amethite Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_amethite_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_amethite_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

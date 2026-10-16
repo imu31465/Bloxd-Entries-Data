@@ -1,0 +1,23 @@
+{
+  "id": 9151,
+  "name": "Sanguine Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineSword",
+    "text": "Sanguine Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "sanguine_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "sanguine_sword",
+  "stackable": false,
+  "damage": 40,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

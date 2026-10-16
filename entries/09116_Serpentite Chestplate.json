@@ -1,0 +1,15 @@
+{
+  "id": 9116,
+  "name": "Serpentite Chestplate",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "serpentite_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

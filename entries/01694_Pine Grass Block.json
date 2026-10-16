@@ -1,0 +1,34 @@
+{
+  "id": 1694,
+  "name": "Pine Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineGrassBlock",
+    "text": "Pine Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": [
+    "pine_grass_block_side",
+    "pine_grass_block",
+    "dirt"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": [
+    748,
+    749,
+    109
+  ],
+  "stackable": true
+}

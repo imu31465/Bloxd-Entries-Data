@@ -1,0 +1,24 @@
+{
+  "id": 8917,
+  "name": "Speed Rod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:speedRod",
+    "text": "Speed Rod"
+  },
+  "description": {
+    "key": "item:speedRodDescription",
+    "text": "Attracts fish faster than a Sturdy Rod."
+  },
+  "type": "Item",
+  "textureInfo": "speed_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "fishingRodInfo": {
+    "biteDelayMs": [
+      2000,
+      4000
+    ]
+  }
+}

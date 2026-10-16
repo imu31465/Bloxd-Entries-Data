@@ -1,0 +1,14 @@
+{
+  "id": 1968,
+  "name": "Mango Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoWoodPlanks",
+    "text": "Mango Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "atlasIdx": 808,
+  "stackable": true
+}

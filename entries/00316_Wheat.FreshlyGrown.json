@@ -1,0 +1,18 @@
+{
+  "id": 316,
+  "name": "Wheat|FreshlyGrown",
+  "kind": "block",
+  "ttb": 400,
+  "textureInfo": "wheat_stage7",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "solid": false,
+  "meta": {
+    "rootName": "Wheat",
+    "rootId": 315,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

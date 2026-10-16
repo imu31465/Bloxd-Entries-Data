@@ -1,0 +1,24 @@
+{
+  "id": 1742,
+  "name": "Purple Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:purple)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_purple",
+  "harvestType": "rock",
+  "atlasIdx": 774,
+  "stackable": true
+}

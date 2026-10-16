@@ -1,0 +1,24 @@
+{
+  "id": 520,
+  "name": "_Pine Door Top|meta|rot4|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Pine Door",
+  "Am": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Pine Door Top",
+    "rootId": 514,
+    "metaStr": "meta|rot4|closed",
+    "rot": 4,
+    "open": false
+  },
+  "stackable": true
+}

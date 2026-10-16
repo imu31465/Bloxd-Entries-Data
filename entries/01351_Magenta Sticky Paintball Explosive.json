@@ -1,0 +1,10 @@
+{
+  "id": 1351,
+  "name": "Magenta Sticky Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_sticky_magenta",
+  "harvestType": "cuttable",
+  "atlasIdx": 581,
+  "stackable": true
+}

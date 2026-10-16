@@ -1,0 +1,19 @@
+{
+  "id": 145,
+  "name": "Golden Decoration",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldenDecoration",
+    "text": "Golden Decoration"
+  },
+  "ttb": 1000,
+  "textureInfo": "glowstone",
+  "harvestType": "rock",
+  "lm": [
+    15,
+    15,
+    13
+  ],
+  "atlasIdx": 250,
+  "stackable": true
+}

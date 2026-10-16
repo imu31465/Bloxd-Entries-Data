@@ -1,0 +1,34 @@
+{
+  "id": 1955,
+  "name": "Jungle Grass Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleGrassBlock",
+    "text": "Jungle Grass Block"
+  },
+  "ttb": 720,
+  "textureInfo": [
+    "jungle_grass_block_side",
+    "jungle_grass_block",
+    "dirt"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "soundType": {
+    "break": "grass",
+    "place": "grass"
+  },
+  "atlasIdx": [
+    803,
+    804,
+    109
+  ],
+  "stackable": true
+}

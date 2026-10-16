@@ -1,0 +1,23 @@
+{
+  "id": 427,
+  "name": "Blue Bed|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueBed",
+    "text": "Blue Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "blue_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Blue Bed",
+    "rootId": 424,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Blue Bed"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 327,
+  "name": "White Tulip|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "white_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "white_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "White Tulip",
+    "rootId": 155,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

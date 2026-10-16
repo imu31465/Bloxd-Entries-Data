@@ -1,0 +1,15 @@
+{
+  "id": 8746,
+  "name": "Caught Mob Capitano_Explovissimo Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_capitano_explovissimo_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Capitano_Explovissimo Default",
+    "rootId": 8746,
+    "caughtMobType": "Capitano Explovissimo"
+  }
+}

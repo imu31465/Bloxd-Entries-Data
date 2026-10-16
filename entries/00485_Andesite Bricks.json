@@ -1,0 +1,14 @@
+{
+  "id": 485,
+  "name": "Andesite Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:andesiteBricks",
+    "text": "Andesite Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "andesite_brick",
+  "harvestType": "rock",
+  "atlasIdx": 380,
+  "stackable": true
+}

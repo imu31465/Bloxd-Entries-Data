@@ -1,0 +1,15 @@
+{
+  "id": 7947,
+  "name": "Lime Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeWoodChestplate",
+    "text": "Lime Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

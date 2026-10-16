@@ -1,0 +1,15 @@
+{
+  "id": 1124,
+  "name": "Super Rocket",
+  "kind": "block",
+  "displayName": {
+    "key": "item:superRocket",
+    "unresolved": true
+  },
+  "ttb": 1,
+  "textureInfo": "super_rocket_block",
+  "harvestType": "rock",
+  "unlitStandaloneMesh": true,
+  "atlasIdx": 495,
+  "stackable": true
+}

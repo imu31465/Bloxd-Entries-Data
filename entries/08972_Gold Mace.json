@@ -1,0 +1,23 @@
+{
+  "id": 8972,
+  "name": "Gold Mace",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldMace",
+    "text": "Gold Mace"
+  },
+  "description": {
+    "key": "item:maceDescription",
+    "text": "Does more damage the faster you move"
+  },
+  "type": "Tool",
+  "textureInfo": "gold_mace",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 19,
+  "velocityMultiplier": 2.8,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 4
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8945,
+  "name": "Wood Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodSpear",
+    "text": "Wood Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "wood_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 18,
+  "attackRange": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 18,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1
+}

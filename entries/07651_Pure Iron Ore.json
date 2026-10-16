@@ -1,0 +1,51 @@
+{
+  "id": 7651,
+  "name": "Pure Iron Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pureIronOre",
+    "text": "Pure Iron Ore"
+  },
+  "ttb": 32400,
+  "textureInfo": "pure_iron_ore",
+  "harvestType": "rock",
+  "drops": "Raw Iron",
+  "Jm": 9,
+  "harvestLevel": 2,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Pure Iron Ore"
+  },
+  "specialToolBonusDrops": {
+    "Golem Pickaxe": [
+      {
+        "bonusDrop": "Iron Fragment",
+        "probabilityOfDrop": 0.3333333333333333
+      },
+      {
+        "bonusDrop": "Gold Fragment",
+        "probabilityOfDrop": 0.25
+      },
+      {
+        "bonusDrop": "Diamond Fragment",
+        "probabilityOfDrop": 0.2
+      },
+      {
+        "bonusDrop": "Moonstone Fragment",
+        "probabilityOfDrop": 0.16666666666666666
+      },
+      {
+        "bonusDrop": "Coal",
+        "probabilityOfDrop": 0.14285714285714285
+      }
+    ]
+  },
+  "lm": [
+    6,
+    6,
+    6
+  ],
+  "atlasIdx": 939,
+  "stackable": true,
+  "onMinedAura": 135
+}

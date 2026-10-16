@@ -1,0 +1,14 @@
+{
+  "id": 99,
+  "name": "Yellow Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowConcrete",
+    "text": "Yellow Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "yellow_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 205,
+  "stackable": true
+}

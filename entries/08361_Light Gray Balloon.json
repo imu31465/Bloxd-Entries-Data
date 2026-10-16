@@ -1,0 +1,19 @@
+{
+  "id": 8361,
+  "name": "Light Gray Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayBalloon",
+    "text": "Light Gray Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "light_gray_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Light Gray Balloon Item",
+  "stackable": true
+}

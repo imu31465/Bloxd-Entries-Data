@@ -1,0 +1,14 @@
+{
+  "id": 20,
+  "name": "Cedar Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarWoodPlanks",
+    "text": "Cedar Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cedar",
+  "harvestType": "wood",
+  "atlasIdx": 128,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9028,
+  "name": "Amethite Fragment",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Fragment"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "amethite_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_fragment",
+  "stackable": true
+}

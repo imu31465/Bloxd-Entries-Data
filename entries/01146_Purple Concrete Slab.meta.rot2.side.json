@@ -1,0 +1,31 @@
+{
+  "id": 1146,
+  "name": "Purple Concrete Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleConcreteSlab",
+    "text": "Purple Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "purple_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Purple Concrete Slab",
+    "rootId": 1143,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 201,
+  "stackable": true,
+  "slabFullBlock": "Purple Concrete"
+}

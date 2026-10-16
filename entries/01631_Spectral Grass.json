@@ -1,0 +1,21 @@
+{
+  "id": 1631,
+  "name": "Spectral Grass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralGrass",
+    "text": "Spectral Grass"
+  },
+  "ttb": 1,
+  "textureInfo": "spectral_grass",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Spectral Grass"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

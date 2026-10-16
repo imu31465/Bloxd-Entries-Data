@@ -1,0 +1,10 @@
+{
+  "id": 27,
+  "name": "free_placeholder2",
+  "kind": "block",
+  "ttb": 1800,
+  "textureInfo": "messy_stone",
+  "harvestType": "rock",
+  "atlasIdx": 135,
+  "stackable": true
+}

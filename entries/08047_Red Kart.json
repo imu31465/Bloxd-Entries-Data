@@ -1,0 +1,15 @@
+{
+  "id": 8047,
+  "name": "Red Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redKart",
+    "text": "Red Kart"
+  },
+  "type": "Item",
+  "textureInfo": "red_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Red Kart Item",
+  "stackable": false
+}

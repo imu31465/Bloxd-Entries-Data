@@ -1,0 +1,33 @@
+{
+  "id": 2910,
+  "name": "Torch|meta|rot2|side",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "torch",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Torch",
+    "rootId": 2907,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 3.141592653589793
+  },
+  "lm": [
+    14,
+    14,
+    12
+  ],
+  "stackable": true,
+  "blockModel": "torch_wall",
+  "blockModelItem": true
+}

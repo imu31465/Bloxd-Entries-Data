@@ -1,0 +1,43 @@
+{
+  "id": 5572,
+  "name": "Magenta Concrete Stairs|meta|rot4|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaConcreteStairs",
+    "text": "Magenta Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "magenta_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Magenta Concrete Stairs",
+    "rootId": 3693,
+    "metaStr": "meta|rot4|bot|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 198,
+  "stackable": true
+}

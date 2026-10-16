@@ -1,0 +1,17 @@
+{
+  "id": 2071,
+  "name": "Cauliflower Plant_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cauliflower",
+    "text": "Cauliflower"
+  },
+  "ttb": 400,
+  "textureInfo": "cauliflower_plant_stage1",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "cauliflower_plant_stage1",
+  "drops": null,
+  "solid": false,
+  "stackable": true
+}

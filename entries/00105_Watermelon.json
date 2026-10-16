@@ -1,0 +1,28 @@
+{
+  "id": 105,
+  "name": "Watermelon",
+  "kind": "block",
+  "displayName": {
+    "key": "item:watermelon",
+    "text": "Watermelon"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "watermelon_side",
+    "watermelon_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    211,
+    212
+  ],
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8671,
+  "name": "Caught Mob Wolf White",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_wolf_white",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Wolf White",
+    "rootId": 8671,
+    "caughtMobType": "Wolf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 960,
+  "name": "Mushroom Stem",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mushroomStem",
+    "text": "Mushroom Stem"
+  },
+  "ttb": 1200,
+  "textureInfo": "mushroom_stem",
+  "harvestType": "cuttable",
+  "atlasIdx": 453,
+  "stackable": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1310,
+  "name": "Brown Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": [
+    "explosive_paint_brown_side",
+    "explosive_paint_brown_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    537,
+    538
+  ],
+  "stackable": true
+}

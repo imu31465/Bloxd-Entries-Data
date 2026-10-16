@@ -1,0 +1,45 @@
+{
+  "id": 3262,
+  "name": "Dry Grass Slab|meta|rot4|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dryGrassSlab",
+    "text": "Dry Grass Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_dry_grass_top_side",
+    "dry_grass_block"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "granule",
+  "model": "Slab",
+  "Am": [
+    0.5,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Dry Grass Slab",
+    "rootId": 3257,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    895,
+    894
+  ],
+  "stackable": true,
+  "slabFullBlock": "Dry Grass Block"
+}

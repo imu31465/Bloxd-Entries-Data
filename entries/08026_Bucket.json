@@ -1,0 +1,14 @@
+{
+  "id": 8026,
+  "name": "Bucket",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bucket",
+    "text": "Bucket"
+  },
+  "type": "Item",
+  "textureInfo": "bucket",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

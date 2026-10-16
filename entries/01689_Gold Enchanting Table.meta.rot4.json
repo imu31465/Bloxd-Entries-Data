@@ -1,0 +1,31 @@
+{
+  "id": 1689,
+  "name": "Gold Enchanting Table|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldEnchantingTable",
+    "text": "Gold Enchanting Table"
+  },
+  "description": {
+    "key": "item:enchantingTableDescription",
+    "text": "Power up your items with enchantments using this table!"
+  },
+  "ttb": 1500,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "gold_enchanting_table",
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Gold Enchanting Table",
+    "rootId": 1686,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "lm": [
+    8,
+    0,
+    8
+  ],
+  "stackable": true,
+  "blockModel": "Gold Enchanting Table"
+}

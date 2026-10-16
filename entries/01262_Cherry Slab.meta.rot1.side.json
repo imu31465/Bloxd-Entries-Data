@@ -1,0 +1,45 @@
+{
+  "id": 1262,
+  "name": "Cherry Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherrySlab",
+    "text": "Cherry Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_cherry_side",
+    "planks_cherry"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Cherry Slab",
+    "rootId": 1260,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    502,
+    499
+  ],
+  "stackable": true,
+  "slabFullBlock": "Cherry Wood Planks"
+}

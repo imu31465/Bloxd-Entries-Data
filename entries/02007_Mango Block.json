@@ -1,0 +1,30 @@
+{
+  "id": 2007,
+  "name": "Mango Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoBlock",
+    "text": "Mango Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "mango_block_side",
+    "mango_block_top",
+    "mango_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    811,
+    812,
+    813
+  ],
+  "stackable": true
+}

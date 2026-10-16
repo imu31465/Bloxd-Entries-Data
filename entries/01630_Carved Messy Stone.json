@@ -1,0 +1,14 @@
+{
+  "id": 1630,
+  "name": "Carved Messy Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:carvedMessyStone",
+    "text": "Carved Messy Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "carved_messy_stone",
+  "harvestType": "rock",
+  "atlasIdx": 742,
+  "stackable": true
+}

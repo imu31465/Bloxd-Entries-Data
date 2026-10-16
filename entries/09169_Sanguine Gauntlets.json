@@ -1,0 +1,16 @@
+{
+  "id": 9169,
+  "name": "Sanguine Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineGauntlets",
+    "text": "Sanguine Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "sanguine_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "sanguine_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

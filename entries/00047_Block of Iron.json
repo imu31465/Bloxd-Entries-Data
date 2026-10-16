@@ -1,0 +1,14 @@
+{
+  "id": 47,
+  "name": "Block of Iron",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfIron",
+    "text": "Block of Iron"
+  },
+  "ttb": 5400,
+  "textureInfo": "iron_block",
+  "harvestType": "rock",
+  "atlasIdx": 153,
+  "stackable": true
+}

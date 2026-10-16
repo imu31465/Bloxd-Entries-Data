@@ -1,0 +1,46 @@
+{
+  "id": 763,
+  "name": "Smooth Andesite Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothAndesiteSlab",
+    "text": "Smooth Andesite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_andesite_smooth_side",
+    "stone_andesite_smooth"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Smooth Andesite Slab",
+    "rootId": 763,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Smooth Andesite Slab|meta|rot1|bot",
+  "atlasIdx": [
+    411,
+    141
+  ],
+  "stackable": true,
+  "slabFullBlock": "Smooth Andesite"
+}

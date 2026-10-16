@@ -1,0 +1,19 @@
+{
+  "id": 8987,
+  "name": "Lettuce",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lettuce",
+    "text": "Lettuce"
+  },
+  "description": {
+    "key": "item:lettuceDescription",
+    "text": "A crisp head of lettuce"
+  },
+  "type": "Item",
+  "textureInfo": "lettuce",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "lettuce",
+  "stackable": false
+}

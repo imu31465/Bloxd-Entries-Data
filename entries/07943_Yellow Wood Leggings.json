@@ -1,0 +1,15 @@
+{
+  "id": 7943,
+  "name": "Yellow Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowWoodLeggings",
+    "text": "Yellow Wood Leggings"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

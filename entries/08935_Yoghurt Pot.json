@@ -1,0 +1,29 @@
+{
+  "id": 8935,
+  "name": "Yoghurt Pot",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yoghurtPot",
+    "text": "Yoghurt Pot"
+  },
+  "description": {
+    "key": "item:yoghurtPotDescription",
+    "text": "Eat to steal health from players on hit."
+  },
+  "type": "Chargeable",
+  "textureInfo": "yoghurt_pot",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Yoghurt Pot",
+    "rootId": 8935,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Yoghurt Pot|meta|charging1"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7674,
+  "name": "Pine Fence Gate|meta|rot2|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineFenceGate",
+    "text": "Pine Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pine",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "pine_fence_gate",
+  "Am": [
+    0,
+    0,
+    0.875,
+    0.625,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.625,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Pine Fence Gate",
+    "rootId": 7671,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "atlasIdx": 127,
+  "stackable": true,
+  "attachedTop": "_Pine Fence Gate Top|meta|rot2|open"
+}

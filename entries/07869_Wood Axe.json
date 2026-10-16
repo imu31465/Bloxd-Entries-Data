@@ -1,0 +1,22 @@
+{
+  "id": 7869,
+  "name": "Wood Axe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodAxe",
+    "text": "Wood Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "wooden_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 20,
+  "harvests": "wood",
+  "multiplier": 2,
+  "level": 1
+}

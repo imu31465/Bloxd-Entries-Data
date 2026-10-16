@@ -1,0 +1,18 @@
+{
+  "id": 8025,
+  "name": "Gold Crop",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldCrop",
+    "text": "Gold Crop"
+  },
+  "description": {
+    "key": "item:goldCropDescription",
+    "text": "A shimmering, valuable crop. Sell it to Gill at the Farmer's Guild."
+  },
+  "type": "Item",
+  "textureInfo": "gold_crop",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

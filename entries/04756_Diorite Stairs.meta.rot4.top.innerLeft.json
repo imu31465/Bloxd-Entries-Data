@@ -1,0 +1,43 @@
+{
+  "id": 4756,
+  "name": "Diorite Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dioriteStairs",
+    "text": "Diorite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_diorite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Diorite Stairs",
+    "rootId": 3485,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 138,
+  "stackable": true
+}

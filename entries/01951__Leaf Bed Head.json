@@ -1,0 +1,21 @@
+{
+  "id": 1951,
+  "name": "_Leaf Bed Head",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "leaf_bed",
+  "drops": "Leaf Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Leaf Bed Head",
+    "rootId": 1951,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Leaf Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Leaf Bed"
+}

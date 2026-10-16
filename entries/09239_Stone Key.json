@@ -1,0 +1,15 @@
+{
+  "id": 9239,
+  "name": "Stone Key",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneKey",
+    "text": "Stone Key"
+  },
+  "type": "Item",
+  "textureInfo": "stone_key",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "stone_key",
+  "stackable": true
+}

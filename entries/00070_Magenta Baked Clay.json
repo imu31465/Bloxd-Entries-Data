@@ -1,0 +1,14 @@
+{
+  "id": 70,
+  "name": "Magenta Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaBakedClay",
+    "text": "Magenta Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_magenta",
+  "harvestType": "rock",
+  "atlasIdx": 176,
+  "stackable": true
+}

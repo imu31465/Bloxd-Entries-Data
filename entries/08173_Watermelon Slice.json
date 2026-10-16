@@ -1,0 +1,29 @@
+{
+  "id": 8173,
+  "name": "Watermelon Slice",
+  "kind": "item",
+  "displayName": {
+    "key": "item:watermelonSlice",
+    "text": "Watermelon Slice"
+  },
+  "description": {
+    "key": "item:watermelonSliceDescription",
+    "text": "Eat to get a jump boost"
+  },
+  "type": "Chargeable",
+  "textureInfo": "watermelon_slice",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Watermelon Slice",
+    "rootId": 8173,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Watermelon Slice|meta|charging1"
+}

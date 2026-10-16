@@ -1,0 +1,15 @@
+{
+  "id": 7896,
+  "name": "Gold Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldHelmet",
+    "text": "Gold Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "golden_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11
+}

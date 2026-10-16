@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "name": "Lily of the Valley",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lillyOfTheValley",
+    "unresolved": true
+  },
+  "ttb": 300,
+  "textureInfo": "lily_of_the_valley",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "lily_of_the_valley",
+  "solid": false,
+  "stackable": true
+}

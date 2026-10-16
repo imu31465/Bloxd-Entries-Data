@@ -1,0 +1,15 @@
+{
+  "id": 7940,
+  "name": "Light Blue Wood Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueWoodGauntlets",
+    "text": "Light Blue Wood Gauntlets"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.06
+}

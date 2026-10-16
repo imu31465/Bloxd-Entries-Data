@@ -1,0 +1,53 @@
+{
+  "id": 6358,
+  "name": "Blue Chalk Stairs|meta|rot2|top|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:blue)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:blue)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_blue",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    1,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Blue Chalk Stairs",
+    "rootId": 3885,
+    "metaStr": "meta|rot2|top|innerRight",
+    "rot": 2,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 769,
+  "stackable": true
+}

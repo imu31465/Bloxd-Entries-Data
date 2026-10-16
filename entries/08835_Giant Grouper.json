@@ -1,0 +1,14 @@
+{
+  "id": 8835,
+  "name": "Giant Grouper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:giantGrouper",
+    "text": "Giant Grouper"
+  },
+  "type": "Item",
+  "textureInfo": "giant_grouper",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

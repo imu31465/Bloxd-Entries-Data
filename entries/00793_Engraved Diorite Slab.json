@@ -1,0 +1,46 @@
+{
+  "id": 793,
+  "name": "Engraved Diorite Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedDioriteSlab",
+    "text": "Engraved Diorite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_engraved_diorite_side",
+    "engraved_diorite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Diorite Slab",
+    "rootId": 793,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Engraved Diorite Slab|meta|rot1|bot",
+  "atlasIdx": [
+    416,
+    377
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Diorite"
+}

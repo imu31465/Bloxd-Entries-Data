@@ -1,0 +1,15 @@
+{
+  "id": 213,
+  "name": "Fat Cactus",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fatCactus",
+    "text": "Fat Cactus"
+  },
+  "ttb": 400,
+  "textureInfo": "cactus_top",
+  "harvestType": "cuttable",
+  "damage": 22,
+  "atlasIdx": 266,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8453,
+  "name": "Pink Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkPaintballExplosive",
+    "text": "Pink Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_pink",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

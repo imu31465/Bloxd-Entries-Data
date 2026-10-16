@@ -1,0 +1,21 @@
+{
+  "id": 8590,
+  "name": "Spirit Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spiritGolemSpawnOrb",
+    "text": "Spirit Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:spiritGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Spirit Golem at the landing location",
+    "params": {
+      "mob": "Spirit Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "spirit_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

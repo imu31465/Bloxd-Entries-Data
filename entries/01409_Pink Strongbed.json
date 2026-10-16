@@ -1,0 +1,24 @@
+{
+  "id": 1409,
+  "name": "Pink Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkStrongbed",
+    "text": "Pink Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "pink_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Pink Strongbed",
+    "rootId": 1409,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Pink Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Pink Strongbed"
+}

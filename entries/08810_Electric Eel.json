@@ -1,0 +1,14 @@
+{
+  "id": 8810,
+  "name": "Electric Eel",
+  "kind": "item",
+  "displayName": {
+    "key": "item:electricEel",
+    "text": "Electric Eel"
+  },
+  "type": "Item",
+  "textureInfo": "electric_eel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

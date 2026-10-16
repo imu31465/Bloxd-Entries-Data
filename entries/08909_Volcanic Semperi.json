@@ -1,0 +1,14 @@
+{
+  "id": 8909,
+  "name": "Volcanic Semperi",
+  "kind": "item",
+  "displayName": {
+    "key": "item:volcanicSemperi",
+    "text": "Volcanic Semperi"
+  },
+  "type": "Item",
+  "textureInfo": "volcanic_semperi",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

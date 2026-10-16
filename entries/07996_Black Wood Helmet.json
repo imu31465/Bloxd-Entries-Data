@@ -1,0 +1,15 @@
+{
+  "id": 7996,
+  "name": "Black Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackWoodHelmet",
+    "text": "Black Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

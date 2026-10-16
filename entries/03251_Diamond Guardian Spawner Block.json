@@ -1,0 +1,42 @@
+{
+  "id": 3251,
+  "name": "Diamond Guardian Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diamondGuardianMobSpawnerBlock",
+    "text": "Diamond Guardian Spawner Block"
+  },
+  "description": {
+    "key": "item:diamondGuardianMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Diamond Guardians"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "diamond_guardian_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Diamond Guardian Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

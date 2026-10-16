@@ -1,0 +1,19 @@
+{
+  "id": 8784,
+  "name": "Orange Firecracker Pebble",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeFirecrackerPebble",
+    "text": "Orange Firecracker Pebble"
+  },
+  "description": {
+    "key": "item:firecrackerPebbleDescription",
+    "text": "Throw at players to do damage (and annoy them with a colorful explosion)"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_pebble_orange",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

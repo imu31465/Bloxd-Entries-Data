@@ -1,0 +1,22 @@
+{
+  "id": 8403,
+  "name": "Red Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redPaintballGun",
+    "text": "Red Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "red_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

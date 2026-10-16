@@ -1,0 +1,19 @@
+{
+  "id": 8236,
+  "name": "Splash Instant Damage Potion II",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashInstantDamagePotionII",
+    "text": "Splash Instant Damage Potion II"
+  },
+  "description": {
+    "key": "item:splashInstantDamagePotionDescription",
+    "text": "Deal instant damage to other players"
+  },
+  "type": "Item",
+  "textureInfo": "splash_instant_damage_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Splash Instant Damage Potion",
+  "stackable": false
+}

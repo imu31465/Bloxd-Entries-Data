@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "name": "Jungle Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleLog",
+    "text": "Jungle Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_jungle",
+  "harvestType": "wood",
+  "atlasIdx": 122,
+  "stackable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": 303,
+  "name": "Red Ceramic|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "red_glazed_terracotta[rot[1",
+    "red_glazed_terracotta[rot[2",
+    "red_glazed_terracotta[rot[3",
+    "red_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    2,
+    0,
+    0,
+    0,
+    1,
+    3
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Red Ceramic",
+    "rootId": 301,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    342,
+    343,
+    344,
+    345
+  ],
+  "stackable": true
+}

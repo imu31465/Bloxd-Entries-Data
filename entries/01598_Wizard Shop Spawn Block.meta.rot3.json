@@ -1,0 +1,46 @@
+{
+  "id": 1598,
+  "name": "Wizard Shop Spawn Block|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wizardShopSpawnBlock",
+    "text": "Wizard Shop Spawn Block"
+  },
+  "description": {
+    "key": "item:wizardShopSpawnBlockDescription",
+    "text": "Sets wizard shop when exporting map for custom lobby. Sets location for Item Shop in Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "shop_wizard_spawn_top[rot[1",
+    "shop_wizard_spawn_top[rot[2",
+    "shop_wizard_spawn_top[rot[3",
+    "shop_wizard_spawn_top[rot[4",
+    "shop_wizard_spawn_side",
+    "shop_wizard_spawn_face"
+  ],
+  "texturePerSide": [
+    5,
+    5,
+    0,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Wizard Shop Spawn Block",
+    "rootId": 1596,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    715,
+    716,
+    717,
+    718,
+    719,
+    720
+  ],
+  "stackable": true
+}

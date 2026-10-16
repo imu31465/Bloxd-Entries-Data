@@ -1,0 +1,18 @@
+{
+  "id": 8090,
+  "name": "Frag Grenade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:fragGrenade",
+    "text": "Frag Grenade"
+  },
+  "description": {
+    "key": "item:fragGrenadeDescription",
+    "text": "Throw to deal explosive damage."
+  },
+  "type": "Item",
+  "textureInfo": "frag_grenade",
+  "weight": 1,
+  "heldItemScale": 6,
+  "stackable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": 268,
+  "name": "Lime Ceramic|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "lime_glazed_terracotta[rot[1",
+    "lime_glazed_terracotta[rot[2",
+    "lime_glazed_terracotta[rot[3",
+    "lime_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    1,
+    3,
+    1,
+    1,
+    0,
+    2
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Lime Ceramic",
+    "rootId": 265,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    306,
+    307,
+    308,
+    309
+  ],
+  "stackable": true
+}

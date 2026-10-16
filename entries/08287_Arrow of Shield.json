@@ -1,0 +1,15 @@
+{
+  "id": 8287,
+  "name": "Arrow of Shield",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfShield",
+    "text": "Arrow of Shield"
+  },
+  "type": "Item",
+  "textureInfo": "shield_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

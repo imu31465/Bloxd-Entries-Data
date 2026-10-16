@@ -1,0 +1,38 @@
+{
+  "id": 2835,
+  "name": "Orange Directional Arrow|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:directionalArrow",
+    "text": "{{colour}} Directional Arrow",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "orange_directional_arrow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Orange Directional Arrow",
+    "rootId": 2833,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Orange Directional Arrow",
+  "blockModelItem": true
+}

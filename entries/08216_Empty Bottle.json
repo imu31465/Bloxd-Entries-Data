@@ -1,0 +1,18 @@
+{
+  "id": 8216,
+  "name": "Empty Bottle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:emptyBottle",
+    "text": "Empty Bottle"
+  },
+  "description": {
+    "key": "item:emptyBottleDescription",
+    "text": "This has potential..."
+  },
+  "type": "Item",
+  "textureInfo": "empty_bottle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

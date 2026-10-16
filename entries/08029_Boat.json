@@ -1,0 +1,15 @@
+{
+  "id": 8029,
+  "name": "Boat",
+  "kind": "item",
+  "displayName": {
+    "key": "item:boat",
+    "text": "Boat"
+  },
+  "type": "Item",
+  "textureInfo": "oak_boat",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Boat Item",
+  "stackable": false
+}

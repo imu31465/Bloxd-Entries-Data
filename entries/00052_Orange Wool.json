@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "name": "Orange Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeWool",
+    "text": "Orange Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_orange",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 158,
+  "stackable": true
+}

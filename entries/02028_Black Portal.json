@@ -1,0 +1,33 @@
+{
+  "id": 2028,
+  "name": "Black Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blackPortal",
+    "text": "Black Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "black_portal0",
+      "black_portal1",
+      "black_portal2",
+      "black_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    3,
+    3,
+    3
+  ],
+  "atlasIdx": [
+    1,
+    32,
+    33,
+    34
+  ],
+  "stackable": true
+}

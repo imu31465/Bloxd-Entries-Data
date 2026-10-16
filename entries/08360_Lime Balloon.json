@@ -1,0 +1,19 @@
+{
+  "id": 8360,
+  "name": "Lime Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeBalloon",
+    "text": "Lime Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "lime_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Lime Balloon Item",
+  "stackable": true
+}

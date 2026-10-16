@@ -1,0 +1,15 @@
+{
+  "id": 7969,
+  "name": "Cyan Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanWoodBoots",
+    "text": "Cyan Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

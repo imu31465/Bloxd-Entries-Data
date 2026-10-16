@@ -1,0 +1,33 @@
+{
+  "id": 1715,
+  "name": "Gold Antlers|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldAntlers",
+    "text": "Gold Antlers"
+  },
+  "description": {
+    "key": "item:antlersDescription",
+    "text": "Use to decorate your home and remind you of your conquest over nature..."
+  },
+  "ttb": 1500,
+  "harvestType": "rock",
+  "model": "rotatableOffset",
+  "itemTexture": "gold_antlers_icon",
+  "solid": false,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Gold Antlers",
+    "rootId": 1713,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "lm": [
+    7,
+    7,
+    2
+  ],
+  "stackable": true,
+  "blockModel": "gold_antlers_model"
+}

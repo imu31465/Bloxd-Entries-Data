@@ -1,0 +1,15 @@
+{
+  "id": 8304,
+  "name": "Arrow of Brain Rot",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfBrainRot",
+    "text": "Arrow of Brain Rot"
+  },
+  "type": "Item",
+  "textureInfo": "brain_rot_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

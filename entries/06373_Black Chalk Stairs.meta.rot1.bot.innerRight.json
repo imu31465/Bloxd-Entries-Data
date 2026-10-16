@@ -1,0 +1,53 @@
+{
+  "id": 6373,
+  "name": "Black Chalk Stairs|meta|rot1|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkStairs",
+    "text": "{{colour}} Chalk Stairs",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:black)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_black",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Black Chalk Stairs",
+    "rootId": 3893,
+    "metaStr": "meta|rot1|bot|innerRight",
+    "rot": 1,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 770,
+  "stackable": true
+}

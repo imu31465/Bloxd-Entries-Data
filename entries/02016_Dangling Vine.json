@@ -1,0 +1,33 @@
+{
+  "id": 2016,
+  "name": "Dangling Vine",
+  "kind": "block",
+  "displayName": {
+    "key": "item:danglingVine",
+    "text": "Dangling Vine"
+  },
+  "description": {
+    "key": "item:ceilingClimbableDescription",
+    "text": "Climb me without needing a wall!"
+  },
+  "ttb": 225,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "dangling_vine",
+  "solid": false,
+  "Am": [
+    0.25,
+    0,
+    0.25,
+    0.75,
+    1,
+    0.75
+  ],
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375,
+    "backFaceCulling": true
+  },
+  "stackable": true,
+  "blockModel": "Dangling Vine"
+}

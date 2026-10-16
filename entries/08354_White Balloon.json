@@ -1,0 +1,19 @@
+{
+  "id": 8354,
+  "name": "White Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteBalloon",
+    "text": "White Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "white_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "White Balloon Item",
+  "stackable": true
+}

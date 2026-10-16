@@ -1,0 +1,24 @@
+{
+  "id": 9013,
+  "name": "Gold Clock|meta|sunrise",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_gold_sunrise",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_gold_sunrise",
+  "stackable": false,
+  "meta": {
+    "rootName": "Gold Clock",
+    "rootId": 9010,
+    "metaStr": "meta|sunrise"
+  }
+}

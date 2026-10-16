@@ -1,0 +1,18 @@
+{
+  "id": 8391,
+  "name": "Magenta Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaPopupTower",
+    "text": "Magenta Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "magenta_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

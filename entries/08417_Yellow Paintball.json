@@ -1,0 +1,18 @@
+{
+  "id": 8417,
+  "name": "Yellow Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowPaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "yellow_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

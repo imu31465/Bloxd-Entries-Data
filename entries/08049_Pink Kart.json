@@ -1,0 +1,15 @@
+{
+  "id": 8049,
+  "name": "Pink Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkKart",
+    "text": "Pink Kart"
+  },
+  "type": "Item",
+  "textureInfo": "pink_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Pink Kart Item",
+  "stackable": false
+}

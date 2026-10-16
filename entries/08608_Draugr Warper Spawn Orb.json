@@ -1,0 +1,21 @@
+{
+  "id": 8608,
+  "name": "Draugr Warper Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrWarperSpawnOrb",
+    "text": "Draugr Warper Spawn Orb"
+  },
+  "description": {
+    "key": "item:draugrWarperSpawnOrbDescription",
+    "text": "Throw to spawn a Draugr Warper at the landing location",
+    "params": {
+      "mob": "Draugr Warper"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "draugr_warper_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

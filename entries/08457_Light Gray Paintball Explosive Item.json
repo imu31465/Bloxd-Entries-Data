@@ -1,0 +1,18 @@
+{
+  "id": 8457,
+  "name": "Light Gray Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightGrayPaintballExplosive",
+    "text": "Light Gray Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_light_gray",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

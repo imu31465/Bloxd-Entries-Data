@@ -1,0 +1,18 @@
+{
+  "id": 8503,
+  "name": "Magenta Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaQuickPaintballExplosive",
+    "text": "Magenta Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_magenta",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8718,
+  "name": "Caught Mob Frost_Wraith Frostking",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_frost_wraith_frostKing",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Frost_Wraith Frostking",
+    "rootId": 8718,
+    "caughtMobType": "Frost Wraith"
+  }
+}

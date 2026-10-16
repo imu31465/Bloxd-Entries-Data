@@ -1,0 +1,33 @@
+{
+  "id": 7713,
+  "name": "_Cedar Fence Gate Top|meta|rot2|closed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarFenceGate",
+    "text": "Cedar Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_cedar",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "cedar_fence_gate",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.625,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "_Cedar Fence Gate Top",
+    "rootId": 7711,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "atlasIdx": 128,
+  "stackable": true,
+  "canBePlacedOver": true
+}

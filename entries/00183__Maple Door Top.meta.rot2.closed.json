@@ -1,0 +1,24 @@
+{
+  "id": 183,
+  "name": "_Maple Door Top|meta|rot2|closed",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "wood",
+  "drops": "Maple Door",
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "_Maple Door Top",
+    "rootId": 181,
+    "metaStr": "meta|rot2|closed",
+    "rot": 2,
+    "open": false
+  },
+  "stackable": true
+}

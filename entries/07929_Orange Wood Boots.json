@@ -1,0 +1,15 @@
+{
+  "id": 7929,
+  "name": "Orange Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangeWoodBoots",
+    "text": "Orange Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

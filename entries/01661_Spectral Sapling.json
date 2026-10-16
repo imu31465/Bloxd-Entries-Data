@@ -1,0 +1,16 @@
+{
+  "id": 1661,
+  "name": "Spectral Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralSapling",
+    "text": "Spectral Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "spectral_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "spectral_sapling",
+  "solid": false,
+  "stackable": true
+}

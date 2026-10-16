@@ -1,0 +1,15 @@
+{
+  "id": 8619,
+  "name": "Caught Mob Pig Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_pig_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Pig Default",
+    "rootId": 8619,
+    "caughtMobType": "Pig"
+  }
+}

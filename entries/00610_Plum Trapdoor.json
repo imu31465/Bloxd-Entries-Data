@@ -1,0 +1,33 @@
+{
+  "id": 610,
+  "name": "Plum Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:plumTrapdoor",
+    "text": "Plum Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "plum_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Plum Trapdoor",
+    "rootId": 610,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Plum Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Plum Trapdoor",
+  "blockModelItem": true
+}

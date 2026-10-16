@@ -1,0 +1,15 @@
+{
+  "id": 7967,
+  "name": "Cyan Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanWoodChestplate",
+    "text": "Cyan Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

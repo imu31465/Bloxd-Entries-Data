@@ -1,0 +1,21 @@
+{
+  "id": 340,
+  "name": "_White Bed Head",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "white_bed",
+  "drops": "White Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_White Bed Head",
+    "rootId": 340,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_White Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_White Bed Head"
+}

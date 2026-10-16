@@ -1,0 +1,15 @@
+{
+  "id": 8682,
+  "name": "Caught Mob Spirit_Golem Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_spirit_golem_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Spirit_Golem Default",
+    "rootId": 8682,
+    "caughtMobType": "Spirit Golem"
+  }
+}

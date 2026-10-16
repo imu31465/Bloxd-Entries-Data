@@ -1,0 +1,20 @@
+{
+  "id": 3009,
+  "name": "Yellow Neon",
+  "kind": "block",
+  "ttb": 200,
+  "textureInfo": "neon_yellow",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "unlitStandaloneMesh": true,
+  "lm": [
+    15,
+    15,
+    3
+  ],
+  "atlasIdx": 849,
+  "stackable": true
+}

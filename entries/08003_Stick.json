@@ -1,0 +1,20 @@
+{
+  "id": 8003,
+  "name": "Stick",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stick",
+    "text": "Stick"
+  },
+  "description": {
+    "key": "item:stickDescription",
+    "text": "Deals increased knockback"
+  },
+  "type": "Item",
+  "textureInfo": "stick",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "knockbackHorizontalScalar": 2,
+  "knockbackVerticalScalar": 1.2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3672,
+  "name": "Purple Concrete Stairs|meta|rot4|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleConcreteStairs",
+    "text": "Purple Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "purple_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Purple Concrete Stairs",
+    "rootId": 3669,
+    "metaStr": "meta|rot4|bot",
+    "rot": 4,
+    "halfblockPlacement": 0
+  },
+  "atlasIdx": 201,
+  "stackable": true
+}

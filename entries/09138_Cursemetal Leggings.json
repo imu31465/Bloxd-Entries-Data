@@ -1,0 +1,16 @@
+{
+  "id": 9138,
+  "name": "Cursemetal Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cursemetalLeggings",
+    "text": "Cursemetal Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "cursemetal_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "cursemetal_leggings",
+  "stackable": false,
+  "armourReduction": 0.19
+}

@@ -1,0 +1,24 @@
+{
+  "id": 649,
+  "name": "Palm Trapdoor|meta|rot4|open",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "solid": false,
+  "Am": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Palm Trapdoor",
+    "rootId": 642,
+    "metaStr": "meta|rot4|open",
+    "rot": 4,
+    "open": true
+  },
+  "stackable": true
+}

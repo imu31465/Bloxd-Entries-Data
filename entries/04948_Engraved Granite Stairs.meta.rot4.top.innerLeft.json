@@ -1,0 +1,43 @@
+{
+  "id": 4948,
+  "name": "Engraved Granite Stairs|meta|rot4|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedGraniteStairs",
+    "text": "Engraved Granite Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "engraved_granite",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0.5,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Granite Stairs",
+    "rootId": 3533,
+    "metaStr": "meta|rot4|top|innerLeft",
+    "rot": 4,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 381,
+  "stackable": true
+}

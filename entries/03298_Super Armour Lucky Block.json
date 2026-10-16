@@ -1,0 +1,27 @@
+{
+  "id": 3298,
+  "name": "Super Armour Lucky Block",
+  "kind": "block",
+  "displayName": {
+    "text": "Super Armour Lucky Block"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "blue_lucky_block_super",
+    "armour_lucky_block_super"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    912,
+    913
+  ],
+  "stackable": true
+}

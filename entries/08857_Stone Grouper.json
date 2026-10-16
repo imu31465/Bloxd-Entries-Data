@@ -1,0 +1,14 @@
+{
+  "id": 8857,
+  "name": "Stone Grouper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneGrouper",
+    "text": "Stone Grouper"
+  },
+  "type": "Item",
+  "textureInfo": "stone_grouper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

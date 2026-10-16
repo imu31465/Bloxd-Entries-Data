@@ -1,0 +1,38 @@
+{
+  "id": 7738,
+  "name": "Jungle Fence Gate|meta|rot2|open",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleFenceGate",
+    "text": "Jungle Fence Gate"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_jungle",
+  "harvestType": "wood",
+  "model": "fenceGate",
+  "itemTexture": "jungle_fence_gate",
+  "Am": [
+    0,
+    0,
+    0.875,
+    0.625,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0.625,
+    1,
+    0.125
+  ],
+  "meta": {
+    "rootName": "Jungle Fence Gate",
+    "rootId": 7735,
+    "metaStr": "meta|rot2|open",
+    "rot": 2,
+    "open": true
+  },
+  "atlasIdx": 126,
+  "stackable": true,
+  "attachedTop": "_Jungle Fence Gate Top|meta|rot2|open"
+}

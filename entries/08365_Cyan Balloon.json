@@ -1,0 +1,19 @@
+{
+  "id": 8365,
+  "name": "Cyan Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanBalloon",
+    "text": "Cyan Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "cyan_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Cyan Balloon Item",
+  "stackable": true
+}

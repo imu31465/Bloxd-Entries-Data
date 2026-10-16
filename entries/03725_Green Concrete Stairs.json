@@ -1,0 +1,37 @@
+{
+  "id": 3725,
+  "name": "Green Concrete Stairs",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenConcreteStairs",
+    "text": "Green Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "green_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Green Concrete Stairs",
+    "rootId": 3725,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Green Concrete Stairs|meta|rot1|bot",
+  "atlasIdx": 204,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8903,
+  "name": "Rimesnouted Lancetfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rimesnoutedLancetfish",
+    "text": "Rimesnouted Lancetfish"
+  },
+  "type": "Item",
+  "textureInfo": "rimesnouted_lancetfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

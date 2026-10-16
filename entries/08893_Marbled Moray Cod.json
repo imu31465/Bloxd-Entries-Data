@@ -1,0 +1,14 @@
+{
+  "id": 8893,
+  "name": "Marbled Moray Cod",
+  "kind": "item",
+  "displayName": {
+    "key": "item:marbledMorayCod",
+    "text": "Marbled Moray Cod"
+  },
+  "type": "Item",
+  "textureInfo": "marbled_moray_cod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1233,
+  "name": "Cherry Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryDoor",
+    "text": "Cherry Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "cherry_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cherry Door",
+    "rootId": 1233,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Cherry Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Cherry Door"
+}

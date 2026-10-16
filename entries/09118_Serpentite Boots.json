@@ -1,0 +1,15 @@
+{
+  "id": 9118,
+  "name": "Serpentite Boots",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "serpentite_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_boots",
+  "stackable": false,
+  "armourReduction": 0.1
+}

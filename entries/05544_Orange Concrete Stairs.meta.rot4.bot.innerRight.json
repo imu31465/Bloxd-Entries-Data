@@ -1,0 +1,43 @@
+{
+  "id": 5544,
+  "name": "Orange Concrete Stairs|meta|rot4|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeConcreteStairs",
+    "text": "Orange Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "orange_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Orange Concrete Stairs",
+    "rootId": 3685,
+    "metaStr": "meta|rot4|bot|innerRight",
+    "rot": 4,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 199,
+  "stackable": true
+}

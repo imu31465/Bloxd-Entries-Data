@@ -1,0 +1,18 @@
+{
+  "id": 8512,
+  "name": "Black Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackQuickPaintballExplosive",
+    "text": "Black Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_black",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

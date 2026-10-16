@@ -1,0 +1,14 @@
+{
+  "id": 8877,
+  "name": "Frost Herring",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostHerring",
+    "text": "Frost Herring"
+  },
+  "type": "Item",
+  "textureInfo": "frost_herring",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

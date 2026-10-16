@@ -1,0 +1,28 @@
+{
+  "id": 991,
+  "name": "Iron Watermelon",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironWatermelon",
+    "text": "Iron Watermelon"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "iron_watermelon_side",
+    "iron_watermelon_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    461,
+    462
+  ],
+  "stackable": true
+}

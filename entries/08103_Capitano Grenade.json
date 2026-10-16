@@ -1,0 +1,16 @@
+{
+  "id": 8103,
+  "name": "Capitano Grenade",
+  "kind": "item",
+  "displayName": {
+    "text": "Capitano Grenade"
+  },
+  "description": {
+    "text": "A small explosive grenade thrown by Capitano Explovissimo in Heroes v Brainrots"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_explosive_side",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

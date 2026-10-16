@@ -1,0 +1,14 @@
+{
+  "id": 8850,
+  "name": "Reedglass Minnow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:reedglassMinnow",
+    "text": "Reedglass Minnow"
+  },
+  "type": "Item",
+  "textureInfo": "reedglass_minnow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

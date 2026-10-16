@@ -1,0 +1,14 @@
+{
+  "id": 48,
+  "name": "Block of Gold",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfGold",
+    "text": "Block of Gold"
+  },
+  "ttb": 6300,
+  "textureInfo": "gold_block",
+  "harvestType": "rock",
+  "atlasIdx": 154,
+  "stackable": true
+}

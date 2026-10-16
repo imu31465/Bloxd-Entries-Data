@@ -1,0 +1,30 @@
+{
+  "id": 8754,
+  "name": "Aura XP Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:auraXpPotion",
+    "text": "Aura XP Potion"
+  },
+  "description": {
+    "key": "item:auraXpPotionDescription",
+    "text": "Gives Aura XP to gain levels"
+  },
+  "type": "Chargeable",
+  "textureInfo": "aura_xp_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Aura XP Potion",
+    "rootId": 8754,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Aura XP Potion|meta|charging1"
+}

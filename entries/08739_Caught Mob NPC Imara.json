@@ -1,0 +1,15 @@
+{
+  "id": 8739,
+  "name": "Caught Mob NPC Imara",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_npc_imara",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob NPC Imara",
+    "rootId": 8739,
+    "caughtMobType": "NPC"
+  }
+}

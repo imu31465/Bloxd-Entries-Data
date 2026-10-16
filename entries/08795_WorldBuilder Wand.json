@@ -1,0 +1,18 @@
+{
+  "id": 8795,
+  "name": "WorldBuilder Wand",
+  "kind": "item",
+  "displayName": {
+    "key": "item:worldBuilderWand",
+    "text": "WorldBuilder Wand"
+  },
+  "description": {
+    "key": "item:worldBuilderWandDescription",
+    "text": "Use this to quickly set pos1 and pos2 in WorldBuilder"
+  },
+  "type": "Item",
+  "textureInfo": "worldbuilder_wand",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

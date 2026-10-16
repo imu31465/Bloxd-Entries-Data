@@ -1,0 +1,14 @@
+{
+  "id": 1621,
+  "name": "Snowy Messy Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:snowyMessyStone",
+    "text": "Snowy Messy Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "snowy_messy_stone",
+  "harvestType": "rock",
+  "atlasIdx": 739,
+  "stackable": true
+}

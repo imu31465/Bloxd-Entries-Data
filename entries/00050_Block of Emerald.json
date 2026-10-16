@@ -1,0 +1,14 @@
+{
+  "id": 50,
+  "name": "Block of Emerald",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blockOfEmerald",
+    "text": "Block of Emerald"
+  },
+  "ttb": 6750,
+  "textureInfo": "emerald_block",
+  "harvestType": "rock",
+  "atlasIdx": 156,
+  "stackable": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1949,
+  "name": "Leaf Bed|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:leafBed",
+    "text": "Leaf Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "leaf_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Leaf Bed",
+    "rootId": 1947,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Leaf Bed"
+}

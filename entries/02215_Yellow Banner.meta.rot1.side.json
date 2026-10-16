@@ -1,0 +1,40 @@
+{
+  "id": 2215,
+  "name": "Yellow Banner|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowBanner",
+    "text": "Yellow Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_yellow",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Yellow Banner",
+    "rootId": 2195,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Yellow Banner Hanging"
+}

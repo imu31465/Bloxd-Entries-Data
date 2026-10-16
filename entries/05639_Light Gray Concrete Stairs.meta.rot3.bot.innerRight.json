@@ -1,0 +1,43 @@
+{
+  "id": 5639,
+  "name": "Light Gray Concrete Stairs|meta|rot3|bot|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayConcreteStairs",
+    "text": "Light Gray Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "light_gray_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Light Gray Concrete Stairs",
+    "rootId": 3709,
+    "metaStr": "meta|rot3|bot|innerRight",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 191,
+  "stackable": true
+}

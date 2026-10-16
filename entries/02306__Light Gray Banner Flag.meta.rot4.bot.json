@@ -1,0 +1,41 @@
+{
+  "id": 2306,
+  "name": "_Light Gray Banner Flag|meta|rot4|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayBanner",
+    "text": "Light Gray Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_light_gray",
+  "drops": "Light Gray Banner",
+  "solid": false,
+  "Am": [
+    0.25,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Light Gray Banner Flag",
+    "rootId": 2295,
+    "metaStr": "meta|rot4|bot",
+    "rot": 4,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Light Gray Banner Flag"
+}

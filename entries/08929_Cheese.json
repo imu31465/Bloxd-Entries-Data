@@ -1,0 +1,29 @@
+{
+  "id": 8929,
+  "name": "Cheese",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cheese",
+    "text": "Cheese"
+  },
+  "description": {
+    "key": "item:cheeseDescription",
+    "text": "Eat to be able to walk on air."
+  },
+  "type": "Chargeable",
+  "textureInfo": "cheese",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Cheese",
+    "rootId": 8929,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cheese|meta|charging1"
+}

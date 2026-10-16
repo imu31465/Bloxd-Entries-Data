@@ -1,0 +1,18 @@
+{
+  "id": 8289,
+  "name": "Splash Double Jump Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:splashDoubleJumpPotion",
+    "text": "Splash Double Jump Potion"
+  },
+  "description": {
+    "key": "item:splashDoubleJumpPotionDescription",
+    "text": "Launch attack buffs at your friends (or enemies?)"
+  },
+  "type": "Item",
+  "textureInfo": "splash_double_jump_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

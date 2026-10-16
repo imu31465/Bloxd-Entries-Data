@@ -1,0 +1,14 @@
+{
+  "id": 9027,
+  "name": "Amethite",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite"
+  },
+  "type": "Item",
+  "textureInfo": "amethite",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite",
+  "stackable": true
+}

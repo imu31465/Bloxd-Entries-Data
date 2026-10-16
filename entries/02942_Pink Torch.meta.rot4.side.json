@@ -1,0 +1,33 @@
+{
+  "id": 2942,
+  "name": "Pink Torch|meta|rot4|side",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "torch_pink",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Pink Torch",
+    "rootId": 2937,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 3.141592653589793
+  },
+  "lm": [
+    15,
+    8,
+    10
+  ],
+  "stackable": true,
+  "blockModel": "torch_wall_pink",
+  "blockModelItem": true
+}

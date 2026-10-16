@@ -1,0 +1,23 @@
+{
+  "id": 353,
+  "name": "Magenta Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaBed",
+    "text": "Magenta Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "magenta_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Magenta Bed",
+    "rootId": 352,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Magenta Bed"
+}

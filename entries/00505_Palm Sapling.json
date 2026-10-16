@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "name": "Palm Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmSapling",
+    "text": "Palm Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "palm_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "palm_sapling",
+  "solid": false,
+  "stackable": true
+}

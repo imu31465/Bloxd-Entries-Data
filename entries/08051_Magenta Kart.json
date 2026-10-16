@@ -1,0 +1,15 @@
+{
+  "id": 8051,
+  "name": "Magenta Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaKart",
+    "text": "Magenta Kart"
+  },
+  "type": "Item",
+  "textureInfo": "magenta_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Magenta Kart Item",
+  "stackable": false
+}

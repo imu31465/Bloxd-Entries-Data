@@ -1,0 +1,30 @@
+{
+  "id": 8842,
+  "name": "Moonstone Pupfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstonePupfish",
+    "text": "Moonstone Pupfish"
+  },
+  "description": {
+    "key": "item:moonstonePupfishDescription",
+    "text": "Eat to restore 10 HP and gain Jump Boost for 30 seconds. Found only in oasis waters in Survival."
+  },
+  "type": "Chargeable",
+  "textureInfo": "moonstone_pupfish",
+  "weight": 1,
+  "heldItemScale": 0.75,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 10,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Moonstone Pupfish",
+    "rootId": 8842,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Moonstone Pupfish|meta|charging1"
+}

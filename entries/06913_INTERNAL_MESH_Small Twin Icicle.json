@@ -1,0 +1,13 @@
+{
+  "id": 6913,
+  "name": "INTERNAL_MESH_Small Twin Icicle",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Small Twin Icicle",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

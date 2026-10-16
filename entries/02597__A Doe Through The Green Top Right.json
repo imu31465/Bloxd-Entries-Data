@@ -1,0 +1,31 @@
+{
+  "id": 2597,
+  "name": "_A Doe Through The Green Top Right",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "deer_painting",
+  "drops": "A Doe Through The Green",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "_A Doe Through The Green Top Right",
+    "rootId": 2597,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_A Doe Through The Green Top Right|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "heldItemGlb": "Deer Painting",
+  "blockModel": "_Deer Painting Top Right"
+}

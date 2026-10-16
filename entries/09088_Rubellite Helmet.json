@@ -1,0 +1,15 @@
+{
+  "id": 9088,
+  "name": "Rubellite Helmet",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "rubellite_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

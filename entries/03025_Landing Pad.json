@@ -1,0 +1,34 @@
+{
+  "id": 3025,
+  "name": "Landing Pad",
+  "kind": "block",
+  "displayName": {
+    "key": "item:landingPad",
+    "text": "Landing Pad"
+  },
+  "description": {
+    "key": "item:landingPadDescription",
+    "text": "Negates fall damage when landed on"
+  },
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "landing_pad",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.375,
+    1
+  ],
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "landing_pad",
+  "canBePlacedOver": false
+}

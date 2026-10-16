@@ -1,0 +1,21 @@
+{
+  "id": 8613,
+  "name": "Iron Guardian Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironGuardianSpawnOrb",
+    "text": "Iron Guardian Spawn Orb"
+  },
+  "description": {
+    "key": "item:ironGuardianSpawnOrbDescription",
+    "text": "Throw to spawn a Iron Guardian at the landing location",
+    "params": {
+      "mob": "Iron Guardian"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "iron_guardian_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

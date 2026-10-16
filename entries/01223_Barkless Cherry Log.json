@@ -1,0 +1,14 @@
+{
+  "id": 1223,
+  "name": "Barkless Cherry Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessCherryLog",
+    "text": "Barkless Cherry Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_cherry_log",
+  "harvestType": "wood",
+  "atlasIdx": 498,
+  "stackable": true
+}

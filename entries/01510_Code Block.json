@@ -1,0 +1,17 @@
+{
+  "id": 1510,
+  "name": "Code Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:codeBlock",
+    "text": "Code Block"
+  },
+  "ttb": 500000000000,
+  "textureInfo": "code_block",
+  "soundType": {
+    "break": "stone",
+    "place": "stone"
+  },
+  "atlasIdx": 594,
+  "stackable": true
+}

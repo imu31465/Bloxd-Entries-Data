@@ -1,0 +1,22 @@
+{
+  "id": 7888,
+  "name": "Stone Hoe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneHoe",
+    "text": "Stone Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 19,
+  "harvests": "cuttable",
+  "multiplier": 2.5,
+  "level": 2
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7878,
+  "name": "Iron Spade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironSpade",
+    "text": "Iron Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 24,
+  "harvests": "granule",
+  "multiplier": 6,
+  "level": 3
+}

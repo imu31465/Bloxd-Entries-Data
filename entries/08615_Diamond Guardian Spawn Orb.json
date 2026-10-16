@@ -1,0 +1,21 @@
+{
+  "id": 8615,
+  "name": "Diamond Guardian Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondGuardianSpawnOrb",
+    "text": "Diamond Guardian Spawn Orb"
+  },
+  "description": {
+    "key": "item:diamondGuardianSpawnOrbDescription",
+    "text": "Throw to spawn a Diamond Guardian at the landing location",
+    "params": {
+      "mob": "Diamond Guardian"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "diamond_guardian_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

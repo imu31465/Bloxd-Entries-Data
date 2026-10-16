@@ -1,0 +1,19 @@
+{
+  "id": 325,
+  "name": "Red Tulip|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "red_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "red_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Red Tulip",
+    "rootId": 153,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

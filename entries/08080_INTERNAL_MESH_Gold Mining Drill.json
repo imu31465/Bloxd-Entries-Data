@@ -1,0 +1,11 @@
+{
+  "id": 8080,
+  "name": "INTERNAL_MESH_Gold Mining Drill",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Gold Mining Drill",
+  "stackable": false
+}

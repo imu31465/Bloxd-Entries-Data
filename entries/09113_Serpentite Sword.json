@@ -1,0 +1,22 @@
+{
+  "id": 9113,
+  "name": "Serpentite Sword",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Sword"
+  },
+  "description": {
+    "key": "item:swordDescription",
+    "text": "Does damage"
+  },
+  "type": "Tool",
+  "textureInfo": "serpentite_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "heldItemGlb": "serpentite_sword",
+  "stackable": false,
+  "damage": 40,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

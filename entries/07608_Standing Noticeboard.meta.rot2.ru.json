@@ -1,0 +1,37 @@
+{
+  "id": 7608,
+  "name": "Standing Noticeboard|meta|rot2|ru",
+  "kind": "block",
+  "displayName": {
+    "key": "item:standingNoticeboard",
+    "text": "Standing Noticeboard"
+  },
+  "ttb": 1800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "noticeboard",
+  "solid": true,
+  "Am": [
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ],
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Standing Noticeboard",
+    "rootId": 7586,
+    "metaStr": "meta|rot2|ru",
+    "rot": 2
+  },
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793
+  },
+  "stackable": true,
+  "blockModel": "noticeboard_standing_bottom_left",
+  "blockModelItem": true
+}

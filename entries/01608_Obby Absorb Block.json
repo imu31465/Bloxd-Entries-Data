@@ -1,0 +1,18 @@
+{
+  "id": 1608,
+  "name": "Obby Absorb Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:obbyAbsorbBlock",
+    "text": "Obby Absorb Block"
+  },
+  "description": {
+    "key": "item:obbyAbsorbBlockDescription",
+    "text": "For marking areas where rockets are absorbed when exporting for custom Rocket Obby maps"
+  },
+  "ttb": 1500,
+  "textureInfo": "obby_absorb_block",
+  "harvestType": "rock",
+  "atlasIdx": 731,
+  "stackable": true
+}

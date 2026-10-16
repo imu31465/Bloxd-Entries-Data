@@ -1,0 +1,43 @@
+{
+  "id": 4835,
+  "name": "Diorite Bricks Stairs|meta|rot3|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dioriteBricksStairs",
+    "text": "Diorite Bricks Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "diorite_brick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Diorite Bricks Stairs",
+    "rootId": 3509,
+    "metaStr": "meta|rot3|bot|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 378,
+  "stackable": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9083,
+  "name": "Rubellite Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_pickaxe",
+  "stackable": false,
+  "damage": 32,
+  "harvests": "rock",
+  "multiplier": 8,
+  "level": 5
+}

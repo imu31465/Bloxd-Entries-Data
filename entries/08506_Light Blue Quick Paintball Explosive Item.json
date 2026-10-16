@@ -1,0 +1,18 @@
+{
+  "id": 8506,
+  "name": "Light Blue Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueQuickPaintballExplosive",
+    "text": "Light Blue Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_light_blue",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

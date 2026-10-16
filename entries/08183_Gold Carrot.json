@@ -1,0 +1,29 @@
+{
+  "id": 8183,
+  "name": "Gold Carrot",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldCarrot",
+    "text": "Gold Carrot"
+  },
+  "description": {
+    "key": "item:goldCarrotDescription",
+    "text": "Eat to gain X-Ray Vision and Night Vision for 45 seconds."
+  },
+  "type": "Chargeable",
+  "textureInfo": "gold_carrot",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Gold Carrot",
+    "rootId": 8183,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Gold Carrot|meta|charging1"
+}

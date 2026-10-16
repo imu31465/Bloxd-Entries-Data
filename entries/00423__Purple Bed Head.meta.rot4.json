@@ -1,0 +1,20 @@
+{
+  "id": 423,
+  "name": "_Purple Bed Head|meta|rot4",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "purple_bed",
+  "drops": "Purple Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Purple Bed Head",
+    "rootId": 420,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Purple Bed Head"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1744,
+  "name": "Orange Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:orange)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_orange",
+  "harvestType": "rock",
+  "atlasIdx": 776,
+  "stackable": true
+}

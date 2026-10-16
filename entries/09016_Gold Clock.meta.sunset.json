@@ -1,0 +1,24 @@
+{
+  "id": 9016,
+  "name": "Gold Clock|meta|sunset",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_gold_sunset",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_gold_sunset",
+  "stackable": false,
+  "meta": {
+    "rootName": "Gold Clock",
+    "rootId": 9010,
+    "metaStr": "meta|sunset"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3045,
+  "name": "Invisible Black Light",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": "invisible_solid",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "lm": [
+    2,
+    2,
+    2
+  ],
+  "atlasIdx": 233,
+  "stackable": true
+}

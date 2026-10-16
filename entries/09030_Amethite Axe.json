@@ -1,0 +1,22 @@
+{
+  "id": 9030,
+  "name": "Amethite Axe",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_axe",
+  "stackable": false,
+  "damage": 36,
+  "harvests": "wood",
+  "multiplier": 8,
+  "level": 5
+}

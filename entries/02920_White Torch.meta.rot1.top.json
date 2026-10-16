@@ -1,0 +1,32 @@
+{
+  "id": 2920,
+  "name": "White Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_white",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "White Torch",
+    "rootId": 2919,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    15,
+    15,
+    15
+  ],
+  "stackable": true,
+  "blockModel": "torch_white",
+  "blockModelItem": true
+}

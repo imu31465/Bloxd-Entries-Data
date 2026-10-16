@@ -1,0 +1,15 @@
+{
+  "id": 7914,
+  "name": "Gold Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldGauntlets",
+    "text": "Gold Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "golden_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

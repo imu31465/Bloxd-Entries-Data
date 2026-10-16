@@ -1,0 +1,21 @@
+{
+  "id": 8605,
+  "name": "Draugr Knight Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:draugrKnightSpawnOrb",
+    "text": "Draugr Knight Spawn Orb"
+  },
+  "description": {
+    "key": "item:draugrKnightSpawnOrbDescription",
+    "text": "Throw to spawn a Draugr Knight at the landing location",
+    "params": {
+      "mob": "Draugr Knight"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "draugr_knight_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

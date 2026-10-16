@@ -1,0 +1,14 @@
+{
+  "id": 8834,
+  "name": "Eagle Ray",
+  "kind": "item",
+  "displayName": {
+    "key": "item:eagleRay",
+    "text": "Eagle Ray"
+  },
+  "type": "Item",
+  "textureInfo": "eagle_ray",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

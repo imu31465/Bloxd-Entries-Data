@@ -1,0 +1,30 @@
+{
+  "id": 908,
+  "name": "Coconut Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coconutBlock",
+    "text": "Coconut Block"
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "coconut_block_side",
+    "coconut_block_top",
+    "coconut_block_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    435,
+    436,
+    437
+  ],
+  "stackable": true
+}

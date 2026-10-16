@@ -1,0 +1,30 @@
+{
+  "id": 8228,
+  "name": "Weakness Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:weaknessPotion",
+    "text": "Weakness Potion"
+  },
+  "description": {
+    "key": "item:weaknessPotionDescription",
+    "text": "Makes you take more damage when attacked"
+  },
+  "type": "Chargeable",
+  "textureInfo": "weakness_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "eatable": true,
+  "chargeSound": "drink",
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Weakness Potion",
+    "rootId": 8228,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Weakness Potion|meta|charging1"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8822,
+  "name": "Eldertide Leviathan",
+  "kind": "item",
+  "displayName": {
+    "key": "item:eldertideLeviathan",
+    "text": "Eldertide Leviathan"
+  },
+  "type": "Item",
+  "textureInfo": "eldertide_leviathan",
+  "weight": 1,
+  "heldItemScale": 3,
+  "stackable": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8407,
+  "name": "Magenta Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaPaintballGun",
+    "text": "Magenta Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "magenta_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

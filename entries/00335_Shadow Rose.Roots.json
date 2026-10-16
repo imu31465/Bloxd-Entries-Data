@@ -1,0 +1,19 @@
+{
+  "id": 335,
+  "name": "Shadow Rose|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "shadow_rose",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "shadow_rose",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Shadow Rose",
+    "rootId": 163,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

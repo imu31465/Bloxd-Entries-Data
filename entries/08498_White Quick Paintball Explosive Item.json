@@ -1,0 +1,18 @@
+{
+  "id": 8498,
+  "name": "White Quick Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteQuickPaintballExplosive",
+    "text": "White Quick Paintball Explosive"
+  },
+  "description": {
+    "key": "item:quickPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_quick_white",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

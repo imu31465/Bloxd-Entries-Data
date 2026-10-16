@@ -1,0 +1,35 @@
+{
+  "id": 7892,
+  "name": "Flashlight",
+  "kind": "item",
+  "displayName": {
+    "key": "item:flashlight",
+    "text": "Flashlight"
+  },
+  "description": {
+    "key": "item:flashlightDescription",
+    "text": "Shines a bright beam where you're looking. Long range."
+  },
+  "type": "Item",
+  "textureInfo": "flashlight",
+  "weight": 1,
+  "heldItemScale": 1,
+  "firstPersonHeldRotationOffset": [
+    -0.34,
+    -0.014,
+    0.081
+  ],
+  "thirdPersonHeldRotationOffset": [
+    1.5707963267948966,
+    0,
+    0
+  ],
+  "stackable": false,
+  "lm": [
+    15,
+    15,
+    15
+  ],
+  "spotlightRange": 20,
+  "spotlightConeAngle": 60
+}

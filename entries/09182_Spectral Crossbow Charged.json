@@ -1,0 +1,21 @@
+{
+  "id": 9182,
+  "name": "Spectral Crossbow Charged",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralCrossbowCharged",
+    "text": "Spectral Crossbow Charged"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "spectral_crossbow_charged",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "spectral_crossbow_charged",
+  "stackable": false,
+  "secondaryDamage": 68,
+  "holdAsAiming": true
+}

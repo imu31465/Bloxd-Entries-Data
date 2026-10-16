@@ -1,0 +1,34 @@
+{
+  "id": 1024,
+  "name": "Aspen Ladder",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenLadder",
+    "text": "Aspen Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_aspen",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Aspen Ladder",
+    "rootId": 1024,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Aspen Ladder|meta|rot1",
+  "stackable": true,
+  "blockModel": "Aspen Ladder",
+  "blockModelItem": true
+}

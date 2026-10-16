@@ -1,0 +1,24 @@
+{
+  "id": 1377,
+  "name": "Magenta Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:magentaStrongbed",
+    "text": "Magenta Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "magenta_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Magenta Strongbed",
+    "rootId": 1377,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Magenta Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Magenta Strongbed"
+}

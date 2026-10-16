@@ -1,0 +1,41 @@
+{
+  "id": 2276,
+  "name": "_Gray Banner Flag|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayBanner",
+    "text": "Gray Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_gray",
+  "drops": "Gray Banner",
+  "solid": false,
+  "Am": [
+    0.25,
+    0,
+    0,
+    0.375,
+    1,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Gray Banner Flag",
+    "rootId": 2271,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Gray Banner Flag Hanging"
+}

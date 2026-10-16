@@ -1,0 +1,21 @@
+{
+  "id": 460,
+  "name": "_Black Bed Head",
+  "kind": "block",
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "black_bed",
+  "drops": "Black Bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "_Black Bed Head",
+    "rootId": 460,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Black Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "_Black Bed Head"
+}

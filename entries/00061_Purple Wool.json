@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "name": "Purple Wool",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleWool",
+    "text": "Purple Wool"
+  },
+  "ttb": 960,
+  "textureInfo": "wool_colored_purple",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 167,
+  "stackable": true
+}

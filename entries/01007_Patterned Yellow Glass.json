@@ -1,0 +1,19 @@
+{
+  "id": 1007,
+  "name": "Patterned Yellow Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedYellowGlass",
+    "text": "Patterned Yellow Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_yellow",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 478,
+  "stackable": true
+}

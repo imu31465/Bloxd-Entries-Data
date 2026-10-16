@@ -1,0 +1,22 @@
+{
+  "id": 8406,
+  "name": "Orange Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangePaintballGun",
+    "text": "Orange Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "orange_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": false,
+  "secondaryDamage": 100,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 150
+}

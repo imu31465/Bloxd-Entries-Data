@@ -1,0 +1,36 @@
+{
+  "id": 7204,
+  "name": "Aspen Fence|meta|e|Stacked",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenFence",
+    "text": "Aspen Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_aspen",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "aspen_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.625,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "meta": {
+    "rootName": "Aspen Fence",
+    "rootId": 7186,
+    "metaStr": "meta|e|Stacked"
+  },
+  "atlasIdx": 124,
+  "stackable": true,
+  "attachedTop": "_Aspen Fence Top|meta|e"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1593,
+  "name": "Trader Shop Spawn Block|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:traderShopSpawnBlock",
+    "text": "Trader Shop Spawn Block"
+  },
+  "description": {
+    "key": "item:traderShopSpawnBlockDescription",
+    "text": "Sets trader shop when exporting map for custom lobby. Sets location for Upgrades Shop in Bedwars maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "shop_trader_spawn_top[rot[1",
+    "shop_trader_spawn_top[rot[2",
+    "shop_trader_spawn_top[rot[3",
+    "shop_trader_spawn_top[rot[4",
+    "shop_trader_spawn_side",
+    "shop_trader_spawn_face"
+  ],
+  "texturePerSide": [
+    5,
+    5,
+    3,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Trader Shop Spawn Block",
+    "rootId": 1592,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    709,
+    710,
+    711,
+    712,
+    713,
+    714
+  ],
+  "stackable": true
+}

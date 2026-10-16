@@ -1,0 +1,19 @@
+{
+  "id": 999,
+  "name": "Patterned Light Blue Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:patternedLightBlueGlass",
+    "text": "Patterned Light Blue Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "patterned_glass_light_blue",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 470,
+  "stackable": true
+}

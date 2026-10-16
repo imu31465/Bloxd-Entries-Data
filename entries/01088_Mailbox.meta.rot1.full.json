@@ -1,0 +1,38 @@
+{
+  "id": 1088,
+  "name": "Mailbox|meta|rot1|full",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mailbox",
+    "text": "Mailbox"
+  },
+  "description": {
+    "key": "item:mailboxDescription",
+    "text": "Let other players leave you notes"
+  },
+  "ttb": 4200,
+  "textureInfo": [
+    "mailbox_front_full",
+    "mailbox_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    1
+  ],
+  "harvestType": "wood",
+  "meta": {
+    "rootName": "Mailbox",
+    "rootId": 1084,
+    "metaStr": "meta|rot1|full",
+    "rot": 1
+  },
+  "atlasIdx": [
+    488,
+    487
+  ],
+  "stackable": true
+}

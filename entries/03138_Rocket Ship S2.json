@@ -1,0 +1,24 @@
+{
+  "id": 3138,
+  "name": "Rocket Ship S2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rocketShipS2",
+    "text": "Stage 2 Rocket Ship (Engine)"
+  },
+  "description": {
+    "key": "item:rocketShipDescription",
+    "text": "Use it to go to the moon! A towering rocket ship built in stages. Place it and right-click to upgrade."
+  },
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "rocket",
+  "drops": null,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "heldItemGlb": "Rocket Ship",
+  "blockModel": "rocket_southwest_1"
+}

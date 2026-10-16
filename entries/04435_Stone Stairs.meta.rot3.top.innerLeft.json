@@ -1,0 +1,43 @@
+{
+  "id": 4435,
+  "name": "Stone Stairs|meta|rot3|top|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneStairs",
+    "text": "Stone Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    1,
+    0.5,
+    1,
+    0,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Stone Stairs",
+    "rootId": 3405,
+    "metaStr": "meta|rot3|top|innerLeft",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 136,
+  "stackable": true
+}

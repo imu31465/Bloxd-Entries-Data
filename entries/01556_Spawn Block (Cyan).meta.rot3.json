@@ -1,0 +1,36 @@
+{
+  "id": 1556,
+  "name": "Spawn Block (Cyan)|meta|rot3",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "cyan_spawn_block_top[rot[1",
+    "cyan_spawn_block_top[rot[2",
+    "cyan_spawn_block_top[rot[3",
+    "cyan_spawn_block_top[rot[4",
+    "cyan_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    0,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Cyan)",
+    "rootId": 1524,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "atlasIdx": [
+    656,
+    657,
+    658,
+    659,
+    660
+  ],
+  "stackable": true
+}

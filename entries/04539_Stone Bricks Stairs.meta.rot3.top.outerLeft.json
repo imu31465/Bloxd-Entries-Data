@@ -1,0 +1,37 @@
+{
+  "id": 4539,
+  "name": "Stone Bricks Stairs|meta|rot3|top|outerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneBricksStairs",
+    "text": "Stone Bricks Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Stone Bricks Stairs",
+    "rootId": 3429,
+    "metaStr": "meta|rot3|top|outerLeft",
+    "rot": 3,
+    "halfblockPlacement": 1,
+    "stairsCorner": "outerLeft"
+  },
+  "atlasIdx": 235,
+  "stackable": true
+}

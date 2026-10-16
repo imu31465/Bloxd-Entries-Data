@@ -1,0 +1,17 @@
+{
+  "id": 2902,
+  "name": "Job Application Statue",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "job_application",
+  "modelScale": 3,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "job_application",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

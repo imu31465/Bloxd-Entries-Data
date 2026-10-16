@@ -1,0 +1,39 @@
+{
+  "id": 261,
+  "name": "Yellow Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowCeramic",
+    "text": "Yellow Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "yellow_glazed_terracotta[rot[1",
+    "yellow_glazed_terracotta[rot[2",
+    "yellow_glazed_terracotta[rot[3",
+    "yellow_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Yellow Ceramic",
+    "rootId": 261,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Yellow Ceramic|meta|rot1",
+  "atlasIdx": [
+    302,
+    303,
+    304,
+    305
+  ],
+  "stackable": true
+}

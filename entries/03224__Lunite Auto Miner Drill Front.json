@@ -1,0 +1,21 @@
+{
+  "id": 3224,
+  "name": "_Lunite Auto Miner Drill Front",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "drops": "Lunite Auto Miner",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Lunite Auto Miner Drill Front",
+    "rootId": 3224,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Lunite Auto Miner Drill Front|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "auto_miner_lunite_drill_front"
+}

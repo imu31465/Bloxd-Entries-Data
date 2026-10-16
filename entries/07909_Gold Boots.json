@@ -1,0 +1,15 @@
+{
+  "id": 7909,
+  "name": "Gold Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldBoots",
+    "text": "Gold Boots"
+  },
+  "type": "Armour",
+  "textureInfo": "golden_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.09
+}

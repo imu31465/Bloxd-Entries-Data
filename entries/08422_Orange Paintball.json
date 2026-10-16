@@ -1,0 +1,18 @@
+{
+  "id": 8422,
+  "name": "Orange Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangePaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "orange_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

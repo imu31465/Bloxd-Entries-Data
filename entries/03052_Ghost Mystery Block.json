@@ -1,0 +1,13 @@
+{
+  "id": 3052,
+  "name": "Ghost Mystery Block",
+  "kind": "block",
+  "ttb": 1,
+  "textureInfo": "ghost_mystery_block",
+  "harvestType": "rock",
+  "transTex": true,
+  "drops": null,
+  "solid": false,
+  "atlasIdx": 872,
+  "stackable": true
+}

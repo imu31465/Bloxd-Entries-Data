@@ -1,0 +1,41 @@
+{
+  "id": 1824,
+  "name": "Gray Chalk Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:gray)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_gray",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Gray Chalk Slab",
+    "rootId": 1821,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 766,
+  "stackable": true,
+  "slabFullBlock": "Gray Chalk"
+}

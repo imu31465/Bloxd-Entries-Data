@@ -1,0 +1,18 @@
+{
+  "id": 8618,
+  "name": "Mob Catcher",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mobCatcher",
+    "text": "Pet Catcher"
+  },
+  "description": {
+    "key": "item:mobCatcherDescription",
+    "text": "Use this to catch and store mobs in your inventory"
+  },
+  "type": "Item",
+  "textureInfo": "mob_catcher",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7932,
+  "name": "Magenta Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaWoodChestplate",
+    "text": "Magenta Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

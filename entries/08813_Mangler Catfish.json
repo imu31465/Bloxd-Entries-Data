@@ -1,0 +1,14 @@
+{
+  "id": 8813,
+  "name": "Mangler Catfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:manglerCatfish",
+    "text": "Mangler Catfish"
+  },
+  "type": "Item",
+  "textureInfo": "mangler_catfish",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

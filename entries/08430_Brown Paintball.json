@@ -1,0 +1,18 @@
+{
+  "id": 8430,
+  "name": "Brown Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownPaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "brown_paintball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

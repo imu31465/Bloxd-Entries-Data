@@ -1,0 +1,31 @@
+{
+  "id": 1685,
+  "name": "Iron Enchanting Table|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironEnchantingTable",
+    "text": "Iron Enchanting Table"
+  },
+  "description": {
+    "key": "item:enchantingTableDescription",
+    "text": "Power up your items with enchantments using this table!"
+  },
+  "ttb": 1200,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "iron_enchanting_table",
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Iron Enchanting Table",
+    "rootId": 1682,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "lm": [
+    6,
+    0,
+    6
+  ],
+  "stackable": true,
+  "blockModel": "Iron Enchanting Table"
+}

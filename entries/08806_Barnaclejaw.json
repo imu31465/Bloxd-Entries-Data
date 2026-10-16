@@ -1,0 +1,14 @@
+{
+  "id": 8806,
+  "name": "Barnaclejaw",
+  "kind": "item",
+  "displayName": {
+    "key": "item:barnacleJaw",
+    "text": "Barnaclejaw"
+  },
+  "type": "Item",
+  "textureInfo": "barnaclejaw",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

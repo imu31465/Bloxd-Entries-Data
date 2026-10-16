@@ -1,0 +1,11 @@
+{
+  "id": 8372,
+  "name": "INTERNAL_MESH_Purple Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "purple_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Purple Balloon",
+  "stackable": false
+}

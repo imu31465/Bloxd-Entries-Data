@@ -1,0 +1,16 @@
+{
+  "id": 9147,
+  "name": "Kingly Diamond Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyDiamondGauntlets",
+    "text": "Kingly Diamond Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_diamond_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_diamond_gauntlets",
+  "stackable": false,
+  "armourReduction": 0.11
+}

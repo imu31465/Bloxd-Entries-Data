@@ -1,0 +1,32 @@
+{
+  "id": 1604,
+  "name": "Goal Block (Blue)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueGoalBlock",
+    "text": "Goal Block (Blue)"
+  },
+  "description": {
+    "key": "item:goalBlockDescription",
+    "text": "Goal Blocks when exporting for custom Bridge maps."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "explosive_paint_blue_top",
+    "blue_spawn_block_top[rot[3"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    540,
+    668
+  ],
+  "stackable": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8381,
+  "name": "INTERNAL_MESH_Cyan Balloon",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "cyan_balloon",
+  "weight": 1,
+  "heldItemScale": 4,
+  "heldItemGlb": "Cyan Balloon",
+  "stackable": false
+}

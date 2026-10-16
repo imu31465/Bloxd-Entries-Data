@@ -1,0 +1,21 @@
+{
+  "id": 8597,
+  "name": "Gold Watermelon Stag Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldWatermelonStagSpawnOrb",
+    "text": "Gold Watermelon Stag Spawn Orb"
+  },
+  "description": {
+    "key": "item:goldWatermelonStagSpawnOrbDescription",
+    "text": "Throw to spawn a Gold Watermelon Stag at the landing location",
+    "params": {
+      "mob": "Gold Watermelon Stag"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "gold_watermelon_stag_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

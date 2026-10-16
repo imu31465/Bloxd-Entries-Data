@@ -1,0 +1,45 @@
+{
+  "id": 729,
+  "name": "Smooth Stone Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothStoneSlab",
+    "text": "Smooth Stone Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_smooth_stone_side",
+    "smooth_stone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Smooth Stone Slab",
+    "rootId": 727,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    405,
+    137
+  ],
+  "stackable": true,
+  "slabFullBlock": "Smooth Stone"
+}

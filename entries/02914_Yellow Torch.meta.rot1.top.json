@@ -1,0 +1,32 @@
+{
+  "id": 2914,
+  "name": "Yellow Torch|meta|rot1|top",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_yellow",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Yellow Torch",
+    "rootId": 2913,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    15,
+    15,
+    3
+  ],
+  "stackable": true,
+  "blockModel": "torch_yellow",
+  "blockModelItem": true
+}

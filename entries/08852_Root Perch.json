@@ -1,0 +1,14 @@
+{
+  "id": 8852,
+  "name": "Root Perch",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rootPerch",
+    "text": "Root Perch"
+  },
+  "type": "Item",
+  "textureInfo": "root_perch",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

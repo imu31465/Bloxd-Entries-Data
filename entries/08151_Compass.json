@@ -1,0 +1,27 @@
+{
+  "id": 8151,
+  "name": "Compass",
+  "kind": "item",
+  "displayName": {
+    "key": "item:compass",
+    "text": "Compass"
+  },
+  "description": {
+    "key": "item:compassDescription",
+    "text": "Points to (0, 0, 0)"
+  },
+  "type": "Directional",
+  "textureInfo": "compass",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "Compass",
+  "stackable": false,
+  "meta": {
+    "rootName": "Compass",
+    "rootId": 8151,
+    "metaStr": "meta|dir1",
+    "direction": 1
+  },
+  "rootMetaDesc": "Compass|meta|dir1",
+  "textureName": "compass"
+}

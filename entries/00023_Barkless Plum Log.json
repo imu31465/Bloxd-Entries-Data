@@ -1,0 +1,14 @@
+{
+  "id": 23,
+  "name": "Barkless Plum Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:barklessPlumLog",
+    "text": "Barkless Plum Log"
+  },
+  "ttb": 2000,
+  "textureInfo": "stripped_plum_log",
+  "harvestType": "wood",
+  "atlasIdx": 131,
+  "stackable": true
+}

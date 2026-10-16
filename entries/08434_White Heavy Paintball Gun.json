@@ -1,0 +1,22 @@
+{
+  "id": 8434,
+  "name": "White Heavy Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whiteHeavyPaintballGun",
+    "text": "White Heavy Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "white_heavy_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "secondaryDamage": 250,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 1000
+}

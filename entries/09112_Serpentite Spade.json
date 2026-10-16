@@ -1,0 +1,22 @@
+{
+  "id": 9112,
+  "name": "Serpentite Spade",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "serpentite_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite_shovel",
+  "stackable": false,
+  "damage": 28,
+  "harvests": "granule",
+  "multiplier": 8,
+  "level": 5
+}

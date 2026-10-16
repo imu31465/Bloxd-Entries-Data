@@ -1,0 +1,14 @@
+{
+  "id": 2085,
+  "name": "Autumn Aspen Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autumnAspenLeaves",
+    "text": "Autumn Aspen Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_aspen_autumn",
+  "harvestType": "cuttable",
+  "atlasIdx": 825,
+  "stackable": true
+}

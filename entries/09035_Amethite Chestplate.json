@@ -1,0 +1,15 @@
+{
+  "id": 9035,
+  "name": "Amethite Chestplate",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "amethite_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "amethite_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

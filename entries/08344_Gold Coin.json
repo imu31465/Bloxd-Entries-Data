@@ -1,0 +1,14 @@
+{
+  "id": 8344,
+  "name": "Gold Coin",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldCoin",
+    "text": "Gold Coin"
+  },
+  "type": "Item",
+  "textureInfo": "gold_coin",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

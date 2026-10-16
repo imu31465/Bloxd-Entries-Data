@@ -1,0 +1,27 @@
+{
+  "id": 1490,
+  "name": "Timed Spike Bomb Block|Flashing",
+  "kind": "block",
+  "ttb": 30000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "timed_spike_bomb",
+  "drops": null,
+  "solid": false,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Timed Spike Bomb Block",
+    "rootId": 1489,
+    "metaStr": "Flashing",
+    "flashing": true
+  },
+  "customModelInfo": {
+    "emissiveColor": [
+      255,
+      255,
+      255
+    ]
+  },
+  "stackable": true,
+  "blockModel": "Timed Spike Bomb Block"
+}

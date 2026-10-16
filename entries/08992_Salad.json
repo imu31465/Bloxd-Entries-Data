@@ -1,0 +1,19 @@
+{
+  "id": 8992,
+  "name": "Salad",
+  "kind": "item",
+  "displayName": {
+    "key": "item:salad",
+    "text": "Salad"
+  },
+  "description": {
+    "key": "item:saladDescription",
+    "text": "A healthy fresh salad"
+  },
+  "type": "Item",
+  "textureInfo": "salad",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "salad",
+  "stackable": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8199,
+  "name": "Leather",
+  "kind": "item",
+  "displayName": {
+    "key": "item:leather",
+    "text": "Leather"
+  },
+  "type": "Item",
+  "textureInfo": "leather",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

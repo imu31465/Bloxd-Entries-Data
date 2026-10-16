@@ -1,0 +1,15 @@
+{
+  "id": 8060,
+  "name": "Black Kart",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackKart",
+    "text": "Black Kart"
+  },
+  "type": "Item",
+  "textureInfo": "black_kart",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Black Kart Item",
+  "stackable": false
+}

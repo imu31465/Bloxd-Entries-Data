@@ -1,0 +1,17 @@
+{
+  "id": 9025,
+  "name": "Swap Orb",
+  "kind": "item",
+  "displayName": {
+    "text": "Swap Orb"
+  },
+  "description": {
+    "text": "Throw near an enemy or mob to swap places with them."
+  },
+  "type": "Item",
+  "textureInfo": "swap_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

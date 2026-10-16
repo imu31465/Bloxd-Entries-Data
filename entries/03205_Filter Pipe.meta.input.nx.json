@@ -1,0 +1,30 @@
+{
+  "id": 3205,
+  "name": "Filter Pipe|meta|input|nx",
+  "kind": "block",
+  "displayName": {
+    "key": "item:filterPipe",
+    "text": "Filter Pipe"
+  },
+  "description": {
+    "key": "item:filterPipeDescription",
+    "text": "Hub with one input arm and five colour-coded output arms. Right-click to set which item leaves each output."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "filter_pipe",
+  "solid": false,
+  "heldItemScale": 6,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Filter Pipe",
+    "rootId": 3204,
+    "metaStr": "meta|input|nx"
+  },
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "filter_pipe_input_nx",
+  "blockModelItem": true
+}

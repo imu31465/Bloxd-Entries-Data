@@ -1,0 +1,41 @@
+{
+  "id": 1804,
+  "name": "Light Gray Chalk Slab|meta|rot1|top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkSlab",
+    "text": "{{colour}} Chalk Slab",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkSlabDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "ttb": 550,
+  "textureInfo": "chalk_light_gray",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Light Gray Chalk Slab",
+    "rootId": 1803,
+    "metaStr": "meta|rot1|top",
+    "rot": 1,
+    "halfblockPlacement": 1
+  },
+  "atlasIdx": 763,
+  "stackable": true,
+  "slabFullBlock": "Light Gray Chalk"
+}

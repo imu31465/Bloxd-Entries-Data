@@ -1,0 +1,19 @@
+{
+  "id": 119,
+  "name": "Purple Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleGlass",
+    "text": "Purple Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_purple",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 226,
+  "stackable": true
+}

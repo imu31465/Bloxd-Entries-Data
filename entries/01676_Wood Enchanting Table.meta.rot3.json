@@ -1,0 +1,31 @@
+{
+  "id": 1676,
+  "name": "Wood Enchanting Table|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:woodEnchantingTable",
+    "text": "Wood Enchanting Table"
+  },
+  "description": {
+    "key": "item:enchantingTableDescription",
+    "text": "Power up your items with enchantments using this table!"
+  },
+  "ttb": 800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "wood_enchanting_table",
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Wood Enchanting Table",
+    "rootId": 1674,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "lm": [
+    2,
+    0,
+    2
+  ],
+  "stackable": true,
+  "blockModel": "Wood Enchanting Table"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 4341,
+  "name": "Spectral Stairs|meta|rot1|top|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralStairs",
+    "text": "Spectral Stairs"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_spectral",
+  "harvestType": "wood",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Spectral Stairs",
+    "rootId": 3381,
+    "metaStr": "meta|rot1|top|innerRight",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 745,
+  "stackable": true
+}

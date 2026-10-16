@@ -1,0 +1,15 @@
+{
+  "id": 7931,
+  "name": "Magenta Wood Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magentaWoodHelmet",
+    "text": "Magenta Wood Helmet"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.07
+}

@@ -1,0 +1,59 @@
+{
+  "id": 3067,
+  "name": "Slime Trail",
+  "kind": "block",
+  "ttb": 200,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "slime_trail",
+  "drops": null,
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Slime Trail",
+    "rootId": 3067,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Slime Trail|meta|rot1",
+  "specialToolDrop": {
+    "tool": [
+      "Wood Spade",
+      "Stone Spade",
+      "Iron Spade",
+      "Gold Spade",
+      "Diamond Spade",
+      "Amethite Spade",
+      "Magmasteel Spade",
+      "Rubellite Spade",
+      "Serpentite Spade"
+    ],
+    "drops": "Slime Trail"
+  },
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": -1.5707963267948966
+  },
+  "lm": [
+    14,
+    8,
+    11
+  ],
+  "stackable": true,
+  "heldItemGlb": "Slime Trail",
+  "blockModel": "slime_trail"
+}

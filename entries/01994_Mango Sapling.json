@@ -1,0 +1,16 @@
+{
+  "id": 1994,
+  "name": "Mango Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoSapling",
+    "text": "Mango Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "mango_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "mango_sapling",
+  "solid": false,
+  "stackable": true
+}

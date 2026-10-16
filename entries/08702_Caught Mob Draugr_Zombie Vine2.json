@@ -1,0 +1,15 @@
+{
+  "id": 8702,
+  "name": "Caught Mob Draugr_Zombie Vine2",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_zombie_vine2",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Zombie Vine2",
+    "rootId": 8702,
+    "caughtMobType": "Draugr Zombie"
+  }
+}

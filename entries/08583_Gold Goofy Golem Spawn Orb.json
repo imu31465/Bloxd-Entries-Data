@@ -1,0 +1,21 @@
+{
+  "id": 8583,
+  "name": "Gold Goofy Golem Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldGoofyGolemSpawnOrb",
+    "text": "Gold Goofy Golem Spawn Orb"
+  },
+  "description": {
+    "key": "item:goldGoofyGolemSpawnOrbDescription",
+    "text": "Throw to spawn a Gold Goofy Golem at the landing location",
+    "params": {
+      "mob": "Gold Goofy Golem"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "gold_goofy_golem_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

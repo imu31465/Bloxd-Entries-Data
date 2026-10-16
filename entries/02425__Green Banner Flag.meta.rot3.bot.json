@@ -1,0 +1,41 @@
+{
+  "id": 2425,
+  "name": "_Green Banner Flag|meta|rot3|bot",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenBanner",
+    "text": "Green Banner"
+  },
+  "ttb": 240,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "itemTexture": "banner_green",
+  "drops": "Green Banner",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.625
+  ],
+  "modelScale": 8,
+  "meta": {
+    "rootName": "_Green Banner Flag",
+    "rootId": 2415,
+    "metaStr": "meta|rot3|bot",
+    "rot": 3,
+    "halfblockPlacement": 0
+  },
+  "particlesIgnoreBlack": true,
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "_Green Banner Flag"
+}

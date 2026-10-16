@@ -1,0 +1,16 @@
+{
+  "id": 8207,
+  "name": "Molten Cog",
+  "kind": "item",
+  "displayName": {
+    "text": "Molten Cog"
+  },
+  "description": {
+    "text": "A gear from an overload mechanism, seized mid-cycle. Salvaged from a Magma Warden."
+  },
+  "type": "Item",
+  "textureInfo": "molten_cog",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

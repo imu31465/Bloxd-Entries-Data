@@ -1,0 +1,15 @@
+{
+  "id": 7938,
+  "name": "Light Blue Wood Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueWoodLeggings",
+    "text": "Light Blue Wood Leggings"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

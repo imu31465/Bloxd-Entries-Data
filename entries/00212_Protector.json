@@ -1,0 +1,19 @@
+{
+  "id": 212,
+  "name": "Protector",
+  "kind": "block",
+  "displayName": {
+    "key": "item:protector",
+    "text": "Protector"
+  },
+  "description": {
+    "key": "item:protectorDescription",
+    "text": "Prevents other players from changing blocks and opening chests in the placed chunk"
+  },
+  "ttb": 5000,
+  "textureInfo": "protector",
+  "harvestType": "rock",
+  "altActionable": true,
+  "atlasIdx": 265,
+  "stackable": true
+}

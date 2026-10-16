@@ -1,0 +1,19 @@
+{
+  "id": 8345,
+  "name": "Updraft",
+  "kind": "item",
+  "displayName": {
+    "key": "item:updraft",
+    "text": "Updraft"
+  },
+  "description": {
+    "key": "item:updraftDescription",
+    "text": "Dash upwards!"
+  },
+  "type": "FullAuto",
+  "textureInfo": "updraft",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "fireInterval": 500
+}

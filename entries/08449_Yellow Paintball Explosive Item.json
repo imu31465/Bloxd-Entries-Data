@@ -1,0 +1,18 @@
+{
+  "id": 8449,
+  "name": "Yellow Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowPaintballExplosive",
+    "text": "Yellow Paintball Explosive"
+  },
+  "description": {
+    "key": "item:paintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

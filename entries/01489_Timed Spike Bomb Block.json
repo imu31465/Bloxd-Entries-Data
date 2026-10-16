@@ -1,0 +1,14 @@
+{
+  "id": 1489,
+  "name": "Timed Spike Bomb Block",
+  "kind": "block",
+  "ttb": 30000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "timed_spike_bomb",
+  "drops": null,
+  "solid": false,
+  "modelScale": 10,
+  "stackable": true,
+  "blockModel": "Timed Spike Bomb Block"
+}

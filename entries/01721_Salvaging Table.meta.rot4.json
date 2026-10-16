@@ -1,0 +1,35 @@
+{
+  "id": 1721,
+  "name": "Salvaging Table|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:salvagingTable",
+    "text": "Salvaging Table"
+  },
+  "description": {
+    "key": "item:salvagingTableDescription",
+    "text": "Get resources from tools+armour and turn raw resources into Aura"
+  },
+  "ttb": 1200,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "salvaging_table",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.625,
+    1
+  ],
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Salvaging Table",
+    "rootId": 1718,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "stackable": true,
+  "blockModel": "Salvaging Table"
+}

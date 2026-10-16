@@ -1,0 +1,14 @@
+{
+  "id": 18,
+  "name": "Jungle Wood Planks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleWoodPlanks",
+    "text": "Jungle Wood Planks"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_jungle",
+  "harvestType": "wood",
+  "atlasIdx": 126,
+  "stackable": true
+}

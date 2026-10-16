@@ -1,0 +1,29 @@
+{
+  "id": 1045,
+  "name": "Light Gray Carpet",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayCarpet",
+    "text": "Light Gray Carpet"
+  },
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "carpet_light_gray_icon",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 10,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "stackable": true,
+  "blockModel": "carpet_light_gray_model"
+}

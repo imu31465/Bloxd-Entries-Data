@@ -1,0 +1,14 @@
+{
+  "id": 8820,
+  "name": "Aether Minnow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:aetherMinnow",
+    "text": "Aether Minnow"
+  },
+  "type": "Item",
+  "textureInfo": "aether_minnow",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

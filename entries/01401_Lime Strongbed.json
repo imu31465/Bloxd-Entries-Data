@@ -1,0 +1,24 @@
+{
+  "id": 1401,
+  "name": "Lime Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeStrongbed",
+    "text": "Lime Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "lime_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Lime Strongbed",
+    "rootId": 1401,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Lime Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Lime Strongbed"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8174,
+  "name": "Gold Watermelon Slice",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldWatermelonSlice",
+    "text": "Gold Watermelon Slice"
+  },
+  "description": {
+    "key": "item:watermelonSliceDescription",
+    "text": "Eat to get a jump boost"
+  },
+  "type": "Chargeable",
+  "textureInfo": "glistering_watermelon_slice",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "meta": {
+    "rootName": "Gold Watermelon Slice",
+    "rootId": 8174,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Gold Watermelon Slice|meta|charging1"
+}

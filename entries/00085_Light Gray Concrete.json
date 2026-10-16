@@ -1,0 +1,14 @@
+{
+  "id": 85,
+  "name": "Light Gray Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayConcrete",
+    "text": "Light Gray Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "light_gray_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 191,
+  "stackable": true
+}

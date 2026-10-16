@@ -1,0 +1,22 @@
+{
+  "id": 8440,
+  "name": "Lime Heavy Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:limeHeavyPaintballGun",
+    "text": "Lime Heavy Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "lime_heavy_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "secondaryDamage": 250,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 1000
+}

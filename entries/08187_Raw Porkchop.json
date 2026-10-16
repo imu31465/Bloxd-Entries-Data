@@ -1,0 +1,30 @@
+{
+  "id": 8187,
+  "name": "Raw Porkchop",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawPorkchop",
+    "text": "Raw Porkchop"
+  },
+  "description": {
+    "key": "item:rawFoodDescription",
+    "text": "Cook and eat to gain health (or eat RAW for a nasty surprise...)"
+  },
+  "type": "Chargeable",
+  "textureInfo": "raw_porkchop",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 25,
+  "chargeStages": 1,
+  "chargeTime": 950,
+  "meta": {
+    "rootName": "Raw Porkchop",
+    "rootId": 8187,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Raw Porkchop|meta|charging1"
+}

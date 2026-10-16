@@ -1,0 +1,19 @@
+{
+  "id": 115,
+  "name": "Lime Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:limeGlass",
+    "text": "Lime Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_lime",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 222,
+  "stackable": true
+}

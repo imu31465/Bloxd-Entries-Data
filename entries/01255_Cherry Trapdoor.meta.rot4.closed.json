@@ -1,0 +1,23 @@
+{
+  "id": 1255,
+  "name": "Cherry Trapdoor|meta|rot4|closed",
+  "kind": "block",
+  "ttb": 2800,
+  "harvestType": "wood",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Cherry Trapdoor",
+    "rootId": 1249,
+    "metaStr": "meta|rot4|closed",
+    "rot": 4,
+    "open": false
+  },
+  "stackable": true
+}

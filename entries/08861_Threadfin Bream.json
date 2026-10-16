@@ -1,0 +1,14 @@
+{
+  "id": 8861,
+  "name": "Threadfin Bream",
+  "kind": "item",
+  "displayName": {
+    "key": "item:threadfinBream",
+    "text": "Threadfin Bream"
+  },
+  "type": "Item",
+  "textureInfo": "threadfin_bream",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

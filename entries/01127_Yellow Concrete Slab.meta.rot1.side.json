@@ -1,0 +1,31 @@
+{
+  "id": 1127,
+  "name": "Yellow Concrete Slab|meta|rot1|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:yellowConcreteSlab",
+    "text": "Yellow Concrete Slab"
+  },
+  "ttb": 1080,
+  "textureInfo": "yellow_concrete",
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Yellow Concrete Slab",
+    "rootId": 1125,
+    "metaStr": "meta|rot1|side",
+    "rot": 1,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": 205,
+  "stackable": true,
+  "slabFullBlock": "Yellow Concrete"
+}

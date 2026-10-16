@@ -1,0 +1,15 @@
+{
+  "id": 7957,
+  "name": "Gray Wood Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayWoodChestplate",
+    "text": "Gray Wood Chestplate"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13
+}

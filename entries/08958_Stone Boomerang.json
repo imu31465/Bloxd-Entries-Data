@@ -1,0 +1,23 @@
+{
+  "id": 8958,
+  "name": "Stone Boomerang",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneBoomerang",
+    "text": "Stone Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "stone_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 14,
+  "secondaryDamage": 14,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 2
+}

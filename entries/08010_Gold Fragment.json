@@ -1,0 +1,18 @@
+{
+  "id": 8010,
+  "name": "Gold Fragment",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldFragment",
+    "text": "Gold Fragment"
+  },
+  "description": {
+    "key": "item:goldFragmentDescription",
+    "text": "Combine using a workbench to get gold"
+  },
+  "type": "Item",
+  "textureInfo": "gold_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

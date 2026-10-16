@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "name": "Maple Log|TreeBase|Maple",
+  "kind": "block",
+  "ttb": 2400,
+  "textureInfo": "log_maple",
+  "harvestType": "wood",
+  "drops": "Maple Log",
+  "meta": {
+    "rootName": "Maple Log",
+    "rootId": 9,
+    "metaStr": "TreeBase|Maple",
+    "treeBase": true,
+    "woodType": "Maple"
+  },
+  "atlasIdx": 117,
+  "stackable": true
+}

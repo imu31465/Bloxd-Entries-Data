@@ -1,0 +1,42 @@
+{
+  "id": 1291,
+  "name": "Loot Chest",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chest",
+    "text": "Chest"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "chest_front",
+    "chest_side",
+    "chest_top_1",
+    "chest_top_2",
+    "chest_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    3,
+    3,
+    0,
+    4
+  ],
+  "harvestType": "wood",
+  "drops": "Chest",
+  "meta": {
+    "rootName": "Loot Chest",
+    "rootId": 1291,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Loot Chest|meta|rot1",
+  "atlasIdx": [
+    260,
+    261,
+    262,
+    263,
+    264
+  ],
+  "stackable": true
+}

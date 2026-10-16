@@ -1,0 +1,16 @@
+{
+  "id": 9234,
+  "name": "Astral Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralChestplate",
+    "text": "Astral Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "astral_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "astral_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

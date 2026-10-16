@@ -1,0 +1,32 @@
+{
+  "id": 586,
+  "name": "Palm Door",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmDoor",
+    "text": "Palm Door"
+  },
+  "ttb": 3600,
+  "harvestType": "wood",
+  "model": "door",
+  "itemTexture": "palm_door",
+  "Am": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Palm Door",
+    "rootId": 586,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Palm Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Palm Door"
+}

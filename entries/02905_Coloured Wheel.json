@@ -1,0 +1,25 @@
+{
+  "id": 2905,
+  "name": "Coloured Wheel",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "wheel",
+  "Am": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.625
+  ],
+  "modelScale": 4,
+  "customModelInfo": {
+    "yOffset": 0
+  },
+  "stackable": true,
+  "blockModel": "wheel",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

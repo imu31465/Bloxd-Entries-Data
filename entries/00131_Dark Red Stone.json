@@ -1,0 +1,14 @@
+{
+  "id": 131,
+  "name": "Dark Red Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:darkRedStone",
+    "text": "Dark Red Stone"
+  },
+  "ttb": 1200,
+  "textureInfo": "netherrack",
+  "harvestType": "rock",
+  "atlasIdx": 237,
+  "stackable": true
+}

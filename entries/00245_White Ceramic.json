@@ -1,0 +1,39 @@
+{
+  "id": 245,
+  "name": "White Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:whiteCeramic",
+    "text": "White Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "white_glazed_terracotta[rot[1",
+    "white_glazed_terracotta[rot[2",
+    "white_glazed_terracotta[rot[3",
+    "white_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "White Ceramic",
+    "rootId": 245,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "White Ceramic|meta|rot1",
+  "atlasIdx": [
+    286,
+    287,
+    288,
+    289
+  ],
+  "stackable": true
+}

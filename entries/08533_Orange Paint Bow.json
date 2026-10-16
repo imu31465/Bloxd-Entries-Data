@@ -1,0 +1,30 @@
+{
+  "id": 8533,
+  "name": "Orange Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:orangePaintBow",
+    "text": "Orange Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "orange_paint_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Orange Paint Bow",
+    "rootId": 8533,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Orange Paint Bow|meta|charging1",
+  "textureName": "orange_paint_bow"
+}

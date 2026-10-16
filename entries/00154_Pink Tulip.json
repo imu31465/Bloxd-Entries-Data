@@ -1,0 +1,17 @@
+{
+  "id": 154,
+  "name": "Pink Tulip",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pinkTulip",
+    "text": "Pink Tulip"
+  },
+  "ttb": 300,
+  "textureInfo": "pink_tulip",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "pink_tulip",
+  "solid": false,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

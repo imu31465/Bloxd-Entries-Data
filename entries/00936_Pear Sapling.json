@@ -1,0 +1,16 @@
+{
+  "id": 936,
+  "name": "Pear Sapling",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearSapling",
+    "text": "Pear Sapling"
+  },
+  "ttb": 1,
+  "textureInfo": "pear_sapling",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "pear_sapling",
+  "solid": false,
+  "stackable": true
+}

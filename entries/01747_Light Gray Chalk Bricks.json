@@ -1,0 +1,24 @@
+{
+  "id": 1747,
+  "name": "Light Gray Chalk Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricks",
+    "text": "{{colour}} Chalk Bricks",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:light_gray)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_light_gray",
+  "harvestType": "rock",
+  "atlasIdx": 779,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 653,
+  "name": "Autumn Maple Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autumnMapleLeaves",
+    "text": "Autumn Maple Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_maple_autumn",
+  "harvestType": "cuttable",
+  "atlasIdx": 392,
+  "stackable": true
+}

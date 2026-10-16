@@ -1,0 +1,33 @@
+{
+  "id": 2925,
+  "name": "Red Torch",
+  "kind": "block",
+  "ttb": 300,
+  "harvestType": "cuttable",
+  "model": "CustomModel",
+  "itemTexture": "torch_red",
+  "solid": false,
+  "heldItemScale": 8,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Red Torch",
+    "rootId": 2925,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Red Torch|meta|rot1|bot",
+  "unlitStandaloneMesh": true,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true
+  },
+  "lm": [
+    15,
+    3,
+    3
+  ],
+  "stackable": true,
+  "blockModel": "torch_red",
+  "blockModelItem": true
+}

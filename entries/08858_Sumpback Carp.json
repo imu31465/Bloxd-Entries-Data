@@ -1,0 +1,14 @@
+{
+  "id": 8858,
+  "name": "Sumpback Carp",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sumpbackCarp",
+    "text": "Sumpback Carp"
+  },
+  "type": "Item",
+  "textureInfo": "sumpback_carp",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

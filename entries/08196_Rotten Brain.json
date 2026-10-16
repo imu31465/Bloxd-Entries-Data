@@ -1,0 +1,29 @@
+{
+  "id": 8196,
+  "name": "Rotten Brain",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rottenBrain",
+    "text": "Rotten Brain"
+  },
+  "description": {
+    "key": "item:rottenBrainDescription",
+    "text": "Eat to rot your brain"
+  },
+  "type": "Chargeable",
+  "textureInfo": "rotten_brain",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 650,
+  "meta": {
+    "rootName": "Rotten Brain",
+    "rootId": 8196,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Rotten Brain|meta|charging1"
+}

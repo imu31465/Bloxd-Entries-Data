@@ -1,0 +1,15 @@
+{
+  "id": 8258,
+  "name": "Arrow of Invisibility",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfInvisibility",
+    "text": "Arrow of Invisibility"
+  },
+  "type": "Item",
+  "textureInfo": "invisibility_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

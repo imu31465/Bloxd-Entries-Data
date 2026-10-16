@@ -1,0 +1,22 @@
+{
+  "id": 9060,
+  "name": "Magmasteel Hoe",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "magmasteel_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_hoe",
+  "stackable": false,
+  "damage": 28,
+  "harvests": "cuttable",
+  "multiplier": 4.25,
+  "level": 5
+}

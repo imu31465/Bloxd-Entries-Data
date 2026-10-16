@@ -1,0 +1,21 @@
+{
+  "id": 2687,
+  "name": "Small Light Blue Pod",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smallLightBluePod",
+    "text": "Small Light Blue Pod"
+  },
+  "ttb": 300,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "small_pod_light_blue_icon",
+  "solid": false,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Small Light Blue Pod"
+}

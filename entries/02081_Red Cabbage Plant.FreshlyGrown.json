@@ -1,0 +1,23 @@
+{
+  "id": 2081,
+  "name": "Red Cabbage Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redCabbage",
+    "text": "Red Cabbage"
+  },
+  "ttb": 400,
+  "textureInfo": "red_cabbage_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "red_cabbage_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Red Cabbage Plant",
+    "rootId": 2079,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

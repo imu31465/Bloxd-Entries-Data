@@ -1,0 +1,20 @@
+{
+  "id": 3017,
+  "name": "Light Gray Neon",
+  "kind": "block",
+  "ttb": 200,
+  "textureInfo": "neon_light_gray",
+  "harvestType": "granule",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "unlitStandaloneMesh": true,
+  "lm": [
+    9,
+    9,
+    9
+  ],
+  "atlasIdx": 857,
+  "stackable": true
+}

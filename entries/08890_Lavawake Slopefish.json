@@ -1,0 +1,14 @@
+{
+  "id": 8890,
+  "name": "Lavawake Slopefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lavawakeSlopefish",
+    "text": "Lavawake Slopefish"
+  },
+  "type": "Item",
+  "textureInfo": "lavawake_slopefish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

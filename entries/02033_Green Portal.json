@@ -1,0 +1,33 @@
+{
+  "id": 2033,
+  "name": "Green Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenPortal",
+    "text": "Green Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "green_portal0",
+      "green_portal1",
+      "green_portal2",
+      "green_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    6,
+    7,
+    4
+  ],
+  "atlasIdx": [
+    6,
+    47,
+    48,
+    49
+  ],
+  "stackable": true
+}

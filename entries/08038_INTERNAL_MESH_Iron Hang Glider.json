@@ -1,0 +1,11 @@
+{
+  "id": 8038,
+  "name": "INTERNAL_MESH_Iron Hang Glider",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "hang_glider_iron",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Iron Hang Glider",
+  "stackable": false
+}

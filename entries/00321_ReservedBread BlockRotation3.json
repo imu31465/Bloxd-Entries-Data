@@ -1,0 +1,28 @@
+{
+  "id": 321,
+  "name": "ReservedBread BlockRotation3",
+  "kind": "block",
+  "ttb": 600,
+  "textureInfo": [
+    "bread_block_front",
+    "bread_block_back",
+    "bread_block_side",
+    "bread_block_top"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    3,
+    3,
+    0,
+    1
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    351,
+    352,
+    353,
+    354
+  ],
+  "stackable": true
+}

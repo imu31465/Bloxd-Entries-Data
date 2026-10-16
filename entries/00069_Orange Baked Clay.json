@@ -1,0 +1,14 @@
+{
+  "id": 69,
+  "name": "Orange Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeBakedClay",
+    "text": "Orange Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_orange",
+  "harvestType": "rock",
+  "atlasIdx": 175,
+  "stackable": true
+}

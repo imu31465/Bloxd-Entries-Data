@@ -1,0 +1,16 @@
+{
+  "id": 9140,
+  "name": "Kingly Amethite Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyAmethiteHelmet",
+    "text": "Kingly Amethite Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_amethite_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_amethite_helmet",
+  "stackable": false,
+  "armourReduction": 0.13
+}

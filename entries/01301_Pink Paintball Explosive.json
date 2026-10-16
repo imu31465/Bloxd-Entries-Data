@@ -1,0 +1,24 @@
+{
+  "id": 1301,
+  "name": "Pink Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": [
+    "explosive_paint_pink_side",
+    "explosive_paint_pink_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "atlasIdx": [
+    519,
+    520
+  ],
+  "stackable": true
+}

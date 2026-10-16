@@ -1,0 +1,21 @@
+{
+  "id": 8591,
+  "name": "Spirit Wolf Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spiritWolfSpawnOrb",
+    "text": "Spirit Wolf Spawn Orb"
+  },
+  "description": {
+    "key": "item:spiritWolfSpawnOrbDescription",
+    "text": "Throw to spawn a Spirit Wolf at the landing location",
+    "params": {
+      "mob": "Spirit Wolf"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "spirit_wolf_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8885,
+  "name": "Hatchetfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:hatchetfish",
+    "text": "Hatchetfish"
+  },
+  "type": "Item",
+  "textureInfo": "hatchetfish",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

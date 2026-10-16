@@ -1,0 +1,42 @@
+{
+  "id": 1717,
+  "name": "Gold Watermelon Stag Spawner Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldWatermelonStagMobSpawnerBlock",
+    "text": "Gold Watermelon Stag Spawner Block"
+  },
+  "description": {
+    "key": "item:goldWatermelonStagMobSpawnerBlockDescription",
+    "text": "Place to automatically spawn Gold Watermelon Stags"
+  },
+  "ttb": 5000,
+  "textureInfo": [
+    "mob_spawner_hostile_block_side",
+    "mob_spawner_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "itemTexture": "gold_watermelon_stag_spawner_block_icon",
+  "drops": null,
+  "particlesIgnoreBlack": true,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Gold Watermelon Stag Spawner Block"
+  },
+  "atlasIdx": [
+    737,
+    736
+  ],
+  "stackable": true,
+  "twoDBlockItem": true,
+  "onMinedAura": 75
+}

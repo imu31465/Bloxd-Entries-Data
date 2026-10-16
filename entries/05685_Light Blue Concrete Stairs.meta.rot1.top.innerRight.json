@@ -1,0 +1,43 @@
+{
+  "id": 5685,
+  "name": "Light Blue Concrete Stairs|meta|rot1|top|innerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightBlueConcreteStairs",
+    "text": "Light Blue Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "light_blue_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0.5,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    0.5,
+    0,
+    0,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Light Blue Concrete Stairs",
+    "rootId": 3717,
+    "metaStr": "meta|rot1|top|innerRight",
+    "rot": 1,
+    "halfblockPlacement": 1,
+    "stairsCorner": "innerRight"
+  },
+  "atlasIdx": 196,
+  "stackable": true
+}

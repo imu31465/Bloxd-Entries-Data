@@ -1,0 +1,32 @@
+{
+  "id": 2643,
+  "name": "_Inactive Radar Back",
+  "kind": "block",
+  "ttb": 3000,
+  "textureInfo": [
+    "radar_side_inactive",
+    "radar_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": "Radar",
+  "meta": {
+    "rootName": "_Inactive Radar Back",
+    "rootId": 2643,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "_Inactive Radar Back|meta|rot1",
+  "atlasIdx": [
+    843,
+    842
+  ],
+  "stackable": true
+}

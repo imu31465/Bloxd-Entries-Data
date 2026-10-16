@@ -1,0 +1,32 @@
+{
+  "id": 1606,
+  "name": "Drop Location Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dropLocationBlock",
+    "text": "Drop Location Block"
+  },
+  "description": {
+    "key": "item:dropLocationBlockDescription",
+    "text": "The location for loot drops when exporting for custom Rocket Spleef maps"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "drop_location_block_top",
+    "drop_location_block_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "atlasIdx": [
+    728,
+    729
+  ],
+  "stackable": true
+}

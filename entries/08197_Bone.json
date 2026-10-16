@@ -1,0 +1,14 @@
+{
+  "id": 8197,
+  "name": "Bone",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bone",
+    "text": "Bone"
+  },
+  "type": "Item",
+  "textureInfo": "bone",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

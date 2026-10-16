@@ -1,0 +1,35 @@
+{
+  "id": 1012,
+  "name": "Pine Ladder",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineLadder",
+    "text": "Pine Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_pine",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Pine Ladder",
+    "rootId": 1012,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Pine Ladder|meta|rot1",
+  "stackable": true,
+  "blockModel": "Pine Ladder",
+  "blockModelItem": true,
+  "rotatableOffsetAmt": 0.375
+}

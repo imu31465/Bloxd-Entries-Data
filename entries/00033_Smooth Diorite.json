@@ -1,0 +1,14 @@
+{
+  "id": 33,
+  "name": "Smooth Diorite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothDiorite",
+    "text": "Smooth Diorite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_diorite_smooth",
+  "harvestType": "rock",
+  "atlasIdx": 139,
+  "stackable": true
+}

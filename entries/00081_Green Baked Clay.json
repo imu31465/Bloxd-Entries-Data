@@ -1,0 +1,14 @@
+{
+  "id": 81,
+  "name": "Green Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenBakedClay",
+    "text": "Green Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_green",
+  "harvestType": "rock",
+  "atlasIdx": 187,
+  "stackable": true
+}

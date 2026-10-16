@@ -1,0 +1,14 @@
+{
+  "id": 8004,
+  "name": "Coal",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coal",
+    "text": "Coal"
+  },
+  "type": "Item",
+  "textureInfo": "coal",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

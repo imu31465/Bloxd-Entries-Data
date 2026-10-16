@@ -1,0 +1,53 @@
+{
+  "id": 6530,
+  "name": "Pink Chalk Bricks Stairs|meta|rot2|bot|innerLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:colouredChalkBricksStairs",
+    "text": "{{colour}} Chalk Bricks Stairs",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "description": {
+    "key": "item:colouredChalkBricksStairsDescription",
+    "text": "A pastel {{colour}} decorative block",
+    "params": {
+      "colour": "$t(colour:pink)"
+    }
+  },
+  "ttb": 850,
+  "textureInfo": "chalk_bricks_pink",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0,
+    0.5,
+    0,
+    0.5,
+    1,
+    1,
+    0.5,
+    0.5,
+    0,
+    1,
+    1,
+    0.5
+  ],
+  "meta": {
+    "rootName": "Pink Chalk Bricks Stairs",
+    "rootId": 3933,
+    "metaStr": "meta|rot2|bot|innerLeft",
+    "rot": 2,
+    "halfblockPlacement": 0,
+    "stairsCorner": "innerLeft"
+  },
+  "atlasIdx": 775,
+  "stackable": true
+}

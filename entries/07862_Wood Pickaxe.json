@@ -1,0 +1,22 @@
+{
+  "id": 7862,
+  "name": "Wood Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodPickaxe",
+    "text": "Wood Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "wooden_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 18,
+  "harvests": "rock",
+  "multiplier": 2,
+  "level": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1653,
+  "name": "Spectral Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralTrapdoor",
+    "text": "Spectral Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "spectral_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Spectral Trapdoor",
+    "rootId": 1653,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Spectral Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Spectral Trapdoor",
+  "blockModelItem": true
+}

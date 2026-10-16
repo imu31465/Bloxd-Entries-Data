@@ -1,0 +1,14 @@
+{
+  "id": 8856,
+  "name": "Spined Stickleback",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spinedStickleback",
+    "text": "Spined Stickleback"
+  },
+  "type": "Item",
+  "textureInfo": "spined_stickleback",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

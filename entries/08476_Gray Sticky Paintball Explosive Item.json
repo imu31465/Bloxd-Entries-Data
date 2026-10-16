@@ -1,0 +1,18 @@
+{
+  "id": 8476,
+  "name": "Gray Sticky Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:grayStickyPaintballExplosive",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:stickyPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_sticky_gray",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

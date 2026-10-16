@@ -1,0 +1,23 @@
+{
+  "id": 2069,
+  "name": "Coffee Plant|FreshlyGrown",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coffeeBean",
+    "text": "Coffee Bean"
+  },
+  "ttb": 400,
+  "textureInfo": "coffee_plant_stage2",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "coffee_plant_stage2",
+  "solid": false,
+  "meta": {
+    "rootName": "Coffee Plant",
+    "rootId": 2067,
+    "metaStr": "FreshlyGrown",
+    "freshlyGrown": true
+  },
+  "stackable": true,
+  "onMinedAura": 5
+}

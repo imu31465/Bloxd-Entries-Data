@@ -1,0 +1,14 @@
+{
+  "id": 8846,
+  "name": "Nomai Moray",
+  "kind": "item",
+  "displayName": {
+    "key": "item:nomaiMoray",
+    "text": "Nomai Moray"
+  },
+  "type": "Item",
+  "textureInfo": "nomai_moray",
+  "weight": 1,
+  "heldItemScale": 1.5,
+  "stackable": true
+}

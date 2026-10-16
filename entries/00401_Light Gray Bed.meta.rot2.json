@@ -1,0 +1,23 @@
+{
+  "id": 401,
+  "name": "Light Gray Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lightGrayBed",
+    "text": "Light Gray Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "light_gray_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Light Gray Bed",
+    "rootId": 400,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Light Gray Bed"
+}

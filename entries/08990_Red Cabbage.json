@@ -1,0 +1,18 @@
+{
+  "id": 8990,
+  "name": "Red Cabbage",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redCabbage",
+    "text": "Red Cabbage"
+  },
+  "description": {
+    "key": "item:redCabbageDescription",
+    "text": "A head of red cabbage"
+  },
+  "type": "Item",
+  "textureInfo": "red_cabbage",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

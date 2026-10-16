@@ -1,0 +1,15 @@
+{
+  "id": 8719,
+  "name": "Caught Mob Frost_Wraith Accursed",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_frost_wraith_accursed",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Frost_Wraith Accursed",
+    "rootId": 8719,
+    "caughtMobType": "Frost Wraith"
+  }
+}

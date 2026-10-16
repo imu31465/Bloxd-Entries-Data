@@ -1,0 +1,37 @@
+{
+  "id": 5839,
+  "name": "Blue Concrete Stairs|meta|rot3|bot|outerRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueConcreteStairs",
+    "text": "Blue Concrete Stairs"
+  },
+  "ttb": 2160,
+  "textureInfo": "blue_concrete",
+  "harvestType": "rock",
+  "model": "Stairs",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Blue Concrete Stairs",
+    "rootId": 3757,
+    "metaStr": "meta|rot3|bot|outerRight",
+    "rot": 3,
+    "halfblockPlacement": 0,
+    "stairsCorner": "outerRight"
+  },
+  "atlasIdx": 193,
+  "stackable": true
+}

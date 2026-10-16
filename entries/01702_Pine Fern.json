@@ -1,0 +1,21 @@
+{
+  "id": 1702,
+  "name": "Pine Fern",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineFern",
+    "text": "Pine Fern"
+  },
+  "ttb": 1,
+  "textureInfo": "pine_fern",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "drops": null,
+  "solid": false,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Pine Fern"
+  },
+  "stackable": true,
+  "canBePlacedOver": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8092,
+  "name": "Smoke Grenade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:smokeGrenade",
+    "text": "Smoke Grenade"
+  },
+  "description": {
+    "key": "item:smokeGrenadeDescription",
+    "text": "Throw to create a smokescreen."
+  },
+  "type": "Item",
+  "textureInfo": "smoke_grenade",
+  "weight": 1,
+  "heldItemScale": 6,
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8879,
+  "name": "Frostpaint Notie",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frostpaintNotie",
+    "text": "Frostpaint Notie"
+  },
+  "type": "Item",
+  "textureInfo": "frostpaint_notie",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

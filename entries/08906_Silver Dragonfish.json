@@ -1,0 +1,14 @@
+{
+  "id": 8906,
+  "name": "Silver Dragonfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:silverDragonfish",
+    "text": "Silver Dragonfish"
+  },
+  "type": "Item",
+  "textureInfo": "silver_dragonfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

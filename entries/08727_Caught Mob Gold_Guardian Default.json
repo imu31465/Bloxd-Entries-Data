@@ -1,0 +1,15 @@
+{
+  "id": 8727,
+  "name": "Caught Mob Gold_Guardian Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_gold_guardian_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Gold_Guardian Default",
+    "rootId": 8727,
+    "caughtMobType": "Gold Guardian"
+  }
+}

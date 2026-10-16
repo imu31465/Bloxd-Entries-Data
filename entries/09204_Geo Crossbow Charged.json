@@ -1,0 +1,21 @@
+{
+  "id": 9204,
+  "name": "Geo Crossbow Charged",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoCrossbowCharged",
+    "text": "Geo Crossbow Charged"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "geo_crossbow_charged",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "geo_crossbow_charged",
+  "stackable": false,
+  "secondaryDamage": 68,
+  "holdAsAiming": true
+}

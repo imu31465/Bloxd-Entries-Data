@@ -1,0 +1,23 @@
+{
+  "id": 411,
+  "name": "Cyan Bed|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanBed",
+    "text": "Cyan Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "cyan_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Cyan Bed",
+    "rootId": 408,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Cyan Bed"
+}

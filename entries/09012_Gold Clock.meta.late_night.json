@@ -1,0 +1,24 @@
+{
+  "id": 9012,
+  "name": "Gold Clock|meta|late_night",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "textureInfo": "clock_gold_late_night",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "clock_gold_late_night",
+  "stackable": false,
+  "meta": {
+    "rootName": "Gold Clock",
+    "rootId": 9010,
+    "metaStr": "meta|late_night"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2812,
+  "name": "INTERNAL_MESH_Moonstone Trophy",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Moonstone Trophy",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

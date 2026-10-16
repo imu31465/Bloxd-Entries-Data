@@ -1,0 +1,16 @@
+{
+  "id": 9021,
+  "name": "Lucky Clover",
+  "kind": "item",
+  "displayName": {
+    "text": "Clovers"
+  },
+  "description": {
+    "text": "Earned from lucky blocks, kills and beds. Spend them at your base's Lucky Trader and Lucky Upgrades."
+  },
+  "type": "Item",
+  "textureInfo": "lucky_clover",
+  "weight": 0,
+  "heldItemScale": 1,
+  "stackable": true
+}

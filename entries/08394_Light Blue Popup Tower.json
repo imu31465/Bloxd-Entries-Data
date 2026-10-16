@@ -1,0 +1,18 @@
+{
+  "id": 8394,
+  "name": "Light Blue Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBluePopupTower",
+    "text": "Light Blue Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "type": "Item",
+  "textureInfo": "light_blue_popup_tower",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

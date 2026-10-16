@@ -1,0 +1,14 @@
+{
+  "id": 481,
+  "name": "Sandstone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sandstoneBricks",
+    "text": "Sandstone Bricks"
+  },
+  "ttb": 960,
+  "textureInfo": "sandstone_brick",
+  "harvestType": "rock",
+  "atlasIdx": 376,
+  "stackable": true
+}

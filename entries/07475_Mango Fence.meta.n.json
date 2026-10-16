@@ -1,0 +1,36 @@
+{
+  "id": 7475,
+  "name": "Mango Fence|meta|n",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoFence",
+    "text": "Mango Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_mango",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "mango_fence",
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    1,
+    0.625,
+    0.375,
+    0,
+    0,
+    0.625,
+    1,
+    0.375
+  ],
+  "meta": {
+    "rootName": "Mango Fence",
+    "rootId": 7474,
+    "metaStr": "meta|n"
+  },
+  "atlasIdx": 808,
+  "stackable": true,
+  "attachedTop": "_Mango Fence Top|meta|n"
+}

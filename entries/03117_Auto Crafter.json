@@ -1,0 +1,36 @@
+{
+  "id": 3117,
+  "name": "Auto Crafter",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autoCrafter",
+    "text": "Auto Crafter"
+  },
+  "description": {
+    "key": "item:autoCrafterDescription",
+    "text": "Crafts one item per second from deposited ingredients. Right-click to deposit, or pipe ingredients in from any side. Crafted items prefer a pipe on top so they don't loop back into an input pipe; otherwise any connected pipe is used."
+  },
+  "ttb": 3600,
+  "textureInfo": [
+    "autocrafter_side",
+    "crafting_table_top",
+    "autocrafter_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "atlasIdx": [
+    875,
+    258,
+    876
+  ],
+  "stackable": true
+}

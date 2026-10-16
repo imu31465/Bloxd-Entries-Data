@@ -1,0 +1,22 @@
+{
+  "id": 8442,
+  "name": "Light Blue Heavy Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:lightBlueHeavyPaintballGun",
+    "text": "Light Blue Heavy Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "type": "FullAuto",
+  "textureInfo": "light_blue_heavy_paintball_gun",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "secondaryDamage": 250,
+  "holdAsAiming": true,
+  "hideAimingUI": true,
+  "fireInterval": 1000
+}

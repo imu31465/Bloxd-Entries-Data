@@ -1,0 +1,45 @@
+{
+  "id": 1522,
+  "name": "Spawn Block (Green)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenSpawnBlock",
+    "text": "Spawn Block (Green)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "green_spawn_block_top[rot[1",
+    "green_spawn_block_top[rot[2",
+    "green_spawn_block_top[rot[3",
+    "green_spawn_block_top[rot[4",
+    "green_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Green)",
+    "rootId": 1522,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Green)|meta|rot1",
+  "atlasIdx": [
+    646,
+    647,
+    648,
+    649,
+    650
+  ],
+  "stackable": true
+}

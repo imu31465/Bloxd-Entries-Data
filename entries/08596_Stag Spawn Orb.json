@@ -1,0 +1,21 @@
+{
+  "id": 8596,
+  "name": "Stag Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stagSpawnOrb",
+    "text": "Stag Spawn Orb"
+  },
+  "description": {
+    "key": "item:stagSpawnOrbDescription",
+    "text": "Throw to spawn a Stag at the landing location",
+    "params": {
+      "mob": "Stag"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "stag_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

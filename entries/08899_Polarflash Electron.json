@@ -1,0 +1,14 @@
+{
+  "id": 8899,
+  "name": "Polarflash Electron",
+  "kind": "item",
+  "displayName": {
+    "key": "item:polarflashElectron",
+    "text": "Polarflash Electron"
+  },
+  "type": "Item",
+  "textureInfo": "polarflash_electron",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

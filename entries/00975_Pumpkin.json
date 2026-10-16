@@ -1,0 +1,28 @@
+{
+  "id": 975,
+  "name": "Pumpkin",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pumpkin",
+    "text": "Pumpkin"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "pumpkin_side",
+    "pumpkin_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "atlasIdx": [
+    456,
+    457
+  ],
+  "stackable": true
+}

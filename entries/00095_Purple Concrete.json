@@ -1,0 +1,14 @@
+{
+  "id": 95,
+  "name": "Purple Concrete",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleConcrete",
+    "text": "Purple Concrete"
+  },
+  "ttb": 2160,
+  "textureInfo": "purple_concrete",
+  "harvestType": "rock",
+  "atlasIdx": 201,
+  "stackable": true
+}

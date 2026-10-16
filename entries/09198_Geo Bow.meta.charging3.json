@@ -1,0 +1,31 @@
+{
+  "id": 9198,
+  "name": "Geo Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoBow",
+    "text": "Geo Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureInfo": "geo_bow_charging_3",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "heldItemGlb": "geo_bow_charging_3",
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 68,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "meta": {
+    "rootName": "Geo Bow",
+    "rootId": 9196,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  },
+  "textureName": "diamond_bow"
+}

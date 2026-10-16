@@ -1,0 +1,19 @@
+{
+  "id": 117,
+  "name": "Orange Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:orangeGlass",
+    "text": "Orange Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_orange",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 224,
+  "stackable": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": 784,
+  "name": "Diorite Slab|meta|rot2|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dioriteSlab",
+    "text": "Diorite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_diorite_side",
+    "stone_diorite"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    0.5,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Diorite Slab",
+    "rootId": 781,
+    "metaStr": "meta|rot2|side",
+    "rot": 2,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    414,
+    138
+  ],
+  "stackable": true,
+  "slabFullBlock": "Diorite"
+}

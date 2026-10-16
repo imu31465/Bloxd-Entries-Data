@@ -1,0 +1,45 @@
+{
+  "id": 875,
+  "name": "Engraved Red Sandstone Slab|meta|rot3|side",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedRedSandstoneSlab",
+    "text": "Engraved Red Sandstone Slab"
+  },
+  "ttb": 640,
+  "textureInfo": [
+    "slab_chiseled_red_sandstone_side",
+    "chiseled_red_sandstone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0.5,
+    1,
+    1,
+    1
+  ],
+  "meta": {
+    "rootName": "Engraved Red Sandstone Slab",
+    "rootId": 871,
+    "metaStr": "meta|rot3|side",
+    "rot": 3,
+    "halfblockPlacement": 2
+  },
+  "atlasIdx": [
+    427,
+    371
+  ],
+  "stackable": true,
+  "slabFullBlock": "Engraved Red Sandstone"
+}

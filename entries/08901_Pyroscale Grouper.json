@@ -1,0 +1,14 @@
+{
+  "id": 8901,
+  "name": "Pyroscale Grouper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pyroscaleGrouper",
+    "text": "Pyroscale Grouper"
+  },
+  "type": "Item",
+  "textureInfo": "pyroscale_grouper",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": true
+}

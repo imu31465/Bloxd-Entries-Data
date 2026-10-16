@@ -1,0 +1,10 @@
+{
+  "id": 1338,
+  "name": "Light Blue Seeking Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_seeking_light_blue",
+  "harvestType": "cuttable",
+  "atlasIdx": 568,
+  "stackable": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8532,
+  "name": "Pink Paint Bow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkPaintBow",
+    "text": "Pink Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "type": "Chargeable",
+  "textureInfo": "pink_paint_bow_charging_4",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "minChargeStateToUse": 0,
+  "holdAsAiming": true,
+  "meta": {
+    "rootName": "Pink Paint Bow",
+    "rootId": 8529,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  },
+  "textureName": "pink_paint_bow"
+}

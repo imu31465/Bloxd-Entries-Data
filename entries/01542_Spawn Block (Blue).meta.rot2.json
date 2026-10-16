@@ -1,0 +1,36 @@
+{
+  "id": 1542,
+  "name": "Spawn Block (Blue)|meta|rot2",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "blue_spawn_block_top[rot[1",
+    "blue_spawn_block_top[rot[2",
+    "blue_spawn_block_top[rot[3",
+    "blue_spawn_block_top[rot[4",
+    "blue_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    3,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Blue)",
+    "rootId": 1526,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "atlasIdx": [
+    666,
+    667,
+    668,
+    669,
+    670
+  ],
+  "stackable": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6959,
+  "name": "Noticeboard Wall|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:noticeboardWall",
+    "text": "Noticeboard Wall"
+  },
+  "ttb": 1800,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "noticeboard_wall",
+  "solid": true,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ],
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Noticeboard Wall",
+    "rootId": 6957,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "noticeboard_wall",
+  "blockModelItem": true
+}

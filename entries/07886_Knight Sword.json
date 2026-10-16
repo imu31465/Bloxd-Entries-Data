@@ -1,0 +1,23 @@
+{
+  "id": 7886,
+  "name": "Knight Sword",
+  "kind": "item",
+  "displayName": {
+    "key": "item:knightSword",
+    "text": "Knight Sword"
+  },
+  "description": {
+    "key": "item:knightSwordDescription",
+    "text": "Deals increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "knight_sword",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 43,
+  "knockbackHorizontalScalar": 1.7,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5
+}

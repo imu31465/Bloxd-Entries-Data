@@ -1,0 +1,16 @@
+{
+  "id": 1093,
+  "name": "Rice_stage1",
+  "kind": "block",
+  "displayName": {
+    "key": "item:rice",
+    "text": "Rice"
+  },
+  "ttb": 400,
+  "textureInfo": "rice_stage2",
+  "harvestType": "cuttable",
+  "model": "SquareSided",
+  "drops": "Rice",
+  "solid": false,
+  "stackable": true
+}

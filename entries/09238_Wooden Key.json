@@ -1,0 +1,15 @@
+{
+  "id": 9238,
+  "name": "Wooden Key",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodenKey",
+    "text": "Wooden Key"
+  },
+  "type": "Item",
+  "textureInfo": "wooden_key",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "wooden_key",
+  "stackable": true
+}

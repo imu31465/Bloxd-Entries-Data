@@ -1,0 +1,15 @@
+{
+  "id": 7918,
+  "name": "Military Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:militaryGauntlets",
+    "text": "Military Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "military_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.1
+}

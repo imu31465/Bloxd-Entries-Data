@@ -1,0 +1,19 @@
+{
+  "id": 9216,
+  "name": "Astral Shard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralShard",
+    "text": "Astral Shard"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "astral_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "astral_shard",
+  "stackable": true
+}

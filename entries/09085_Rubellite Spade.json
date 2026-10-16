@@ -1,0 +1,22 @@
+{
+  "id": 9085,
+  "name": "Rubellite Spade",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "rubellite_shovel",
+  "stackable": false,
+  "damage": 28,
+  "harvests": "granule",
+  "multiplier": 8,
+  "level": 5
+}

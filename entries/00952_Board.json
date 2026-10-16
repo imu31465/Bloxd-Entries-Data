@@ -1,0 +1,33 @@
+{
+  "id": 952,
+  "name": "Board",
+  "kind": "block",
+  "displayName": {
+    "key": "item:board",
+    "text": "Board"
+  },
+  "ttb": 1200,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "board",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "modelScale": 0.8,
+  "meta": {
+    "rootName": "Board",
+    "rootId": 952,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Board|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Board"
+}

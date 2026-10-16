@@ -1,0 +1,18 @@
+{
+  "id": 334,
+  "name": "Lily of the Valley|Roots",
+  "kind": "block",
+  "ttb": 300,
+  "textureInfo": "lily_of_the_valley",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "lily_of_the_valley",
+  "solid": false,
+  "meta": {
+    "rootName": "Lily of the Valley",
+    "rootId": 162,
+    "metaStr": "Roots",
+    "roots": true
+  },
+  "stackable": true
+}

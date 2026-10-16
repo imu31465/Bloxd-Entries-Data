@@ -1,0 +1,15 @@
+{
+  "id": 8150,
+  "name": "Arrow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrow",
+    "text": "Arrow"
+  },
+  "type": "Item",
+  "textureInfo": "arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

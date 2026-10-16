@@ -1,0 +1,16 @@
+{
+  "id": 152,
+  "name": "Poppy",
+  "kind": "block",
+  "displayName": {
+    "key": "item:poppy",
+    "text": "Poppy"
+  },
+  "ttb": 300,
+  "textureInfo": "poppy",
+  "harvestType": "cuttable",
+  "model": "CentreCross",
+  "itemTexture": "poppy",
+  "solid": false,
+  "stackable": true
+}

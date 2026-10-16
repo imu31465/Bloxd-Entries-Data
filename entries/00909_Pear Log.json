@@ -1,0 +1,14 @@
+{
+  "id": 909,
+  "name": "Pear Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearLog",
+    "text": "Pear Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_pear",
+  "harvestType": "wood",
+  "atlasIdx": 438,
+  "stackable": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8095,
+  "name": "Bouncy Bomb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bouncyBomb",
+    "text": "Bouncy Bomb"
+  },
+  "description": {
+    "key": "item:bouncyBombDescription",
+    "text": "BOUNCE 'n' BOOM"
+  },
+  "type": "Item",
+  "textureInfo": "bouncy_bomb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 5
+}

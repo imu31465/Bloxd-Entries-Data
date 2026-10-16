@@ -1,0 +1,14 @@
+{
+  "id": 8880,
+  "name": "Frozen Grenadier",
+  "kind": "item",
+  "displayName": {
+    "key": "item:frozenGrenadier",
+    "text": "Frozen Grenadier"
+  },
+  "type": "Item",
+  "textureInfo": "frozen_grenadier",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

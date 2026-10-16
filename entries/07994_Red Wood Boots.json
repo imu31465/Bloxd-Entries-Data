@@ -1,0 +1,15 @@
+{
+  "id": 7994,
+  "name": "Red Wood Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:redWoodBoots",
+    "text": "Red Wood Boots"
+  },
+  "type": "GrayscaleArmour",
+  "textureInfo": "wood_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.05
+}

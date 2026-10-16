@@ -1,0 +1,45 @@
+{
+  "id": 1515,
+  "name": "Spawn Block (Purple)",
+  "kind": "block",
+  "displayName": {
+    "key": "item:purpleSpawnBlock",
+    "text": "Spawn Block (Purple)"
+  },
+  "description": {
+    "key": "item:spawnBlockDescription",
+    "text": "Sets spawn point when exporting map for custom lobby."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "purple_spawn_block_top[rot[1",
+    "purple_spawn_block_top[rot[2",
+    "purple_spawn_block_top[rot[3",
+    "purple_spawn_block_top[rot[4",
+    "purple_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    2,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Purple)",
+    "rootId": 1515,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Spawn Block (Purple)|meta|rot1",
+  "atlasIdx": [
+    611,
+    612,
+    613,
+    614,
+    615
+  ],
+  "stackable": true
+}

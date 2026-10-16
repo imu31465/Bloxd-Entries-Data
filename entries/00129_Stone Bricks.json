@@ -1,0 +1,14 @@
+{
+  "id": 129,
+  "name": "Stone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneBricks",
+    "text": "Stone Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "stonebrick",
+  "harvestType": "rock",
+  "atlasIdx": 235,
+  "stackable": true
+}

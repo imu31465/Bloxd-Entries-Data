@@ -1,0 +1,14 @@
+{
+  "id": 8805,
+  "name": "Boulder Bass",
+  "kind": "item",
+  "displayName": {
+    "key": "item:boulderBass",
+    "text": "Boulder Bass"
+  },
+  "type": "Item",
+  "textureInfo": "boulder_bass",
+  "weight": 1,
+  "heldItemScale": 2,
+  "stackable": true
+}

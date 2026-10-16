@@ -1,0 +1,13 @@
+{
+  "id": 6915,
+  "name": "INTERNAL_MESH_Large Icicle",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "stackable": true,
+  "blockModel": "Large Icicle",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

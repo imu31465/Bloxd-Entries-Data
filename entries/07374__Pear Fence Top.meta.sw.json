@@ -1,0 +1,43 @@
+{
+  "id": 7374,
+  "name": "_Pear Fence Top|meta|sw",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearFence",
+    "text": "Pear Fence"
+  },
+  "ttb": 1800,
+  "textureInfo": "planks_pear",
+  "harvestType": "wood",
+  "model": "fence",
+  "itemTexture": "pear_fence",
+  "drops": null,
+  "Am": [
+    0.375,
+    0,
+    0.375,
+    0.625,
+    0.5,
+    0.625,
+    0.375,
+    0,
+    0.625,
+    0.625,
+    0.5,
+    1,
+    0,
+    0,
+    0.375,
+    0.375,
+    0.5,
+    0.625
+  ],
+  "meta": {
+    "rootName": "_Pear Fence Top",
+    "rootId": 7362,
+    "metaStr": "meta|sw"
+  },
+  "atlasIdx": 439,
+  "stackable": true,
+  "canBePlacedOver": true
+}

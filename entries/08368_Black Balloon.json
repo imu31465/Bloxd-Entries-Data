@@ -1,0 +1,19 @@
+{
+  "id": 8368,
+  "name": "Black Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackBalloon",
+    "text": "Black Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "black_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Black Balloon Item",
+  "stackable": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": 130,
+  "name": "Dark Red Brick",
+  "kind": "block",
+  "displayName": {
+    "key": "item:darkRedBrick",
+    "text": "Dark Red Brick"
+  },
+  "ttb": 2400,
+  "textureInfo": "nether_brick",
+  "harvestType": "rock",
+  "atlasIdx": 236,
+  "stackable": true
+}

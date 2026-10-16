@@ -1,0 +1,14 @@
+{
+  "id": 8871,
+  "name": "Crowned Flame Angelfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:crownedFlameAngelfish",
+    "text": "Crowned Flame Angelfish"
+  },
+  "type": "Item",
+  "textureInfo": "crowned_flame_angelfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

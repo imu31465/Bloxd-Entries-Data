@@ -1,0 +1,14 @@
+{
+  "id": 8854,
+  "name": "Seahorse",
+  "kind": "item",
+  "displayName": {
+    "key": "item:seahorse",
+    "text": "Seahorse"
+  },
+  "type": "Item",
+  "textureInfo": "seahorse",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

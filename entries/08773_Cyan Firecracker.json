@@ -1,0 +1,19 @@
+{
+  "id": 8773,
+  "name": "Cyan Firecracker",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanFirecracker",
+    "text": "Cyan Firecracker"
+  },
+  "description": {
+    "key": "item:firecrackerDescription",
+    "text": "Click or tap your Hang Glider with me in your inventory, and I'll give you a boost!"
+  },
+  "type": "Item",
+  "textureInfo": "firecracker_cyan",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

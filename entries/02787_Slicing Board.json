@@ -1,0 +1,25 @@
+{
+  "id": 2787,
+  "name": "Slicing Board",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "slicing_board",
+  "Am": [
+    0.125,
+    0,
+    0.125,
+    0.875,
+    0.25,
+    0.875
+  ],
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "slicing_board",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

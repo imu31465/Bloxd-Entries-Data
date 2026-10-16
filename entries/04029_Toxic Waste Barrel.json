@@ -1,0 +1,39 @@
+{
+  "id": 4029,
+  "name": "Toxic Waste Barrel",
+  "kind": "block",
+  "displayName": {
+    "key": "item:toxicWasteBarrel",
+    "text": "Toxic Waste Barrel"
+  },
+  "ttb": 40000,
+  "textureInfo": [
+    "toxic_waste_barrel_side",
+    "toxic_waste_barrel_bottom",
+    {
+      "animTextures": [
+        "toxic_waste_barrel_top0",
+        "toxic_waste_barrel_top1",
+        "toxic_waste_barrel_top2",
+        "toxic_waste_barrel_top3"
+      ],
+      "animationInterval": 300
+    }
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    2,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 5,
+  "atlasIdx": [
+    933,
+    934,
+    23
+  ],
+  "stackable": true
+}

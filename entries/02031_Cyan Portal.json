@@ -1,0 +1,33 @@
+{
+  "id": 2031,
+  "name": "Cyan Portal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cyanPortal",
+    "text": "Cyan Portal"
+  },
+  "textureInfo": {
+    "animTextures": [
+      "cyan_portal0",
+      "cyan_portal1",
+      "cyan_portal2",
+      "cyan_portal3"
+    ],
+    "animationInterval": 300
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "solid": true,
+  "lm": [
+    4,
+    9,
+    9
+  ],
+  "atlasIdx": [
+    4,
+    41,
+    42,
+    43
+  ],
+  "stackable": true
+}

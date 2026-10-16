@@ -1,0 +1,52 @@
+{
+  "id": 8319,
+  "name": "One Shot Pistol|RequiresAmmo",
+  "kind": "item",
+  "displayName": {
+    "text": "One Shot Pistol"
+  },
+  "type": "Gun",
+  "textureInfo": "M1911",
+  "weight": 1,
+  "heldItemScale": 2,
+  "heldItemGlb": "M1911",
+  "stackable": false,
+  "damage": 1,
+  "meta": {
+    "rootName": "One Shot Pistol",
+    "rootId": 8318,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  },
+  "keepMetaInChest": true,
+  "gunType": "semi_automatic",
+  "scopeType": "none",
+  "muzzleFlashOffsetFromGun": [
+    -3.5,
+    -1,
+    0
+  ],
+  "autoFireWithMouse": false,
+  "fireRate": 800,
+  "reloadTime": 5000,
+  "clipSize": 1,
+  "tagSpeedMult": 0.8,
+  "subsequentTagSpeedReductionScalar": 0.55,
+  "inaccuracyStanding": 0,
+  "inaccuracyFromShot": 25,
+  "inaccuracyMovement": 15,
+  "yVelocityInaccuracy": 1.01,
+  "inaccuracyFromJump": 25,
+  "altInaccuracyStanding": 10,
+  "altInaccuracyFromShot": 25,
+  "altInaccuracyMovement": 25,
+  "recoveryRate": 0.005,
+  "kickbackDecreaseRate": 0.000005,
+  "minKickback": 0.045,
+  "maxKickback": 0.045,
+  "kickbackRate": 0,
+  "msPerRound": 75,
+  "msPerRoundTouchScreen": 75,
+  "altYVelocityInaccuracy": 1.01,
+  "altInaccuracyFromJump": 25
+}

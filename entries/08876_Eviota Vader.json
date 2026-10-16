@@ -1,0 +1,14 @@
+{
+  "id": 8876,
+  "name": "Eviota Vader",
+  "kind": "item",
+  "displayName": {
+    "key": "item:eviotaVader",
+    "text": "Eviota Vader"
+  },
+  "type": "Item",
+  "textureInfo": "eviota_vader",
+  "weight": 1,
+  "heldItemScale": 0.5,
+  "stackable": true
+}

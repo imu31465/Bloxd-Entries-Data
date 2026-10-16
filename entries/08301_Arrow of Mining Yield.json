@@ -1,0 +1,15 @@
+{
+  "id": 8301,
+  "name": "Arrow of Mining Yield",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arrowOfMiningYield",
+    "text": "Arrow of Mining Yield"
+  },
+  "type": "Item",
+  "textureInfo": "mining_yield_arrow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 1
+}

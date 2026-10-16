@@ -1,0 +1,29 @@
+{
+  "id": 8937,
+  "name": "Truffle Oil",
+  "kind": "item",
+  "displayName": {
+    "key": "item:truffleOil",
+    "text": "Truffle Oil"
+  },
+  "description": {
+    "key": "item:truffleOilDescription",
+    "text": "Eat to bounce on every block."
+  },
+  "type": "Chargeable",
+  "textureInfo": "truffle_oil",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "drink",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Truffle Oil",
+    "rootId": 8937,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Truffle Oil|meta|charging1"
+}

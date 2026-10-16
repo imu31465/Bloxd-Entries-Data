@@ -1,0 +1,18 @@
+{
+  "id": 8993,
+  "name": "Stuffed Pepper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stuffedPepper",
+    "text": "Stuffed Pepper"
+  },
+  "description": {
+    "key": "item:stuffedPepperDescription",
+    "text": "A pepper stuffed with a savoury filling"
+  },
+  "type": "Item",
+  "textureInfo": "stuffed_pepper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

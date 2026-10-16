@@ -1,0 +1,19 @@
+{
+  "id": 9194,
+  "name": "Geo Shard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoShard",
+    "text": "Geo Shard"
+  },
+  "description": {
+    "key": "item:elementalShardDescription",
+    "text": "Not used in any recipe"
+  },
+  "type": "Item",
+  "textureInfo": "geo_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "geo_shard",
+  "stackable": true
+}

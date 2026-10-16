@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "name": "Aspen Log",
+  "kind": "block",
+  "displayName": {
+    "key": "item:aspenLog",
+    "text": "Aspen Log"
+  },
+  "ttb": 2400,
+  "textureInfo": "log_aspen",
+  "harvestType": "wood",
+  "atlasIdx": 121,
+  "stackable": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8093,
+  "name": "Moonstone Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneOrb",
+    "text": "Moonstone Orb"
+  },
+  "description": {
+    "key": "item:moonstoneOrbDescription",
+    "text": "Throw to teleport to the landing location"
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

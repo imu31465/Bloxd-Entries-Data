@@ -1,0 +1,25 @@
+{
+  "id": 2805,
+  "name": "Diamond Trophy|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diamondTrophy",
+    "text": "Diamond Trophy"
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "diamond_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Diamond Trophy",
+    "rootId": 2803,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Diamond Trophy"
+}

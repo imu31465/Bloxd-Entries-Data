@@ -1,0 +1,18 @@
+{
+  "id": 8215,
+  "name": "Book",
+  "kind": "item",
+  "displayName": {
+    "key": "item:book",
+    "text": "Book"
+  },
+  "description": {
+    "key": "item:bookDescription",
+    "text": "Write down your thoughts..."
+  },
+  "type": "Item",
+  "textureInfo": "book",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

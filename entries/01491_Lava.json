@@ -1,0 +1,47 @@
+{
+  "id": 1491,
+  "name": "Lava",
+  "kind": "block",
+  "displayName": {
+    "key": "item:lava",
+    "text": "Lava"
+  },
+  "textureInfo": {
+    "colour": [
+      0.95,
+      0.4,
+      0.05,
+      0.95
+    ],
+    "animTextures": [
+      "lava0",
+      "lava1",
+      "lava2",
+      "lava3",
+      "lava4",
+      "lava5",
+      "lava6",
+      "lava7"
+    ],
+    "animationInterval": 200
+  },
+  "harvestType": "rock",
+  "drops": null,
+  "dm": true,
+  "lm": [
+    14,
+    8,
+    2
+  ],
+  "atlasIdx": [
+    0,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "stackable": true
+}

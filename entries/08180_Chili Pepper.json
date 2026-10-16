@@ -1,0 +1,29 @@
+{
+  "id": 8180,
+  "name": "Chili Pepper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:chiliPepper",
+    "text": "Chili Pepper"
+  },
+  "description": {
+    "key": "item:chiliPepperDescription",
+    "text": "Eat to gain heat resistance"
+  },
+  "type": "Chargeable",
+  "textureInfo": "chili_pepper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Chili Pepper",
+    "rootId": 8180,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Chili Pepper|meta|charging1"
+}

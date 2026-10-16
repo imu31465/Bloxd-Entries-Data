@@ -1,0 +1,30 @@
+{
+  "id": 8928,
+  "name": "Cow's Milk",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cowsMilk",
+    "text": "Cow's Milk"
+  },
+  "description": {
+    "key": "item:cowsMilkDescription",
+    "text": "Combine to make Cheese to give you Air Walking."
+  },
+  "type": "Chargeable",
+  "textureInfo": "cows_milk",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "drink",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Cow's Milk",
+    "rootId": 8928,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Cow's Milk|meta|charging1"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 811,
+  "name": "Smooth Granite Slab",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothGraniteSlab",
+    "text": "Smooth Granite Slab"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "slab_stone_granite_smooth_side",
+    "stone_granite_smooth"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "model": "Slab",
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Smooth Granite Slab",
+    "rootId": 811,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  },
+  "rootMetaDesc": "Smooth Granite Slab|meta|rot1|bot",
+  "atlasIdx": [
+    419,
+    143
+  ],
+  "stackable": true,
+  "slabFullBlock": "Smooth Granite"
+}

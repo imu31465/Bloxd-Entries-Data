@@ -1,0 +1,30 @@
+{
+  "id": 8166,
+  "name": "Apple",
+  "kind": "item",
+  "displayName": {
+    "key": "item:apple",
+    "text": "Apple"
+  },
+  "description": {
+    "key": "item:foodDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "textureInfo": "apple",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 12,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "meta": {
+    "rootName": "Apple",
+    "rootId": 8166,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Apple|meta|charging1"
+}

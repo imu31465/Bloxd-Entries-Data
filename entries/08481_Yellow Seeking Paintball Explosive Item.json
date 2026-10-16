@@ -1,0 +1,18 @@
+{
+  "id": 8481,
+  "name": "Yellow Seeking Paintball Explosive Item",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowSeekingPaintballExplosive",
+    "text": "Yellow Seeking Paintball Explosive"
+  },
+  "description": {
+    "key": "item:seekingPaintballExplosiveDescription",
+    "unresolved": true
+  },
+  "type": "Item",
+  "textureInfo": "explosive_paint_seeking_yellow",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

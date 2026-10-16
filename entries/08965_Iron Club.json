@@ -1,0 +1,24 @@
+{
+  "id": 8965,
+  "name": "Iron Club",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironClub",
+    "text": "Iron Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "iron_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 34,
+  "knockbackHorizontalScalar": 2.1,
+  "knockbackVerticalScalar": 1.2,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 3
+}

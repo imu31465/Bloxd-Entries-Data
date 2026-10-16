@@ -1,0 +1,24 @@
+{
+  "id": 1465,
+  "name": "Green Strongbed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:greenStrongbed",
+    "text": "Green Strongbed"
+  },
+  "ttb": 480,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "green_strongbed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Green Strongbed",
+    "rootId": 1465,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Green Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Green Strongbed"
+}

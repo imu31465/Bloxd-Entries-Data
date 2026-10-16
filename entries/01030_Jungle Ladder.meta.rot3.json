@@ -1,0 +1,34 @@
+{
+  "id": 1030,
+  "name": "Jungle Ladder|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleLadder",
+    "text": "Jungle Ladder"
+  },
+  "ttb": 1000,
+  "harvestType": "wood",
+  "model": "rotatableOffset",
+  "itemTexture": "ladder_jungle",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Jungle Ladder",
+    "rootId": 1028,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "stackable": true,
+  "blockModel": "Jungle Ladder",
+  "blockModelItem": true,
+  "rotatableOffsetAmt": 0.375
+}

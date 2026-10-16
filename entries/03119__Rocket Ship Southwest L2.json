@@ -1,0 +1,14 @@
+{
+  "id": 3119,
+  "name": "_Rocket Ship Southwest L2",
+  "kind": "block",
+  "ttb": 3600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "drops": null,
+  "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "stackable": true,
+  "blockModel": "rocket_southwest_2"
+}

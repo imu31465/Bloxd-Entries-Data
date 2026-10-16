@@ -1,0 +1,36 @@
+{
+  "id": 1565,
+  "name": "Spawn Block (Orange)|meta|rot4",
+  "kind": "block",
+  "ttb": 1500,
+  "textureInfo": [
+    "orange_spawn_block_top[rot[1",
+    "orange_spawn_block_top[rot[2",
+    "orange_spawn_block_top[rot[3",
+    "orange_spawn_block_top[rot[4",
+    "orange_spawn_block_side"
+  ],
+  "texturePerSide": [
+    4,
+    4,
+    1,
+    4,
+    4,
+    4
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Spawn Block (Orange)",
+    "rootId": 1517,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "atlasIdx": [
+    621,
+    622,
+    623,
+    624,
+    625
+  ],
+  "stackable": true
+}

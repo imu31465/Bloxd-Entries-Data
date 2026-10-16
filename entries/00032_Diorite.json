@@ -1,0 +1,14 @@
+{
+  "id": 32,
+  "name": "Diorite",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diorite",
+    "text": "Diorite"
+  },
+  "ttb": 1800,
+  "textureInfo": "stone_diorite",
+  "harvestType": "rock",
+  "atlasIdx": 138,
+  "stackable": true
+}

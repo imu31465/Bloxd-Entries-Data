@@ -1,0 +1,19 @@
+{
+  "id": 8356,
+  "name": "Purple Balloon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleBalloon",
+    "text": "Purple Balloon"
+  },
+  "description": {
+    "key": "item:balloonDescription",
+    "text": "Go up high and fall down slowly"
+  },
+  "type": "Item",
+  "textureInfo": "purple_balloon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Purple Balloon Item",
+  "stackable": true
+}

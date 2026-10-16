@@ -1,0 +1,21 @@
+{
+  "id": 8578,
+  "name": "Cow Spawn Orb",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cowSpawnOrb",
+    "text": "Cow Spawn Orb"
+  },
+  "description": {
+    "key": "item:cowSpawnOrbDescription",
+    "text": "Throw to spawn a Cow at the landing location",
+    "params": {
+      "mob": "Cow"
+    }
+  },
+  "type": "Item",
+  "textureInfo": "cow_spawn_orb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

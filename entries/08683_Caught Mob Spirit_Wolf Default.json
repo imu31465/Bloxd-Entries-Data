@@ -1,0 +1,15 @@
+{
+  "id": 8683,
+  "name": "Caught Mob Spirit_Wolf Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_spirit_wolf_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Spirit_Wolf Default",
+    "rootId": 8683,
+    "caughtMobType": "Spirit Wolf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8884,
+  "name": "Heatwarp Flounder",
+  "kind": "item",
+  "displayName": {
+    "key": "item:heatwarpFlounder",
+    "text": "Heatwarp Flounder"
+  },
+  "type": "Item",
+  "textureInfo": "heatwarp_flounder",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

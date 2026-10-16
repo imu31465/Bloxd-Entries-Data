@@ -1,0 +1,14 @@
+{
+  "id": 82,
+  "name": "Red Baked Clay",
+  "kind": "block",
+  "displayName": {
+    "key": "item:redBakedClay",
+    "text": "Red Baked Clay"
+  },
+  "ttb": 1500,
+  "textureInfo": "hardened_clay_stained_red",
+  "harvestType": "rock",
+  "atlasIdx": 188,
+  "stackable": true
+}

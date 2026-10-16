@@ -1,0 +1,30 @@
+{
+  "id": 8185,
+  "name": "Baked Potato",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bakedPotato",
+    "text": "Baked Potato"
+  },
+  "description": {
+    "key": "item:bakedPotatoDescription",
+    "text": "Eat to gain health and temporarily increased health regeneration"
+  },
+  "type": "Chargeable",
+  "textureInfo": "baked_potato",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 20,
+  "chargeStages": 1,
+  "chargeTime": 1050,
+  "meta": {
+    "rootName": "Baked Potato",
+    "rootId": 8185,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Baked Potato|meta|charging1"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8936,
+  "name": "Truffle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:truffle",
+    "text": "Truffle"
+  },
+  "description": {
+    "key": "item:truffleDescription",
+    "text": "Combine to make Truffle Oil to give you Bounciness"
+  },
+  "type": "Chargeable",
+  "textureInfo": "truffle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "eatHealAmt": 3,
+  "chargeStages": 1,
+  "chargeTime": 500,
+  "meta": {
+    "rootName": "Truffle",
+    "rootId": 8936,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  },
+  "rootMetaDesc": "Truffle|meta|charging1"
+}

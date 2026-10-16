@@ -1,0 +1,14 @@
+{
+  "id": 911,
+  "name": "Pear Leaves",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearLeaves",
+    "text": "Pear Leaves"
+  },
+  "ttb": 350,
+  "textureInfo": "leaves_pear",
+  "harvestType": "cuttable",
+  "atlasIdx": 440,
+  "stackable": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1249,
+  "name": "Cherry Trapdoor",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryTrapdoor",
+    "text": "Cherry Trapdoor"
+  },
+  "ttb": 2800,
+  "harvestType": "wood",
+  "model": "trapdoor",
+  "itemTexture": "cherry_trapdoor",
+  "Am": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ],
+  "heldItemScale": 0.5,
+  "meta": {
+    "rootName": "Cherry Trapdoor",
+    "rootId": 1249,
+    "metaStr": "meta|rot1|closed",
+    "rot": 1,
+    "open": false
+  },
+  "rootMetaDesc": "Cherry Trapdoor|meta|rot1|closed",
+  "stackable": true,
+  "blockModel": "Cherry Trapdoor",
+  "blockModelItem": true
+}

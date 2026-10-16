@@ -1,0 +1,14 @@
+{
+  "id": 31,
+  "name": "Smooth Stone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothStone",
+    "text": "Smooth Stone"
+  },
+  "ttb": 1800,
+  "textureInfo": "smooth_stone",
+  "harvestType": "rock",
+  "atlasIdx": 137,
+  "stackable": true
+}

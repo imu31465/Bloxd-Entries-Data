@@ -1,0 +1,32 @@
+{
+  "id": 1277,
+  "name": "Diamond Spikes",
+  "kind": "block",
+  "displayName": {
+    "key": "item:diamondSpikes",
+    "text": "Diamond Spikes"
+  },
+  "description": {
+    "key": "item:spikesDescription",
+    "text": "Walk over these to receive damage. Trap your enemies with ease!"
+  },
+  "ttb": 1200,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "spikes_diamond",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1
+  ],
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.125
+  },
+  "stackable": true,
+  "blockModel": "Spikes_Diamond"
+}

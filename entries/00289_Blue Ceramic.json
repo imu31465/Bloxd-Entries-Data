@@ -1,0 +1,39 @@
+{
+  "id": 289,
+  "name": "Blue Ceramic",
+  "kind": "block",
+  "displayName": {
+    "key": "item:blueCeramic",
+    "text": "Blue Ceramic"
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "blue_glazed_terracotta[rot[1",
+    "blue_glazed_terracotta[rot[2",
+    "blue_glazed_terracotta[rot[3",
+    "blue_glazed_terracotta[rot[4"
+  ],
+  "texturePerSide": [
+    0,
+    2,
+    2,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Blue Ceramic",
+    "rootId": 289,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Blue Ceramic|meta|rot1",
+  "atlasIdx": [
+    330,
+    331,
+    332,
+    333
+  ],
+  "stackable": true
+}

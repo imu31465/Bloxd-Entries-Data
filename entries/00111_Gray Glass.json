@@ -1,0 +1,19 @@
+{
+  "id": 111,
+  "name": "Gray Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:grayGlass",
+    "text": "Gray Glass"
+  },
+  "ttb": 450,
+  "textureInfo": "glass_gray",
+  "harvestType": "wood",
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 218,
+  "stackable": true
+}

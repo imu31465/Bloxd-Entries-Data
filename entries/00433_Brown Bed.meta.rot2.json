@@ -1,0 +1,23 @@
+{
+  "id": 433,
+  "name": "Brown Bed|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:brownBed",
+    "text": "Brown Bed"
+  },
+  "ttb": 240,
+  "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "brown_bed",
+  "modelScale": 5,
+  "meta": {
+    "rootName": "Brown Bed",
+    "rootId": 432,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "blockModel": "Brown Bed"
+}

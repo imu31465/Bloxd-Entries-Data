@@ -1,0 +1,16 @@
+{
+  "id": 9141,
+  "name": "Kingly Amethite Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyAmethiteChestplate",
+    "text": "Kingly Amethite Chestplate"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_amethite_chestplate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "kingly_amethite_chestplate",
+  "stackable": false,
+  "armourReduction": 0.24
+}

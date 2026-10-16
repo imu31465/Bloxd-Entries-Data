@@ -1,0 +1,14 @@
+{
+  "id": 8824,
+  "name": "Alpha Moon Strongfish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:alphaMoonStrongfish",
+    "text": "Alpha Moon Strongfish"
+  },
+  "type": "Item",
+  "textureInfo": "alpha_moon_strongfish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

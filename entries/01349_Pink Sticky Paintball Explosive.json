@@ -1,0 +1,10 @@
+{
+  "id": 1349,
+  "name": "Pink Sticky Paintball Explosive",
+  "kind": "block",
+  "ttb": 50,
+  "textureInfo": "explosive_paint_sticky_pink",
+  "harvestType": "cuttable",
+  "atlasIdx": 579,
+  "stackable": true
+}

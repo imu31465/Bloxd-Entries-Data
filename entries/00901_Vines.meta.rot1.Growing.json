@@ -1,0 +1,31 @@
+{
+  "id": 901,
+  "name": "Vines|meta|rot1|Growing",
+  "kind": "block",
+  "ttb": 225,
+  "harvestType": "cuttable",
+  "model": "rotatableOffset",
+  "itemTexture": "vine_coloured",
+  "solid": false,
+  "Am": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ],
+  "heldItemScale": 10,
+  "modelScale": 10,
+  "meta": {
+    "rootName": "Vines",
+    "rootId": 219,
+    "metaStr": "meta|rot1|Growing",
+    "rot": 1,
+    "kt": true
+  },
+  "rootMetaDesc": "Vines|meta|rot1|Growing",
+  "stackable": true,
+  "blockModel": "Vines",
+  "blockModelItem": true
+}

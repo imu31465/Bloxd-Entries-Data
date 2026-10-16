@@ -1,0 +1,41 @@
+{
+  "id": 981,
+  "name": "Jack o'Lantern|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jackO'Lantern",
+    "text": "Jack o'Lantern"
+  },
+  "ttb": 1200,
+  "textureInfo": [
+    "pumpkin_face_on",
+    "pumpkin_side",
+    "pumpkin_top"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "wood",
+  "meta": {
+    "rootName": "Jack o'Lantern",
+    "rootId": 980,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "lm": [
+    14,
+    10,
+    4
+  ],
+  "atlasIdx": [
+    210,
+    456,
+    457
+  ],
+  "stackable": true
+}

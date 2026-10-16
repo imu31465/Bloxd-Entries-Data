@@ -1,0 +1,14 @@
+{
+  "id": 8867,
+  "name": "Blackfin Icefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackfinIcefish",
+    "text": "Blackfin Icefish"
+  },
+  "type": "Item",
+  "textureInfo": "blackfin_icefish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

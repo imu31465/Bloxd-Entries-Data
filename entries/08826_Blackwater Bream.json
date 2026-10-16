@@ -1,0 +1,14 @@
+{
+  "id": 8826,
+  "name": "Blackwater Bream",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackwaterBream",
+    "text": "Blackwater Bream"
+  },
+  "type": "Item",
+  "textureInfo": "blackwater_bream",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}
