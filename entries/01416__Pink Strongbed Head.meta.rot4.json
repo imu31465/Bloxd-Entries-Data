@@ -7,6 +7,20 @@
   "model": "rotatable",
   "itemTexture": "pink_strongbed",
   "drops": "Pink Strongbed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1,
+    0.875,
+    0.75,
+    0,
+    1,
+    1,
+    1
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "_Pink Strongbed Head",

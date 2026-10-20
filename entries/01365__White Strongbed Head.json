@@ -7,6 +7,20 @@
   "model": "rotatable",
   "itemTexture": "white_strongbed",
   "drops": "White Strongbed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1,
+    0,
+    0.75,
+    0,
+    1,
+    1,
+    0.125
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "_White Strongbed Head",

@@ -10,6 +10,14 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "red_bed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "Red Bed",

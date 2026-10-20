@@ -27,8 +27,8 @@
   },
   "harvestType": "rock",
   "drops": null,
-  "dm": true,
-  "lm": [
+  "gv": true,
+  "Tv": [
     14,
     8,
     2

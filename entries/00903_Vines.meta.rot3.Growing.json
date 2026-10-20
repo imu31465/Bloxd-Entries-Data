@@ -7,7 +7,7 @@
   "model": "rotatableOffset",
   "itemTexture": "vine_coloured",
   "solid": false,
-  "Am": [
+  "Iv": [
     0,
     0,
     0.875,
@@ -22,7 +22,7 @@
     "rootId": 219,
     "metaStr": "meta|rot3|Growing",
     "rot": 3,
-    "kt": true
+    "fu": true
   },
   "stackable": true
 }

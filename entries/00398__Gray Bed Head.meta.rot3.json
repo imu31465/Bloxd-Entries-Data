@@ -7,6 +7,14 @@
   "model": "rotatable",
   "itemTexture": "gray_bed",
   "drops": "Gray Bed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "_Gray Bed Head",

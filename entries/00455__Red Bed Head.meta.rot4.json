@@ -7,6 +7,14 @@
   "model": "rotatable",
   "itemTexture": "red_bed",
   "drops": "Red Bed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "_Red Bed Head",

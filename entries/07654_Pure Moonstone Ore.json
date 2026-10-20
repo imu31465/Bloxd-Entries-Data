@@ -10,7 +10,7 @@
   "textureInfo": "pure_moonstone_ore",
   "harvestType": "rock",
   "drops": "Moonstone",
-  "Jm": 9,
+  "Zu": 9,
   "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "lm": [
+  "Tv": [
     6,
     6,
     6

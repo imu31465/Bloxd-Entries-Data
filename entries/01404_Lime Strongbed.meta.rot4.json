@@ -10,6 +10,20 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "lime_strongbed",
+  "Iv": [
+    0,
+    0,
+    0,
+    1,
+    0.75,
+    1,
+    0,
+    0.75,
+    0,
+    0.125,
+    0.875,
+    1
+  ],
   "modelScale": 5,
   "meta": {
     "rootName": "Lime Strongbed",
