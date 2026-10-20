@@ -1,87 +1,82 @@
-# Bloxd.io ブロック/アイテム データ
+# Bloxd.io Block/Item Data
 
-ソース: bloxd.io メインバンドル (/static/js/3ymzdd.main.fae4743f.js)
-抽出日: 2026-10-20T09:48:33.368Z
+Source: bloxd.io main bundle (/static/js/3ymzdd.main.fae4743f.js)
+Extracted: 2026-10-20T10:26:45.817Z
 
-ゲーム本体と同じJavaScriptエンジン(V8)でバンドル内のレジストリ構築コードを実行して抽出しています。
-そのため ID・プロパティは実ゲームと一致します(バンドル内ハードコードのID対応表と照合済み)。
+Extraction executes the registry-building code inside the bundle on the same JavaScript engine (V8) the game uses.
+IDs and properties therefore match the live game (verified against the hardcoded ID table in the bundle).
 
-## 更新方法
+## Updating
 
-`node update.js` を実行すると、bloxd.io の最新バンドルを確認してこのフォルダ内のデータを更新します。
+This repository publishes the extracted data only; the extraction script is not included.
+Each update re-extracts the registries from the current bloxd.io main bundle and records the diff in CHANGES.md.
 
-- `--force` : バンドルが前回と同じでも強制再抽出
-- `--skip-fetch` : ダウンロード済みバンドルで再抽出 (ネットワーク不要)
+## Layout
 
-バンドルはOSの一時フォルダにキャッシュされ、前回と同一なら更新はスキップされます。
+- CHANGES.md : diff produced by the most recent update (added / removed / ID changes)
+- entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
+- entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; `kind` distinguishes block/item)
 
-## 構成
+State variants (orientation, open/closed, growth, charge, etc.) live in the same folder.
+File names take the form `00165_Furnace.meta.rot2.json` (`|` in the original name replaced with `.`).
+The `meta` field (rootName / rootId / metaStr) refers back to the base entry.
 
-- update.js  : このフォルダを更新するスクリプト (依存ゼロ / Node >= 18)
-- CHANGES.md : 直近の更新で生じた差分 (追加 / 削除 / ID変更)
-- entries.json : 全エントリ(block+item)の id↔name 対応表 [{id, name}] (id順, 0〜N連番)
-- entries/     : 個別JSON (ファイル名が5桁ゼロ埋めIDで始まるので名前順=ID順, kindでblock/itemを区別)
+## ID Scheme
 
-状態バリアント(向き・開閉・成長・チャージ等)も同じフォルダにまとまっています。
-ファイル名は `00165_Furnace.meta.rot2.json` の形 (元の名前の `|` を `.` に置換)。
-中身の `meta` フィールド (rootName / rootId / metaStr) が元エントリを参照します。
+- 0 = Air (special value). 1 = Unloaded (unloaded chunk).
+- Blocks: 0..7861 / Items: 7862..9247
+- Blocks and items share one contiguous ID space (items start at the highest block ID + 1).
 
-## ID体系
+## Common Fields (all entries)
 
-- 0 = Air (特別値)。1 = Unloaded(未ロードチャンク)。
-- ブロック: 0〜7861 / アイテム: 7862〜9247
-- ブロックとアイテムは連続した同一ID空間を共有 (アイテムは最大ブロックID+1から開始)
-
-## 主なフィールド (全エントリ共通)
-
-| フィールド | 意味 |
+| Field | Meaning |
 |---|---|
-| id / name / kind | 数値ID / 正規名 (API用) / block または item |
-| displayName | 表示名。key=翻訳キー, text=英語表示名 (解決できない場合は unresolved) |
-| description | 説明文 (同上) |
-| meta | 状態バリアント情報 {rootName, rootId, metaStr, rot, open, ...}。null キーは除去し、基本エントリでは省略 |
-| rootMetaDesc | バリアントの完全名 (例 "Loot Chest|meta|rot4") |
-| stackable | スタック可否 |
+| id / name / kind | Numeric ID / canonical name (for the API) / block or item |
+| displayName | Display name. key=translation key, text=English display name (unresolved if lookup fails) |
+| description | Description (same structure as displayName) |
+| meta | State variant info {rootName, rootId, metaStr, rot, open, ...}. Null keys are removed; omitted for base entries |
+| rootMetaDesc | Fully qualified variant name (e.g. "Loot Chest|meta|rot4") |
+| stackable | Whether the item is stackable |
 
-## 主なフィールド (ブロック系)
+## Block Fields
 
-| フィールド | 意味 |
+| Field | Meaning |
 |---|---|
-| ttb | Time To Break (破壊にかかる時間 ms) |
-| harvestType | granule(粒)/wood(木)/rock(岩)/cuttable(刈取) などの破壊種別 |
-| harvestLevel | 採掘に必要なツールレベル |
-| drops | 破壊時ドロップ (未指定=自分自身, null=ドロップなし) |
-| specialToolDrop | {tool, drops} 特定ツールでの特殊ドロップ |
-| specialToolBonusDrops | {tool: [{bonusDrop, probabilityOfDrop}]} ボーナスドロップ |
-| textureInfo | テクスチャ名。配列=面ごと。RGBA数値配列=単色 (例 Water) |
-| texturePerSide | 6面へのテクスチャ割当インデックス |
-| atlasIdx | テクスチャアトラス上のインデックス (アニメーションは配列) |
-| model | CentreCross / rotatable / SquareSided / CustomModel などの描画モデル |
-| solid | 当たり判定の有無 |
-| soundType | {break, place} 破壊/設置音 |
-| damage | 触れたときのダメージ (サボテン等) |
-| stoodOnSpeedMultiplier | 上に立ったときの移動速度倍率 |
-| canBePlacedOver / attachedTop / slabFullBlock | 設置挙動フラグ |
-| onMinedAura | 採掘時パーティクルの色 |
-| kV | ドア/トラップドアの状態->メッシュマッピング |
+| ttb | Time To Break (ms) |
+| harvestType | Break type such as granule / wood / rock / cuttable |
+| harvestLevel | Required tool tier |
+| drops | Drops when broken (omitted = itself, null = no drops) |
+| specialToolDrop | {tool, drops} special drop for a specific tool |
+| specialToolBonusDrops | {tool: [{bonusDrop, probabilityOfDrop}]} bonus drops |
+| textureInfo | Texture name. Array = per face. RGBA number array = solid color (e.g. Water) |
+| texturePerSide | Texture assignment index for the 6 faces |
+| atlasIdx | Index in the texture atlas (array for animations) |
+| model | Render model such as CentreCross / rotatable / SquareSided / CustomModel |
+| solid | Whether the block has collision |
+| soundType | {break, place} break/place sounds |
+| damage | Damage on contact (e.g. cactus) |
+| stoodOnSpeedMultiplier | Movement speed multiplier while standing on the block |
+| canBePlacedOver / attachedTop / slabFullBlock | Placement behavior flags |
+| onMinedAura | Particle color when mined |
+| kV | Door/trapdoor state -> mesh mapping |
 
-## 主なフィールド (アイテム系)
+## Item Fields
 
-| フィールド | 意味 |
+| Field | Meaning |
 |---|---|
-| type | Gun / Tool / Chargeable などの分類 |
-| weight | 所持重量 |
-| damage / attackRange / secondaryDamage | 武器ダメージ / 射程 |
-| harvests / multiplier / level | ツールの対象・速度倍率・レベル |
-| armourReduction / knockbackReduction | 防具性能 |
-| eatable / eatHealAmt / afterEatenItem | 食料性能 |
-| chargeTime / chargeStages / chargeSound | チャージ動作 |
-| fireRate / reloadTime / clipSize / inaccuracy* / kickback* / scopeType | 銃のステータス |
-| fishingRodInfo / comboInfo / dashImpulse | 特殊動作パラメータ |
-| heldItemGlb / textureInfo | 手持ち3Dモデル / テクスチャ |
+| type | Classification such as Gun / Tool / Chargeable |
+| weight | Carried weight |
+| damage / attackRange / secondaryDamage | Weapon damage / attack range |
+| harvests / multiplier / level | Tool targets, speed multiplier, tier |
+| armourReduction / knockbackReduction | Armour stats |
+| eatable / eatHealAmt / afterEatenItem | Food stats |
+| chargeTime / chargeStages / chargeSound | Charge behavior |
+| fireRate / reloadTime / clipSize / inaccuracy* / kickback* / scopeType | Gun stats |
+| fishingRodInfo / comboInfo / dashImpulse | Special action parameters |
+| heldItemGlb / textureInfo | Held 3D model / texture |
 
-## 注意
+## Notes
 
-- displayName.text はバンドル埋め込みの英語テーブルで解決 (他言語はゲーム起動時に別途取得されるため未収録)
-- atlasIdx はゲーム実行時にテクスチャパック構成により変わりうる補助情報
-- meta は null キーを除去して出力 (base エントリは meta 自体を省略)
+- displayName.text is resolved from the English table embedded in the bundle (other languages are fetched separately at game startup and are not included)
+- atlasIdx is auxiliary info that can change with the texture pack configuration at runtime
+- meta is output with null keys removed (base entries omit meta entirely)

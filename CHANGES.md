@@ -1,13 +1,13 @@
-# 抽出結果の変更記録
+# Extraction Change Log
 
-- 実行日時: 2026-10-20T09:48:33.368Z
-- バンドル: https://bloxd.io/static/js/3ymzdd.main.fae4743f.js
-- 件数: 9248 -> 9248
+- Run at: 2026-10-20T10:26:45.817Z
+- Bundle: https://bloxd.io/static/js/3ymzdd.main.fae4743f.js
+- Entries: 9248 -> 9248
 
-| 種別 | 件数 |
+| Type | Count |
 |---|---|
-| 追加 | 0 |
-| 削除 | 0 |
-| ID変更 | 0 |
+| Added | 0 |
+| Removed | 0 |
+| ID changed | 0 |
 
-変更なし。
+No changes.
