@@ -1,0 +1,53 @@
+{
+  "id": 7880,
+  "name": "Smelter|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smelter",
+    "text": "Smelter"
+  },
+  "description": {
+    "key": "item:smelterDescription",
+    "text": "Smelts each Raw ore or Grit into a bar, and Sand into Glass. Needs fuel. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "smelter_front",
+    "smelter_side",
+    "smelter_top[rot[1",
+    "smelter_top[rot[2",
+    "smelter_top[rot[3",
+    "smelter_top[rot[4",
+    "machine_side",
+    "smelter_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    4,
+    6,
+    7,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Smelter",
+    "rootId": 7878,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1038,
+    1061
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

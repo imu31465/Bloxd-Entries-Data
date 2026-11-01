@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "jungle_fence_gate",
   "drops": null,
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -33,7 +33,7 @@
     "rot": 1,
     "open": true
   },
-  "atlasIdx": 126,
+  "atlasIdx": 206,
   "stackable": true,
   "canBePlacedOver": true
 }

@@ -20,7 +20,7 @@
   "textureInfo": "chalk_yellow",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -36,7 +36,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Yellow Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 755,
+  "atlasIdx": 839,
   "stackable": true,
   "slabFullBlock": "Yellow Chalk"
 }

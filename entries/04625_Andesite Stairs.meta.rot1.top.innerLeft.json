@@ -10,7 +10,7 @@
   "textureInfo": "stone_andesite",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -38,6 +38,6 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 140,
+  "atlasIdx": 220,
   "stackable": true
 }

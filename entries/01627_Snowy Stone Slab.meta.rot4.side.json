@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    740,
-    739
+    824,
+    823
   ],
   "stackable": true,
   "slabFullBlock": "Snowy Messy Stone"

@@ -10,7 +10,7 @@
   "textureInfo": "sandstone_normal",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Sandstone Stairs|meta|rot1|bot",
-  "atlasIdx": 144,
+  "atlasIdx": 224,
   "stackable": true
 }

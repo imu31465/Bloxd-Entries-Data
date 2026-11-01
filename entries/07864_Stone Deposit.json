@@ -1,0 +1,21 @@
+{
+  "id": 7864,
+  "name": "Stone Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneDeposit",
+    "text": "Stone Deposit"
+  },
+  "description": {
+    "key": "item:stoneDepositDescription",
+    "text": "Never runs out. Mine it for Messy Stone, or put a Burner Drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "stone_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1033,
+  "stackable": true,
+  "showInCreativeInven": false
+}

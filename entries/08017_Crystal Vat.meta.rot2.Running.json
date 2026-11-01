@@ -1,0 +1,66 @@
+{
+  "id": 8017,
+  "name": "Crystal Vat|meta|rot2|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crystalVat",
+    "text": "Crystal Vat"
+  },
+  "description": {
+    "key": "item:crystalVatDescription",
+    "text": "Turns 24 Coal into a Diamond, or 12 Voltite Dust into a Moonstone. Uses lots of power: one Volt Engine per Vat. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "crystal_vat_front",
+    {
+      "animTextures": [
+        "crystal_vat_side_running0",
+        "crystal_vat_side_running1",
+        "crystal_vat_side_running2",
+        "crystal_vat_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "crystal_vat_top[rot[1",
+    "crystal_vat_top[rot[2",
+    "crystal_vat_top[rot[3",
+    "crystal_vat_top[rot[4",
+    "machine_side",
+    "crystal_vat_back"
+  ],
+  "texturePerSide": [
+    0,
+    7,
+    3,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Crystal Vat",
+    "rootId": 8012,
+    "metaStr": "meta|rot2|Running",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    6,
+    3,
+    9
+  ],
+  "atlasIdx": [
+    1159,
+    41,
+    1161,
+    1162,
+    1163,
+    1164,
+    1038,
+    1165
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8306,
+  "name": "INTERNAL_MESH_Iron Mining Drill",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Iron Mining Drill",
+  "stackable": false
+}

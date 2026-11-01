@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Smooth Granite Slab|meta|rot1|bot",
   "atlasIdx": [
-    419,
-    143
+    503,
+    223
   ],
   "stackable": true,
   "slabFullBlock": "Smooth Granite"

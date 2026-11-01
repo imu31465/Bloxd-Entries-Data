@@ -1,0 +1,53 @@
+{
+  "id": 8054,
+  "name": "Crop Harvester|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cropHarvester",
+    "text": "Crop Harvester"
+  },
+  "description": {
+    "key": "item:cropHarvesterDescription",
+    "text": "Harvests the 3×3 wheat field behind it. Fertiliser doubles growth. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "crop_harvester_front",
+    "crop_harvester_side",
+    "crop_harvester_top[rot[1",
+    "crop_harvester_top[rot[2",
+    "crop_harvester_top[rot[3",
+    "crop_harvester_top[rot[4",
+    "machine_side",
+    "crop_harvester_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    5,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Crop Harvester",
+    "rootId": 8051,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1185,
+    1186,
+    1187,
+    1188,
+    1189,
+    1190,
+    1038,
+    1191
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

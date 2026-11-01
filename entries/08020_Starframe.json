@@ -1,0 +1,25 @@
+{
+  "id": 8020,
+  "name": "Starframe",
+  "kind": "block",
+  "displayName": {
+    "key": "item:starframe",
+    "text": "Starframe"
+  },
+  "description": {
+    "key": "item:starframeDescription",
+    "text": "Star-metal frames the Forge Hopper is built from. Made at the Parts Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": "starframe",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "zD": [
+    6,
+    6,
+    10
+  ],
+  "atlasIdx": 1166,
+  "stackable": true,
+  "showInCreativeInven": false
+}

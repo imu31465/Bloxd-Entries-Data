@@ -1,0 +1,53 @@
+{
+  "id": 7893,
+  "name": "Wire Mill|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wireMill",
+    "text": "Wire Mill"
+  },
+  "description": {
+    "key": "item:wireMillDescription",
+    "text": "Turns each Copper Bar into 3 Copper Wire. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "wire_mill_front",
+    "wire_mill_side",
+    "wire_mill_top[rot[1",
+    "wire_mill_top[rot[2",
+    "wire_mill_top[rot[3",
+    "wire_mill_top[rot[4",
+    "machine_side",
+    "wire_mill_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    5,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Wire Mill",
+    "rootId": 7890,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1038,
+    1077
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

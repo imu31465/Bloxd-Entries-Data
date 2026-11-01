@@ -1,0 +1,34 @@
+{
+  "id": 7925,
+  "name": "Machine Bench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:machineBench",
+    "text": "Machine Bench"
+  },
+  "description": {
+    "key": "item:machineBenchDescription",
+    "text": "Makes everything you place in your factory: machines, belts and more. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "machine_bench_side",
+    "machine_bench_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "altActionable": true,
+  "atlasIdx": [
+    1114,
+    1115
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

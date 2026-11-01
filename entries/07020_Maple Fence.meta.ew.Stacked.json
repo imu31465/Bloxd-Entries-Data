@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "maple_fence",
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -36,7 +36,7 @@
     "rootId": 6994,
     "metaStr": "meta|ew|Stacked"
   },
-  "atlasIdx": 123,
+  "atlasIdx": 203,
   "stackable": true,
   "attachedTop": "_Maple Fence Top|meta|ew"
 }

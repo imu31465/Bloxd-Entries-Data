@@ -1,0 +1,34 @@
+{
+  "id": 7926,
+  "name": "Parts Bench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:partsBench",
+    "text": "Parts Bench"
+  },
+  "description": {
+    "key": "item:partsBenchDescription",
+    "text": "Makes parts that go into other things, like Motors. The Assembler can make these by itself. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "parts_bench_side",
+    "parts_bench_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "altActionable": true,
+  "atlasIdx": [
+    1116,
+    1117
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

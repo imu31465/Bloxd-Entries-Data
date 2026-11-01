@@ -1,0 +1,26 @@
+{
+  "id": 8022,
+  "name": "Comet Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cometOre",
+    "text": "Comet Ore"
+  },
+  "description": {
+    "key": "item:cometOreDescription",
+    "text": "Fell with a comet. Mine it for Comet Shards."
+  },
+  "ttb": 5000,
+  "textureInfo": "comet_ore",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 3,
+  "zD": [
+    8,
+    6,
+    10
+  ],
+  "atlasIdx": 1168,
+  "stackable": true,
+  "showInCreativeInven": false
+}

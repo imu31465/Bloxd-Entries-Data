@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Jungle Slab|meta|rot1|bot",
   "atlasIdx": [
-    399,
-    126
+    483,
+    206
   ],
   "stackable": true,
   "slabFullBlock": "Jungle Wood Planks"

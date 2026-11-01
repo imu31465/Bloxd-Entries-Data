@@ -1,0 +1,19 @@
+{
+  "id": 9485,
+  "name": "Iron Plate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironPlate",
+    "text": "Iron Plate"
+  },
+  "description": {
+    "key": "item:ironPlateDescription",
+    "text": "Pressed iron. Used in Motors and the Core."
+  },
+  "type": "Item",
+  "textureInfo": "iron_plate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

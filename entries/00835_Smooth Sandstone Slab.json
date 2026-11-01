@@ -10,7 +10,7 @@
   "textureInfo": "sandstone_top",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -26,7 +26,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Smooth Sandstone Slab|meta|rot1|bot",
-  "atlasIdx": 243,
+  "atlasIdx": 323,
   "stackable": true,
   "slabFullBlock": "Smooth Sandstone"
 }

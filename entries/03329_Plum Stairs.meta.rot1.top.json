@@ -10,7 +10,7 @@
   "textureInfo": "planks_plum",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 125,
+  "atlasIdx": 205,
   "stackable": true
 }

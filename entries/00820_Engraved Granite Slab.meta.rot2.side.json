@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    420,
-    381
+    504,
+    465
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Granite"

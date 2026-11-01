@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "pine_fence",
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -36,7 +36,7 @@
     "rootId": 7042,
     "metaStr": "meta|ns|Stacked"
   },
-  "atlasIdx": 127,
+  "atlasIdx": 207,
   "stackable": true,
   "attachedTop": "_Pine Fence Top|meta|ns"
 }

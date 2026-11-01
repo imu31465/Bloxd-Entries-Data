@@ -10,7 +10,7 @@
   "textureInfo": "pure_gold_ore",
   "harvestType": "rock",
   "drops": "Raw Gold",
-  "Zu": 9,
+  "RD": 9,
   "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,12 +40,12 @@
       }
     ]
   },
-  "Tv": [
+  "zD": [
     6,
     6,
     0
   ],
-  "atlasIdx": 940,
+  "atlasIdx": 1025,
   "stackable": true,
   "onMinedAura": 270
 }

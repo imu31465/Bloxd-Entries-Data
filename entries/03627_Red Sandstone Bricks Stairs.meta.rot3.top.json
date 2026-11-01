@@ -10,7 +10,7 @@
   "textureInfo": "red_sandstone_brick",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 390,
+  "atlasIdx": 474,
   "stackable": true
 }

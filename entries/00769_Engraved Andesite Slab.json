@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Engraved Andesite Slab|meta|rot1|bot",
   "atlasIdx": [
-    412,
-    379
+    496,
+    463
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Andesite"

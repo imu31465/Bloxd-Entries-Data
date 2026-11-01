@@ -1,0 +1,36 @@
+{
+  "id": 8050,
+  "name": "Belt Drop",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beltDrop",
+    "text": "Belt Drop"
+  },
+  "description": {
+    "key": "item:beltDropDescription",
+    "text": "Carries items down a block: belt into its side, put a belt or machine under it. Stack them to go lower. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "belt_drop_top",
+    "belt_drop_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1183,
+    1184,
+    1080
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -20,7 +20,7 @@
   "textureInfo": "chalk_bricks_brown",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -42,6 +42,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Brown Chalk Bricks Stairs|meta|rot1|bot",
-  "atlasIdx": 784,
+  "atlasIdx": 868,
   "stackable": true
 }

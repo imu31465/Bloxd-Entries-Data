@@ -1,0 +1,52 @@
+{
+  "id": 8064,
+  "name": "Belt Tunnel|meta|rot2|exit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beltTunnel",
+    "text": "Belt Tunnel"
+  },
+  "description": {
+    "key": "item:beltTunnelDescription",
+    "text": "Carries items under up to 4 blocks, so belt lines can cross. Place one where items go in. Place another up to 5 blocks ahead, facing the same way: items come out there. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "belt_tunnel_mouth",
+    "belt_tunnel_side",
+    "belt_tunnel_exit_top[rot[1",
+    "belt_tunnel_exit_top[rot[2",
+    "belt_tunnel_exit_top[rot[3",
+    "belt_tunnel_exit_top[rot[4",
+    "conveyor_belt_bottom",
+    "belt_tunnel_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    3,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Belt Tunnel",
+    "rootId": 8059,
+    "metaStr": "meta|rot2|exit",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1192,
+    1193,
+    1199,
+    1200,
+    1201,
+    1202,
+    1080,
+    1198
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

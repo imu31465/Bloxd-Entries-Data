@@ -10,7 +10,7 @@
   "textureInfo": "white_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -26,7 +26,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "White Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 203,
+  "atlasIdx": 283,
   "stackable": true,
   "slabFullBlock": "White Concrete"
 }

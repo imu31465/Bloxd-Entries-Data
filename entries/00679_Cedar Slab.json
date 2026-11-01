@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Cedar Slab|meta|rot1|bot",
   "atlasIdx": [
-    397,
-    128
+    481,
+    208
   ],
   "stackable": true,
   "slabFullBlock": "Cedar Wood Planks"

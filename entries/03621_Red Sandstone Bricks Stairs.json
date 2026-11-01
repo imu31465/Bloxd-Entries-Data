@@ -10,7 +10,7 @@
   "textureInfo": "red_sandstone_brick",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Red Sandstone Bricks Stairs|meta|rot1|bot",
-  "atlasIdx": 390,
+  "atlasIdx": 474,
   "stackable": true
 }

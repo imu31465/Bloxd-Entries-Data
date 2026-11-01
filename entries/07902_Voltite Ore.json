@@ -1,0 +1,26 @@
+{
+  "id": 7902,
+  "name": "Voltite Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:voltiteOre",
+    "text": "Voltite Ore"
+  },
+  "description": {
+    "key": "item:voltiteOreDescription",
+    "text": "Glows deep in the Wilds, between Y −55 and −75. Mine it with an Iron Pickaxe or a Vein Breaker."
+  },
+  "ttb": 4200,
+  "textureInfo": "voltite_ore",
+  "harvestType": "rock",
+  "drops": "Raw Voltite",
+  "harvestLevel": 3,
+  "zD": [
+    2,
+    6,
+    6
+  ],
+  "atlasIdx": 1083,
+  "stackable": true,
+  "showInCreativeInven": false
+}

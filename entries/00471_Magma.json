@@ -9,11 +9,11 @@
   "ttb": 600,
   "textureInfo": "magma",
   "harvestType": "rock",
-  "Tv": [
+  "zD": [
     9,
     3,
     1
   ],
-  "atlasIdx": 366,
+  "atlasIdx": 450,
   "stackable": true
 }

@@ -1,0 +1,14 @@
+{
+  "id": 8074,
+  "name": "Smooth Darkstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:smoothDarkstone",
+    "text": "Smooth Darkstone"
+  },
+  "ttb": 1800,
+  "textureInfo": "darkstone_smooth",
+  "harvestType": "rock",
+  "atlasIdx": 1210,
+  "stackable": true
+}

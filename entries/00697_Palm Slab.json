@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Palm Slab|meta|rot1|bot",
   "atlasIdx": [
-    400,
-    388
+    484,
+    472
   ],
   "stackable": true,
   "slabFullBlock": "Palm Wood Planks"

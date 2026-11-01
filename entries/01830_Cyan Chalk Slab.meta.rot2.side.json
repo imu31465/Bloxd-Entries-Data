@@ -20,7 +20,7 @@
   "textureInfo": "chalk_cyan",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 2,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 767,
+  "atlasIdx": 851,
   "stackable": true,
   "slabFullBlock": "Cyan Chalk"
 }

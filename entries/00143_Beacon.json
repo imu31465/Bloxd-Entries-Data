@@ -9,11 +9,11 @@
   "ttb": 3600,
   "textureInfo": "beacon",
   "harvestType": "rock",
-  "Tv": [
+  "zD": [
     5,
     14,
     14
   ],
-  "atlasIdx": 249,
+  "atlasIdx": 329,
   "stackable": true
 }

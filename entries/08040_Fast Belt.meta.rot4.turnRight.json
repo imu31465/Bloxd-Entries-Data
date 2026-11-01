@@ -1,0 +1,59 @@
+{
+  "id": 8040,
+  "name": "Fast Belt|meta|rot4|turnRight",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fastBelt",
+    "text": "Fast Belt"
+  },
+  "description": {
+    "key": "item:fastBeltDescription",
+    "text": "Carries items twice as fast as a Conveyor Belt. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "fast_belt_turn_right",
+    "fast_belt_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "DD": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Fast Belt",
+    "rootId": 8007,
+    "metaStr": "meta|rot4|turnRight",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    4,
+    0,
+    0
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1173,
+    1156,
+    1080
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

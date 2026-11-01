@@ -1,0 +1,23 @@
+{
+  "id": 9505,
+  "name": "Vein Breaker",
+  "kind": "item",
+  "displayName": {
+    "key": "item:veinBreaker",
+    "text": "Vein Breaker"
+  },
+  "description": {
+    "key": "item:veinBreakerDescription",
+    "text": "Mines a whole vein of Wilds ore at once. Made at the Tool Bench."
+  },
+  "type": "Tool",
+  "textureInfo": "vein_breaker",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 27,
+  "harvests": "rock",
+  "multiplier": 6,
+  "level": 3,
+  "showInCreativeInven": false
+}

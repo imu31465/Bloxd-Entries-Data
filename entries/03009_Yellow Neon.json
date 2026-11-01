@@ -10,11 +10,11 @@
     "place": "stone"
   },
   "unlitStandaloneMesh": true,
-  "Tv": [
+  "zD": [
     15,
     15,
     3
   ],
-  "atlasIdx": 849,
+  "atlasIdx": 935,
   "stackable": true
 }

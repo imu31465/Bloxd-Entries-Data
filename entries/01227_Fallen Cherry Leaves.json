@@ -22,7 +22,7 @@
   "harvestType": "cuttable",
   "model": "Slab",
   "solid": false,
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -39,8 +39,8 @@
   },
   "rootMetaDesc": "Fallen Cherry Leaves|meta|rot1|bot",
   "atlasIdx": [
-    501,
-    500
+    585,
+    584
   ],
   "stackable": true
 }

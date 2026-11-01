@@ -18,16 +18,16 @@
   "harvestType": "rock",
   "drops": null,
   "solid": true,
-  "Tv": [
+  "zD": [
     9,
     6,
     7
   ],
   "atlasIdx": [
     13,
-    68,
-    69,
-    70
+    88,
+    89,
+    90
   ],
   "stackable": true
 }

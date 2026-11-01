@@ -1,0 +1,21 @@
+{
+  "id": 7863,
+  "name": "Iron Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:ironDeposit",
+    "text": "Iron Deposit"
+  },
+  "description": {
+    "key": "item:ironDepositDescription",
+    "text": "Never runs out. Mine it for Raw Iron, or put a Burner Drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "iron_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1032,
+  "stackable": true,
+  "showInCreativeInven": false
+}

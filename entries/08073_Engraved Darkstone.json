@@ -1,0 +1,14 @@
+{
+  "id": 8073,
+  "name": "Engraved Darkstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:engravedDarkstone",
+    "text": "Engraved Darkstone"
+  },
+  "ttb": 1800,
+  "textureInfo": "darkstone_engraved",
+  "harvestType": "rock",
+  "atlasIdx": 1209,
+  "stackable": true
+}

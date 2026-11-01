@@ -9,11 +9,11 @@
   "ttb": 1000,
   "textureInfo": "glowstone",
   "harvestType": "rock",
-  "Tv": [
+  "zD": [
     15,
     15,
     13
   ],
-  "atlasIdx": 250,
+  "atlasIdx": 330,
   "stackable": true
 }

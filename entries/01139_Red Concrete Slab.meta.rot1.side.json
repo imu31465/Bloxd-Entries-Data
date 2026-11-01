@@ -10,7 +10,7 @@
   "textureInfo": "red_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -25,7 +25,7 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 202,
+  "atlasIdx": 282,
   "stackable": true,
   "slabFullBlock": "Red Concrete"
 }

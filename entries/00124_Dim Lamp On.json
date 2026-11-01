@@ -5,11 +5,11 @@
   "ttb": 450,
   "textureInfo": "redstone_lamp_on",
   "harvestType": "rock",
-  "Tv": [
+  "zD": [
     14,
     14,
     14
   ],
-  "atlasIdx": 231,
+  "atlasIdx": 311,
   "stackable": true
 }

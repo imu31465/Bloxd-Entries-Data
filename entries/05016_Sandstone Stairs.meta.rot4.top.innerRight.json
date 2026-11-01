@@ -10,7 +10,7 @@
   "textureInfo": "sandstone_normal",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -38,6 +38,6 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 144,
+  "atlasIdx": 224,
   "stackable": true
 }

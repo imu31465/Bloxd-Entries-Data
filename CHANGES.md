@@ -1,13 +1,326 @@
 # Extraction Change Log
 
-- Run at: 2026-10-20T10:26:45.817Z
-- Bundle: https://bloxd.io/static/js/3ymzdd.main.fae4743f.js
-- Entries: 9248 -> 9248
+- Run at: 2026-11-01T06:25:10.408Z
+- Bundle: https://bloxd.io/static/js/tcwczu.main.357faec1.js
+- Entries: 9522 -> 9530
 
 | Type | Count |
 |---|---|
-| Added | 0 |
+| Added | 8 |
 | Removed | 0 |
-| ID changed | 0 |
+| ID changed | 1221 |
 
-No changes.
+## Added
+
+- Iron Mining Drill (item): **8301**
+- Diamond Mining Drill (item): **8302**
+- Moonstone Mining Drill (item): **8303**
+- Armored Car (item): **8304**
+- INTERNAL_MESH_Iron Mining Drill (item): **8306**
+- INTERNAL_MESH_Diamond Mining Drill (item): **8307**
+- INTERNAL_MESH_Moonstone Mining Drill (item): **8308**
+- INTERNAL_MESH_Armored Car (item): **8309**
+
+## ID changed
+
+- INTERNAL_MESH_Gold Mining Drill (item): 8301 -> **8305**
+- Light Blue Car (item): 8302 -> **8310**
+- INTERNAL_MESH_Car (item): 8303 -> **8311**
+- Snowball (item): 8304 -> **8312**
+- Snowball Launcher (item): 8305 -> **8313**
+- Pebble (item): 8306 -> **8314**
+- Reinforced Pebble (item): 8307 -> **8315**
+- Bullet (item): 8308 -> **8316**
+- Ball (item): 8309 -> **8317**
+- Reinforced Ball (item): 8310 -> **8318**
+- Frag Grenade (item): 8311 -> **8319**
+- Mining Grenade (item): 8312 -> **8320**
+- Smoke Grenade (item): 8313 -> **8321**
+- Moonstone Orb (item): 8314 -> **8322**
+- Fireball (item): 8315 -> **8323**
+- Bouncy Bomb (item): 8316 -> **8324**
+- RPG (item): 8317 -> **8325**
+- Obby RPG (item): 8318 -> **8326**
+- Super RPG (item): 8319 -> **8327**
+- Grenade Launcher (item): 8320 -> **8328**
+- Iceball (item): 8321 -> **8329**
+- 67 Base Projectile (item): 8322 -> **8330**
+- 67 Boosted Projectile (item): 8323 -> **8331**
+- Capitano Grenade (item): 8324 -> **8332**
+- Scatter Pellet (item): 8325 -> **8333**
+- Wood Bow (item): 8326 -> **8334**
+- Wood Bow|meta|charging2 (item): 8327 -> **8335**
+- Wood Bow|meta|charging3 (item): 8328 -> **8336**
+- Wood Bow|meta|charging4 (item): 8329 -> **8337**
+- Stone Bow (item): 8330 -> **8338**
+- Stone Bow|meta|charging2 (item): 8331 -> **8339**
+- Stone Bow|meta|charging3 (item): 8332 -> **8340**
+- Stone Bow|meta|charging4 (item): 8333 -> **8341**
+- Iron Bow (item): 8334 -> **8342**
+- Iron Bow|meta|charging2 (item): 8335 -> **8343**
+- Iron Bow|meta|charging3 (item): 8336 -> **8344**
+- Iron Bow|meta|charging4 (item): 8337 -> **8345**
+- Gold Bow (item): 8338 -> **8346**
+- Gold Bow|meta|charging2 (item): 8339 -> **8347**
+- Gold Bow|meta|charging3 (item): 8340 -> **8348**
+- Gold Bow|meta|charging4 (item): 8341 -> **8349**
+- Diamond Bow (item): 8342 -> **8350**
+- Diamond Bow|meta|charging2 (item): 8343 -> **8351**
+- Diamond Bow|meta|charging3 (item): 8344 -> **8352**
+- Diamond Bow|meta|charging4 (item): 8345 -> **8353**
+- Wood Crossbow (item): 8346 -> **8354**
+- Wood Crossbow|meta|charging2 (item): 8347 -> **8355**
+- Wood Crossbow|meta|charging3 (item): 8348 -> **8356**
+- Wood Crossbow|meta|charging4 (item): 8349 -> **8357**
+- Stone Crossbow (item): 8350 -> **8358**
+- Stone Crossbow|meta|charging2 (item): 8351 -> **8359**
+- Stone Crossbow|meta|charging3 (item): 8352 -> **8360**
+- Stone Crossbow|meta|charging4 (item): 8353 -> **8361**
+- Iron Crossbow (item): 8354 -> **8362**
+- Iron Crossbow|meta|charging2 (item): 8355 -> **8363**
+- Iron Crossbow|meta|charging3 (item): 8356 -> **8364**
+- Iron Crossbow|meta|charging4 (item): 8357 -> **8365**
+- Gold Crossbow (item): 8358 -> **8366**
+- Gold Crossbow|meta|charging2 (item): 8359 -> **8367**
+- Gold Crossbow|meta|charging3 (item): 8360 -> **8368**
+- Gold Crossbow|meta|charging4 (item): 8361 -> **8369**
+- Diamond Crossbow (item): 8362 -> **8370**
+- Diamond Crossbow|meta|charging2 (item): 8363 -> **8371**
+- Diamond Crossbow|meta|charging3 (item): 8364 -> **8372**
+- Diamond Crossbow|meta|charging4 (item): 8365 -> **8373**
+- Wood Crossbow Charged (item): 8366 -> **8374**
+- Stone Crossbow Charged (item): 8367 -> **8375**
+- Iron Crossbow Charged (item): 8368 -> **8376**
+- Gold Crossbow Charged (item): 8369 -> **8377**
+- Diamond Crossbow Charged (item): 8370 -> **8378**
+- Arrow (item): 8371 -> **8379**
+- Compass (item): 8372 -> **8380**
+- Compass|meta|dir2 (item): 8373 -> **8381**
+- Compass|meta|dir3 (item): 8374 -> **8382**
+- Compass|meta|dir4 (item): 8375 -> **8383**
+- Compass|meta|dir5 (item): 8376 -> **8384**
+- Compass|meta|dir6 (item): 8377 -> **8385**
+- Compass|meta|dir7 (item): 8378 -> **8386**
+- Compass|meta|dir8 (item): 8379 -> **8387**
+- Compass|meta|dir9 (item): 8380 -> **8388**
+- Compass|meta|dir10 (item): 8381 -> **8389**
+- Compass|meta|dir11 (item): 8382 -> **8390**
+- Compass|meta|dir12 (item): 8383 -> **8391**
+- Chunk Map (item): 8384 -> **8392**
+- Bread (item): 8385 -> **8393**
+- Bowl of Rice (item): 8386 -> **8394**
+- Apple (item): 8387 -> **8395**
+- Plum (item): 8388 -> **8396**
+- Coconut (item): 8389 -> **8397**
+- Cracked Coconut (item): 8390 -> **8398**
+- Pear (item): 8391 -> **8399**
+- Cherry (item): 8392 -> **8400**
+- Banana (item): 8393 -> **8401**
+- Watermelon Slice (item): 8394 -> **8402**
+- Gold Watermelon Slice (item): 8395 -> **8403**
+- Melon Slice (item): 8396 -> **8404**
+- Gold Melon Slice (item): 8397 -> **8405**
+- Pumpkin Pie (item): 8398 -> **8406**
+- Corn (item): 8399 -> **8407**
+- Cornbread (item): 8400 -> **8408**
+- Chili Pepper (item): 8401 -> **8409**
+- Mango (item): 8402 -> **8410**
+- Carrot (item): 8403 -> **8411**
+- Gold Carrot (item): 8404 -> **8412**
+- Raw Potato (item): 8405 -> **8413**
+- Baked Potato (item): 8406 -> **8414**
+- Beetroot (item): 8407 -> **8415**
+- Raw Porkchop (item): 8408 -> **8416**
+- Cooked Porkchop (item): 8409 -> **8417**
+- Raw Beef (item): 8410 -> **8418**
+- Steak (item): 8411 -> **8419**
+- Raw Mutton (item): 8412 -> **8420**
+- Cooked Mutton (item): 8413 -> **8421**
+- Raw Venison (item): 8414 -> **8422**
+- Cooked Venison (item): 8415 -> **8423**
+- Rotten Flesh (item): 8416 -> **8424**
+- Rotten Brain (item): 8417 -> **8425**
+- Bone (item): 8418 -> **8426**
+- Bone Meal (item): 8419 -> **8427**
+- Leather (item): 8420 -> **8428**
+- Saddle (item): 8421 -> **8429**
+- Spirit Saddle (item): 8422 -> **8430**
+- Fur (item): 8423 -> **8431**
+- Golem Eye (item): 8424 -> **8432**
+- Knight Heart (item): 8425 -> **8433**
+- Teleport Heart (item): 8426 -> **8434**
+- Frost Shard (item): 8427 -> **8435**
+- Molten Cog (item): 8428 -> **8436**
+- Choir Bell (item): 8429 -> **8437**
+- Siege Core (item): 8430 -> **8438**
+- Flywheel (item): 8431 -> **8439**
+- Radiant Spark (item): 8432 -> **8440**
+- Brood Sac (item): 8433 -> **8441**
+- Bandolier (item): 8434 -> **8442**
+- Name Tag (item): 8435 -> **8443**
+- Book (item): 8436 -> **8444**
+- Empty Bottle (item): 8437 -> **8445**
+- Water Bottle (item): 8438 -> **8446**
+- Slowness Potion (item): 8439 -> **8447**
+- Slowness Potion II (item): 8440 -> **8448**
+- Splash Slowness Potion (item): 8441 -> **8449**
+- Splash Slowness Potion II (item): 8442 -> **8450**
+- Arrow of Slowness (item): 8443 -> **8451**
+- Poison Potion (item): 8444 -> **8452**
+- Poison Potion II (item): 8445 -> **8453**
+- Splash Poison Potion (item): 8446 -> **8454**
+- Splash Poison Potion II (item): 8447 -> **8455**
+- Arrow of Poison (item): 8448 -> **8456**
+- Weakness Potion (item): 8449 -> **8457**
+- Weakness Potion II (item): 8450 -> **8458**
+- Splash Weakness Potion (item): 8451 -> **8459**
+- Splash Weakness Potion II (item): 8452 -> **8460**
+- Arrow of Weakness (item): 8453 -> **8461**
+- Instant Damage Potion (item): 8454 -> **8462**
+- Instant Damage Potion II (item): 8455 -> **8463**
+- Splash Instant Damage Potion (item): 8456 -> **8464**
+- Splash Instant Damage Potion II (item): 8457 -> **8465**
+- Arrow of Instant Damage (item): 8458 -> **8466**
+- Milk Potion (item): 8459 -> **8467**
+- Splash Milk Potion (item): 8460 -> **8468**
+- Arrow of Milk (item): 8461 -> **8469**
+- Speed Potion (item): 8462 -> **8470**
+- Speed Potion II (item): 8463 -> **8471**
+- Splash Speed Potion (item): 8464 -> **8472**
+- Splash Speed Potion II (item): 8465 -> **8473**
+- Arrow of Speed (item): 8466 -> **8474**
+- Defense Potion (item): 8467 -> **8475**
+- Defense Potion II (item): 8468 -> **8476**
+- Splash Defense Potion (item): 8469 -> **8477**
+- Splash Defense Potion II (item): 8470 -> **8478**
+- Arrow of Defense (item): 8471 -> **8479**
+- Strength Potion (item): 8472 -> **8480**
+- Strength Potion II (item): 8473 -> **8481**
+- Splash Strength Potion (item): 8474 -> **8482**
+- Splash Strength Potion II (item): 8475 -> **8483**
+- Arrow of Strength (item): 8476 -> **8484**
+- Invisibility Potion (item): 8477 -> **8485**
+- Splash Invisibility Potion (item): 8478 -> **8486**
+- Arrow of Invisibility (item): 8479 -> **8487**
+- Jump Potion (item): 8480 -> **8488**
+- Jump Potion II (item): 8481 -> **8489**
+- Splash Jump Potion (item): 8482 -> **8490**
+- Splash Jump Potion II (item): 8483 -> **8491**
+- Arrow of Jumping (item): 8484 -> **8492**
+- Knockback Potion (item): 8485 -> **8493**
+- Splash Knockback Potion (item): 8486 -> **8494**
+- Splash Knockback Potion II (item): 8487 -> **8495**
+- Arrow of Knockback (item): 8488 -> **8496**
+- Regeneration Potion (item): 8489 -> **8497**
+- Regeneration Potion II (item): 8490 -> **8498**
+- Splash Regeneration Potion (item): 8491 -> **8499**
+- Splash Regeneration Potion II (item): 8492 -> **8500**
+- Arrow of Regeneration (item): 8493 -> **8501**
+- Instant Healing Potion (item): 8494 -> **8502**
+- Instant Healing Potion II (item): 8495 -> **8503**
+- Splash Instant Healing Potion (item): 8496 -> **8504**
+- Splash Instant Healing Potion II (item): 8497 -> **8505**
+- Arrow of Instant Healing (item): 8498 -> **8506**
+- Haste Potion (item): 8499 -> **8507**
+- Haste Potion II (item): 8500 -> **8508**
+- Splash Haste Potion (item): 8501 -> **8509**
+- Splash Haste Potion II (item): 8502 -> **8510**
+- Arrow of Haste (item): 8503 -> **8511**
+- Shield Potion (item): 8504 -> **8512**
+- Shield Potion II (item): 8505 -> **8513**
+- Splash Shield Potion (item): 8506 -> **8514**
+- Splash Shield Potion II (item): 8507 -> **8515**
+- Arrow of Shield (item): 8508 -> **8516**
+- Double Jump Potion (item): 8509 -> **8517**
+- Splash Double Jump Potion (item): 8510 -> **8518**
+- Arrow of Double Jump (item): 8511 -> **8519**
+- Heat Resistance Potion (item): 8512 -> **8520**
+- Splash Heat Resistance Potion (item): 8513 -> **8521**
+- Arrow of Heat Resistance (item): 8514 -> **8522**
+- X-Ray Vision Potion (item): 8515 -> **8523**
+- Splash X-Ray Vision Potion (item): 8516 -> **8524**
+- Arrow of X-Ray Vision (item): 8517 -> **8525**
+- Mining Yield Potion (item): 8518 -> **8526**
+- Mining Yield Potion II (item): 8519 -> **8527**
+- Splash Mining Yield Potion (item): 8520 -> **8528**
+- Splash Mining Yield Potion II (item): 8521 -> **8529**
+- Arrow of Mining Yield (item): 8522 -> **8530**
+- Brain Rot Potion (item): 8523 -> **8531**
+- Splash Brain Rot Potion (item): 8524 -> **8532**
+- Arrow of Brain Rot (item): 8525 -> **8533**
+- Chaos Potion (item): 8526 -> **8534**
+- Teleportation Potion (item): 8527 -> **8535**
+- Ammo (item): 8528 -> **8536**
+- AK-47 (item): 8529 -> **8537**
+- AK-47|RequiresAmmo (item): 8530 -> **8538**
+- M16 (item): 8531 -> **8539**
+- M16|RequiresAmmo (item): 8532 -> **8540**
+- MP40 (item): 8533 -> **8541**
+- MP40|RequiresAmmo (item): 8534 -> **8542**
+- TAR-21 (item): 8535 -> **8543**
+- TAR-21|RequiresAmmo (item): 8536 -> **8544**
+- M1911 (item): 8537 -> **8545**
+- M1911|RequiresAmmo (item): 8538 -> **8546**
+- One Shot Pistol (item): 8539 -> **8547**
+- One Shot Pistol|RequiresAmmo (item): 8540 -> **8548**
+- Double Barrel (item): 8541 -> **8549**
+- Double Barrel|RequiresAmmo (item): 8542 -> **8550**
+- AWP (item): 8543 -> **8551**
+- AWP|RequiresAmmo (item): 8544 -> **8552**
+- Deagle (item): 8545 -> **8553**
+- Deagle|RequiresAmmo (item): 8546 -> **8554**
+- Striker-12 (item): 8547 -> **8555**
+- Striker-12|RequiresAmmo (item): 8548 -> **8556**
+- VSR (item): 8549 -> **8557**
+- VSR|RequiresAmmo (item): 8550 -> **8558**
+- DMR (item): 8551 -> **8559**
+- DMR|RequiresAmmo (item): 8552 -> **8560**
+- Minigun (item): 8553 -> **8561**
+- Minigun|RequiresAmmo (item): 8554 -> **8562**
+- FMR (item): 8555 -> **8563**
+- FMR|RequiresAmmo (item): 8556 -> **8564**
+- SKAR (item): 8557 -> **8565**
+- SKAR|RequiresAmmo (item): 8558 -> **8566**
+- Block-19 (item): 8559 -> **8567**
+- Block-19|RequiresAmmo (item): 8560 -> **8568**
+- Mini Izu (item): 8561 -> **8569**
+- Mini Izu|RequiresAmmo (item): 8562 -> **8570**
+- GPMG (item): 8563 -> **8571**
+- GPMG|RequiresAmmo (item): 8564 -> **8572**
+- Gold Coin (item): 8565 -> **8573**
+- Updraft (item): 8566 -> **8574**
+- Snowdash (item): 8567 -> **8575**
+- Floor Creator (item): 8568 -> **8576**
+- Moonstone Remote Explosive (item): 8569 -> **8577**
+- Moonstone Remote (item): 8570 -> **8578**
+- Ice Bridge (item): 8571 -> **8579**
+- Maple Planks Bridge (item): 8572 -> **8580**
+- Messy Stone Bridge (item): 8573 -> **8581**
+- Yellow Balloon (item): 8574 -> **8582**
+- White Balloon (item): 8575 -> **8583**
+- Red Balloon (item): 8576 -> **8584**
+- Purple Balloon (item): 8577 -> **8585**
+- Pink Balloon (item): 8578 -> **8586**
+- Orange Balloon (item): 8579 -> **8587**
+- Magenta Balloon (item): 8580 -> **8588**
+- Lime Balloon (item): 8581 -> **8589**
+- Light Gray Balloon (item): 8582 -> **8590**
+- Light Blue Balloon (item): 8583 -> **8591**
+- Green Balloon (item): 8584 -> **8592**
+- Gray Balloon (item): 8585 -> **8593**
+- Cyan Balloon (item): 8586 -> **8594**
+- Brown Balloon (item): 8587 -> **8595**
+- Blue Balloon (item): 8588 -> **8596**
+- Black Balloon (item): 8589 -> **8597**
+- INTERNAL_MESH_Yellow Balloon (item): 8590 -> **8598**
+- INTERNAL_MESH_White Balloon (item): 8591 -> **8599**
+- INTERNAL_MESH_Red Balloon (item): 8592 -> **8600**
+- INTERNAL_MESH_Purple Balloon (item): 8593 -> **8601**
+- INTERNAL_MESH_Pink Balloon (item): 8594 -> **8602**
+- INTERNAL_MESH_Orange Balloon (item): 8595 -> **8603**
+- INTERNAL_MESH_Magenta Balloon (item): 8596 -> **8604**
+- INTERNAL_MESH_Lime Balloon (item): 8597 -> **8605**
+- INTERNAL_MESH_Light Gray Balloon (item): 8598 -> **8606**
+- INTERNAL_MESH_Light Blue Balloon (item): 8599 -> **8607**
+- INTERNAL_MESH_Green Balloon (item): 8600 -> **8608**
+- ...and 921 more

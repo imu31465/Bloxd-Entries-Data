@@ -10,7 +10,7 @@
   "textureInfo": "stone_diorite_smooth",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,6 +38,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 139,
+  "atlasIdx": 219,
   "stackable": true
 }

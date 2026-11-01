@@ -1,0 +1,43 @@
+{
+  "id": 7883,
+  "name": "Generator|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:generator",
+    "text": "Generator"
+  },
+  "description": {
+    "key": "item:generatorDescription",
+    "text": "Burns Coal or Charcoal to fill your island's power store. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "generator_side",
+    "generator_top",
+    "machine_side"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Generator",
+    "rootId": 7882,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1062,
+    1063,
+    1038
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

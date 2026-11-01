@@ -1,0 +1,19 @@
+{
+  "id": 9479,
+  "name": "Iron Grit",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironGrit",
+    "text": "Iron Grit"
+  },
+  "description": {
+    "key": "item:ironGritDescription",
+    "text": "Crushed iron. Smelts into 1 Iron Bar."
+  },
+  "type": "Item",
+  "textureInfo": "iron_grit",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

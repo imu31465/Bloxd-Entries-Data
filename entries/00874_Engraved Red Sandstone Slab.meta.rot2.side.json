@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    427,
-    371
+    511,
+    455
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Red Sandstone"

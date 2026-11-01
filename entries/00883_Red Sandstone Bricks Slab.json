@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Red Sandstone Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    429,
-    390
+    513,
+    474
   ],
   "stackable": true,
   "slabFullBlock": "Red Sandstone Bricks"

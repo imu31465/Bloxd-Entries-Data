@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Smooth Diorite Slab|meta|rot1|bot",
   "atlasIdx": [
-    415,
-    139
+    499,
+    219
   ],
   "stackable": true,
   "slabFullBlock": "Smooth Diorite"

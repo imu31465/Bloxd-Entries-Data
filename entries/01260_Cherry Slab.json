@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Cherry Slab|meta|rot1|bot",
   "atlasIdx": [
-    502,
-    499
+    586,
+    583
   ],
   "stackable": true,
   "slabFullBlock": "Cherry Wood Planks"

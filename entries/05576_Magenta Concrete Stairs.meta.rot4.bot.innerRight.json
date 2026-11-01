@@ -10,7 +10,7 @@
   "textureInfo": "magenta_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,6 +38,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 198,
+  "atlasIdx": 278,
   "stackable": true
 }

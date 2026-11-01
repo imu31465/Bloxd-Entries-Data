@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "pear_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -26,7 +26,7 @@
     "rot": 3,
     "open": false
   },
-  "atlasIdx": 439,
+  "atlasIdx": 523,
   "stackable": true,
   "attachedTop": "_Pear Fence Gate Top|meta|rot3|closed"
 }

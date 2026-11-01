@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "maple_fence_gate",
   "drops": null,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -28,7 +28,7 @@
     "open": false
   },
   "rootMetaDesc": "_Maple Fence Gate Top|meta|rot1|closed",
-  "atlasIdx": 123,
+  "atlasIdx": 203,
   "stackable": true,
   "canBePlacedOver": true
 }

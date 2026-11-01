@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "aspen_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -27,7 +27,7 @@
     "open": false
   },
   "rootMetaDesc": "Aspen Fence Gate|meta|rot1|closed",
-  "atlasIdx": 124,
+  "atlasIdx": 204,
   "stackable": true,
   "attachedTop": "_Aspen Fence Gate Top"
 }

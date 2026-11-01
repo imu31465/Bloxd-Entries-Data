@@ -1,0 +1,34 @@
+{
+  "id": 7868,
+  "name": "Drop Pad",
+  "kind": "block",
+  "displayName": {
+    "key": "item:dropPad",
+    "text": "Drop Pad"
+  },
+  "description": {
+    "key": "item:dropPadDescription",
+    "text": "Step on it to drop down to the Wilds."
+  },
+  "ttb": 500000000000,
+  "textureInfo": [
+    "drop_pad",
+    "machine_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "drops": null,
+  "atlasIdx": [
+    1037,
+    1038
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

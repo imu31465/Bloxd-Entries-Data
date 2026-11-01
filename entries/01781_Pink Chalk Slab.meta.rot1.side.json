@@ -20,7 +20,7 @@
   "textureInfo": "chalk_pink",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 759,
+  "atlasIdx": 843,
   "stackable": true,
   "slabFullBlock": "Pink Chalk"
 }

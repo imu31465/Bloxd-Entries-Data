@@ -1,0 +1,66 @@
+{
+  "id": 7959,
+  "name": "Electric Drill|meta|rot2|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:electricDrill",
+    "text": "Electric Drill"
+  },
+  "description": {
+    "key": "item:electricDrillDescription",
+    "text": "Place it on a Deposit. Digs twice as fast as a Burner Drill, and runs on power instead of fuel. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "electric_drill_front",
+    {
+      "animTextures": [
+        "electric_drill_side_running0",
+        "electric_drill_side_running1",
+        "electric_drill_side_running2",
+        "electric_drill_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "electric_drill_top[rot[1",
+    "electric_drill_top[rot[2",
+    "electric_drill_top[rot[3",
+    "electric_drill_top[rot[4",
+    "electric_drill_bottom",
+    "electric_drill_back"
+  ],
+  "texturePerSide": [
+    0,
+    7,
+    3,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Electric Drill",
+    "rootId": 7907,
+    "metaStr": "meta|rot2|Running",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    1091,
+    33,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -20,7 +20,7 @@
   "textureInfo": "chalk_lime",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.5,
@@ -35,7 +35,7 @@
     "rot": 3,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 762,
+  "atlasIdx": 846,
   "stackable": true,
   "slabFullBlock": "Lime Chalk"
 }

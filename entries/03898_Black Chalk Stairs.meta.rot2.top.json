@@ -20,7 +20,7 @@
   "textureInfo": "chalk_black",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -41,6 +41,6 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 770,
+  "atlasIdx": 854,
   "stackable": true
 }

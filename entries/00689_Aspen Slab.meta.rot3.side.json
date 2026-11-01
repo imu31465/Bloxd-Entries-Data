@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.5,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    398,
-    124
+    482,
+    204
   ],
   "stackable": true,
   "slabFullBlock": "Aspen Wood Planks"

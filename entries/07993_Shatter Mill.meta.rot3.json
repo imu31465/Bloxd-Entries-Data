@@ -1,0 +1,53 @@
+{
+  "id": 7993,
+  "name": "Shatter Mill|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:shatterMill",
+    "text": "Shatter Mill"
+  },
+  "description": {
+    "key": "item:shatterMillDescription",
+    "text": "Crushes each Raw ore into 3 Grit, once a second. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "shatter_mill_front",
+    "shatter_mill_side",
+    "shatter_mill_top[rot[1",
+    "shatter_mill_top[rot[2",
+    "shatter_mill_top[rot[3",
+    "shatter_mill_top[rot[4",
+    "machine_side",
+    "shatter_mill_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    4,
+    6,
+    7,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Shatter Mill",
+    "rootId": 7991,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1140,
+    1141,
+    1142,
+    1143,
+    1144,
+    1145,
+    1038,
+    1146
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

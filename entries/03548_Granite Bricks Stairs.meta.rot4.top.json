@@ -10,7 +10,7 @@
   "textureInfo": "granite_brick",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 382,
+  "atlasIdx": 466,
   "stackable": true
 }

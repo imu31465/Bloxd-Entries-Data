@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "aspen_fence",
   "drops": null,
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -43,7 +43,7 @@
     "rootId": 7218,
     "metaStr": "meta|nes"
   },
-  "atlasIdx": 124,
+  "atlasIdx": 204,
   "stackable": true,
   "canBePlacedOver": true
 }

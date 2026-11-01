@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.5,
@@ -47,8 +47,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    788,
-    772
+    872,
+    856
   ],
   "stackable": true,
   "slabFullBlock": "White Chalk Bricks"

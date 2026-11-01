@@ -1,0 +1,14 @@
+{
+  "id": 9098,
+  "name": "Brimstone Spikefish",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brimstoneSpikefish",
+    "text": "Brimstone Spikefish"
+  },
+  "type": "Item",
+  "textureInfo": "brimstone_spikefish",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

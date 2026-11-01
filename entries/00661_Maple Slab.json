@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Maple Slab|meta|rot1|bot",
   "atlasIdx": [
-    394,
-    123
+    478,
+    203
   ],
   "stackable": true,
   "slabFullBlock": "Maple Wood Planks"

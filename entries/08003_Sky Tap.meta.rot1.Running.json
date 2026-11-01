@@ -1,0 +1,66 @@
+{
+  "id": 8003,
+  "name": "Sky Tap|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:skyTap",
+    "text": "Sky Tap"
+  },
+  "description": {
+    "key": "item:skyTapDescription",
+    "text": "Brings up Raw Voltite, Raw Gold and the odd Diamond from the Wilds. From Core tier 5 it can bring rarer items too. Needs open air under it. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "sky_tap_front",
+    {
+      "animTextures": [
+        "sky_tap_side_running0",
+        "sky_tap_side_running1",
+        "sky_tap_side_running2",
+        "sky_tap_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "sky_tap_top[rot[1",
+    "sky_tap_top[rot[2",
+    "sky_tap_top[rot[3",
+    "sky_tap_top[rot[4",
+    "sky_tap_bottom",
+    "sky_tap_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Sky Tap",
+    "rootId": 7999,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    4,
+    6,
+    8
+  ],
+  "atlasIdx": [
+    1147,
+    40,
+    1149,
+    1150,
+    1151,
+    1152,
+    1153,
+    1154
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

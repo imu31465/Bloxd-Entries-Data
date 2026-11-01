@@ -1,0 +1,66 @@
+{
+  "id": 8045,
+  "name": "Recycler|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:recycler",
+    "text": "Recycler"
+  },
+  "description": {
+    "key": "item:recyclerDescription",
+    "text": "Turns Machine Parts into random items, better ones later. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "recycler_front",
+    {
+      "animTextures": [
+        "recycler_side_running0",
+        "recycler_side_running1",
+        "recycler_side_running2",
+        "recycler_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "recycler_top[rot[1",
+    "recycler_top[rot[2",
+    "recycler_top[rot[3",
+    "recycler_top[rot[4",
+    "machine_side",
+    "recycler_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Recycler",
+    "rootId": 8041,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    3,
+    8,
+    4
+  ],
+  "atlasIdx": [
+    1174,
+    42,
+    1176,
+    1177,
+    1178,
+    1179,
+    1038,
+    1180
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -48,8 +48,8 @@
   },
   "rootMetaDesc": "Lime Chalk Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    794,
-    778
+    878,
+    862
   ],
   "stackable": true,
   "slabFullBlock": "Lime Chalk Bricks"

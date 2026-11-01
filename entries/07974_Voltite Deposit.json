@@ -1,0 +1,26 @@
+{
+  "id": 7974,
+  "name": "Voltite Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:voltiteDeposit",
+    "text": "Voltite Deposit"
+  },
+  "description": {
+    "key": "item:voltiteDepositDescription",
+    "text": "Never runs out. Mine it for Raw Voltite, or put a drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "voltite_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "zD": [
+    2,
+    6,
+    6
+  ],
+  "atlasIdx": 1129,
+  "stackable": true,
+  "showInCreativeInven": false
+}

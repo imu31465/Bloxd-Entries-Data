@@ -10,7 +10,7 @@
   "textureInfo": "planks_spectral",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 745,
+  "atlasIdx": 829,
   "stackable": true
 }

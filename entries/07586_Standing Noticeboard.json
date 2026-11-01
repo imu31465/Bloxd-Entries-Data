@@ -3,15 +3,16 @@
   "name": "Standing Noticeboard",
   "kind": "block",
   "displayName": {
-    "key": "item:standingNoticeboard",
-    "text": "Standing Noticeboard"
+    "key": "item:noticeboard",
+    "text": "Noticeboard"
   },
   "ttb": 1800,
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "noticeboard",
+  "drops": "Noticeboard",
   "solid": true,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,

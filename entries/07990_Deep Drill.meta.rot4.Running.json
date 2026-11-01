@@ -1,0 +1,66 @@
+{
+  "id": 7990,
+  "name": "Deep Drill|meta|rot4|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:deepDrill",
+    "text": "Deep Drill"
+  },
+  "description": {
+    "key": "item:deepDrillDescription",
+    "text": "Place it on a Deposit. Digs once a second, 4 times as fast as a Burner Drill. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "deep_drill_front",
+    {
+      "animTextures": [
+        "deep_drill_side_running0",
+        "deep_drill_side_running1",
+        "deep_drill_side_running2",
+        "deep_drill_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "deep_drill_top[rot[1",
+    "deep_drill_top[rot[2",
+    "deep_drill_top[rot[3",
+    "deep_drill_top[rot[4",
+    "deep_drill_bottom",
+    "deep_drill_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    5,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Deep Drill",
+    "rootId": 7983,
+    "metaStr": "meta|rot4|Running",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    6,
+    4,
+    2
+  ],
+  "atlasIdx": [
+    1132,
+    38,
+    1134,
+    1135,
+    1136,
+    1137,
+    1138,
+    1139
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

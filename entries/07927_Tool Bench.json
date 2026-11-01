@@ -1,0 +1,34 @@
+{
+  "id": 7927,
+  "name": "Tool Bench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:toolBench",
+    "text": "Tool Bench"
+  },
+  "description": {
+    "key": "item:toolBenchDescription",
+    "text": "Makes things you carry. Most cost 400 island power to make. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "tool_bench_side",
+    "tool_bench_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "altActionable": true,
+  "atlasIdx": [
+    1118,
+    1119
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "pear_fence",
   "drops": null,
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -37,7 +37,7 @@
     "rootId": 7362,
     "metaStr": "meta|ne"
   },
-  "atlasIdx": 439,
+  "atlasIdx": 523,
   "stackable": true,
   "canBePlacedOver": true
 }

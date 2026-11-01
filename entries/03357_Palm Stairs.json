@@ -10,7 +10,7 @@
   "textureInfo": "planks_palm",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Palm Stairs|meta|rot1|bot",
-  "atlasIdx": 388,
+  "atlasIdx": 472,
   "stackable": true
 }

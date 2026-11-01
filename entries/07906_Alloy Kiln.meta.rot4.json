@@ -1,0 +1,53 @@
+{
+  "id": 7906,
+  "name": "Alloy Kiln|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:alloyKiln",
+    "text": "Alloy Kiln"
+  },
+  "description": {
+    "key": "item:alloyKilnDescription",
+    "text": "Turns 2 Iron Grit into 1 Steel Bar. Burns only Coal or Charcoal. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "alloy_kiln_front",
+    "alloy_kiln_side",
+    "alloy_kiln_top[rot[1",
+    "alloy_kiln_top[rot[2",
+    "alloy_kiln_top[rot[3",
+    "alloy_kiln_top[rot[4",
+    "machine_side",
+    "alloy_kiln_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    5,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Alloy Kiln",
+    "rootId": 7903,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1038,
+    1090
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

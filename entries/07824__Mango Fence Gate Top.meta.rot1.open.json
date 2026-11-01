@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "mango_fence_gate",
   "drops": null,
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -33,7 +33,7 @@
     "rot": 1,
     "open": true
   },
-  "atlasIdx": 808,
+  "atlasIdx": 892,
   "stackable": true,
   "canBePlacedOver": true
 }

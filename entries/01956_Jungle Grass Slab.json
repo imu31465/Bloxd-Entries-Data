@@ -21,7 +21,7 @@
   ],
   "harvestType": "granule",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Jungle Grass Slab|meta|rot1|bot",
   "atlasIdx": [
-    805,
-    804
+    889,
+    888
   ],
   "stackable": true,
   "slabFullBlock": "Jungle Grass Block"

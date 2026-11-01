@@ -1,0 +1,35 @@
+{
+  "id": 7923,
+  "name": "Storage Silo",
+  "kind": "block",
+  "displayName": {
+    "key": "item:storageSilo",
+    "text": "Storage Silo"
+  },
+  "description": {
+    "key": "item:storageSiloDescription",
+    "text": "Holds up to 4096 of one item. Belt items in, or tap it with an empty hand to take a stack. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "storage_silo_top",
+    "storage_silo_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1110,
+    1111
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

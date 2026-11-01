@@ -1,0 +1,40 @@
+{
+  "id": 7929,
+  "name": "_Homestead Core Top",
+  "kind": "block",
+  "displayName": {
+    "key": "item:homesteadCore",
+    "text": "Homestead Core"
+  },
+  "description": {
+    "key": "item:homesteadCoreDescription",
+    "text": "The heart of your island. Bring it what it needs to grow your island."
+  },
+  "ttb": 500000000000,
+  "textureInfo": [
+    "homestead_core_crown",
+    "homestead_core_cap"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": null,
+  "altActionable": true,
+  "zD": [
+    4,
+    12,
+    14
+  ],
+  "atlasIdx": [
+    1120,
+    1121
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

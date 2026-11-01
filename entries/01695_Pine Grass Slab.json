@@ -21,7 +21,7 @@
   ],
   "harvestType": "granule",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Pine Grass Slab|meta|rot1|bot",
   "atlasIdx": [
-    750,
-    749
+    834,
+    833
   ],
   "stackable": true,
   "slabFullBlock": "Pine Grass Block"

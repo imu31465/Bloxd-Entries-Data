@@ -20,7 +20,7 @@
   "textureInfo": "chalk_purple",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 4,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 758,
+  "atlasIdx": 842,
   "stackable": true,
   "slabFullBlock": "Purple Chalk"
 }

@@ -10,11 +10,11 @@
   "textureInfo": "lapis_ore",
   "harvestType": "rock",
   "harvestLevel": 3,
-  "Tv": [
+  "zD": [
     0,
     0,
     2
   ],
-  "atlasIdx": 149,
+  "atlasIdx": 229,
   "stackable": true
 }

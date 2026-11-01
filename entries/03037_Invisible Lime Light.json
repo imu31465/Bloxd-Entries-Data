@@ -12,11 +12,11 @@
     "break": "glass",
     "place": "stone"
   },
-  "Tv": [
+  "zD": [
     9,
     15,
     5
   ],
-  "atlasIdx": 233,
+  "atlasIdx": 313,
   "stackable": true
 }

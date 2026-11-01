@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    425,
-    376
+    509,
+    460
   ],
   "stackable": true,
   "slabFullBlock": "Sandstone Bricks"

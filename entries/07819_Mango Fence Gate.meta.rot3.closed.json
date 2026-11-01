@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "mango_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -26,7 +26,7 @@
     "rot": 3,
     "open": false
   },
-  "atlasIdx": 808,
+  "atlasIdx": 892,
   "stackable": true,
   "attachedTop": "_Mango Fence Gate Top|meta|rot3|closed"
 }

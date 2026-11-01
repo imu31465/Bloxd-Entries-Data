@@ -12,7 +12,7 @@
   "itemTexture": "banner_yellow",
   "drops": "Yellow Banner",
   "solid": false,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.625,

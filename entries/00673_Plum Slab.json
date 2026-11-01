@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Plum Slab|meta|rot1|bot",
   "atlasIdx": [
-    396,
-    125
+    480,
+    205
   ],
   "stackable": true,
   "slabFullBlock": "Plum Wood Planks"

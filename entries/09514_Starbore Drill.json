@@ -1,0 +1,23 @@
+{
+  "id": 9514,
+  "name": "Starbore Drill",
+  "kind": "item",
+  "displayName": {
+    "key": "item:starboreDrill",
+    "text": "Starbore Drill"
+  },
+  "description": {
+    "key": "item:starboreDrillDescription",
+    "text": "Breaks 3×3 in the Wilds, and whole ore veins. A vein of 8 or more may hold a Deposit Seed. Made at the Tool Bench."
+  },
+  "type": "Tool",
+  "textureInfo": "starbore_drill",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 30,
+  "harvests": "rock",
+  "multiplier": 8,
+  "level": 5,
+  "showInCreativeInven": false
+}

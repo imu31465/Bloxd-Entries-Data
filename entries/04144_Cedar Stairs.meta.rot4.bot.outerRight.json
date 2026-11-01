@@ -10,7 +10,7 @@
   "textureInfo": "planks_cedar",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 128,
+  "atlasIdx": 208,
   "stackable": true
 }

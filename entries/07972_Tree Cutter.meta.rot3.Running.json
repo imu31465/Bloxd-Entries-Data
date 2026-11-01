@@ -1,0 +1,74 @@
+{
+  "id": 7972,
+  "name": "Tree Cutter|meta|rot3|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:treeCutter",
+    "text": "Tree Cutter"
+  },
+  "description": {
+    "key": "item:treeCutterDescription",
+    "text": "Cuts and replants the tree at its saw side. Logs come out the front. Runs on fuel. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "tree_cutter_front",
+    {
+      "animTextures": [
+        "tree_cutter_side_running0",
+        "tree_cutter_side_running1",
+        "tree_cutter_side_running2",
+        "tree_cutter_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "tree_cutter_top[rot[1",
+    "tree_cutter_top[rot[2",
+    "tree_cutter_top[rot[3",
+    "tree_cutter_top[rot[4",
+    "machine_side",
+    {
+      "animTextures": [
+        "tree_cutter_back_running0",
+        "tree_cutter_back_running1",
+        "tree_cutter_back_running2",
+        "tree_cutter_back_running3"
+      ],
+      "animationInterval": 250
+    }
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    4,
+    6,
+    7,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Tree Cutter",
+    "rootId": 7966,
+    "metaStr": "meta|rot3|Running",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    9,
+    6,
+    3
+  ],
+  "atlasIdx": [
+    1122,
+    35,
+    1124,
+    1125,
+    1126,
+    1127,
+    1038,
+    36
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

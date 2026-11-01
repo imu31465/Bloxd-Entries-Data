@@ -21,7 +21,7 @@
   ],
   "harvestType": "granule",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    805,
-    804
+    889,
+    888
   ],
   "stackable": true,
   "slabFullBlock": "Jungle Grass Block"

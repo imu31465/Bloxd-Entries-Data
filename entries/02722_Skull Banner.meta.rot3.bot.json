@@ -11,7 +11,7 @@
   "model": "rotatable",
   "itemTexture": "banner_skull",
   "solid": false,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.25,

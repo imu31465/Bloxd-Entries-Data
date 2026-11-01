@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -48,8 +48,8 @@
   },
   "rootMetaDesc": "Light Blue Chalk Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    796,
-    780
+    880,
+    864
   ],
   "stackable": true,
   "slabFullBlock": "Light Blue Chalk Bricks"

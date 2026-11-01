@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    430,
-    234
+    514,
+    314
   ],
   "stackable": true,
   "slabFullBlock": "Bricks"

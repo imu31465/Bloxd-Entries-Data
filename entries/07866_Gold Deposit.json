@@ -1,0 +1,21 @@
+{
+  "id": 7866,
+  "name": "Gold Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:goldDeposit",
+    "text": "Gold Deposit"
+  },
+  "description": {
+    "key": "item:goldDepositDescription",
+    "text": "Never runs out. Mine it for Raw Gold, or put a Burner Drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "gold_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1035,
+  "stackable": true,
+  "showInCreativeInven": false
+}

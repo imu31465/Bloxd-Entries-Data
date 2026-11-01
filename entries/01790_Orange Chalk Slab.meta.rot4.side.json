@@ -20,7 +20,7 @@
   "textureInfo": "chalk_orange",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 4,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 760,
+  "atlasIdx": 844,
   "stackable": true,
   "slabFullBlock": "Orange Chalk"
 }

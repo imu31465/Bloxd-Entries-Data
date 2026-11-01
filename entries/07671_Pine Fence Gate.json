@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "pine_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -27,7 +27,7 @@
     "open": false
   },
   "rootMetaDesc": "Pine Fence Gate|meta|rot1|closed",
-  "atlasIdx": 127,
+  "atlasIdx": 207,
   "stackable": true,
   "attachedTop": "_Pine Fence Gate Top"
 }

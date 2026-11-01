@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "pear_fence",
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -36,7 +36,7 @@
     "rootId": 7330,
     "metaStr": "meta|ew"
   },
-  "atlasIdx": 439,
+  "atlasIdx": 523,
   "stackable": true,
   "attachedTop": "_Pear Fence Top|meta|ew"
 }

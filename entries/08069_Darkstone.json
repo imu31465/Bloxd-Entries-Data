@@ -1,0 +1,14 @@
+{
+  "id": 8069,
+  "name": "Darkstone",
+  "kind": "block",
+  "displayName": {
+    "key": "item:darkstone",
+    "text": "Darkstone"
+  },
+  "ttb": 1800,
+  "textureInfo": "darkstone",
+  "harvestType": "rock",
+  "atlasIdx": 1205,
+  "stackable": true
+}

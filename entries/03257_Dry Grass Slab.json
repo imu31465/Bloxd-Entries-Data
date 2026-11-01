@@ -21,7 +21,7 @@
   ],
   "harvestType": "granule",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Dry Grass Slab|meta|rot1|bot",
   "atlasIdx": [
-    895,
-    894
+    980,
+    979
   ],
   "stackable": true,
   "slabFullBlock": "Dry Grass Block"

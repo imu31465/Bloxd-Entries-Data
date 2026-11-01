@@ -10,7 +10,7 @@
   "textureInfo": "planks_aspen",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Aspen Stairs|meta|rot1|bot",
-  "atlasIdx": 124,
+  "atlasIdx": 204,
   "stackable": true
 }

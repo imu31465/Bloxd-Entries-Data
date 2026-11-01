@@ -1,0 +1,36 @@
+{
+  "id": 8049,
+  "name": "Belt Lift",
+  "kind": "block",
+  "displayName": {
+    "key": "item:beltLift",
+    "text": "Belt Lift"
+  },
+  "description": {
+    "key": "item:beltLiftDescription",
+    "text": "Carries items up a block: belt into its side, put a belt or machine on top. Stack them to go higher. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "belt_lift_top",
+    "belt_lift_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1181,
+    1182,
+    1080
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": 7978,
+  "name": "Volt Engine|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:voltEngine",
+    "text": "Volt Engine"
+  },
+  "description": {
+    "key": "item:voltEngineDescription",
+    "text": "Burns Voltite Cells to make 100 power a second. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "volt_engine_side",
+    "volt_engine_top",
+    "machine_side"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Volt Engine",
+    "rootId": 7975,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1130,
+    1131,
+    1038
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

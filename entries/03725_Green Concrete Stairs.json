@@ -10,7 +10,7 @@
   "textureInfo": "green_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Green Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 204,
+  "atlasIdx": 284,
   "stackable": true
 }

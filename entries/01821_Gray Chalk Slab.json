@@ -20,7 +20,7 @@
   "textureInfo": "chalk_gray",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -36,7 +36,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Gray Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 766,
+  "atlasIdx": 850,
   "stackable": true,
   "slabFullBlock": "Gray Chalk"
 }

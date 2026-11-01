@@ -10,7 +10,7 @@
   "textureInfo": "lime_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 197,
+  "atlasIdx": 277,
   "stackable": true
 }

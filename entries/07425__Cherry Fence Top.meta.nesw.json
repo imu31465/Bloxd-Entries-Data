@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "cherry_fence",
   "drops": null,
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -49,7 +49,7 @@
     "rootId": 7410,
     "metaStr": "meta|nesw"
   },
-  "atlasIdx": 499,
+  "atlasIdx": 583,
   "stackable": true,
   "canBePlacedOver": true
 }

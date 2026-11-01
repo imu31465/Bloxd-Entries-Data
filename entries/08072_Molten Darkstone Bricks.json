@@ -1,0 +1,19 @@
+{
+  "id": 8072,
+  "name": "Molten Darkstone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:moltenDarkstoneBricks",
+    "text": "Molten Darkstone Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "darkstone_bricks_lava",
+  "harvestType": "rock",
+  "zD": [
+    9,
+    3,
+    1
+  ],
+  "atlasIdx": 1208,
+  "stackable": true
+}

@@ -1,0 +1,59 @@
+{
+  "id": 7895,
+  "name": "Conveyor Belt|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:conveyorBelt",
+    "text": "Conveyor Belt"
+  },
+  "description": {
+    "key": "item:conveyorBeltDescription",
+    "text": "Carries items the way its arrows point, to the machine, chest or Core at its end. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "conveyor_belt_top",
+    "conveyor_belt_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "DD": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Conveyor Belt",
+    "rootId": 7894,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    -2,
+    0,
+    0
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1078,
+    1079,
+    1080
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

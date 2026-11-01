@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "cherry_fence_gate",
-  "Iv": [
+  "DD": [
     0.875,
     0,
     0.375,
@@ -32,7 +32,7 @@
     "rot": 3,
     "open": true
   },
-  "atlasIdx": 499,
+  "atlasIdx": 583,
   "stackable": true,
   "attachedTop": "_Cherry Fence Gate Top|meta|rot3|open"
 }

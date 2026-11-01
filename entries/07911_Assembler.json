@@ -1,0 +1,54 @@
+{
+  "id": 7911,
+  "name": "Assembler",
+  "kind": "block",
+  "displayName": {
+    "key": "item:autoBench",
+    "text": "Assembler"
+  },
+  "description": {
+    "key": "item:autoBenchDescription",
+    "text": "Makes parts and belts by itself. Tap it holding what it should make, then belt in the ingredients. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "auto_bench_front",
+    "auto_bench_side",
+    "auto_bench_top[rot[1",
+    "auto_bench_top[rot[2",
+    "auto_bench_top[rot[3",
+    "auto_bench_top[rot[4",
+    "machine_side",
+    "auto_bench_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Assembler",
+    "rootId": 7911,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Assembler|meta|rot1",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1099,
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1038,
+    1105
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

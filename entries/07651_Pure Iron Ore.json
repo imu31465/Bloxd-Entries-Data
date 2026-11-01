@@ -10,7 +10,7 @@
   "textureInfo": "pure_iron_ore",
   "harvestType": "rock",
   "drops": "Raw Iron",
-  "Zu": 9,
+  "RD": 9,
   "harvestLevel": 2,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,12 +40,12 @@
       }
     ]
   },
-  "Tv": [
+  "zD": [
     6,
     6,
     6
   ],
-  "atlasIdx": 939,
+  "atlasIdx": 1024,
   "stackable": true,
   "onMinedAura": 135
 }

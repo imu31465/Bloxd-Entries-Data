@@ -1,0 +1,59 @@
+{
+  "id": 7901,
+  "name": "Splitter|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:splitter",
+    "text": "Splitter"
+  },
+  "description": {
+    "key": "item:splitterDescription",
+    "text": "Sends items out of its left and right sides in turn. Each side can feed a belt, machine, chest or the Core. A full side is skipped. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "splitter_top",
+    "splitter_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "DD": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Splitter",
+    "rootId": 7898,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    2,
+    0,
+    0
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1081,
+    1082,
+    1080
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

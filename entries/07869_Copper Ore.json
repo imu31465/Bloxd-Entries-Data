@@ -1,0 +1,20 @@
+{
+  "id": 7869,
+  "name": "Copper Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:copperOre",
+    "text": "Copper Ore"
+  },
+  "description": {
+    "key": "item:copperOreDescription",
+    "text": "Found in the Wilds, in outcrops on the ground and underground."
+  },
+  "ttb": 3300,
+  "textureInfo": "copper_ore",
+  "harvestType": "rock",
+  "drops": "Raw Copper",
+  "atlasIdx": 1039,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -9,9 +9,9 @@
     "rootName": "Fat Cactus",
     "rootId": 213,
     "metaStr": "Growing",
-    "fu": true
+    "TD": true
   },
   "damage": 22,
-  "atlasIdx": 266,
+  "atlasIdx": 348,
   "stackable": true
 }

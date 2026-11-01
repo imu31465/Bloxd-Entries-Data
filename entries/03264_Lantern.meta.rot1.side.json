@@ -10,7 +10,7 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "lantern",
-  "Iv": [
+  "DD": [
     0.125,
     0,
     0,
@@ -37,7 +37,7 @@
     "unlit": true,
     "yRotOffset": 0
   },
-  "Tv": [
+  "zD": [
     15,
     15,
     13

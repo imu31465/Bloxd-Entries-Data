@@ -27,15 +27,15 @@
     "metaStr": "meta|rot3",
     "rot": 3
   },
-  "Tv": [
+  "zD": [
     14,
     10,
     4
   ],
   "atlasIdx": [
-    210,
-    456,
-    457
+    290,
+    540,
+    541
   ],
   "stackable": true
 }

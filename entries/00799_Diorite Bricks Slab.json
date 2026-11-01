@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Diorite Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    417,
-    378
+    501,
+    462
   ],
   "stackable": true,
   "slabFullBlock": "Diorite Bricks"

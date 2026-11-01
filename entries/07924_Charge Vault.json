@@ -1,0 +1,35 @@
+{
+  "id": 7924,
+  "name": "Charge Vault",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chargeVault",
+    "text": "Charge Vault"
+  },
+  "description": {
+    "key": "item:chargeVaultDescription",
+    "text": "Lets your island store 8000 more power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "charge_vault_top",
+    "charge_vault_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1112,
+    1113
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

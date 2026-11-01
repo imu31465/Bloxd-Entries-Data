@@ -1,0 +1,26 @@
+{
+  "id": 8023,
+  "name": "Comet Heart",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cometHeart",
+    "text": "Comet Heart"
+  },
+  "description": {
+    "key": "item:cometHeartDescription",
+    "text": "Break it for a Comet Core: everyone within 24 blocks gets one."
+  },
+  "ttb": 18000,
+  "textureInfo": "comet_heart",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 3,
+  "zD": [
+    12,
+    10,
+    14
+  ],
+  "atlasIdx": 1169,
+  "stackable": true,
+  "showInCreativeInven": false
+}

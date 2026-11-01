@@ -10,7 +10,7 @@
   "textureInfo": "planks_jungle",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,6 +38,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 126,
+  "atlasIdx": 206,
   "stackable": true
 }

@@ -10,16 +10,18 @@
   "textureInfo": [
     "chest_front",
     "chest_side",
-    "chest_top_1",
-    "chest_top_2",
+    "chest_top[rot[1",
+    "chest_top[rot[2",
+    "chest_top[rot[3",
+    "chest_top[rot[4",
     "chest_back"
   ],
   "texturePerSide": [
     1,
     1,
-    3,
-    3,
     4,
+    4,
+    6,
     0
   ],
   "harvestType": "wood",
@@ -30,11 +32,13 @@
     "rot": 3
   },
   "atlasIdx": [
-    260,
-    261,
-    262,
-    263,
-    264
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346
   ],
   "stackable": true
 }

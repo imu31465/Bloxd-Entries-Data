@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "jungle_fence",
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -42,7 +42,7 @@
     "rootId": 7234,
     "metaStr": "meta|new"
   },
-  "atlasIdx": 126,
+  "atlasIdx": 206,
   "stackable": true,
   "attachedTop": "_Jungle Fence Top|meta|new"
 }

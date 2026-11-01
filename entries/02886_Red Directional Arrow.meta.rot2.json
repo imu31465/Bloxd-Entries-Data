@@ -14,7 +14,7 @@
   "model": "rotatable",
   "itemTexture": "red_directional_arrow",
   "solid": false,
-  "Iv": [
+  "DD": [
     0,
     0,
     0,

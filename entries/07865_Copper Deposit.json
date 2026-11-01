@@ -1,0 +1,21 @@
+{
+  "id": 7865,
+  "name": "Copper Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:copperDeposit",
+    "text": "Copper Deposit"
+  },
+  "description": {
+    "key": "item:copperDepositDescription",
+    "text": "Never runs out. Mine it for Raw Copper, or put a Burner Drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "copper_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1034,
+  "stackable": true,
+  "showInCreativeInven": false
+}

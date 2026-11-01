@@ -1,0 +1,66 @@
+{
+  "id": 7931,
+  "name": "Burner Drill|meta|rot2|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:burnerDrill",
+    "text": "Burner Drill"
+  },
+  "description": {
+    "key": "item:burnerDrillDescription",
+    "text": "Place it on a Deposit and give it fuel. What it digs comes out of its front. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "burner_drill_front",
+    {
+      "animTextures": [
+        "burner_drill_side_running0",
+        "burner_drill_side_running1",
+        "burner_drill_side_running2",
+        "burner_drill_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "burner_drill_top[rot[1",
+    "burner_drill_top[rot[2",
+    "burner_drill_top[rot[3",
+    "burner_drill_top[rot[4",
+    "burner_drill_bottom",
+    "burner_drill_back"
+  ],
+  "texturePerSide": [
+    0,
+    7,
+    3,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Burner Drill",
+    "rootId": 7870,
+    "metaStr": "meta|rot2|Running",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    9,
+    6,
+    3
+  ],
+  "atlasIdx": [
+    1040,
+    26,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

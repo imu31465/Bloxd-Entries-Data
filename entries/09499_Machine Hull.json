@@ -1,0 +1,19 @@
+{
+  "id": 9499,
+  "name": "Machine Hull",
+  "kind": "item",
+  "displayName": {
+    "key": "item:machineHull",
+    "text": "Machine Hull"
+  },
+  "description": {
+    "key": "item:machineHullDescription",
+    "text": "The frame of an Electric Drill or Assembler. Made at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "machine_hull",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

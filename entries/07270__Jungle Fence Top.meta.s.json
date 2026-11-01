@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "jungle_fence",
   "drops": null,
-  "Iv": [
+  "DD": [
     0.375,
     0,
     0.375,
@@ -31,7 +31,7 @@
     "rootId": 7266,
     "metaStr": "meta|s"
   },
-  "atlasIdx": 126,
+  "atlasIdx": 206,
   "stackable": true,
   "canBePlacedOver": true
 }

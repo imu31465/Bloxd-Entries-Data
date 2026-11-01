@@ -1,0 +1,14 @@
+{
+  "id": 8071,
+  "name": "Cracked Darkstone Bricks",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crackedDarkstoneBricks",
+    "text": "Cracked Darkstone Bricks"
+  },
+  "ttb": 1800,
+  "textureInfo": "darkstone_bricks_cracked",
+  "harvestType": "rock",
+  "atlasIdx": 1207,
+  "stackable": true
+}

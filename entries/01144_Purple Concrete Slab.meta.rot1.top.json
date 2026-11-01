@@ -10,7 +10,7 @@
   "textureInfo": "purple_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -25,7 +25,7 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 201,
+  "atlasIdx": 281,
   "stackable": true,
   "slabFullBlock": "Purple Concrete"
 }

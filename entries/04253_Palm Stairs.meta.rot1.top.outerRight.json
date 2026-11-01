@@ -10,7 +10,7 @@
   "textureInfo": "planks_palm",
   "harvestType": "wood",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0.5,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 1,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 388,
+  "atlasIdx": 472,
   "stackable": true
 }

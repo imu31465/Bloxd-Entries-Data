@@ -1,0 +1,35 @@
+{
+  "id": 8011,
+  "name": "Charging Pad",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chargingPad",
+    "text": "Charging Pad"
+  },
+  "description": {
+    "key": "item:chargingPadDescription",
+    "text": "Tap it while holding your Sky Pack to charge the pack from island power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "charging_pad_top",
+    "charging_pad_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1157,
+    1158
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

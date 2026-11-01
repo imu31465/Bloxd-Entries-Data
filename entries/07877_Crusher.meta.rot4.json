@@ -1,0 +1,53 @@
+{
+  "id": 7877,
+  "name": "Crusher|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:crusher",
+    "text": "Crusher"
+  },
+  "description": {
+    "key": "item:crusherDescription",
+    "text": "Crushes each Raw ore into 2 Grit, for twice the bars. Also turns Messy Stone or Gravel into Sand. Needs fuel. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "crusher_front",
+    "crusher_side",
+    "crusher_top[rot[1",
+    "crusher_top[rot[2",
+    "crusher_top[rot[3",
+    "crusher_top[rot[4",
+    "machine_side",
+    "crusher_back"
+  ],
+  "texturePerSide": [
+    7,
+    0,
+    5,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Crusher",
+    "rootId": 7874,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1038,
+    1054
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

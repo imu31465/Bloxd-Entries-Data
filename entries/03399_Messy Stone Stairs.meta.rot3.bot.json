@@ -10,7 +10,7 @@
   "textureInfo": "messy_stone",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 135,
+  "atlasIdx": 215,
   "stackable": true
 }

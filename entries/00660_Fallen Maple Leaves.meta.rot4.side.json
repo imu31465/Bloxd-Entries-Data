@@ -22,7 +22,7 @@
   "harvestType": "cuttable",
   "model": "Slab",
   "solid": false,
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -38,8 +38,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    393,
-    392
+    477,
+    476
   ],
   "stackable": true
 }

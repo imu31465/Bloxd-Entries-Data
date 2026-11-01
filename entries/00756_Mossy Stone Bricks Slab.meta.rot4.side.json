@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0.5,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    409,
-    241
+    493,
+    321
   ],
   "stackable": true,
   "slabFullBlock": "Mossy Stone Bricks"

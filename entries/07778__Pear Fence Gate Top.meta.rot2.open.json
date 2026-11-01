@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "pear_fence_gate",
   "drops": null,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.875,
@@ -33,7 +33,7 @@
     "rot": 2,
     "open": true
   },
-  "atlasIdx": 439,
+  "atlasIdx": 523,
   "stackable": true,
   "canBePlacedOver": true
 }

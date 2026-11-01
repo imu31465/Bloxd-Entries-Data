@@ -1,0 +1,48 @@
+{
+  "id": 8075,
+  "name": "Chest|meta|rot1|left",
+  "kind": "block",
+  "displayName": {
+    "key": "item:chest",
+    "text": "Chest"
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "chest_double_front_lo",
+    "chest_double_front_hi",
+    "chest_side",
+    "chest_double_top_1_lo",
+    "chest_double_top_1_hi",
+    "chest_double_top_2_lo",
+    "chest_double_top_2_hi",
+    "chest_double_back_lo",
+    "chest_double_back_hi"
+  ],
+  "texturePerSide": [
+    2,
+    2,
+    6,
+    5,
+    0,
+    8
+  ],
+  "harvestType": "wood",
+  "meta": {
+    "rootName": "Chest",
+    "rootId": 204,
+    "metaStr": "meta|rot1|left",
+    "rot": 1
+  },
+  "atlasIdx": [
+    1211,
+    1212,
+    341,
+    1213,
+    1214,
+    1215,
+    1216,
+    1217,
+    1218
+  ],
+  "stackable": true
+}

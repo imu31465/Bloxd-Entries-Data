@@ -10,7 +10,7 @@
   "textureInfo": "pure_coal_ore",
   "harvestType": "rock",
   "drops": "Coal",
-  "Zu": 9,
+  "RD": 9,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Coal Ore"
@@ -39,12 +39,12 @@
       }
     ]
   },
-  "Tv": [
+  "zD": [
     6,
     6,
     6
   ],
-  "atlasIdx": 938,
+  "atlasIdx": 1023,
   "stackable": true,
   "onMinedAura": 45
 }

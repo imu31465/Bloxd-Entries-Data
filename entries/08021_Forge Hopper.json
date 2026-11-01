@@ -1,0 +1,35 @@
+{
+  "id": 8021,
+  "name": "Forge Hopper",
+  "kind": "block",
+  "displayName": {
+    "key": "item:forgeHopper",
+    "text": "Forge Hopper"
+  },
+  "description": {
+    "key": "item:forgeHopperDescription",
+    "text": "Takes the Star Forge's orders, one at a time. Belt in the items each order asks for. Tap it to see what this order needs. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "forge_hopper_top",
+    "machine_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1167,
+    1038
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

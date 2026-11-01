@@ -6,28 +6,26 @@
   "textureInfo": [
     "ghost_chest_front",
     "ghost_chest_side",
-    "ghost_chest_top_1",
-    "ghost_chest_top_2",
+    "ghost_chest_top",
     "ghost_chest_back"
   ],
   "texturePerSide": [
     1,
     1,
     2,
-    3,
+    2,
     0,
-    4
+    3
   ],
   "harvestType": "wood",
   "transTex": true,
   "drops": null,
   "solid": false,
   "atlasIdx": [
-    866,
-    867,
-    868,
-    869,
-    870
+    952,
+    953,
+    954,
+    955
   ],
   "stackable": true
 }

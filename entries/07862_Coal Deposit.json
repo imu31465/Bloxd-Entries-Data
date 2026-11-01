@@ -1,0 +1,21 @@
+{
+  "id": 7862,
+  "name": "Coal Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coalDeposit",
+    "text": "Coal Deposit"
+  },
+  "description": {
+    "key": "item:coalDepositDescription",
+    "text": "Never runs out. Mine it for Coal, or put a Burner Drill on top."
+  },
+  "ttb": 6000,
+  "textureInfo": "coal_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1031,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -10,7 +10,7 @@
   "textureInfo": "chiseled_sandstone",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -31,6 +31,6 @@
     "rot": 4,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 244,
+  "atlasIdx": 324,
   "stackable": true
 }

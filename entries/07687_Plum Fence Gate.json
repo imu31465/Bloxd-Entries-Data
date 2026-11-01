@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "plum_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -27,7 +27,7 @@
     "open": false
   },
   "rootMetaDesc": "Plum Fence Gate|meta|rot1|closed",
-  "atlasIdx": 125,
+  "atlasIdx": 205,
   "stackable": true,
   "attachedTop": "_Plum Fence Gate Top"
 }

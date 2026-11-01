@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "maple_fence_gate",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.375,
@@ -27,7 +27,7 @@
     "open": false
   },
   "rootMetaDesc": "Maple Fence Gate|meta|rot1|closed",
-  "atlasIdx": 123,
+  "atlasIdx": 203,
   "stackable": true,
   "attachedTop": "_Maple Fence Gate Top"
 }

@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "maple_fence_gate",
   "drops": null,
-  "Iv": [
+  "DD": [
     0,
     0,
     0.875,
@@ -33,7 +33,7 @@
     "rot": 2,
     "open": true
   },
-  "atlasIdx": 123,
+  "atlasIdx": 203,
   "stackable": true,
   "canBePlacedOver": true
 }

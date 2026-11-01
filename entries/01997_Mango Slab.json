@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Mango Slab|meta|rot1|bot",
   "atlasIdx": [
-    810,
-    808
+    894,
+    892
   ],
   "stackable": true,
   "slabFullBlock": "Mango Wood Planks"

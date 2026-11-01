@@ -10,8 +10,9 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "noticeboard",
+  "drops": "Noticeboard",
   "solid": true,
-  "Iv": [
+  "DD": [
     0.75,
     0,
     0,

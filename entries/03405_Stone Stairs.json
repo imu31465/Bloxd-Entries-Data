@@ -10,7 +10,7 @@
   "textureInfo": "stone",
   "harvestType": "rock",
   "model": "Stairs",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Stone Stairs|meta|rot1|bot",
-  "atlasIdx": 136,
+  "atlasIdx": 216,
   "stackable": true
 }

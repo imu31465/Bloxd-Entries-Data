@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "Iv": [
+  "DD": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Mossy Stone Slab|meta|rot1|bot",
   "atlasIdx": [
-    408,
-    355
+    492,
+    437
   ],
   "stackable": true,
   "slabFullBlock": "Mossy Messy Stone"

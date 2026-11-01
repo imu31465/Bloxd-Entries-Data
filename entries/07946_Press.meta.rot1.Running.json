@@ -1,0 +1,66 @@
+{
+  "id": 7946,
+  "name": "Press|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:press",
+    "text": "Press"
+  },
+  "description": {
+    "key": "item:pressDescription",
+    "text": "Presses Iron Bars into Iron Plates, and Gold Bars into Gold Plates. Runs on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "press_front",
+    {
+      "animTextures": [
+        "press_side_running0",
+        "press_side_running1",
+        "press_side_running2",
+        "press_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "press_top[rot[1",
+    "press_top[rot[2",
+    "press_top[rot[3",
+    "press_top[rot[4",
+    "machine_side",
+    "press_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Press",
+    "rootId": 7886,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "zD": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    1064,
+    30,
+    1066,
+    1067,
+    1068,
+    1069,
+    1038,
+    1070
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

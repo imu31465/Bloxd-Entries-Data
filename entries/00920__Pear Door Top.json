@@ -7,7 +7,7 @@
   "model": "door",
   "itemTexture": "pear_door",
   "drops": "Pear Door",
-  "Iv": [
+  "DD": [
     0,
     0,
     0.875,

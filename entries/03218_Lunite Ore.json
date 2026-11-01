@@ -43,12 +43,12 @@
       }
     ]
   },
-  "Tv": [
+  "zD": [
     10,
     3,
     12
   ],
-  "atlasIdx": 884,
+  "atlasIdx": 969,
   "stackable": true,
   "onMinedAura": 40
 }
