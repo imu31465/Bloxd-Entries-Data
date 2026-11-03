@@ -1,0 +1,20 @@
+{
+  "id": 9553,
+  "name": "Voltplate Boots",
+  "kind": "item",
+  "displayName": {
+    "key": "item:voltplateBoots",
+    "text": "Voltplate Boots"
+  },
+  "description": {
+    "key": "item:voltplateBootsDescription",
+    "text": "Armour. In the Wilds: jump higher. Made at the Tool Bench."
+  },
+  "type": "Armour",
+  "textureInfo": "voltplate_boots",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11,
+  "showInCreativeInven": false
+}

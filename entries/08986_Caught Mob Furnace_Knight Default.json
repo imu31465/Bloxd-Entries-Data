@@ -1,0 +1,15 @@
+{
+  "id": 8986,
+  "name": "Caught Mob Furnace_Knight Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_furnace_knight_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Furnace_Knight Default",
+    "rootId": 8986,
+    "caughtMobType": "Furnace Knight"
+  }
+}

@@ -10,7 +10,7 @@
   "textureInfo": "pure_iron_ore",
   "harvestType": "rock",
   "drops": "Raw Iron",
-  "RD": 9,
+  "XJ": 9,
   "harvestLevel": 2,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "zD": [
+  "KJ": [
     6,
     6,
     6

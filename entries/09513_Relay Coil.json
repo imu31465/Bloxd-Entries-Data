@@ -1,0 +1,19 @@
+{
+  "id": 9513,
+  "name": "Relay Coil",
+  "kind": "item",
+  "displayName": {
+    "key": "item:relayCoil",
+    "text": "Relay Coil"
+  },
+  "description": {
+    "key": "item:relayCoilDescription",
+    "text": "Your Core needs 2 to reach tier 3. Get them by putting Machine Parts in a Recycler. Until tier 3, at least 1 in every 4 Machine Parts gives one."
+  },
+  "type": "Item",
+  "textureInfo": "relay_coil",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

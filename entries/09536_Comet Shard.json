@@ -1,0 +1,19 @@
+{
+  "id": 9536,
+  "name": "Comet Shard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cometShard",
+    "text": "Comet Shard"
+  },
+  "description": {
+    "key": "item:cometShardDescription",
+    "text": "8 make a Comet Core at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "comet_shard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

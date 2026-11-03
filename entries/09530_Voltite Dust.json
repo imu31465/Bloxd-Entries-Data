@@ -1,0 +1,19 @@
+{
+  "id": 9530,
+  "name": "Voltite Dust",
+  "kind": "item",
+  "displayName": {
+    "key": "item:voltiteDust",
+    "text": "Voltite Dust"
+  },
+  "description": {
+    "key": "item:voltiteDustDescription",
+    "text": "Crushed Voltite. Made into Voltite Cells at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "voltite_dust",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9545,
+  "name": "Core Tier 8",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coreTier8",
+    "text": "Starwright Stage 3"
+  },
+  "description": {
+    "key": "item:coreTier8Description",
+    "text": "Reach Starwright stage 3 to make this."
+  },
+  "type": "Item",
+  "textureInfo": "core_tier_5",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

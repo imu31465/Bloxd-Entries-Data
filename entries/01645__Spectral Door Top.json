@@ -7,7 +7,7 @@
   "model": "door",
   "itemTexture": "spectral_door",
   "drops": "Spectral Door",
-  "DD": [
+  "tK": [
     0,
     0,
     0.875,

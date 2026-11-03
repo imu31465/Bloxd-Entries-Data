@@ -10,7 +10,7 @@
   "textureInfo": "pure_copper_ore",
   "harvestType": "rock",
   "drops": "Raw Copper",
-  "RD": 9,
+  "XJ": 9,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Copper Ore"
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "zD": [
+  "KJ": [
     6,
     6,
     6

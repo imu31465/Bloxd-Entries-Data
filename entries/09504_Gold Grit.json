@@ -1,0 +1,19 @@
+{
+  "id": 9504,
+  "name": "Gold Grit",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldGrit",
+    "text": "Gold Grit"
+  },
+  "description": {
+    "key": "item:goldGritDescription",
+    "text": "Crushed gold. Smelts into 1 Gold Bar."
+  },
+  "type": "Item",
+  "textureInfo": "gold_grit",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

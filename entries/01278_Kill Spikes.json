@@ -15,7 +15,7 @@
   "model": "CustomModel",
   "itemTexture": "spikes_kill",
   "solid": false,
-  "DD": [
+  "tK": [
     0,
     0,
     0,

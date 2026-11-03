@@ -32333,5790 +32333,6002 @@
   },
   {
     "id": 8083,
-    "name": "Wood Pickaxe"
+    "name": "INTERNAL_MESH_Floor Quarters"
   },
   {
     "id": 8084,
-    "name": "Stone Pickaxe"
+    "name": "Scorpion Eggs Block"
   },
   {
     "id": 8085,
-    "name": "Iron Pickaxe"
+    "name": "INTERNAL_MESH_Boss Target"
   },
   {
     "id": 8086,
-    "name": "Gold Pickaxe"
+    "name": "INTERNAL_MESH_Rune Sigil"
   },
   {
     "id": 8087,
-    "name": "Diamond Pickaxe"
+    "name": "INTERNAL_MESH_Eclipse Dial"
   },
   {
     "id": 8088,
-    "name": "Moonstone Pickaxe"
+    "name": "INTERNAL_MESH_Beam Arm"
   },
   {
     "id": 8089,
-    "name": "Golem Pickaxe"
+    "name": "INTERNAL_MESH_Beam Arm Mirrored"
   },
   {
     "id": 8090,
-    "name": "Wood Axe"
+    "name": "INTERNAL_MESH_Mortar"
   },
   {
     "id": 8091,
-    "name": "Stone Axe"
+    "name": "Wood Pickaxe"
   },
   {
     "id": 8092,
-    "name": "Iron Axe"
+    "name": "Stone Pickaxe"
   },
   {
     "id": 8093,
-    "name": "Gold Axe"
+    "name": "Iron Pickaxe"
   },
   {
     "id": 8094,
-    "name": "Diamond Axe"
+    "name": "Gold Pickaxe"
   },
   {
     "id": 8095,
-    "name": "Moonstone Axe"
+    "name": "Diamond Pickaxe"
   },
   {
     "id": 8096,
-    "name": "Artisan Axe"
+    "name": "Moonstone Pickaxe"
   },
   {
     "id": 8097,
-    "name": "Wood Spade"
+    "name": "Golem Pickaxe"
   },
   {
     "id": 8098,
-    "name": "Stone Spade"
+    "name": "Wood Axe"
   },
   {
     "id": 8099,
-    "name": "Iron Spade"
+    "name": "Stone Axe"
   },
   {
     "id": 8100,
-    "name": "Gold Spade"
+    "name": "Iron Axe"
   },
   {
     "id": 8101,
-    "name": "Diamond Spade"
+    "name": "Gold Axe"
   },
   {
     "id": 8102,
-    "name": "Wood Sword"
+    "name": "Diamond Axe"
   },
   {
     "id": 8103,
-    "name": "Stone Sword"
+    "name": "Moonstone Axe"
   },
   {
     "id": 8104,
-    "name": "Iron Sword"
+    "name": "Artisan Axe"
   },
   {
     "id": 8105,
-    "name": "Gold Sword"
+    "name": "Wood Spade"
   },
   {
     "id": 8106,
-    "name": "Diamond Sword"
+    "name": "Stone Spade"
   },
   {
     "id": 8107,
-    "name": "Knight Sword"
+    "name": "Iron Spade"
   },
   {
     "id": 8108,
-    "name": "Wood Hoe"
+    "name": "Gold Spade"
   },
   {
     "id": 8109,
-    "name": "Stone Hoe"
+    "name": "Diamond Spade"
   },
   {
     "id": 8110,
-    "name": "Iron Hoe"
+    "name": "Wood Sword"
   },
   {
     "id": 8111,
-    "name": "Gold Hoe"
+    "name": "Stone Sword"
   },
   {
     "id": 8112,
-    "name": "Diamond Hoe"
+    "name": "Iron Sword"
   },
   {
     "id": 8113,
-    "name": "Flashlight"
+    "name": "Gold Sword"
   },
   {
     "id": 8114,
-    "name": "Mining Helmet"
+    "name": "Diamond Sword"
   },
   {
     "id": 8115,
-    "name": "Wood Helmet"
+    "name": "Knight Sword"
   },
   {
     "id": 8116,
-    "name": "Iron Helmet"
+    "name": "Wood Hoe"
   },
   {
     "id": 8117,
-    "name": "Gold Helmet"
+    "name": "Stone Hoe"
   },
   {
     "id": 8118,
-    "name": "Diamond Helmet"
+    "name": "Iron Hoe"
   },
   {
     "id": 8119,
-    "name": "Wood Chestplate"
+    "name": "Gold Hoe"
   },
   {
     "id": 8120,
-    "name": "Iron Chestplate"
+    "name": "Diamond Hoe"
   },
   {
     "id": 8121,
-    "name": "Gold Chestplate"
+    "name": "Flashlight"
   },
   {
     "id": 8122,
-    "name": "Diamond Chestplate"
+    "name": "Mining Helmet"
   },
   {
     "id": 8123,
-    "name": "Fur Chestplate"
+    "name": "Wood Helmet"
   },
   {
     "id": 8124,
-    "name": "Wood Leggings"
+    "name": "Iron Helmet"
   },
   {
     "id": 8125,
-    "name": "Iron Leggings"
+    "name": "Gold Helmet"
   },
   {
     "id": 8126,
-    "name": "Gold Leggings"
+    "name": "Diamond Helmet"
   },
   {
     "id": 8127,
-    "name": "Diamond Leggings"
+    "name": "Wood Chestplate"
   },
   {
     "id": 8128,
-    "name": "Wood Boots"
+    "name": "Iron Chestplate"
   },
   {
     "id": 8129,
-    "name": "Iron Boots"
+    "name": "Gold Chestplate"
   },
   {
     "id": 8130,
-    "name": "Gold Boots"
+    "name": "Diamond Chestplate"
   },
   {
     "id": 8131,
-    "name": "Diamond Boots"
+    "name": "Fur Chestplate"
   },
   {
     "id": 8132,
-    "name": "Spiked Boots"
+    "name": "Wood Leggings"
   },
   {
     "id": 8133,
-    "name": "Wood Gauntlets"
+    "name": "Iron Leggings"
   },
   {
     "id": 8134,
-    "name": "Iron Gauntlets"
+    "name": "Gold Leggings"
   },
   {
     "id": 8135,
-    "name": "Gold Gauntlets"
+    "name": "Diamond Leggings"
   },
   {
     "id": 8136,
-    "name": "Diamond Gauntlets"
+    "name": "Wood Boots"
   },
   {
     "id": 8137,
-    "name": "Military Helmet"
+    "name": "Iron Boots"
   },
   {
     "id": 8138,
-    "name": "Military Chestplate"
+    "name": "Gold Boots"
   },
   {
     "id": 8139,
-    "name": "Military Gauntlets"
+    "name": "Diamond Boots"
   },
   {
     "id": 8140,
-    "name": "Military Leggings"
+    "name": "Spiked Boots"
   },
   {
     "id": 8141,
-    "name": "Military Boots"
+    "name": "Wood Gauntlets"
   },
   {
     "id": 8142,
-    "name": "White Wood Helmet"
+    "name": "Iron Gauntlets"
   },
   {
     "id": 8143,
-    "name": "White Wood Chestplate"
+    "name": "Gold Gauntlets"
   },
   {
     "id": 8144,
-    "name": "White Wood Leggings"
+    "name": "Diamond Gauntlets"
   },
   {
     "id": 8145,
-    "name": "White Wood Boots"
+    "name": "Military Helmet"
   },
   {
     "id": 8146,
-    "name": "White Wood Gauntlets"
+    "name": "Military Chestplate"
   },
   {
     "id": 8147,
-    "name": "Orange Wood Helmet"
+    "name": "Military Gauntlets"
   },
   {
     "id": 8148,
-    "name": "Orange Wood Chestplate"
+    "name": "Military Leggings"
   },
   {
     "id": 8149,
-    "name": "Orange Wood Leggings"
+    "name": "Military Boots"
   },
   {
     "id": 8150,
-    "name": "Orange Wood Boots"
+    "name": "White Wood Helmet"
   },
   {
     "id": 8151,
-    "name": "Orange Wood Gauntlets"
+    "name": "White Wood Chestplate"
   },
   {
     "id": 8152,
-    "name": "Magenta Wood Helmet"
+    "name": "White Wood Leggings"
   },
   {
     "id": 8153,
-    "name": "Magenta Wood Chestplate"
+    "name": "White Wood Boots"
   },
   {
     "id": 8154,
-    "name": "Magenta Wood Leggings"
+    "name": "White Wood Gauntlets"
   },
   {
     "id": 8155,
-    "name": "Magenta Wood Boots"
+    "name": "Orange Wood Helmet"
   },
   {
     "id": 8156,
-    "name": "Magenta Wood Gauntlets"
+    "name": "Orange Wood Chestplate"
   },
   {
     "id": 8157,
-    "name": "Light Blue Wood Helmet"
+    "name": "Orange Wood Leggings"
   },
   {
     "id": 8158,
-    "name": "Light Blue Wood Chestplate"
+    "name": "Orange Wood Boots"
   },
   {
     "id": 8159,
-    "name": "Light Blue Wood Leggings"
+    "name": "Orange Wood Gauntlets"
   },
   {
     "id": 8160,
-    "name": "Light Blue Wood Boots"
+    "name": "Magenta Wood Helmet"
   },
   {
     "id": 8161,
-    "name": "Light Blue Wood Gauntlets"
+    "name": "Magenta Wood Chestplate"
   },
   {
     "id": 8162,
-    "name": "Yellow Wood Helmet"
+    "name": "Magenta Wood Leggings"
   },
   {
     "id": 8163,
-    "name": "Yellow Wood Chestplate"
+    "name": "Magenta Wood Boots"
   },
   {
     "id": 8164,
-    "name": "Yellow Wood Leggings"
+    "name": "Magenta Wood Gauntlets"
   },
   {
     "id": 8165,
-    "name": "Yellow Wood Boots"
+    "name": "Light Blue Wood Helmet"
   },
   {
     "id": 8166,
-    "name": "Yellow Wood Gauntlets"
+    "name": "Light Blue Wood Chestplate"
   },
   {
     "id": 8167,
-    "name": "Lime Wood Helmet"
+    "name": "Light Blue Wood Leggings"
   },
   {
     "id": 8168,
-    "name": "Lime Wood Chestplate"
+    "name": "Light Blue Wood Boots"
   },
   {
     "id": 8169,
-    "name": "Lime Wood Leggings"
+    "name": "Light Blue Wood Gauntlets"
   },
   {
     "id": 8170,
-    "name": "Lime Wood Boots"
+    "name": "Yellow Wood Helmet"
   },
   {
     "id": 8171,
-    "name": "Lime Wood Gauntlets"
+    "name": "Yellow Wood Chestplate"
   },
   {
     "id": 8172,
-    "name": "Pink Wood Helmet"
+    "name": "Yellow Wood Leggings"
   },
   {
     "id": 8173,
-    "name": "Pink Wood Chestplate"
+    "name": "Yellow Wood Boots"
   },
   {
     "id": 8174,
-    "name": "Pink Wood Leggings"
+    "name": "Yellow Wood Gauntlets"
   },
   {
     "id": 8175,
-    "name": "Pink Wood Boots"
+    "name": "Lime Wood Helmet"
   },
   {
     "id": 8176,
-    "name": "Pink Wood Gauntlets"
+    "name": "Lime Wood Chestplate"
   },
   {
     "id": 8177,
-    "name": "Gray Wood Helmet"
+    "name": "Lime Wood Leggings"
   },
   {
     "id": 8178,
-    "name": "Gray Wood Chestplate"
+    "name": "Lime Wood Boots"
   },
   {
     "id": 8179,
-    "name": "Gray Wood Leggings"
+    "name": "Lime Wood Gauntlets"
   },
   {
     "id": 8180,
-    "name": "Gray Wood Boots"
+    "name": "Pink Wood Helmet"
   },
   {
     "id": 8181,
-    "name": "Gray Wood Gauntlets"
+    "name": "Pink Wood Chestplate"
   },
   {
     "id": 8182,
-    "name": "Light Gray Wood Helmet"
+    "name": "Pink Wood Leggings"
   },
   {
     "id": 8183,
-    "name": "Light Gray Wood Chestplate"
+    "name": "Pink Wood Boots"
   },
   {
     "id": 8184,
-    "name": "Light Gray Wood Leggings"
+    "name": "Pink Wood Gauntlets"
   },
   {
     "id": 8185,
-    "name": "Light Gray Wood Boots"
+    "name": "Gray Wood Helmet"
   },
   {
     "id": 8186,
-    "name": "Light Gray Wood Gauntlets"
+    "name": "Gray Wood Chestplate"
   },
   {
     "id": 8187,
-    "name": "Cyan Wood Helmet"
+    "name": "Gray Wood Leggings"
   },
   {
     "id": 8188,
-    "name": "Cyan Wood Chestplate"
+    "name": "Gray Wood Boots"
   },
   {
     "id": 8189,
-    "name": "Cyan Wood Leggings"
+    "name": "Gray Wood Gauntlets"
   },
   {
     "id": 8190,
-    "name": "Cyan Wood Boots"
+    "name": "Light Gray Wood Helmet"
   },
   {
     "id": 8191,
-    "name": "Cyan Wood Gauntlets"
+    "name": "Light Gray Wood Chestplate"
   },
   {
     "id": 8192,
-    "name": "Purple Wood Helmet"
+    "name": "Light Gray Wood Leggings"
   },
   {
     "id": 8193,
-    "name": "Purple Wood Chestplate"
+    "name": "Light Gray Wood Boots"
   },
   {
     "id": 8194,
-    "name": "Purple Wood Leggings"
+    "name": "Light Gray Wood Gauntlets"
   },
   {
     "id": 8195,
-    "name": "Purple Wood Boots"
+    "name": "Cyan Wood Helmet"
   },
   {
     "id": 8196,
-    "name": "Purple Wood Gauntlets"
+    "name": "Cyan Wood Chestplate"
   },
   {
     "id": 8197,
-    "name": "Blue Wood Helmet"
+    "name": "Cyan Wood Leggings"
   },
   {
     "id": 8198,
-    "name": "Blue Wood Chestplate"
+    "name": "Cyan Wood Boots"
   },
   {
     "id": 8199,
-    "name": "Blue Wood Leggings"
+    "name": "Cyan Wood Gauntlets"
   },
   {
     "id": 8200,
-    "name": "Blue Wood Boots"
+    "name": "Purple Wood Helmet"
   },
   {
     "id": 8201,
-    "name": "Blue Wood Gauntlets"
+    "name": "Purple Wood Chestplate"
   },
   {
     "id": 8202,
-    "name": "Brown Wood Helmet"
+    "name": "Purple Wood Leggings"
   },
   {
     "id": 8203,
-    "name": "Brown Wood Chestplate"
+    "name": "Purple Wood Boots"
   },
   {
     "id": 8204,
-    "name": "Brown Wood Leggings"
+    "name": "Purple Wood Gauntlets"
   },
   {
     "id": 8205,
-    "name": "Brown Wood Boots"
+    "name": "Blue Wood Helmet"
   },
   {
     "id": 8206,
-    "name": "Brown Wood Gauntlets"
+    "name": "Blue Wood Chestplate"
   },
   {
     "id": 8207,
-    "name": "Green Wood Helmet"
+    "name": "Blue Wood Leggings"
   },
   {
     "id": 8208,
-    "name": "Green Wood Chestplate"
+    "name": "Blue Wood Boots"
   },
   {
     "id": 8209,
-    "name": "Green Wood Leggings"
+    "name": "Blue Wood Gauntlets"
   },
   {
     "id": 8210,
-    "name": "Green Wood Boots"
+    "name": "Brown Wood Helmet"
   },
   {
     "id": 8211,
-    "name": "Green Wood Gauntlets"
+    "name": "Brown Wood Chestplate"
   },
   {
     "id": 8212,
-    "name": "Red Wood Helmet"
+    "name": "Brown Wood Leggings"
   },
   {
     "id": 8213,
-    "name": "Red Wood Chestplate"
+    "name": "Brown Wood Boots"
   },
   {
     "id": 8214,
-    "name": "Red Wood Leggings"
+    "name": "Brown Wood Gauntlets"
   },
   {
     "id": 8215,
-    "name": "Red Wood Boots"
+    "name": "Green Wood Helmet"
   },
   {
     "id": 8216,
-    "name": "Red Wood Gauntlets"
+    "name": "Green Wood Chestplate"
   },
   {
     "id": 8217,
-    "name": "Black Wood Helmet"
+    "name": "Green Wood Leggings"
   },
   {
     "id": 8218,
-    "name": "Black Wood Chestplate"
+    "name": "Green Wood Boots"
   },
   {
     "id": 8219,
-    "name": "Black Wood Leggings"
+    "name": "Green Wood Gauntlets"
   },
   {
     "id": 8220,
-    "name": "Black Wood Boots"
+    "name": "Red Wood Helmet"
   },
   {
     "id": 8221,
-    "name": "Black Wood Gauntlets"
+    "name": "Red Wood Chestplate"
   },
   {
     "id": 8222,
-    "name": "Shears"
+    "name": "Red Wood Leggings"
   },
   {
     "id": 8223,
-    "name": "Artisan Shears"
+    "name": "Red Wood Boots"
   },
   {
     "id": 8224,
-    "name": "Stick"
+    "name": "Red Wood Gauntlets"
   },
   {
     "id": 8225,
-    "name": "Coal"
+    "name": "Black Wood Helmet"
   },
   {
     "id": 8226,
-    "name": "Raw Iron"
+    "name": "Black Wood Chestplate"
   },
   {
     "id": 8227,
-    "name": "Iron Bar"
+    "name": "Black Wood Leggings"
   },
   {
     "id": 8228,
-    "name": "Iron Fragment"
+    "name": "Black Wood Boots"
   },
   {
     "id": 8229,
-    "name": "Raw Gold"
+    "name": "Black Wood Gauntlets"
   },
   {
     "id": 8230,
-    "name": "Gold Bar"
+    "name": "Shears"
   },
   {
     "id": 8231,
-    "name": "Gold Fragment"
+    "name": "Artisan Shears"
   },
   {
     "id": 8232,
-    "name": "Diamond"
+    "name": "Stick"
   },
   {
     "id": 8233,
-    "name": "Diamond Fragment"
+    "name": "Coal"
   },
   {
     "id": 8234,
-    "name": "Moonstone"
+    "name": "Raw Iron"
   },
   {
     "id": 8235,
-    "name": "Lunite"
+    "name": "Iron Bar"
   },
   {
     "id": 8236,
-    "name": "Moonstone Fragment"
+    "name": "Iron Fragment"
   },
   {
     "id": 8237,
-    "name": "Bowl"
+    "name": "Raw Gold"
   },
   {
     "id": 8238,
-    "name": "Partially Full Bowl of Cranberries"
+    "name": "Gold Bar"
   },
   {
     "id": 8239,
-    "name": "Half Full Bowl of Cranberries"
+    "name": "Gold Fragment"
   },
   {
     "id": 8240,
-    "name": "Nearly Full Bowl of Cranberries"
+    "name": "Diamond"
   },
   {
     "id": 8241,
-    "name": "Bowl of Cranberries"
+    "name": "Diamond Fragment"
   },
   {
     "id": 8242,
-    "name": "Mushroom Soup"
+    "name": "Moonstone"
   },
   {
     "id": 8243,
-    "name": "Glowing Soup"
+    "name": "Lunite"
   },
   {
     "id": 8244,
-    "name": "Night Vision Soup"
+    "name": "Moonstone Fragment"
   },
   {
     "id": 8245,
-    "name": "Cotton"
+    "name": "Bowl"
   },
   {
     "id": 8246,
-    "name": "Gold Crop"
+    "name": "Partially Full Bowl of Cranberries"
   },
   {
     "id": 8247,
-    "name": "Bucket"
+    "name": "Half Full Bowl of Cranberries"
   },
   {
     "id": 8248,
-    "name": "Water Bucket"
+    "name": "Nearly Full Bowl of Cranberries"
   },
   {
     "id": 8249,
-    "name": "Lava Bucket"
+    "name": "Bowl of Cranberries"
   },
   {
     "id": 8250,
-    "name": "Boat"
+    "name": "Mushroom Soup"
   },
   {
     "id": 8251,
-    "name": "INTERNAL_MESH_Boat"
+    "name": "Glowing Soup"
   },
   {
     "id": 8252,
-    "name": "Obsidian Boat"
+    "name": "Night Vision Soup"
   },
   {
     "id": 8253,
-    "name": "INTERNAL_MESH_Obsidian Boat"
+    "name": "Cotton"
   },
   {
     "id": 8254,
-    "name": "Speedboat"
+    "name": "Gold Crop"
   },
   {
     "id": 8255,
-    "name": "INTERNAL_MESH_Speedboat"
+    "name": "Bucket"
   },
   {
     "id": 8256,
-    "name": "Wood Hang Glider"
+    "name": "Water Bucket"
   },
   {
     "id": 8257,
-    "name": "INTERNAL_MESH_Wood Hang Glider"
+    "name": "Lava Bucket"
   },
   {
     "id": 8258,
-    "name": "Iron Hang Glider"
+    "name": "Boat"
   },
   {
     "id": 8259,
-    "name": "INTERNAL_MESH_Iron Hang Glider"
+    "name": "INTERNAL_MESH_Boat"
   },
   {
     "id": 8260,
-    "name": "Gold Hang Glider"
+    "name": "Obsidian Boat"
   },
   {
     "id": 8261,
-    "name": "INTERNAL_MESH_Gold Hang Glider"
+    "name": "INTERNAL_MESH_Obsidian Boat"
   },
   {
     "id": 8262,
-    "name": "Diamond Hang Glider"
+    "name": "Speedboat"
   },
   {
     "id": 8263,
-    "name": "INTERNAL_MESH_Diamond Hang Glider"
+    "name": "INTERNAL_MESH_Speedboat"
   },
   {
     "id": 8264,
-    "name": "Hovercraft"
+    "name": "Wood Hang Glider"
   },
   {
     "id": 8265,
-    "name": "INTERNAL_MESH_Hovercraft"
+    "name": "INTERNAL_MESH_Wood Hang Glider"
   },
   {
     "id": 8266,
-    "name": "Yellow Kart"
+    "name": "Iron Hang Glider"
   },
   {
     "id": 8267,
-    "name": "White Kart"
+    "name": "INTERNAL_MESH_Iron Hang Glider"
   },
   {
     "id": 8268,
-    "name": "Red Kart"
+    "name": "Gold Hang Glider"
   },
   {
     "id": 8269,
-    "name": "Purple Kart"
+    "name": "INTERNAL_MESH_Gold Hang Glider"
   },
   {
     "id": 8270,
-    "name": "Pink Kart"
+    "name": "Diamond Hang Glider"
   },
   {
     "id": 8271,
-    "name": "Orange Kart"
+    "name": "INTERNAL_MESH_Diamond Hang Glider"
   },
   {
     "id": 8272,
-    "name": "Magenta Kart"
+    "name": "Hovercraft"
   },
   {
     "id": 8273,
-    "name": "Lime Kart"
+    "name": "INTERNAL_MESH_Hovercraft"
   },
   {
     "id": 8274,
-    "name": "Light Gray Kart"
+    "name": "Yellow Kart"
   },
   {
     "id": 8275,
-    "name": "Light Blue Kart"
+    "name": "White Kart"
   },
   {
     "id": 8276,
-    "name": "Green Kart"
+    "name": "Red Kart"
   },
   {
     "id": 8277,
-    "name": "Gray Kart"
+    "name": "Purple Kart"
   },
   {
     "id": 8278,
-    "name": "Cyan Kart"
+    "name": "Pink Kart"
   },
   {
     "id": 8279,
-    "name": "Brown Kart"
+    "name": "Orange Kart"
   },
   {
     "id": 8280,
-    "name": "Blue Kart"
+    "name": "Magenta Kart"
   },
   {
     "id": 8281,
-    "name": "Black Kart"
+    "name": "Lime Kart"
   },
   {
     "id": 8282,
-    "name": "INTERNAL_MESH_Yellow Kart"
+    "name": "Light Gray Kart"
   },
   {
     "id": 8283,
-    "name": "INTERNAL_MESH_White Kart"
+    "name": "Light Blue Kart"
   },
   {
     "id": 8284,
-    "name": "INTERNAL_MESH_Red Kart"
+    "name": "Green Kart"
   },
   {
     "id": 8285,
-    "name": "INTERNAL_MESH_Purple Kart"
+    "name": "Gray Kart"
   },
   {
     "id": 8286,
-    "name": "INTERNAL_MESH_Pink Kart"
+    "name": "Cyan Kart"
   },
   {
     "id": 8287,
-    "name": "INTERNAL_MESH_Orange Kart"
+    "name": "Brown Kart"
   },
   {
     "id": 8288,
-    "name": "INTERNAL_MESH_Magenta Kart"
+    "name": "Blue Kart"
   },
   {
     "id": 8289,
-    "name": "INTERNAL_MESH_Lime Kart"
+    "name": "Black Kart"
   },
   {
     "id": 8290,
-    "name": "INTERNAL_MESH_Light Gray Kart"
+    "name": "INTERNAL_MESH_Yellow Kart"
   },
   {
     "id": 8291,
-    "name": "INTERNAL_MESH_Light Blue Kart"
+    "name": "INTERNAL_MESH_White Kart"
   },
   {
     "id": 8292,
-    "name": "INTERNAL_MESH_Green Kart"
+    "name": "INTERNAL_MESH_Red Kart"
   },
   {
     "id": 8293,
-    "name": "INTERNAL_MESH_Gray Kart"
+    "name": "INTERNAL_MESH_Purple Kart"
   },
   {
     "id": 8294,
-    "name": "INTERNAL_MESH_Cyan Kart"
+    "name": "INTERNAL_MESH_Pink Kart"
   },
   {
     "id": 8295,
-    "name": "INTERNAL_MESH_Brown Kart"
+    "name": "INTERNAL_MESH_Orange Kart"
   },
   {
     "id": 8296,
-    "name": "INTERNAL_MESH_Blue Kart"
+    "name": "INTERNAL_MESH_Magenta Kart"
   },
   {
     "id": 8297,
-    "name": "INTERNAL_MESH_Black Kart"
+    "name": "INTERNAL_MESH_Lime Kart"
   },
   {
     "id": 8298,
-    "name": "Off Roader"
+    "name": "INTERNAL_MESH_Light Gray Kart"
   },
   {
     "id": 8299,
-    "name": "INTERNAL_MESH_Off Roader"
+    "name": "INTERNAL_MESH_Light Blue Kart"
   },
   {
     "id": 8300,
-    "name": "Gold Mining Drill"
+    "name": "INTERNAL_MESH_Green Kart"
   },
   {
     "id": 8301,
-    "name": "Iron Mining Drill"
+    "name": "INTERNAL_MESH_Gray Kart"
   },
   {
     "id": 8302,
-    "name": "Diamond Mining Drill"
+    "name": "INTERNAL_MESH_Cyan Kart"
   },
   {
     "id": 8303,
-    "name": "Moonstone Mining Drill"
+    "name": "INTERNAL_MESH_Brown Kart"
   },
   {
     "id": 8304,
-    "name": "Armored Car"
+    "name": "INTERNAL_MESH_Blue Kart"
   },
   {
     "id": 8305,
-    "name": "INTERNAL_MESH_Gold Mining Drill"
+    "name": "INTERNAL_MESH_Black Kart"
   },
   {
     "id": 8306,
-    "name": "INTERNAL_MESH_Iron Mining Drill"
+    "name": "Off Roader"
   },
   {
     "id": 8307,
-    "name": "INTERNAL_MESH_Diamond Mining Drill"
+    "name": "INTERNAL_MESH_Off Roader"
   },
   {
     "id": 8308,
-    "name": "INTERNAL_MESH_Moonstone Mining Drill"
+    "name": "Gold Mining Drill"
   },
   {
     "id": 8309,
-    "name": "INTERNAL_MESH_Armored Car"
+    "name": "Iron Mining Drill"
   },
   {
     "id": 8310,
-    "name": "Light Blue Car"
+    "name": "Diamond Mining Drill"
   },
   {
     "id": 8311,
-    "name": "INTERNAL_MESH_Car"
+    "name": "Moonstone Mining Drill"
   },
   {
     "id": 8312,
-    "name": "Snowball"
+    "name": "Armored Car"
   },
   {
     "id": 8313,
-    "name": "Snowball Launcher"
+    "name": "INTERNAL_MESH_Gold Mining Drill"
   },
   {
     "id": 8314,
-    "name": "Pebble"
+    "name": "INTERNAL_MESH_Iron Mining Drill"
   },
   {
     "id": 8315,
-    "name": "Reinforced Pebble"
+    "name": "INTERNAL_MESH_Diamond Mining Drill"
   },
   {
     "id": 8316,
-    "name": "Bullet"
+    "name": "INTERNAL_MESH_Moonstone Mining Drill"
   },
   {
     "id": 8317,
-    "name": "Ball"
+    "name": "INTERNAL_MESH_Armored Car"
   },
   {
     "id": 8318,
-    "name": "Reinforced Ball"
+    "name": "Light Blue Car"
   },
   {
     "id": 8319,
-    "name": "Frag Grenade"
+    "name": "INTERNAL_MESH_Car"
   },
   {
     "id": 8320,
-    "name": "Mining Grenade"
+    "name": "Snowball"
   },
   {
     "id": 8321,
-    "name": "Smoke Grenade"
+    "name": "Snowball Launcher"
   },
   {
     "id": 8322,
-    "name": "Moonstone Orb"
+    "name": "Pebble"
   },
   {
     "id": 8323,
-    "name": "Fireball"
+    "name": "Reinforced Pebble"
   },
   {
     "id": 8324,
-    "name": "Bouncy Bomb"
+    "name": "Bullet"
   },
   {
     "id": 8325,
-    "name": "RPG"
+    "name": "Ball"
   },
   {
     "id": 8326,
-    "name": "Obby RPG"
+    "name": "Reinforced Ball"
   },
   {
     "id": 8327,
-    "name": "Super RPG"
+    "name": "Frag Grenade"
   },
   {
     "id": 8328,
-    "name": "Grenade Launcher"
+    "name": "Mining Grenade"
   },
   {
     "id": 8329,
-    "name": "Iceball"
+    "name": "Smoke Grenade"
   },
   {
     "id": 8330,
-    "name": "67 Base Projectile"
+    "name": "Moonstone Orb"
   },
   {
     "id": 8331,
-    "name": "67 Boosted Projectile"
+    "name": "Fireball"
   },
   {
     "id": 8332,
-    "name": "Capitano Grenade"
+    "name": "Bouncy Bomb"
   },
   {
     "id": 8333,
-    "name": "Scatter Pellet"
+    "name": "RPG"
   },
   {
     "id": 8334,
-    "name": "Wood Bow"
+    "name": "Obby RPG"
   },
   {
     "id": 8335,
-    "name": "Wood Bow|meta|charging2"
+    "name": "Super RPG"
   },
   {
     "id": 8336,
-    "name": "Wood Bow|meta|charging3"
+    "name": "Grenade Launcher"
   },
   {
     "id": 8337,
-    "name": "Wood Bow|meta|charging4"
+    "name": "Iceball"
   },
   {
     "id": 8338,
-    "name": "Stone Bow"
+    "name": "67 Base Projectile"
   },
   {
     "id": 8339,
-    "name": "Stone Bow|meta|charging2"
+    "name": "67 Boosted Projectile"
   },
   {
     "id": 8340,
-    "name": "Stone Bow|meta|charging3"
+    "name": "Capitano Grenade"
   },
   {
     "id": 8341,
-    "name": "Stone Bow|meta|charging4"
+    "name": "Scatter Pellet"
   },
   {
     "id": 8342,
-    "name": "Iron Bow"
+    "name": "Wood Bow"
   },
   {
     "id": 8343,
-    "name": "Iron Bow|meta|charging2"
+    "name": "Wood Bow|meta|charging2"
   },
   {
     "id": 8344,
-    "name": "Iron Bow|meta|charging3"
+    "name": "Wood Bow|meta|charging3"
   },
   {
     "id": 8345,
-    "name": "Iron Bow|meta|charging4"
+    "name": "Wood Bow|meta|charging4"
   },
   {
     "id": 8346,
-    "name": "Gold Bow"
+    "name": "Stone Bow"
   },
   {
     "id": 8347,
-    "name": "Gold Bow|meta|charging2"
+    "name": "Stone Bow|meta|charging2"
   },
   {
     "id": 8348,
-    "name": "Gold Bow|meta|charging3"
+    "name": "Stone Bow|meta|charging3"
   },
   {
     "id": 8349,
-    "name": "Gold Bow|meta|charging4"
+    "name": "Stone Bow|meta|charging4"
   },
   {
     "id": 8350,
-    "name": "Diamond Bow"
+    "name": "Iron Bow"
   },
   {
     "id": 8351,
-    "name": "Diamond Bow|meta|charging2"
+    "name": "Iron Bow|meta|charging2"
   },
   {
     "id": 8352,
-    "name": "Diamond Bow|meta|charging3"
+    "name": "Iron Bow|meta|charging3"
   },
   {
     "id": 8353,
-    "name": "Diamond Bow|meta|charging4"
+    "name": "Iron Bow|meta|charging4"
   },
   {
     "id": 8354,
-    "name": "Wood Crossbow"
+    "name": "Gold Bow"
   },
   {
     "id": 8355,
-    "name": "Wood Crossbow|meta|charging2"
+    "name": "Gold Bow|meta|charging2"
   },
   {
     "id": 8356,
-    "name": "Wood Crossbow|meta|charging3"
+    "name": "Gold Bow|meta|charging3"
   },
   {
     "id": 8357,
-    "name": "Wood Crossbow|meta|charging4"
+    "name": "Gold Bow|meta|charging4"
   },
   {
     "id": 8358,
-    "name": "Stone Crossbow"
+    "name": "Diamond Bow"
   },
   {
     "id": 8359,
-    "name": "Stone Crossbow|meta|charging2"
+    "name": "Diamond Bow|meta|charging2"
   },
   {
     "id": 8360,
-    "name": "Stone Crossbow|meta|charging3"
+    "name": "Diamond Bow|meta|charging3"
   },
   {
     "id": 8361,
-    "name": "Stone Crossbow|meta|charging4"
+    "name": "Diamond Bow|meta|charging4"
   },
   {
     "id": 8362,
-    "name": "Iron Crossbow"
+    "name": "Wood Crossbow"
   },
   {
     "id": 8363,
-    "name": "Iron Crossbow|meta|charging2"
+    "name": "Wood Crossbow|meta|charging2"
   },
   {
     "id": 8364,
-    "name": "Iron Crossbow|meta|charging3"
+    "name": "Wood Crossbow|meta|charging3"
   },
   {
     "id": 8365,
-    "name": "Iron Crossbow|meta|charging4"
+    "name": "Wood Crossbow|meta|charging4"
   },
   {
     "id": 8366,
-    "name": "Gold Crossbow"
+    "name": "Stone Crossbow"
   },
   {
     "id": 8367,
-    "name": "Gold Crossbow|meta|charging2"
+    "name": "Stone Crossbow|meta|charging2"
   },
   {
     "id": 8368,
-    "name": "Gold Crossbow|meta|charging3"
+    "name": "Stone Crossbow|meta|charging3"
   },
   {
     "id": 8369,
-    "name": "Gold Crossbow|meta|charging4"
+    "name": "Stone Crossbow|meta|charging4"
   },
   {
     "id": 8370,
-    "name": "Diamond Crossbow"
+    "name": "Iron Crossbow"
   },
   {
     "id": 8371,
-    "name": "Diamond Crossbow|meta|charging2"
+    "name": "Iron Crossbow|meta|charging2"
   },
   {
     "id": 8372,
-    "name": "Diamond Crossbow|meta|charging3"
+    "name": "Iron Crossbow|meta|charging3"
   },
   {
     "id": 8373,
-    "name": "Diamond Crossbow|meta|charging4"
+    "name": "Iron Crossbow|meta|charging4"
   },
   {
     "id": 8374,
-    "name": "Wood Crossbow Charged"
+    "name": "Gold Crossbow"
   },
   {
     "id": 8375,
-    "name": "Stone Crossbow Charged"
+    "name": "Gold Crossbow|meta|charging2"
   },
   {
     "id": 8376,
-    "name": "Iron Crossbow Charged"
+    "name": "Gold Crossbow|meta|charging3"
   },
   {
     "id": 8377,
-    "name": "Gold Crossbow Charged"
+    "name": "Gold Crossbow|meta|charging4"
   },
   {
     "id": 8378,
-    "name": "Diamond Crossbow Charged"
+    "name": "Diamond Crossbow"
   },
   {
     "id": 8379,
-    "name": "Arrow"
+    "name": "Diamond Crossbow|meta|charging2"
   },
   {
     "id": 8380,
-    "name": "Compass"
+    "name": "Diamond Crossbow|meta|charging3"
   },
   {
     "id": 8381,
-    "name": "Compass|meta|dir2"
+    "name": "Diamond Crossbow|meta|charging4"
   },
   {
     "id": 8382,
-    "name": "Compass|meta|dir3"
+    "name": "Wood Crossbow Charged"
   },
   {
     "id": 8383,
-    "name": "Compass|meta|dir4"
+    "name": "Stone Crossbow Charged"
   },
   {
     "id": 8384,
-    "name": "Compass|meta|dir5"
+    "name": "Iron Crossbow Charged"
   },
   {
     "id": 8385,
-    "name": "Compass|meta|dir6"
+    "name": "Gold Crossbow Charged"
   },
   {
     "id": 8386,
-    "name": "Compass|meta|dir7"
+    "name": "Diamond Crossbow Charged"
   },
   {
     "id": 8387,
-    "name": "Compass|meta|dir8"
+    "name": "Arrow"
   },
   {
     "id": 8388,
-    "name": "Compass|meta|dir9"
+    "name": "Compass"
   },
   {
     "id": 8389,
-    "name": "Compass|meta|dir10"
+    "name": "Compass|meta|dir2"
   },
   {
     "id": 8390,
-    "name": "Compass|meta|dir11"
+    "name": "Compass|meta|dir3"
   },
   {
     "id": 8391,
-    "name": "Compass|meta|dir12"
+    "name": "Compass|meta|dir4"
   },
   {
     "id": 8392,
-    "name": "Chunk Map"
+    "name": "Compass|meta|dir5"
   },
   {
     "id": 8393,
-    "name": "Bread"
+    "name": "Compass|meta|dir6"
   },
   {
     "id": 8394,
-    "name": "Bowl of Rice"
+    "name": "Compass|meta|dir7"
   },
   {
     "id": 8395,
-    "name": "Apple"
+    "name": "Compass|meta|dir8"
   },
   {
     "id": 8396,
-    "name": "Plum"
+    "name": "Compass|meta|dir9"
   },
   {
     "id": 8397,
-    "name": "Coconut"
+    "name": "Compass|meta|dir10"
   },
   {
     "id": 8398,
-    "name": "Cracked Coconut"
+    "name": "Compass|meta|dir11"
   },
   {
     "id": 8399,
-    "name": "Pear"
+    "name": "Compass|meta|dir12"
   },
   {
     "id": 8400,
-    "name": "Cherry"
+    "name": "Chunk Map"
   },
   {
     "id": 8401,
-    "name": "Banana"
+    "name": "Bread"
   },
   {
     "id": 8402,
-    "name": "Watermelon Slice"
+    "name": "Bowl of Rice"
   },
   {
     "id": 8403,
-    "name": "Gold Watermelon Slice"
+    "name": "Apple"
   },
   {
     "id": 8404,
-    "name": "Melon Slice"
+    "name": "Plum"
   },
   {
     "id": 8405,
-    "name": "Gold Melon Slice"
+    "name": "Coconut"
   },
   {
     "id": 8406,
-    "name": "Pumpkin Pie"
+    "name": "Cracked Coconut"
   },
   {
     "id": 8407,
-    "name": "Corn"
+    "name": "Pear"
   },
   {
     "id": 8408,
-    "name": "Cornbread"
+    "name": "Cherry"
   },
   {
     "id": 8409,
-    "name": "Chili Pepper"
+    "name": "Banana"
   },
   {
     "id": 8410,
-    "name": "Mango"
+    "name": "Watermelon Slice"
   },
   {
     "id": 8411,
-    "name": "Carrot"
+    "name": "Gold Watermelon Slice"
   },
   {
     "id": 8412,
-    "name": "Gold Carrot"
+    "name": "Melon Slice"
   },
   {
     "id": 8413,
-    "name": "Raw Potato"
+    "name": "Gold Melon Slice"
   },
   {
     "id": 8414,
-    "name": "Baked Potato"
+    "name": "Pumpkin Pie"
   },
   {
     "id": 8415,
-    "name": "Beetroot"
+    "name": "Corn"
   },
   {
     "id": 8416,
-    "name": "Raw Porkchop"
+    "name": "Cornbread"
   },
   {
     "id": 8417,
-    "name": "Cooked Porkchop"
+    "name": "Chili Pepper"
   },
   {
     "id": 8418,
-    "name": "Raw Beef"
+    "name": "Mango"
   },
   {
     "id": 8419,
-    "name": "Steak"
+    "name": "Carrot"
   },
   {
     "id": 8420,
-    "name": "Raw Mutton"
+    "name": "Gold Carrot"
   },
   {
     "id": 8421,
-    "name": "Cooked Mutton"
+    "name": "Raw Potato"
   },
   {
     "id": 8422,
-    "name": "Raw Venison"
+    "name": "Baked Potato"
   },
   {
     "id": 8423,
-    "name": "Cooked Venison"
+    "name": "Beetroot"
   },
   {
     "id": 8424,
-    "name": "Rotten Flesh"
+    "name": "Raw Porkchop"
   },
   {
     "id": 8425,
-    "name": "Rotten Brain"
+    "name": "Cooked Porkchop"
   },
   {
     "id": 8426,
-    "name": "Bone"
+    "name": "Raw Beef"
   },
   {
     "id": 8427,
-    "name": "Bone Meal"
+    "name": "Steak"
   },
   {
     "id": 8428,
-    "name": "Leather"
+    "name": "Raw Mutton"
   },
   {
     "id": 8429,
-    "name": "Saddle"
+    "name": "Cooked Mutton"
   },
   {
     "id": 8430,
-    "name": "Spirit Saddle"
+    "name": "Raw Venison"
   },
   {
     "id": 8431,
-    "name": "Fur"
+    "name": "Cooked Venison"
   },
   {
     "id": 8432,
-    "name": "Golem Eye"
+    "name": "Rotten Flesh"
   },
   {
     "id": 8433,
-    "name": "Knight Heart"
+    "name": "Rotten Brain"
   },
   {
     "id": 8434,
-    "name": "Teleport Heart"
+    "name": "Bone"
   },
   {
     "id": 8435,
-    "name": "Frost Shard"
+    "name": "Bone Meal"
   },
   {
     "id": 8436,
-    "name": "Molten Cog"
+    "name": "Leather"
   },
   {
     "id": 8437,
-    "name": "Choir Bell"
+    "name": "Saddle"
   },
   {
     "id": 8438,
-    "name": "Siege Core"
+    "name": "Spirit Saddle"
   },
   {
     "id": 8439,
-    "name": "Flywheel"
+    "name": "Fur"
   },
   {
     "id": 8440,
-    "name": "Radiant Spark"
+    "name": "Golem Eye"
   },
   {
     "id": 8441,
-    "name": "Brood Sac"
+    "name": "Knight Heart"
   },
   {
     "id": 8442,
-    "name": "Bandolier"
+    "name": "Teleport Heart"
   },
   {
     "id": 8443,
-    "name": "Name Tag"
+    "name": "Frost Shard"
   },
   {
     "id": 8444,
-    "name": "Book"
+    "name": "Molten Cog"
   },
   {
     "id": 8445,
-    "name": "Empty Bottle"
+    "name": "Choir Bell"
   },
   {
     "id": 8446,
-    "name": "Water Bottle"
+    "name": "Siege Core"
   },
   {
     "id": 8447,
-    "name": "Slowness Potion"
+    "name": "Flywheel"
   },
   {
     "id": 8448,
-    "name": "Slowness Potion II"
+    "name": "Radiant Spark"
   },
   {
     "id": 8449,
-    "name": "Splash Slowness Potion"
+    "name": "Brood Sac"
   },
   {
     "id": 8450,
-    "name": "Splash Slowness Potion II"
+    "name": "Bandolier"
   },
   {
     "id": 8451,
-    "name": "Arrow of Slowness"
+    "name": "Name Tag"
   },
   {
     "id": 8452,
-    "name": "Poison Potion"
+    "name": "Book"
   },
   {
     "id": 8453,
-    "name": "Poison Potion II"
+    "name": "Empty Bottle"
   },
   {
     "id": 8454,
-    "name": "Splash Poison Potion"
+    "name": "Water Bottle"
   },
   {
     "id": 8455,
-    "name": "Splash Poison Potion II"
+    "name": "Slowness Potion"
   },
   {
     "id": 8456,
-    "name": "Arrow of Poison"
+    "name": "Slowness Potion II"
   },
   {
     "id": 8457,
-    "name": "Weakness Potion"
+    "name": "Splash Slowness Potion"
   },
   {
     "id": 8458,
-    "name": "Weakness Potion II"
+    "name": "Splash Slowness Potion II"
   },
   {
     "id": 8459,
-    "name": "Splash Weakness Potion"
+    "name": "Arrow of Slowness"
   },
   {
     "id": 8460,
-    "name": "Splash Weakness Potion II"
+    "name": "Poison Potion"
   },
   {
     "id": 8461,
-    "name": "Arrow of Weakness"
+    "name": "Poison Potion II"
   },
   {
     "id": 8462,
-    "name": "Instant Damage Potion"
+    "name": "Splash Poison Potion"
   },
   {
     "id": 8463,
-    "name": "Instant Damage Potion II"
+    "name": "Splash Poison Potion II"
   },
   {
     "id": 8464,
-    "name": "Splash Instant Damage Potion"
+    "name": "Arrow of Poison"
   },
   {
     "id": 8465,
-    "name": "Splash Instant Damage Potion II"
+    "name": "Weakness Potion"
   },
   {
     "id": 8466,
-    "name": "Arrow of Instant Damage"
+    "name": "Weakness Potion II"
   },
   {
     "id": 8467,
-    "name": "Milk Potion"
+    "name": "Splash Weakness Potion"
   },
   {
     "id": 8468,
-    "name": "Splash Milk Potion"
+    "name": "Splash Weakness Potion II"
   },
   {
     "id": 8469,
-    "name": "Arrow of Milk"
+    "name": "Arrow of Weakness"
   },
   {
     "id": 8470,
-    "name": "Speed Potion"
+    "name": "Instant Damage Potion"
   },
   {
     "id": 8471,
-    "name": "Speed Potion II"
+    "name": "Instant Damage Potion II"
   },
   {
     "id": 8472,
-    "name": "Splash Speed Potion"
+    "name": "Splash Instant Damage Potion"
   },
   {
     "id": 8473,
-    "name": "Splash Speed Potion II"
+    "name": "Splash Instant Damage Potion II"
   },
   {
     "id": 8474,
-    "name": "Arrow of Speed"
+    "name": "Arrow of Instant Damage"
   },
   {
     "id": 8475,
-    "name": "Defense Potion"
+    "name": "Milk Potion"
   },
   {
     "id": 8476,
-    "name": "Defense Potion II"
+    "name": "Splash Milk Potion"
   },
   {
     "id": 8477,
-    "name": "Splash Defense Potion"
+    "name": "Arrow of Milk"
   },
   {
     "id": 8478,
-    "name": "Splash Defense Potion II"
+    "name": "Speed Potion"
   },
   {
     "id": 8479,
-    "name": "Arrow of Defense"
+    "name": "Speed Potion II"
   },
   {
     "id": 8480,
-    "name": "Strength Potion"
+    "name": "Splash Speed Potion"
   },
   {
     "id": 8481,
-    "name": "Strength Potion II"
+    "name": "Splash Speed Potion II"
   },
   {
     "id": 8482,
-    "name": "Splash Strength Potion"
+    "name": "Arrow of Speed"
   },
   {
     "id": 8483,
-    "name": "Splash Strength Potion II"
+    "name": "Defense Potion"
   },
   {
     "id": 8484,
-    "name": "Arrow of Strength"
+    "name": "Defense Potion II"
   },
   {
     "id": 8485,
-    "name": "Invisibility Potion"
+    "name": "Splash Defense Potion"
   },
   {
     "id": 8486,
-    "name": "Splash Invisibility Potion"
+    "name": "Splash Defense Potion II"
   },
   {
     "id": 8487,
-    "name": "Arrow of Invisibility"
+    "name": "Arrow of Defense"
   },
   {
     "id": 8488,
-    "name": "Jump Potion"
+    "name": "Strength Potion"
   },
   {
     "id": 8489,
-    "name": "Jump Potion II"
+    "name": "Strength Potion II"
   },
   {
     "id": 8490,
-    "name": "Splash Jump Potion"
+    "name": "Splash Strength Potion"
   },
   {
     "id": 8491,
-    "name": "Splash Jump Potion II"
+    "name": "Splash Strength Potion II"
   },
   {
     "id": 8492,
-    "name": "Arrow of Jumping"
+    "name": "Arrow of Strength"
   },
   {
     "id": 8493,
-    "name": "Knockback Potion"
+    "name": "Invisibility Potion"
   },
   {
     "id": 8494,
-    "name": "Splash Knockback Potion"
+    "name": "Splash Invisibility Potion"
   },
   {
     "id": 8495,
-    "name": "Splash Knockback Potion II"
+    "name": "Arrow of Invisibility"
   },
   {
     "id": 8496,
-    "name": "Arrow of Knockback"
+    "name": "Jump Potion"
   },
   {
     "id": 8497,
-    "name": "Regeneration Potion"
+    "name": "Jump Potion II"
   },
   {
     "id": 8498,
-    "name": "Regeneration Potion II"
+    "name": "Splash Jump Potion"
   },
   {
     "id": 8499,
-    "name": "Splash Regeneration Potion"
+    "name": "Splash Jump Potion II"
   },
   {
     "id": 8500,
-    "name": "Splash Regeneration Potion II"
+    "name": "Arrow of Jumping"
   },
   {
     "id": 8501,
-    "name": "Arrow of Regeneration"
+    "name": "Knockback Potion"
   },
   {
     "id": 8502,
-    "name": "Instant Healing Potion"
+    "name": "Splash Knockback Potion"
   },
   {
     "id": 8503,
-    "name": "Instant Healing Potion II"
+    "name": "Splash Knockback Potion II"
   },
   {
     "id": 8504,
-    "name": "Splash Instant Healing Potion"
+    "name": "Arrow of Knockback"
   },
   {
     "id": 8505,
-    "name": "Splash Instant Healing Potion II"
+    "name": "Regeneration Potion"
   },
   {
     "id": 8506,
-    "name": "Arrow of Instant Healing"
+    "name": "Regeneration Potion II"
   },
   {
     "id": 8507,
-    "name": "Haste Potion"
+    "name": "Splash Regeneration Potion"
   },
   {
     "id": 8508,
-    "name": "Haste Potion II"
+    "name": "Splash Regeneration Potion II"
   },
   {
     "id": 8509,
-    "name": "Splash Haste Potion"
+    "name": "Arrow of Regeneration"
   },
   {
     "id": 8510,
-    "name": "Splash Haste Potion II"
+    "name": "Instant Healing Potion"
   },
   {
     "id": 8511,
-    "name": "Arrow of Haste"
+    "name": "Instant Healing Potion II"
   },
   {
     "id": 8512,
-    "name": "Shield Potion"
+    "name": "Splash Instant Healing Potion"
   },
   {
     "id": 8513,
-    "name": "Shield Potion II"
+    "name": "Splash Instant Healing Potion II"
   },
   {
     "id": 8514,
-    "name": "Splash Shield Potion"
+    "name": "Arrow of Instant Healing"
   },
   {
     "id": 8515,
-    "name": "Splash Shield Potion II"
+    "name": "Haste Potion"
   },
   {
     "id": 8516,
-    "name": "Arrow of Shield"
+    "name": "Haste Potion II"
   },
   {
     "id": 8517,
-    "name": "Double Jump Potion"
+    "name": "Splash Haste Potion"
   },
   {
     "id": 8518,
-    "name": "Splash Double Jump Potion"
+    "name": "Splash Haste Potion II"
   },
   {
     "id": 8519,
-    "name": "Arrow of Double Jump"
+    "name": "Arrow of Haste"
   },
   {
     "id": 8520,
-    "name": "Heat Resistance Potion"
+    "name": "Shield Potion"
   },
   {
     "id": 8521,
-    "name": "Splash Heat Resistance Potion"
+    "name": "Shield Potion II"
   },
   {
     "id": 8522,
-    "name": "Arrow of Heat Resistance"
+    "name": "Splash Shield Potion"
   },
   {
     "id": 8523,
-    "name": "X-Ray Vision Potion"
+    "name": "Splash Shield Potion II"
   },
   {
     "id": 8524,
-    "name": "Splash X-Ray Vision Potion"
+    "name": "Arrow of Shield"
   },
   {
     "id": 8525,
-    "name": "Arrow of X-Ray Vision"
+    "name": "Double Jump Potion"
   },
   {
     "id": 8526,
-    "name": "Mining Yield Potion"
+    "name": "Splash Double Jump Potion"
   },
   {
     "id": 8527,
-    "name": "Mining Yield Potion II"
+    "name": "Arrow of Double Jump"
   },
   {
     "id": 8528,
-    "name": "Splash Mining Yield Potion"
+    "name": "Heat Resistance Potion"
   },
   {
     "id": 8529,
-    "name": "Splash Mining Yield Potion II"
+    "name": "Splash Heat Resistance Potion"
   },
   {
     "id": 8530,
-    "name": "Arrow of Mining Yield"
+    "name": "Arrow of Heat Resistance"
   },
   {
     "id": 8531,
-    "name": "Brain Rot Potion"
+    "name": "X-Ray Vision Potion"
   },
   {
     "id": 8532,
-    "name": "Splash Brain Rot Potion"
+    "name": "Splash X-Ray Vision Potion"
   },
   {
     "id": 8533,
-    "name": "Arrow of Brain Rot"
+    "name": "Arrow of X-Ray Vision"
   },
   {
     "id": 8534,
-    "name": "Chaos Potion"
+    "name": "Mining Yield Potion"
   },
   {
     "id": 8535,
-    "name": "Teleportation Potion"
+    "name": "Mining Yield Potion II"
   },
   {
     "id": 8536,
-    "name": "Ammo"
+    "name": "Splash Mining Yield Potion"
   },
   {
     "id": 8537,
-    "name": "AK-47"
+    "name": "Splash Mining Yield Potion II"
   },
   {
     "id": 8538,
-    "name": "AK-47|RequiresAmmo"
+    "name": "Arrow of Mining Yield"
   },
   {
     "id": 8539,
-    "name": "M16"
+    "name": "Brain Rot Potion"
   },
   {
     "id": 8540,
-    "name": "M16|RequiresAmmo"
+    "name": "Splash Brain Rot Potion"
   },
   {
     "id": 8541,
-    "name": "MP40"
+    "name": "Arrow of Brain Rot"
   },
   {
     "id": 8542,
-    "name": "MP40|RequiresAmmo"
+    "name": "Chaos Potion"
   },
   {
     "id": 8543,
-    "name": "TAR-21"
+    "name": "Teleportation Potion"
   },
   {
     "id": 8544,
-    "name": "TAR-21|RequiresAmmo"
+    "name": "Ammo"
   },
   {
     "id": 8545,
-    "name": "M1911"
+    "name": "AK-47"
   },
   {
     "id": 8546,
-    "name": "M1911|RequiresAmmo"
+    "name": "AK-47|RequiresAmmo"
   },
   {
     "id": 8547,
-    "name": "One Shot Pistol"
+    "name": "M16"
   },
   {
     "id": 8548,
-    "name": "One Shot Pistol|RequiresAmmo"
+    "name": "M16|RequiresAmmo"
   },
   {
     "id": 8549,
-    "name": "Double Barrel"
+    "name": "MP40"
   },
   {
     "id": 8550,
-    "name": "Double Barrel|RequiresAmmo"
+    "name": "MP40|RequiresAmmo"
   },
   {
     "id": 8551,
-    "name": "AWP"
+    "name": "TAR-21"
   },
   {
     "id": 8552,
-    "name": "AWP|RequiresAmmo"
+    "name": "TAR-21|RequiresAmmo"
   },
   {
     "id": 8553,
-    "name": "Deagle"
+    "name": "M1911"
   },
   {
     "id": 8554,
-    "name": "Deagle|RequiresAmmo"
+    "name": "M1911|RequiresAmmo"
   },
   {
     "id": 8555,
-    "name": "Striker-12"
+    "name": "One Shot Pistol"
   },
   {
     "id": 8556,
-    "name": "Striker-12|RequiresAmmo"
+    "name": "One Shot Pistol|RequiresAmmo"
   },
   {
     "id": 8557,
-    "name": "VSR"
+    "name": "Double Barrel"
   },
   {
     "id": 8558,
-    "name": "VSR|RequiresAmmo"
+    "name": "Double Barrel|RequiresAmmo"
   },
   {
     "id": 8559,
-    "name": "DMR"
+    "name": "AWP"
   },
   {
     "id": 8560,
-    "name": "DMR|RequiresAmmo"
+    "name": "AWP|RequiresAmmo"
   },
   {
     "id": 8561,
-    "name": "Minigun"
+    "name": "Deagle"
   },
   {
     "id": 8562,
-    "name": "Minigun|RequiresAmmo"
+    "name": "Deagle|RequiresAmmo"
   },
   {
     "id": 8563,
-    "name": "FMR"
+    "name": "Striker-12"
   },
   {
     "id": 8564,
-    "name": "FMR|RequiresAmmo"
+    "name": "Striker-12|RequiresAmmo"
   },
   {
     "id": 8565,
-    "name": "SKAR"
+    "name": "VSR"
   },
   {
     "id": 8566,
-    "name": "SKAR|RequiresAmmo"
+    "name": "VSR|RequiresAmmo"
   },
   {
     "id": 8567,
-    "name": "Block-19"
+    "name": "DMR"
   },
   {
     "id": 8568,
-    "name": "Block-19|RequiresAmmo"
+    "name": "DMR|RequiresAmmo"
   },
   {
     "id": 8569,
-    "name": "Mini Izu"
+    "name": "Minigun"
   },
   {
     "id": 8570,
-    "name": "Mini Izu|RequiresAmmo"
+    "name": "Minigun|RequiresAmmo"
   },
   {
     "id": 8571,
-    "name": "GPMG"
+    "name": "FMR"
   },
   {
     "id": 8572,
-    "name": "GPMG|RequiresAmmo"
+    "name": "FMR|RequiresAmmo"
   },
   {
     "id": 8573,
-    "name": "Gold Coin"
+    "name": "SKAR"
   },
   {
     "id": 8574,
-    "name": "Updraft"
+    "name": "SKAR|RequiresAmmo"
   },
   {
     "id": 8575,
-    "name": "Snowdash"
+    "name": "Block-19"
   },
   {
     "id": 8576,
-    "name": "Floor Creator"
+    "name": "Block-19|RequiresAmmo"
   },
   {
     "id": 8577,
-    "name": "Moonstone Remote Explosive"
+    "name": "Mini Izu"
   },
   {
     "id": 8578,
-    "name": "Moonstone Remote"
+    "name": "Mini Izu|RequiresAmmo"
   },
   {
     "id": 8579,
-    "name": "Ice Bridge"
+    "name": "GPMG"
   },
   {
     "id": 8580,
-    "name": "Maple Planks Bridge"
+    "name": "GPMG|RequiresAmmo"
   },
   {
     "id": 8581,
-    "name": "Messy Stone Bridge"
+    "name": "Gold Coin"
   },
   {
     "id": 8582,
-    "name": "Yellow Balloon"
+    "name": "Updraft"
   },
   {
     "id": 8583,
-    "name": "White Balloon"
+    "name": "Snowdash"
   },
   {
     "id": 8584,
-    "name": "Red Balloon"
+    "name": "Floor Creator"
   },
   {
     "id": 8585,
-    "name": "Purple Balloon"
+    "name": "Moonstone Remote Explosive"
   },
   {
     "id": 8586,
-    "name": "Pink Balloon"
+    "name": "Moonstone Remote"
   },
   {
     "id": 8587,
-    "name": "Orange Balloon"
+    "name": "Ice Bridge"
   },
   {
     "id": 8588,
-    "name": "Magenta Balloon"
+    "name": "Maple Planks Bridge"
   },
   {
     "id": 8589,
-    "name": "Lime Balloon"
+    "name": "Messy Stone Bridge"
   },
   {
     "id": 8590,
-    "name": "Light Gray Balloon"
+    "name": "Yellow Balloon"
   },
   {
     "id": 8591,
-    "name": "Light Blue Balloon"
+    "name": "White Balloon"
   },
   {
     "id": 8592,
-    "name": "Green Balloon"
+    "name": "Red Balloon"
   },
   {
     "id": 8593,
-    "name": "Gray Balloon"
+    "name": "Purple Balloon"
   },
   {
     "id": 8594,
-    "name": "Cyan Balloon"
+    "name": "Pink Balloon"
   },
   {
     "id": 8595,
-    "name": "Brown Balloon"
+    "name": "Orange Balloon"
   },
   {
     "id": 8596,
-    "name": "Blue Balloon"
+    "name": "Magenta Balloon"
   },
   {
     "id": 8597,
-    "name": "Black Balloon"
+    "name": "Lime Balloon"
   },
   {
     "id": 8598,
-    "name": "INTERNAL_MESH_Yellow Balloon"
+    "name": "Light Gray Balloon"
   },
   {
     "id": 8599,
-    "name": "INTERNAL_MESH_White Balloon"
+    "name": "Light Blue Balloon"
   },
   {
     "id": 8600,
-    "name": "INTERNAL_MESH_Red Balloon"
+    "name": "Green Balloon"
   },
   {
     "id": 8601,
-    "name": "INTERNAL_MESH_Purple Balloon"
+    "name": "Gray Balloon"
   },
   {
     "id": 8602,
-    "name": "INTERNAL_MESH_Pink Balloon"
+    "name": "Cyan Balloon"
   },
   {
     "id": 8603,
-    "name": "INTERNAL_MESH_Orange Balloon"
+    "name": "Brown Balloon"
   },
   {
     "id": 8604,
-    "name": "INTERNAL_MESH_Magenta Balloon"
+    "name": "Blue Balloon"
   },
   {
     "id": 8605,
-    "name": "INTERNAL_MESH_Lime Balloon"
+    "name": "Black Balloon"
   },
   {
     "id": 8606,
-    "name": "INTERNAL_MESH_Light Gray Balloon"
+    "name": "INTERNAL_MESH_Yellow Balloon"
   },
   {
     "id": 8607,
-    "name": "INTERNAL_MESH_Light Blue Balloon"
+    "name": "INTERNAL_MESH_White Balloon"
   },
   {
     "id": 8608,
-    "name": "INTERNAL_MESH_Green Balloon"
+    "name": "INTERNAL_MESH_Red Balloon"
   },
   {
     "id": 8609,
-    "name": "INTERNAL_MESH_Gray Balloon"
+    "name": "INTERNAL_MESH_Purple Balloon"
   },
   {
     "id": 8610,
-    "name": "INTERNAL_MESH_Cyan Balloon"
+    "name": "INTERNAL_MESH_Pink Balloon"
   },
   {
     "id": 8611,
-    "name": "INTERNAL_MESH_Brown Balloon"
+    "name": "INTERNAL_MESH_Orange Balloon"
   },
   {
     "id": 8612,
-    "name": "INTERNAL_MESH_Blue Balloon"
+    "name": "INTERNAL_MESH_Magenta Balloon"
   },
   {
     "id": 8613,
-    "name": "INTERNAL_MESH_Black Balloon"
+    "name": "INTERNAL_MESH_Lime Balloon"
   },
   {
     "id": 8614,
-    "name": "Yellow Popup Tower"
+    "name": "INTERNAL_MESH_Light Gray Balloon"
   },
   {
     "id": 8615,
-    "name": "White Popup Tower"
+    "name": "INTERNAL_MESH_Light Blue Balloon"
   },
   {
     "id": 8616,
-    "name": "Red Popup Tower"
+    "name": "INTERNAL_MESH_Green Balloon"
   },
   {
     "id": 8617,
-    "name": "Purple Popup Tower"
+    "name": "INTERNAL_MESH_Gray Balloon"
   },
   {
     "id": 8618,
-    "name": "Pink Popup Tower"
+    "name": "INTERNAL_MESH_Cyan Balloon"
   },
   {
     "id": 8619,
-    "name": "Orange Popup Tower"
+    "name": "INTERNAL_MESH_Brown Balloon"
   },
   {
     "id": 8620,
-    "name": "Magenta Popup Tower"
+    "name": "INTERNAL_MESH_Blue Balloon"
   },
   {
     "id": 8621,
-    "name": "Lime Popup Tower"
+    "name": "INTERNAL_MESH_Black Balloon"
   },
   {
     "id": 8622,
-    "name": "Light Gray Popup Tower"
+    "name": "Yellow Popup Tower"
   },
   {
     "id": 8623,
-    "name": "Light Blue Popup Tower"
+    "name": "White Popup Tower"
   },
   {
     "id": 8624,
-    "name": "Green Popup Tower"
+    "name": "Red Popup Tower"
   },
   {
     "id": 8625,
-    "name": "Gray Popup Tower"
+    "name": "Purple Popup Tower"
   },
   {
     "id": 8626,
-    "name": "Cyan Popup Tower"
+    "name": "Pink Popup Tower"
   },
   {
     "id": 8627,
-    "name": "Brown Popup Tower"
+    "name": "Orange Popup Tower"
   },
   {
     "id": 8628,
-    "name": "Blue Popup Tower"
+    "name": "Magenta Popup Tower"
   },
   {
     "id": 8629,
-    "name": "Black Popup Tower"
+    "name": "Lime Popup Tower"
   },
   {
     "id": 8630,
-    "name": "Yellow Paintball Gun"
+    "name": "Light Gray Popup Tower"
   },
   {
     "id": 8631,
-    "name": "White Paintball Gun"
+    "name": "Light Blue Popup Tower"
   },
   {
     "id": 8632,
-    "name": "Red Paintball Gun"
+    "name": "Green Popup Tower"
   },
   {
     "id": 8633,
-    "name": "Purple Paintball Gun"
+    "name": "Gray Popup Tower"
   },
   {
     "id": 8634,
-    "name": "Pink Paintball Gun"
+    "name": "Cyan Popup Tower"
   },
   {
     "id": 8635,
-    "name": "Orange Paintball Gun"
+    "name": "Brown Popup Tower"
   },
   {
     "id": 8636,
-    "name": "Magenta Paintball Gun"
+    "name": "Blue Popup Tower"
   },
   {
     "id": 8637,
-    "name": "Lime Paintball Gun"
+    "name": "Black Popup Tower"
   },
   {
     "id": 8638,
-    "name": "Light Gray Paintball Gun"
+    "name": "Yellow Paintball Gun"
   },
   {
     "id": 8639,
-    "name": "Light Blue Paintball Gun"
+    "name": "White Paintball Gun"
   },
   {
     "id": 8640,
-    "name": "Green Paintball Gun"
+    "name": "Red Paintball Gun"
   },
   {
     "id": 8641,
-    "name": "Gray Paintball Gun"
+    "name": "Purple Paintball Gun"
   },
   {
     "id": 8642,
-    "name": "Cyan Paintball Gun"
+    "name": "Pink Paintball Gun"
   },
   {
     "id": 8643,
-    "name": "Brown Paintball Gun"
+    "name": "Orange Paintball Gun"
   },
   {
     "id": 8644,
-    "name": "Blue Paintball Gun"
+    "name": "Magenta Paintball Gun"
   },
   {
     "id": 8645,
-    "name": "Black Paintball Gun"
+    "name": "Lime Paintball Gun"
   },
   {
     "id": 8646,
-    "name": "Yellow Paintball"
+    "name": "Light Gray Paintball Gun"
   },
   {
     "id": 8647,
-    "name": "White Paintball"
+    "name": "Light Blue Paintball Gun"
   },
   {
     "id": 8648,
-    "name": "Red Paintball"
+    "name": "Green Paintball Gun"
   },
   {
     "id": 8649,
-    "name": "Purple Paintball"
+    "name": "Gray Paintball Gun"
   },
   {
     "id": 8650,
-    "name": "Pink Paintball"
+    "name": "Cyan Paintball Gun"
   },
   {
     "id": 8651,
-    "name": "Orange Paintball"
+    "name": "Brown Paintball Gun"
   },
   {
     "id": 8652,
-    "name": "Magenta Paintball"
+    "name": "Blue Paintball Gun"
   },
   {
     "id": 8653,
-    "name": "Lime Paintball"
+    "name": "Black Paintball Gun"
   },
   {
     "id": 8654,
-    "name": "Light Gray Paintball"
+    "name": "Yellow Paintball"
   },
   {
     "id": 8655,
-    "name": "Light Blue Paintball"
+    "name": "White Paintball"
   },
   {
     "id": 8656,
-    "name": "Green Paintball"
+    "name": "Red Paintball"
   },
   {
     "id": 8657,
-    "name": "Gray Paintball"
+    "name": "Purple Paintball"
   },
   {
     "id": 8658,
-    "name": "Cyan Paintball"
+    "name": "Pink Paintball"
   },
   {
     "id": 8659,
-    "name": "Brown Paintball"
+    "name": "Orange Paintball"
   },
   {
     "id": 8660,
-    "name": "Blue Paintball"
+    "name": "Magenta Paintball"
   },
   {
     "id": 8661,
-    "name": "Black Paintball"
+    "name": "Lime Paintball"
   },
   {
     "id": 8662,
-    "name": "Yellow Heavy Paintball Gun"
+    "name": "Light Gray Paintball"
   },
   {
     "id": 8663,
-    "name": "White Heavy Paintball Gun"
+    "name": "Light Blue Paintball"
   },
   {
     "id": 8664,
-    "name": "Red Heavy Paintball Gun"
+    "name": "Green Paintball"
   },
   {
     "id": 8665,
-    "name": "Purple Heavy Paintball Gun"
+    "name": "Gray Paintball"
   },
   {
     "id": 8666,
-    "name": "Pink Heavy Paintball Gun"
+    "name": "Cyan Paintball"
   },
   {
     "id": 8667,
-    "name": "Orange Heavy Paintball Gun"
+    "name": "Brown Paintball"
   },
   {
     "id": 8668,
-    "name": "Magenta Heavy Paintball Gun"
+    "name": "Blue Paintball"
   },
   {
     "id": 8669,
-    "name": "Lime Heavy Paintball Gun"
+    "name": "Black Paintball"
   },
   {
     "id": 8670,
-    "name": "Light Gray Heavy Paintball Gun"
+    "name": "Yellow Heavy Paintball Gun"
   },
   {
     "id": 8671,
-    "name": "Light Blue Heavy Paintball Gun"
+    "name": "White Heavy Paintball Gun"
   },
   {
     "id": 8672,
-    "name": "Green Heavy Paintball Gun"
+    "name": "Red Heavy Paintball Gun"
   },
   {
     "id": 8673,
-    "name": "Gray Heavy Paintball Gun"
+    "name": "Purple Heavy Paintball Gun"
   },
   {
     "id": 8674,
-    "name": "Cyan Heavy Paintball Gun"
+    "name": "Pink Heavy Paintball Gun"
   },
   {
     "id": 8675,
-    "name": "Brown Heavy Paintball Gun"
+    "name": "Orange Heavy Paintball Gun"
   },
   {
     "id": 8676,
-    "name": "Blue Heavy Paintball Gun"
+    "name": "Magenta Heavy Paintball Gun"
   },
   {
     "id": 8677,
-    "name": "Black Heavy Paintball Gun"
+    "name": "Lime Heavy Paintball Gun"
   },
   {
     "id": 8678,
-    "name": "Yellow Paintball Explosive Item"
+    "name": "Light Gray Heavy Paintball Gun"
   },
   {
     "id": 8679,
-    "name": "White Paintball Explosive Item"
+    "name": "Light Blue Heavy Paintball Gun"
   },
   {
     "id": 8680,
-    "name": "Red Paintball Explosive Item"
+    "name": "Green Heavy Paintball Gun"
   },
   {
     "id": 8681,
-    "name": "Purple Paintball Explosive Item"
+    "name": "Gray Heavy Paintball Gun"
   },
   {
     "id": 8682,
-    "name": "Pink Paintball Explosive Item"
+    "name": "Cyan Heavy Paintball Gun"
   },
   {
     "id": 8683,
-    "name": "Orange Paintball Explosive Item"
+    "name": "Brown Heavy Paintball Gun"
   },
   {
     "id": 8684,
-    "name": "Magenta Paintball Explosive Item"
+    "name": "Blue Heavy Paintball Gun"
   },
   {
     "id": 8685,
-    "name": "Lime Paintball Explosive Item"
+    "name": "Black Heavy Paintball Gun"
   },
   {
     "id": 8686,
-    "name": "Light Gray Paintball Explosive Item"
+    "name": "Yellow Paintball Explosive Item"
   },
   {
     "id": 8687,
-    "name": "Light Blue Paintball Explosive Item"
+    "name": "White Paintball Explosive Item"
   },
   {
     "id": 8688,
-    "name": "Green Paintball Explosive Item"
+    "name": "Red Paintball Explosive Item"
   },
   {
     "id": 8689,
-    "name": "Gray Paintball Explosive Item"
+    "name": "Purple Paintball Explosive Item"
   },
   {
     "id": 8690,
-    "name": "Cyan Paintball Explosive Item"
+    "name": "Pink Paintball Explosive Item"
   },
   {
     "id": 8691,
-    "name": "Brown Paintball Explosive Item"
+    "name": "Orange Paintball Explosive Item"
   },
   {
     "id": 8692,
-    "name": "Blue Paintball Explosive Item"
+    "name": "Magenta Paintball Explosive Item"
   },
   {
     "id": 8693,
-    "name": "Black Paintball Explosive Item"
+    "name": "Lime Paintball Explosive Item"
   },
   {
     "id": 8694,
-    "name": "Yellow Sticky Paintball Explosive Item"
+    "name": "Light Gray Paintball Explosive Item"
   },
   {
     "id": 8695,
-    "name": "White Sticky Paintball Explosive Item"
+    "name": "Light Blue Paintball Explosive Item"
   },
   {
     "id": 8696,
-    "name": "Red Sticky Paintball Explosive Item"
+    "name": "Green Paintball Explosive Item"
   },
   {
     "id": 8697,
-    "name": "Purple Sticky Paintball Explosive Item"
+    "name": "Gray Paintball Explosive Item"
   },
   {
     "id": 8698,
-    "name": "Pink Sticky Paintball Explosive Item"
+    "name": "Cyan Paintball Explosive Item"
   },
   {
     "id": 8699,
-    "name": "Orange Sticky Paintball Explosive Item"
+    "name": "Brown Paintball Explosive Item"
   },
   {
     "id": 8700,
-    "name": "Magenta Sticky Paintball Explosive Item"
+    "name": "Blue Paintball Explosive Item"
   },
   {
     "id": 8701,
-    "name": "Lime Sticky Paintball Explosive Item"
+    "name": "Black Paintball Explosive Item"
   },
   {
     "id": 8702,
-    "name": "Light Gray Sticky Paintball Explosive Item"
+    "name": "Yellow Sticky Paintball Explosive Item"
   },
   {
     "id": 8703,
-    "name": "Light Blue Sticky Paintball Explosive Item"
+    "name": "White Sticky Paintball Explosive Item"
   },
   {
     "id": 8704,
-    "name": "Green Sticky Paintball Explosive Item"
+    "name": "Red Sticky Paintball Explosive Item"
   },
   {
     "id": 8705,
-    "name": "Gray Sticky Paintball Explosive Item"
+    "name": "Purple Sticky Paintball Explosive Item"
   },
   {
     "id": 8706,
-    "name": "Cyan Sticky Paintball Explosive Item"
+    "name": "Pink Sticky Paintball Explosive Item"
   },
   {
     "id": 8707,
-    "name": "Brown Sticky Paintball Explosive Item"
+    "name": "Orange Sticky Paintball Explosive Item"
   },
   {
     "id": 8708,
-    "name": "Blue Sticky Paintball Explosive Item"
+    "name": "Magenta Sticky Paintball Explosive Item"
   },
   {
     "id": 8709,
-    "name": "Black Sticky Paintball Explosive Item"
+    "name": "Lime Sticky Paintball Explosive Item"
   },
   {
     "id": 8710,
-    "name": "Yellow Seeking Paintball Explosive Item"
+    "name": "Light Gray Sticky Paintball Explosive Item"
   },
   {
     "id": 8711,
-    "name": "White Seeking Paintball Explosive Item"
+    "name": "Light Blue Sticky Paintball Explosive Item"
   },
   {
     "id": 8712,
-    "name": "Red Seeking Paintball Explosive Item"
+    "name": "Green Sticky Paintball Explosive Item"
   },
   {
     "id": 8713,
-    "name": "Purple Seeking Paintball Explosive Item"
+    "name": "Gray Sticky Paintball Explosive Item"
   },
   {
     "id": 8714,
-    "name": "Pink Seeking Paintball Explosive Item"
+    "name": "Cyan Sticky Paintball Explosive Item"
   },
   {
     "id": 8715,
-    "name": "Orange Seeking Paintball Explosive Item"
+    "name": "Brown Sticky Paintball Explosive Item"
   },
   {
     "id": 8716,
-    "name": "Magenta Seeking Paintball Explosive Item"
+    "name": "Blue Sticky Paintball Explosive Item"
   },
   {
     "id": 8717,
-    "name": "Lime Seeking Paintball Explosive Item"
+    "name": "Black Sticky Paintball Explosive Item"
   },
   {
     "id": 8718,
-    "name": "Light Gray Seeking Paintball Explosive Item"
+    "name": "Yellow Seeking Paintball Explosive Item"
   },
   {
     "id": 8719,
-    "name": "Light Blue Seeking Paintball Explosive Item"
+    "name": "White Seeking Paintball Explosive Item"
   },
   {
     "id": 8720,
-    "name": "Green Seeking Paintball Explosive Item"
+    "name": "Red Seeking Paintball Explosive Item"
   },
   {
     "id": 8721,
-    "name": "Gray Seeking Paintball Explosive Item"
+    "name": "Purple Seeking Paintball Explosive Item"
   },
   {
     "id": 8722,
-    "name": "Cyan Seeking Paintball Explosive Item"
+    "name": "Pink Seeking Paintball Explosive Item"
   },
   {
     "id": 8723,
-    "name": "Brown Seeking Paintball Explosive Item"
+    "name": "Orange Seeking Paintball Explosive Item"
   },
   {
     "id": 8724,
-    "name": "Blue Seeking Paintball Explosive Item"
+    "name": "Magenta Seeking Paintball Explosive Item"
   },
   {
     "id": 8725,
-    "name": "Black Seeking Paintball Explosive Item"
+    "name": "Lime Seeking Paintball Explosive Item"
   },
   {
     "id": 8726,
-    "name": "Yellow Quick Paintball Explosive Item"
+    "name": "Light Gray Seeking Paintball Explosive Item"
   },
   {
     "id": 8727,
-    "name": "White Quick Paintball Explosive Item"
+    "name": "Light Blue Seeking Paintball Explosive Item"
   },
   {
     "id": 8728,
-    "name": "Red Quick Paintball Explosive Item"
+    "name": "Green Seeking Paintball Explosive Item"
   },
   {
     "id": 8729,
-    "name": "Purple Quick Paintball Explosive Item"
+    "name": "Gray Seeking Paintball Explosive Item"
   },
   {
     "id": 8730,
-    "name": "Pink Quick Paintball Explosive Item"
+    "name": "Cyan Seeking Paintball Explosive Item"
   },
   {
     "id": 8731,
-    "name": "Orange Quick Paintball Explosive Item"
+    "name": "Brown Seeking Paintball Explosive Item"
   },
   {
     "id": 8732,
-    "name": "Magenta Quick Paintball Explosive Item"
+    "name": "Blue Seeking Paintball Explosive Item"
   },
   {
     "id": 8733,
-    "name": "Lime Quick Paintball Explosive Item"
+    "name": "Black Seeking Paintball Explosive Item"
   },
   {
     "id": 8734,
-    "name": "Light Gray Quick Paintball Explosive Item"
+    "name": "Yellow Quick Paintball Explosive Item"
   },
   {
     "id": 8735,
-    "name": "Light Blue Quick Paintball Explosive Item"
+    "name": "White Quick Paintball Explosive Item"
   },
   {
     "id": 8736,
-    "name": "Green Quick Paintball Explosive Item"
+    "name": "Red Quick Paintball Explosive Item"
   },
   {
     "id": 8737,
-    "name": "Gray Quick Paintball Explosive Item"
+    "name": "Purple Quick Paintball Explosive Item"
   },
   {
     "id": 8738,
-    "name": "Cyan Quick Paintball Explosive Item"
+    "name": "Pink Quick Paintball Explosive Item"
   },
   {
     "id": 8739,
-    "name": "Brown Quick Paintball Explosive Item"
+    "name": "Orange Quick Paintball Explosive Item"
   },
   {
     "id": 8740,
-    "name": "Blue Quick Paintball Explosive Item"
+    "name": "Magenta Quick Paintball Explosive Item"
   },
   {
     "id": 8741,
-    "name": "Black Quick Paintball Explosive Item"
+    "name": "Lime Quick Paintball Explosive Item"
   },
   {
     "id": 8742,
-    "name": "Yellow Paint Bow"
+    "name": "Light Gray Quick Paintball Explosive Item"
   },
   {
     "id": 8743,
-    "name": "Yellow Paint Bow|meta|charging2"
+    "name": "Light Blue Quick Paintball Explosive Item"
   },
   {
     "id": 8744,
-    "name": "Yellow Paint Bow|meta|charging3"
+    "name": "Green Quick Paintball Explosive Item"
   },
   {
     "id": 8745,
-    "name": "Yellow Paint Bow|meta|charging4"
+    "name": "Gray Quick Paintball Explosive Item"
   },
   {
     "id": 8746,
-    "name": "White Paint Bow"
+    "name": "Cyan Quick Paintball Explosive Item"
   },
   {
     "id": 8747,
-    "name": "White Paint Bow|meta|charging2"
+    "name": "Brown Quick Paintball Explosive Item"
   },
   {
     "id": 8748,
-    "name": "White Paint Bow|meta|charging3"
+    "name": "Blue Quick Paintball Explosive Item"
   },
   {
     "id": 8749,
-    "name": "White Paint Bow|meta|charging4"
+    "name": "Black Quick Paintball Explosive Item"
   },
   {
     "id": 8750,
-    "name": "Red Paint Bow"
+    "name": "Yellow Paint Bow"
   },
   {
     "id": 8751,
-    "name": "Red Paint Bow|meta|charging2"
+    "name": "Yellow Paint Bow|meta|charging2"
   },
   {
     "id": 8752,
-    "name": "Red Paint Bow|meta|charging3"
+    "name": "Yellow Paint Bow|meta|charging3"
   },
   {
     "id": 8753,
-    "name": "Red Paint Bow|meta|charging4"
+    "name": "Yellow Paint Bow|meta|charging4"
   },
   {
     "id": 8754,
-    "name": "Purple Paint Bow"
+    "name": "White Paint Bow"
   },
   {
     "id": 8755,
-    "name": "Purple Paint Bow|meta|charging2"
+    "name": "White Paint Bow|meta|charging2"
   },
   {
     "id": 8756,
-    "name": "Purple Paint Bow|meta|charging3"
+    "name": "White Paint Bow|meta|charging3"
   },
   {
     "id": 8757,
-    "name": "Purple Paint Bow|meta|charging4"
+    "name": "White Paint Bow|meta|charging4"
   },
   {
     "id": 8758,
-    "name": "Pink Paint Bow"
+    "name": "Red Paint Bow"
   },
   {
     "id": 8759,
-    "name": "Pink Paint Bow|meta|charging2"
+    "name": "Red Paint Bow|meta|charging2"
   },
   {
     "id": 8760,
-    "name": "Pink Paint Bow|meta|charging3"
+    "name": "Red Paint Bow|meta|charging3"
   },
   {
     "id": 8761,
-    "name": "Pink Paint Bow|meta|charging4"
+    "name": "Red Paint Bow|meta|charging4"
   },
   {
     "id": 8762,
-    "name": "Orange Paint Bow"
+    "name": "Purple Paint Bow"
   },
   {
     "id": 8763,
-    "name": "Orange Paint Bow|meta|charging2"
+    "name": "Purple Paint Bow|meta|charging2"
   },
   {
     "id": 8764,
-    "name": "Orange Paint Bow|meta|charging3"
+    "name": "Purple Paint Bow|meta|charging3"
   },
   {
     "id": 8765,
-    "name": "Orange Paint Bow|meta|charging4"
+    "name": "Purple Paint Bow|meta|charging4"
   },
   {
     "id": 8766,
-    "name": "Magenta Paint Bow"
+    "name": "Pink Paint Bow"
   },
   {
     "id": 8767,
-    "name": "Magenta Paint Bow|meta|charging2"
+    "name": "Pink Paint Bow|meta|charging2"
   },
   {
     "id": 8768,
-    "name": "Magenta Paint Bow|meta|charging3"
+    "name": "Pink Paint Bow|meta|charging3"
   },
   {
     "id": 8769,
-    "name": "Magenta Paint Bow|meta|charging4"
+    "name": "Pink Paint Bow|meta|charging4"
   },
   {
     "id": 8770,
-    "name": "Lime Paint Bow"
+    "name": "Orange Paint Bow"
   },
   {
     "id": 8771,
-    "name": "Lime Paint Bow|meta|charging2"
+    "name": "Orange Paint Bow|meta|charging2"
   },
   {
     "id": 8772,
-    "name": "Lime Paint Bow|meta|charging3"
+    "name": "Orange Paint Bow|meta|charging3"
   },
   {
     "id": 8773,
-    "name": "Lime Paint Bow|meta|charging4"
+    "name": "Orange Paint Bow|meta|charging4"
   },
   {
     "id": 8774,
-    "name": "Light Gray Paint Bow"
+    "name": "Magenta Paint Bow"
   },
   {
     "id": 8775,
-    "name": "Light Gray Paint Bow|meta|charging2"
+    "name": "Magenta Paint Bow|meta|charging2"
   },
   {
     "id": 8776,
-    "name": "Light Gray Paint Bow|meta|charging3"
+    "name": "Magenta Paint Bow|meta|charging3"
   },
   {
     "id": 8777,
-    "name": "Light Gray Paint Bow|meta|charging4"
+    "name": "Magenta Paint Bow|meta|charging4"
   },
   {
     "id": 8778,
-    "name": "Light Blue Paint Bow"
+    "name": "Lime Paint Bow"
   },
   {
     "id": 8779,
-    "name": "Light Blue Paint Bow|meta|charging2"
+    "name": "Lime Paint Bow|meta|charging2"
   },
   {
     "id": 8780,
-    "name": "Light Blue Paint Bow|meta|charging3"
+    "name": "Lime Paint Bow|meta|charging3"
   },
   {
     "id": 8781,
-    "name": "Light Blue Paint Bow|meta|charging4"
+    "name": "Lime Paint Bow|meta|charging4"
   },
   {
     "id": 8782,
-    "name": "Green Paint Bow"
+    "name": "Light Gray Paint Bow"
   },
   {
     "id": 8783,
-    "name": "Green Paint Bow|meta|charging2"
+    "name": "Light Gray Paint Bow|meta|charging2"
   },
   {
     "id": 8784,
-    "name": "Green Paint Bow|meta|charging3"
+    "name": "Light Gray Paint Bow|meta|charging3"
   },
   {
     "id": 8785,
-    "name": "Green Paint Bow|meta|charging4"
+    "name": "Light Gray Paint Bow|meta|charging4"
   },
   {
     "id": 8786,
-    "name": "Gray Paint Bow"
+    "name": "Light Blue Paint Bow"
   },
   {
     "id": 8787,
-    "name": "Gray Paint Bow|meta|charging2"
+    "name": "Light Blue Paint Bow|meta|charging2"
   },
   {
     "id": 8788,
-    "name": "Gray Paint Bow|meta|charging3"
+    "name": "Light Blue Paint Bow|meta|charging3"
   },
   {
     "id": 8789,
-    "name": "Gray Paint Bow|meta|charging4"
+    "name": "Light Blue Paint Bow|meta|charging4"
   },
   {
     "id": 8790,
-    "name": "Cyan Paint Bow"
+    "name": "Green Paint Bow"
   },
   {
     "id": 8791,
-    "name": "Cyan Paint Bow|meta|charging2"
+    "name": "Green Paint Bow|meta|charging2"
   },
   {
     "id": 8792,
-    "name": "Cyan Paint Bow|meta|charging3"
+    "name": "Green Paint Bow|meta|charging3"
   },
   {
     "id": 8793,
-    "name": "Cyan Paint Bow|meta|charging4"
+    "name": "Green Paint Bow|meta|charging4"
   },
   {
     "id": 8794,
-    "name": "Brown Paint Bow"
+    "name": "Gray Paint Bow"
   },
   {
     "id": 8795,
-    "name": "Brown Paint Bow|meta|charging2"
+    "name": "Gray Paint Bow|meta|charging2"
   },
   {
     "id": 8796,
-    "name": "Brown Paint Bow|meta|charging3"
+    "name": "Gray Paint Bow|meta|charging3"
   },
   {
     "id": 8797,
-    "name": "Brown Paint Bow|meta|charging4"
+    "name": "Gray Paint Bow|meta|charging4"
   },
   {
     "id": 8798,
-    "name": "Blue Paint Bow"
+    "name": "Cyan Paint Bow"
   },
   {
     "id": 8799,
-    "name": "Blue Paint Bow|meta|charging2"
+    "name": "Cyan Paint Bow|meta|charging2"
   },
   {
     "id": 8800,
-    "name": "Blue Paint Bow|meta|charging3"
+    "name": "Cyan Paint Bow|meta|charging3"
   },
   {
     "id": 8801,
-    "name": "Blue Paint Bow|meta|charging4"
+    "name": "Cyan Paint Bow|meta|charging4"
   },
   {
     "id": 8802,
-    "name": "Black Paint Bow"
+    "name": "Brown Paint Bow"
   },
   {
     "id": 8803,
-    "name": "Black Paint Bow|meta|charging2"
+    "name": "Brown Paint Bow|meta|charging2"
   },
   {
     "id": 8804,
-    "name": "Black Paint Bow|meta|charging3"
+    "name": "Brown Paint Bow|meta|charging3"
   },
   {
     "id": 8805,
-    "name": "Black Paint Bow|meta|charging4"
+    "name": "Brown Paint Bow|meta|charging4"
   },
   {
     "id": 8806,
-    "name": "Pig Spawn Orb"
+    "name": "Blue Paint Bow"
   },
   {
     "id": 8807,
-    "name": "Cow Spawn Orb"
+    "name": "Blue Paint Bow|meta|charging2"
   },
   {
     "id": 8808,
-    "name": "Sheep Spawn Orb"
+    "name": "Blue Paint Bow|meta|charging3"
   },
   {
     "id": 8809,
-    "name": "Horse Spawn Orb"
+    "name": "Blue Paint Bow|meta|charging4"
   },
   {
     "id": 8810,
-    "name": "Camel Spawn Orb"
+    "name": "Black Paint Bow"
   },
   {
     "id": 8811,
-    "name": "Iron Goofy Golem Spawn Orb"
+    "name": "Black Paint Bow|meta|charging2"
   },
   {
     "id": 8812,
-    "name": "Gold Goofy Golem Spawn Orb"
+    "name": "Black Paint Bow|meta|charging3"
   },
   {
     "id": 8813,
-    "name": "Diamond Goofy Golem Spawn Orb"
+    "name": "Black Paint Bow|meta|charging4"
   },
   {
     "id": 8814,
-    "name": "Moonstone Goofy Golem Spawn Orb"
+    "name": "Pig Spawn Orb"
   },
   {
     "id": 8815,
-    "name": "Deer Spawn Orb"
+    "name": "Cow Spawn Orb"
   },
   {
     "id": 8816,
-    "name": "Slime Spawn Orb"
+    "name": "Sheep Spawn Orb"
   },
   {
     "id": 8817,
-    "name": "Wolf Spawn Orb"
+    "name": "Horse Spawn Orb"
   },
   {
     "id": 8818,
-    "name": "Wildcat Spawn Orb"
+    "name": "Camel Spawn Orb"
   },
   {
     "id": 8819,
-    "name": "Spirit Golem Spawn Orb"
+    "name": "Iron Goofy Golem Spawn Orb"
   },
   {
     "id": 8820,
-    "name": "Spirit Wolf Spawn Orb"
+    "name": "Gold Goofy Golem Spawn Orb"
   },
   {
     "id": 8821,
-    "name": "Spirit Bear Spawn Orb"
+    "name": "Diamond Goofy Golem Spawn Orb"
   },
   {
     "id": 8822,
-    "name": "Spirit Stag Spawn Orb"
+    "name": "Moonstone Goofy Golem Spawn Orb"
   },
   {
     "id": 8823,
-    "name": "Spirit Gorilla Spawn Orb"
+    "name": "Deer Spawn Orb"
   },
   {
     "id": 8824,
-    "name": "Bear Spawn Orb"
+    "name": "Slime Spawn Orb"
   },
   {
     "id": 8825,
-    "name": "Stag Spawn Orb"
+    "name": "Wolf Spawn Orb"
   },
   {
     "id": 8826,
-    "name": "Gold Watermelon Stag Spawn Orb"
+    "name": "Wildcat Spawn Orb"
   },
   {
     "id": 8827,
-    "name": "Gorilla Spawn Orb"
+    "name": "Spirit Golem Spawn Orb"
   },
   {
     "id": 8828,
-    "name": "Cave Golem Spawn Orb"
+    "name": "Spirit Wolf Spawn Orb"
   },
   {
     "id": 8829,
-    "name": "Draugr Zombie Spawn Orb"
+    "name": "Spirit Bear Spawn Orb"
   },
   {
     "id": 8830,
-    "name": "Draugr Skeleton Spawn Orb"
+    "name": "Spirit Stag Spawn Orb"
   },
   {
     "id": 8831,
-    "name": "Frost Golem Spawn Orb"
+    "name": "Spirit Gorilla Spawn Orb"
   },
   {
     "id": 8832,
-    "name": "Frost Zombie Spawn Orb"
+    "name": "Bear Spawn Orb"
   },
   {
     "id": 8833,
-    "name": "Frost Skeleton Spawn Orb"
+    "name": "Stag Spawn Orb"
   },
   {
     "id": 8834,
-    "name": "Draugr Knight Spawn Orb"
+    "name": "Gold Watermelon Stag Spawn Orb"
   },
   {
     "id": 8835,
-    "name": "Draugr Huntress Spawn Orb"
+    "name": "Gorilla Spawn Orb"
   },
   {
     "id": 8836,
-    "name": "Magma Golem Spawn Orb"
+    "name": "Cave Golem Spawn Orb"
   },
   {
     "id": 8837,
-    "name": "Draugr Warper Spawn Orb"
+    "name": "Draugr Zombie Spawn Orb"
   },
   {
     "id": 8838,
-    "name": "Frost Wraith Spawn Orb"
+    "name": "Draugr Skeleton Spawn Orb"
   },
   {
     "id": 8839,
-    "name": "Draugr Reaver Spawn Orb"
+    "name": "Frost Golem Spawn Orb"
   },
   {
     "id": 8840,
-    "name": "Stalker Spawn Orb"
+    "name": "Frost Zombie Spawn Orb"
   },
   {
     "id": 8841,
-    "name": "Crone Spawn Orb"
+    "name": "Frost Skeleton Spawn Orb"
   },
   {
     "id": 8842,
-    "name": "Iron Guardian Spawn Orb"
+    "name": "Draugr Knight Spawn Orb"
   },
   {
     "id": 8843,
-    "name": "Gold Guardian Spawn Orb"
+    "name": "Draugr Huntress Spawn Orb"
   },
   {
     "id": 8844,
-    "name": "Diamond Guardian Spawn Orb"
+    "name": "Magma Golem Spawn Orb"
   },
   {
     "id": 8845,
-    "name": "Moonstone Guardian Spawn Orb"
+    "name": "Draugr Warper Spawn Orb"
   },
   {
     "id": 8846,
-    "name": "Tiki Terror Spawn Orb"
+    "name": "Frost Wraith Spawn Orb"
   },
   {
     "id": 8847,
-    "name": "Mob Catcher"
+    "name": "Draugr Reaver Spawn Orb"
   },
   {
     "id": 8848,
-    "name": "Caught Mob Pig Default"
+    "name": "Stalker Spawn Orb"
   },
   {
     "id": 8849,
-    "name": "Caught Mob Cow Default"
+    "name": "Crone Spawn Orb"
   },
   {
     "id": 8850,
-    "name": "Caught Mob Cow Cream"
+    "name": "Iron Guardian Spawn Orb"
   },
   {
     "id": 8851,
-    "name": "Caught Mob Sheep Default"
+    "name": "Gold Guardian Spawn Orb"
   },
   {
     "id": 8852,
-    "name": "Caught Mob Sheep Black"
+    "name": "Diamond Guardian Spawn Orb"
   },
   {
     "id": 8853,
-    "name": "Caught Mob Sheep Red"
+    "name": "Moonstone Guardian Spawn Orb"
   },
   {
     "id": 8854,
-    "name": "Caught Mob Sheep Orange"
+    "name": "Tiki Terror Spawn Orb"
   },
   {
     "id": 8855,
-    "name": "Caught Mob Sheep Pink"
+    "name": "Mob Catcher"
   },
   {
     "id": 8856,
-    "name": "Caught Mob Sheep Purple"
+    "name": "Caught Mob Pig Default"
   },
   {
     "id": 8857,
-    "name": "Caught Mob Sheep Yellow"
+    "name": "Caught Mob Cow Default"
   },
   {
     "id": 8858,
-    "name": "Caught Mob Sheep Blue"
+    "name": "Caught Mob Cow Cream"
   },
   {
     "id": 8859,
-    "name": "Caught Mob Sheep Brown"
+    "name": "Caught Mob Sheep Default"
   },
   {
     "id": 8860,
-    "name": "Caught Mob Sheep Cyan"
+    "name": "Caught Mob Sheep Black"
   },
   {
     "id": 8861,
-    "name": "Caught Mob Sheep Gray"
+    "name": "Caught Mob Sheep Red"
   },
   {
     "id": 8862,
-    "name": "Caught Mob Sheep Green"
+    "name": "Caught Mob Sheep Orange"
   },
   {
     "id": 8863,
-    "name": "Caught Mob Sheep Lightblue"
+    "name": "Caught Mob Sheep Pink"
   },
   {
     "id": 8864,
-    "name": "Caught Mob Sheep Lightgray"
+    "name": "Caught Mob Sheep Purple"
   },
   {
     "id": 8865,
-    "name": "Caught Mob Sheep Lime"
+    "name": "Caught Mob Sheep Yellow"
   },
   {
     "id": 8866,
-    "name": "Caught Mob Sheep Magenta"
+    "name": "Caught Mob Sheep Blue"
   },
   {
     "id": 8867,
-    "name": "Caught Mob Horse Default"
+    "name": "Caught Mob Sheep Brown"
   },
   {
     "id": 8868,
-    "name": "Caught Mob Horse Black"
+    "name": "Caught Mob Sheep Cyan"
   },
   {
     "id": 8869,
-    "name": "Caught Mob Horse Brown"
+    "name": "Caught Mob Sheep Gray"
   },
   {
     "id": 8870,
-    "name": "Caught Mob Horse Cream"
+    "name": "Caught Mob Sheep Green"
   },
   {
     "id": 8871,
-    "name": "Caught Mob Camel Default"
+    "name": "Caught Mob Sheep Lightblue"
   },
   {
     "id": 8872,
-    "name": "Caught Mob Camel Brown"
+    "name": "Caught Mob Sheep Lightgray"
   },
   {
     "id": 8873,
-    "name": "Caught Mob Iron_Goofy_Golem Default"
+    "name": "Caught Mob Sheep Lime"
   },
   {
     "id": 8874,
-    "name": "Caught Mob Iron_Goofy_Golem Flaking"
+    "name": "Caught Mob Sheep Magenta"
   },
   {
     "id": 8875,
-    "name": "Caught Mob Iron_Goofy_Golem Patchy"
+    "name": "Caught Mob Horse Default"
   },
   {
     "id": 8876,
-    "name": "Caught Mob Iron_Goofy_Golem Shedding"
+    "name": "Caught Mob Horse Black"
   },
   {
     "id": 8877,
-    "name": "Caught Mob Iron_Goofy_Golem Bare"
+    "name": "Caught Mob Horse Brown"
   },
   {
     "id": 8878,
-    "name": "Caught Mob Iron_Goofy_Golem Stone"
+    "name": "Caught Mob Horse Cream"
   },
   {
     "id": 8879,
-    "name": "Caught Mob Gold_Goofy_Golem Default"
+    "name": "Caught Mob Camel Default"
   },
   {
     "id": 8880,
-    "name": "Caught Mob Gold_Goofy_Golem Flaking"
+    "name": "Caught Mob Camel Brown"
   },
   {
     "id": 8881,
-    "name": "Caught Mob Gold_Goofy_Golem Patchy"
+    "name": "Caught Mob Iron_Goofy_Golem Default"
   },
   {
     "id": 8882,
-    "name": "Caught Mob Gold_Goofy_Golem Shedding"
+    "name": "Caught Mob Iron_Goofy_Golem Flaking"
   },
   {
     "id": 8883,
-    "name": "Caught Mob Gold_Goofy_Golem Bare"
+    "name": "Caught Mob Iron_Goofy_Golem Patchy"
   },
   {
     "id": 8884,
-    "name": "Caught Mob Gold_Goofy_Golem Stone"
+    "name": "Caught Mob Iron_Goofy_Golem Shedding"
   },
   {
     "id": 8885,
-    "name": "Caught Mob Diamond_Goofy_Golem Default"
+    "name": "Caught Mob Iron_Goofy_Golem Bare"
   },
   {
     "id": 8886,
-    "name": "Caught Mob Diamond_Goofy_Golem Flaking"
+    "name": "Caught Mob Iron_Goofy_Golem Stone"
   },
   {
     "id": 8887,
-    "name": "Caught Mob Diamond_Goofy_Golem Patchy"
+    "name": "Caught Mob Gold_Goofy_Golem Default"
   },
   {
     "id": 8888,
-    "name": "Caught Mob Diamond_Goofy_Golem Shedding"
+    "name": "Caught Mob Gold_Goofy_Golem Flaking"
   },
   {
     "id": 8889,
-    "name": "Caught Mob Diamond_Goofy_Golem Bare"
+    "name": "Caught Mob Gold_Goofy_Golem Patchy"
   },
   {
     "id": 8890,
-    "name": "Caught Mob Diamond_Goofy_Golem Stone"
+    "name": "Caught Mob Gold_Goofy_Golem Shedding"
   },
   {
     "id": 8891,
-    "name": "Caught Mob Moonstone_Goofy_Golem Default"
+    "name": "Caught Mob Gold_Goofy_Golem Bare"
   },
   {
     "id": 8892,
-    "name": "Caught Mob Moonstone_Goofy_Golem Flaking"
+    "name": "Caught Mob Gold_Goofy_Golem Stone"
   },
   {
     "id": 8893,
-    "name": "Caught Mob Moonstone_Goofy_Golem Patchy"
+    "name": "Caught Mob Diamond_Goofy_Golem Default"
   },
   {
     "id": 8894,
-    "name": "Caught Mob Moonstone_Goofy_Golem Shedding"
+    "name": "Caught Mob Diamond_Goofy_Golem Flaking"
   },
   {
     "id": 8895,
-    "name": "Caught Mob Moonstone_Goofy_Golem Bare"
+    "name": "Caught Mob Diamond_Goofy_Golem Patchy"
   },
   {
     "id": 8896,
-    "name": "Caught Mob Moonstone_Goofy_Golem Stone"
+    "name": "Caught Mob Diamond_Goofy_Golem Shedding"
   },
   {
     "id": 8897,
-    "name": "Caught Mob Deer Default"
+    "name": "Caught Mob Diamond_Goofy_Golem Bare"
   },
   {
     "id": 8898,
-    "name": "Caught Mob Slime Default"
+    "name": "Caught Mob Diamond_Goofy_Golem Stone"
   },
   {
     "id": 8899,
-    "name": "Caught Mob Wolf Default"
+    "name": "Caught Mob Moonstone_Goofy_Golem Default"
   },
   {
     "id": 8900,
-    "name": "Caught Mob Wolf White"
+    "name": "Caught Mob Moonstone_Goofy_Golem Flaking"
   },
   {
     "id": 8901,
-    "name": "Caught Mob Wolf Brown"
+    "name": "Caught Mob Moonstone_Goofy_Golem Patchy"
   },
   {
     "id": 8902,
-    "name": "Caught Mob Wolf Grey"
+    "name": "Caught Mob Moonstone_Goofy_Golem Shedding"
   },
   {
     "id": 8903,
-    "name": "Caught Mob Wolf Spectral"
+    "name": "Caught Mob Moonstone_Goofy_Golem Bare"
   },
   {
     "id": 8904,
-    "name": "Caught Mob Wildcat Default"
+    "name": "Caught Mob Moonstone_Goofy_Golem Stone"
   },
   {
     "id": 8905,
-    "name": "Caught Mob Wildcat Tabby"
+    "name": "Caught Mob Deer Default"
   },
   {
     "id": 8906,
-    "name": "Caught Mob Wildcat Grey"
+    "name": "Caught Mob Slime Default"
   },
   {
     "id": 8907,
-    "name": "Caught Mob Wildcat Black"
+    "name": "Caught Mob Wolf Default"
   },
   {
     "id": 8908,
-    "name": "Caught Mob Wildcat Calico"
+    "name": "Caught Mob Wolf White"
   },
   {
     "id": 8909,
-    "name": "Caught Mob Wildcat Siamese"
+    "name": "Caught Mob Wolf Brown"
   },
   {
     "id": 8910,
-    "name": "Caught Mob Wildcat Leopard"
+    "name": "Caught Mob Wolf Grey"
   },
   {
     "id": 8911,
-    "name": "Caught Mob Spirit_Golem Default"
+    "name": "Caught Mob Wolf Spectral"
   },
   {
     "id": 8912,
-    "name": "Caught Mob Spirit_Wolf Default"
+    "name": "Caught Mob Wildcat Default"
   },
   {
     "id": 8913,
-    "name": "Caught Mob Spirit_Bear Default"
+    "name": "Caught Mob Wildcat Tabby"
   },
   {
     "id": 8914,
-    "name": "Caught Mob Spirit_Stag Default"
+    "name": "Caught Mob Wildcat Grey"
   },
   {
     "id": 8915,
-    "name": "Caught Mob Spirit_Gorilla Default"
+    "name": "Caught Mob Wildcat Black"
   },
   {
     "id": 8916,
-    "name": "Caught Mob Bear Default"
+    "name": "Caught Mob Wildcat Calico"
   },
   {
     "id": 8917,
-    "name": "Caught Mob Stag Default"
+    "name": "Caught Mob Wildcat Siamese"
   },
   {
     "id": 8918,
-    "name": "Caught Mob Gold_Watermelon_Stag Default"
+    "name": "Caught Mob Wildcat Leopard"
   },
   {
     "id": 8919,
-    "name": "Caught Mob Gorilla Default"
+    "name": "Caught Mob Spirit_Golem Default"
   },
   {
     "id": 8920,
-    "name": "Caught Mob Cave_Golem Default"
+    "name": "Caught Mob Spirit_Wolf Default"
   },
   {
     "id": 8921,
-    "name": "Caught Mob Cave_Golem Iron"
+    "name": "Caught Mob Spirit_Bear Default"
   },
   {
     "id": 8922,
-    "name": "Caught Mob Cave_Golem Corrupted"
+    "name": "Caught Mob Spirit_Stag Default"
   },
   {
     "id": 8923,
-    "name": "Caught Mob Draugr_Zombie Default"
+    "name": "Caught Mob Spirit_Gorilla Default"
   },
   {
     "id": 8924,
-    "name": "Caught Mob Draugr_Zombie Longhairchestplate"
+    "name": "Caught Mob Bear Default"
   },
   {
     "id": 8925,
-    "name": "Caught Mob Draugr_Zombie Longhairclothed"
+    "name": "Caught Mob Stag Default"
   },
   {
     "id": 8926,
-    "name": "Caught Mob Draugr_Zombie Shorthairclothed"
+    "name": "Caught Mob Gold_Watermelon_Stag Default"
   },
   {
     "id": 8927,
-    "name": "Caught Mob Draugr_Zombie Flower"
+    "name": "Caught Mob Gorilla Default"
   },
   {
     "id": 8928,
-    "name": "Caught Mob Draugr_Zombie Flower2"
+    "name": "Caught Mob Cave_Golem Default"
   },
   {
     "id": 8929,
-    "name": "Caught Mob Draugr_Zombie Mushroom"
+    "name": "Caught Mob Cave_Golem Iron"
   },
   {
     "id": 8930,
-    "name": "Caught Mob Draugr_Zombie Vine"
+    "name": "Caught Mob Cave_Golem Corrupted"
   },
   {
     "id": 8931,
-    "name": "Caught Mob Draugr_Zombie Vine2"
+    "name": "Caught Mob Draugr_Zombie Default"
   },
   {
     "id": 8932,
-    "name": "Caught Mob Draugr_Zombie Corrupted"
+    "name": "Caught Mob Draugr_Zombie Longhairchestplate"
   },
   {
     "id": 8933,
-    "name": "Caught Mob Draugr_Zombie Corrupted2"
+    "name": "Caught Mob Draugr_Zombie Longhairclothed"
   },
   {
     "id": 8934,
-    "name": "Caught Mob Draugr_Skeleton Default"
+    "name": "Caught Mob Draugr_Zombie Shorthairclothed"
   },
   {
     "id": 8935,
-    "name": "Caught Mob Frost_Golem Default"
+    "name": "Caught Mob Draugr_Zombie Flower"
   },
   {
     "id": 8936,
-    "name": "Caught Mob Frost_Zombie Default"
+    "name": "Caught Mob Draugr_Zombie Flower2"
   },
   {
     "id": 8937,
-    "name": "Caught Mob Frost_Zombie Longhairchestplate"
+    "name": "Caught Mob Draugr_Zombie Mushroom"
   },
   {
     "id": 8938,
-    "name": "Caught Mob Frost_Zombie Shorthairclothed"
+    "name": "Caught Mob Draugr_Zombie Vine"
   },
   {
     "id": 8939,
-    "name": "Caught Mob Frost_Skeleton Default"
+    "name": "Caught Mob Draugr_Zombie Vine2"
   },
   {
     "id": 8940,
-    "name": "Caught Mob Draugr_Knight Default"
+    "name": "Caught Mob Draugr_Zombie Corrupted"
   },
   {
     "id": 8941,
-    "name": "Caught Mob Draugr_Huntress Default"
+    "name": "Caught Mob Draugr_Zombie Corrupted2"
   },
   {
     "id": 8942,
-    "name": "Caught Mob Draugr_Huntress Chainmail"
+    "name": "Caught Mob Draugr_Skeleton Default"
   },
   {
     "id": 8943,
-    "name": "Caught Mob Magma_Golem Default"
+    "name": "Caught Mob Frost_Golem Default"
   },
   {
     "id": 8944,
-    "name": "Caught Mob Draugr_Warper Default"
+    "name": "Caught Mob Frost_Zombie Default"
   },
   {
     "id": 8945,
-    "name": "Caught Mob Frost_Wraith Default"
+    "name": "Caught Mob Frost_Zombie Longhairchestplate"
   },
   {
     "id": 8946,
-    "name": "Caught Mob Frost_Wraith Tattered"
+    "name": "Caught Mob Frost_Zombie Shorthairclothed"
   },
   {
     "id": 8947,
-    "name": "Caught Mob Frost_Wraith Frostking"
+    "name": "Caught Mob Frost_Skeleton Default"
   },
   {
     "id": 8948,
-    "name": "Caught Mob Frost_Wraith Accursed"
+    "name": "Caught Mob Draugr_Knight Default"
   },
   {
     "id": 8949,
-    "name": "Caught Mob Draugr_Reaver Default"
+    "name": "Caught Mob Draugr_Huntress Default"
   },
   {
     "id": 8950,
-    "name": "Caught Mob Stalker Default"
+    "name": "Caught Mob Draugr_Huntress Chainmail"
   },
   {
     "id": 8951,
-    "name": "Caught Mob Stalker Crimson"
+    "name": "Caught Mob Magma_Golem Default"
   },
   {
     "id": 8952,
-    "name": "Caught Mob Stalker Frost"
+    "name": "Caught Mob Draugr_Warper Default"
   },
   {
     "id": 8953,
-    "name": "Caught Mob Stalker Void"
+    "name": "Caught Mob Frost_Wraith Default"
   },
   {
     "id": 8954,
-    "name": "Caught Mob Crone Default"
+    "name": "Caught Mob Frost_Wraith Tattered"
   },
   {
     "id": 8955,
-    "name": "Caught Mob Iron_Guardian Default"
+    "name": "Caught Mob Frost_Wraith Frostking"
   },
   {
     "id": 8956,
-    "name": "Caught Mob Gold_Guardian Default"
+    "name": "Caught Mob Frost_Wraith Accursed"
   },
   {
     "id": 8957,
-    "name": "Caught Mob Diamond_Guardian Default"
+    "name": "Caught Mob Draugr_Reaver Default"
   },
   {
     "id": 8958,
-    "name": "Caught Mob Moonstone_Guardian Default"
+    "name": "Caught Mob Stalker Default"
   },
   {
     "id": 8959,
-    "name": "Caught Mob Tiki_Terror Default"
+    "name": "Caught Mob Stalker Crimson"
   },
   {
     "id": 8960,
-    "name": "Caught Mob Tiki_Terror Titan"
+    "name": "Caught Mob Stalker Frost"
   },
   {
     "id": 8961,
-    "name": "Caught Mob Tiki_Terror Tormentor"
+    "name": "Caught Mob Stalker Void"
   },
   {
     "id": 8962,
-    "name": "Caught Mob Tiki_Terror Tyrant"
+    "name": "Caught Mob Crone Default"
   },
   {
     "id": 8963,
-    "name": "Caught Mob NPC Default"
+    "name": "Caught Mob Iron_Guardian Default"
   },
   {
     "id": 8964,
-    "name": "Caught Mob NPC Emma"
+    "name": "Caught Mob Gold_Guardian Default"
   },
   {
     "id": 8965,
-    "name": "Caught Mob NPC Leo"
+    "name": "Caught Mob Diamond_Guardian Default"
   },
   {
     "id": 8966,
-    "name": "Caught Mob NPC Isabel"
+    "name": "Caught Mob Moonstone_Guardian Default"
   },
   {
     "id": 8967,
-    "name": "Caught Mob NPC Sanjay"
+    "name": "Caught Mob Tiki_Terror Default"
   },
   {
     "id": 8968,
-    "name": "Caught Mob NPC Imara"
+    "name": "Caught Mob Tiki_Terror Titan"
   },
   {
     "id": 8969,
-    "name": "Caught Mob NPC Enoch"
+    "name": "Caught Mob Tiki_Terror Tormentor"
   },
   {
     "id": 8970,
-    "name": "Caught Mob NPC Sara"
+    "name": "Caught Mob Tiki_Terror Tyrant"
   },
   {
     "id": 8971,
-    "name": "Caught Mob NPC Carmen"
+    "name": "Caught Mob NPC Default"
   },
   {
     "id": 8972,
-    "name": "Caught Mob NPC Chef"
+    "name": "Caught Mob NPC Emma"
   },
   {
     "id": 8973,
-    "name": "Caught Mob 67 Default"
+    "name": "Caught Mob NPC Leo"
   },
   {
     "id": 8974,
-    "name": "Caught Mob Bobino_Musculino Default"
+    "name": "Caught Mob NPC Isabel"
   },
   {
     "id": 8975,
-    "name": "Caught Mob Capitano_Explovissimo Default"
+    "name": "Caught Mob NPC Sanjay"
   },
   {
     "id": 8976,
-    "name": "Timed Spike Bomb"
+    "name": "Caught Mob NPC Imara"
   },
   {
     "id": 8977,
-    "name": "Timed Spike Bomb|meta|charging2"
+    "name": "Caught Mob NPC Enoch"
   },
   {
     "id": 8978,
-    "name": "Timed Spike Bomb|meta|charging3"
+    "name": "Caught Mob NPC Sara"
   },
   {
     "id": 8979,
-    "name": "Timed Spike Bomb|meta|charging4"
+    "name": "Caught Mob NPC Carmen"
   },
   {
     "id": 8980,
-    "name": "Toxin Ball"
+    "name": "Caught Mob NPC Chef"
   },
   {
     "id": 8981,
-    "name": "Aura XP Fragment"
+    "name": "Caught Mob 67 Default"
   },
   {
     "id": 8982,
-    "name": "Aura XP Orb"
+    "name": "Caught Mob Bobino_Musculino Default"
   },
   {
     "id": 8983,
-    "name": "Aura XP Potion"
+    "name": "Caught Mob Capitano_Explovissimo Default"
   },
   {
     "id": 8984,
-    "name": "Aura XP Potion II"
+    "name": "Caught Mob Desert_Fennec Default"
   },
   {
     "id": 8985,
-    "name": "Splash Aura XP Potion"
+    "name": "Caught Mob Armour_Collector Default"
   },
   {
     "id": 8986,
-    "name": "Splash Aura XP Potion II"
+    "name": "Caught Mob Furnace_Knight Default"
   },
   {
     "id": 8987,
-    "name": "Arrow of Aura XP"
+    "name": "Caught Mob Lil_Knight Default"
   },
   {
     "id": 8988,
-    "name": "Firecracker"
+    "name": "Caught Mob Glass_Gremlin Default"
   },
   {
     "id": 8989,
-    "name": "Rainbow Firecracker"
+    "name": "Caught Mob Glass_Bro Default"
   },
   {
     "id": 8990,
-    "name": "Yellow Firecracker"
+    "name": "Caught Mob Lord_Vulcan Default"
   },
   {
     "id": 8991,
-    "name": "White Firecracker"
+    "name": "Caught Mob Zombie Default"
   },
   {
     "id": 8992,
-    "name": "Red Firecracker"
+    "name": "Caught Mob Skeleton Default"
   },
   {
     "id": 8993,
-    "name": "Purple Firecracker"
+    "name": "Caught Mob Mummy Default"
   },
   {
     "id": 8994,
-    "name": "Pink Firecracker"
+    "name": "Caught Mob Scorpion Default"
   },
   {
     "id": 8995,
-    "name": "Orange Firecracker"
+    "name": "Caught Mob Vulcanite Default"
   },
   {
     "id": 8996,
-    "name": "Magenta Firecracker"
+    "name": "Caught Mob Evil_Tome Default"
   },
   {
     "id": 8997,
-    "name": "Lime Firecracker"
+    "name": "Caught Mob Magma_Toad Default"
   },
   {
     "id": 8998,
-    "name": "Light Gray Firecracker"
+    "name": "Timed Spike Bomb"
   },
   {
     "id": 8999,
-    "name": "Light Blue Firecracker"
+    "name": "Timed Spike Bomb|meta|charging2"
   },
   {
     "id": 9000,
-    "name": "Green Firecracker"
+    "name": "Timed Spike Bomb|meta|charging3"
   },
   {
     "id": 9001,
-    "name": "Gray Firecracker"
+    "name": "Timed Spike Bomb|meta|charging4"
   },
   {
     "id": 9002,
-    "name": "Cyan Firecracker"
+    "name": "Toxin Ball"
   },
   {
     "id": 9003,
-    "name": "Brown Firecracker"
+    "name": "Aura XP Fragment"
   },
   {
     "id": 9004,
-    "name": "Blue Firecracker"
+    "name": "Aura XP Orb"
   },
   {
     "id": 9005,
-    "name": "Black Firecracker"
+    "name": "Aura XP Potion"
   },
   {
     "id": 9006,
-    "name": "Firecracker Pebble"
+    "name": "Aura XP Potion II"
   },
   {
     "id": 9007,
-    "name": "Rainbow Firecracker Pebble"
+    "name": "Splash Aura XP Potion"
   },
   {
     "id": 9008,
-    "name": "Yellow Firecracker Pebble"
+    "name": "Splash Aura XP Potion II"
   },
   {
     "id": 9009,
-    "name": "White Firecracker Pebble"
+    "name": "Arrow of Aura XP"
   },
   {
     "id": 9010,
-    "name": "Red Firecracker Pebble"
+    "name": "Firecracker"
   },
   {
     "id": 9011,
-    "name": "Purple Firecracker Pebble"
+    "name": "Rainbow Firecracker"
   },
   {
     "id": 9012,
-    "name": "Pink Firecracker Pebble"
+    "name": "Yellow Firecracker"
   },
   {
     "id": 9013,
-    "name": "Orange Firecracker Pebble"
+    "name": "White Firecracker"
   },
   {
     "id": 9014,
-    "name": "Magenta Firecracker Pebble"
+    "name": "Red Firecracker"
   },
   {
     "id": 9015,
-    "name": "Lime Firecracker Pebble"
+    "name": "Purple Firecracker"
   },
   {
     "id": 9016,
-    "name": "Light Gray Firecracker Pebble"
+    "name": "Pink Firecracker"
   },
   {
     "id": 9017,
-    "name": "Light Blue Firecracker Pebble"
+    "name": "Orange Firecracker"
   },
   {
     "id": 9018,
-    "name": "Green Firecracker Pebble"
+    "name": "Magenta Firecracker"
   },
   {
     "id": 9019,
-    "name": "Gray Firecracker Pebble"
+    "name": "Lime Firecracker"
   },
   {
     "id": 9020,
-    "name": "Cyan Firecracker Pebble"
+    "name": "Light Gray Firecracker"
   },
   {
     "id": 9021,
-    "name": "Brown Firecracker Pebble"
+    "name": "Light Blue Firecracker"
   },
   {
     "id": 9022,
-    "name": "Blue Firecracker Pebble"
+    "name": "Green Firecracker"
   },
   {
     "id": 9023,
-    "name": "Black Firecracker Pebble"
+    "name": "Gray Firecracker"
   },
   {
     "id": 9024,
-    "name": "WorldBuilder Wand"
+    "name": "Cyan Firecracker"
   },
   {
     "id": 9025,
-    "name": "Red Strongfish"
+    "name": "Brown Firecracker"
   },
   {
     "id": 9026,
-    "name": "Green Strongfish"
+    "name": "Blue Firecracker"
   },
   {
     "id": 9027,
-    "name": "Moon Strongfish"
+    "name": "Black Firecracker"
   },
   {
     "id": 9028,
-    "name": "Wheatfish"
+    "name": "Firecracker Pebble"
   },
   {
     "id": 9029,
-    "name": "Moonfish"
+    "name": "Rainbow Firecracker Pebble"
   },
   {
     "id": 9030,
-    "name": "Bombfish"
+    "name": "Yellow Firecracker Pebble"
   },
   {
     "id": 9031,
-    "name": "Boomerang Fish"
+    "name": "White Firecracker Pebble"
   },
   {
     "id": 9032,
-    "name": "Root Flounder"
+    "name": "Red Firecracker Pebble"
   },
   {
     "id": 9033,
-    "name": "Abyss Carp"
+    "name": "Purple Firecracker Pebble"
   },
   {
     "id": 9034,
-    "name": "Boulder Bass"
+    "name": "Pink Firecracker Pebble"
   },
   {
     "id": 9035,
-    "name": "Barnaclejaw"
+    "name": "Orange Firecracker Pebble"
   },
   {
     "id": 9036,
-    "name": "Crystalized Wheatfish"
+    "name": "Magenta Firecracker Pebble"
   },
   {
     "id": 9037,
-    "name": "Darter"
+    "name": "Lime Firecracker Pebble"
   },
   {
     "id": 9038,
-    "name": "Shadow Darter"
+    "name": "Light Gray Firecracker Pebble"
   },
   {
     "id": 9039,
-    "name": "Electric Eel"
+    "name": "Light Blue Firecracker Pebble"
   },
   {
     "id": 9040,
-    "name": "Grass Snapper"
+    "name": "Green Firecracker Pebble"
   },
   {
     "id": 9041,
-    "name": "Jungle Spinefish"
+    "name": "Gray Firecracker Pebble"
   },
   {
     "id": 9042,
-    "name": "Mangler Catfish"
+    "name": "Cyan Firecracker Pebble"
   },
   {
     "id": 9043,
-    "name": "Mossback Arapaima"
+    "name": "Brown Firecracker Pebble"
   },
   {
     "id": 9044,
-    "name": "Sandbelly Piranha"
+    "name": "Blue Firecracker Pebble"
   },
   {
     "id": 9045,
-    "name": "Shadeback Ray"
+    "name": "Black Firecracker Pebble"
   },
   {
     "id": 9046,
-    "name": "Mudbelly Tilapia"
+    "name": "WorldBuilder Wand"
   },
   {
     "id": 9047,
-    "name": "Mireback Carp"
+    "name": "Red Strongfish"
   },
   {
     "id": 9048,
-    "name": "Rotslab Eel"
+    "name": "Green Strongfish"
   },
   {
     "id": 9049,
-    "name": "Aether Minnow"
+    "name": "Moon Strongfish"
   },
   {
     "id": 9050,
-    "name": "Murkborne Ray"
+    "name": "Wheatfish"
   },
   {
     "id": 9051,
-    "name": "Eldertide Leviathan"
+    "name": "Moonfish"
   },
   {
     "id": 9052,
-    "name": "Oarfish"
+    "name": "Bombfish"
   },
   {
     "id": 9053,
-    "name": "Alpha Moon Strongfish"
+    "name": "Boomerang Fish"
   },
   {
     "id": 9054,
-    "name": "Bamboo Catfish"
+    "name": "Root Flounder"
   },
   {
     "id": 9055,
-    "name": "Blackwater Bream"
+    "name": "Abyss Carp"
   },
   {
     "id": 9056,
-    "name": "Blackwater Leviathan"
+    "name": "Boulder Bass"
   },
   {
     "id": 9057,
-    "name": "Boned Sturgeon"
+    "name": "Barnaclejaw"
   },
   {
     "id": 9058,
-    "name": "Bull Shark"
+    "name": "Crystalized Wheatfish"
   },
   {
     "id": 9059,
-    "name": "Channel Sawfish"
+    "name": "Darter"
   },
   {
     "id": 9060,
-    "name": "Coastal Mullet"
+    "name": "Shadow Darter"
   },
   {
     "id": 9061,
-    "name": "Coelacanth"
+    "name": "Electric Eel"
   },
   {
     "id": 9062,
-    "name": "Driftwood Catfish"
+    "name": "Grass Snapper"
   },
   {
     "id": 9063,
-    "name": "Eagle Ray"
+    "name": "Jungle Spinefish"
   },
   {
     "id": 9064,
-    "name": "Giant Grouper"
+    "name": "Mangler Catfish"
   },
   {
     "id": 9065,
-    "name": "Giant Moray"
+    "name": "Mossback Arapaima"
   },
   {
     "id": 9066,
-    "name": "Giant Stingray"
+    "name": "Sandbelly Piranha"
   },
   {
     "id": 9067,
-    "name": "Golden Mahseer"
+    "name": "Shadeback Ray"
   },
   {
     "id": 9068,
-    "name": "Greenfin Loach"
+    "name": "Mudbelly Tilapia"
   },
   {
     "id": 9069,
-    "name": "Mangrove Herring"
+    "name": "Mireback Carp"
   },
   {
     "id": 9070,
-    "name": "Moonlit Boomerang Fish"
+    "name": "Rotslab Eel"
   },
   {
     "id": 9071,
-    "name": "Moonstone Pupfish"
+    "name": "Aether Minnow"
   },
   {
     "id": 9072,
-    "name": "Mudline Perch"
+    "name": "Murkborne Ray"
   },
   {
     "id": 9073,
-    "name": "Murk Stingray"
+    "name": "Eldertide Leviathan"
   },
   {
     "id": 9074,
-    "name": "Needlefish"
+    "name": "Oarfish"
   },
   {
     "id": 9075,
-    "name": "Nomai Moray"
+    "name": "Alpha Moon Strongfish"
   },
   {
     "id": 9076,
-    "name": "Pearlescent Moonfish"
+    "name": "Bamboo Catfish"
   },
   {
     "id": 9077,
-    "name": "Rainbow Guppy"
+    "name": "Blackwater Bream"
   },
   {
     "id": 9078,
-    "name": "Red Snapper"
+    "name": "Blackwater Leviathan"
   },
   {
     "id": 9079,
-    "name": "Reedglass Minnow"
+    "name": "Boned Sturgeon"
   },
   {
     "id": 9080,
-    "name": "Reef Sardine"
+    "name": "Bull Shark"
   },
   {
     "id": 9081,
-    "name": "Root Perch"
+    "name": "Channel Sawfish"
   },
   {
     "id": 9082,
-    "name": "Rust Scad"
+    "name": "Coastal Mullet"
   },
   {
     "id": 9083,
-    "name": "Seahorse"
+    "name": "Coelacanth"
   },
   {
     "id": 9084,
-    "name": "Snakehead"
+    "name": "Driftwood Catfish"
   },
   {
     "id": 9085,
-    "name": "Spined Stickleback"
+    "name": "Eagle Ray"
   },
   {
     "id": 9086,
-    "name": "Stone Grouper"
+    "name": "Giant Grouper"
   },
   {
     "id": 9087,
-    "name": "Sumpback Carp"
+    "name": "Giant Moray"
   },
   {
     "id": 9088,
-    "name": "Sunset Minnow"
+    "name": "Giant Stingray"
   },
   {
     "id": 9089,
-    "name": "Tarpon"
+    "name": "Golden Mahseer"
   },
   {
     "id": 9090,
-    "name": "Threadfin Bream"
+    "name": "Greenfin Loach"
   },
   {
     "id": 9091,
-    "name": "Tri-Pointed Needlefish"
+    "name": "Mangrove Herring"
   },
   {
     "id": 9092,
-    "name": "Game Dev Fish"
+    "name": "Moonlit Boomerang Fish"
   },
   {
     "id": 9093,
-    "name": "Armoured Searobin"
+    "name": "Moonstone Pupfish"
   },
   {
     "id": 9094,
-    "name": "Ash Lionfish"
+    "name": "Mudline Perch"
   },
   {
     "id": 9095,
-    "name": "Barefrost Toothfish"
+    "name": "Murk Stingray"
   },
   {
     "id": 9096,
-    "name": "Blackfin Icefish"
+    "name": "Needlefish"
   },
   {
     "id": 9097,
-    "name": "Basalt Pipefish"
+    "name": "Nomai Moray"
   },
   {
     "id": 9098,
-    "name": "Brimstone Spikefish"
+    "name": "Pearlescent Moonfish"
   },
   {
     "id": 9099,
-    "name": "Cinder Leviathan"
+    "name": "Rainbow Guppy"
   },
   {
     "id": 9100,
-    "name": "Crowned Flame Angelfish"
+    "name": "Red Snapper"
   },
   {
     "id": 9101,
-    "name": "Deepwater Lanternfish"
+    "name": "Reedglass Minnow"
   },
   {
     "id": 9102,
-    "name": "Driftice Capelin"
+    "name": "Reef Sardine"
   },
   {
     "id": 9103,
-    "name": "Ember Chub"
+    "name": "Root Perch"
   },
   {
     "id": 9104,
-    "name": "Embermark Wrasse"
+    "name": "Rust Scad"
   },
   {
     "id": 9105,
-    "name": "Eviota Vader"
+    "name": "Seahorse"
   },
   {
     "id": 9106,
-    "name": "Frost Herring"
+    "name": "Snakehead"
   },
   {
     "id": 9107,
-    "name": "Frost Wolf Eel"
+    "name": "Spined Stickleback"
   },
   {
     "id": 9108,
-    "name": "Frostpaint Notie"
+    "name": "Stone Grouper"
   },
   {
     "id": 9109,
-    "name": "Frozen Grenadier"
+    "name": "Sumpback Carp"
   },
   {
     "id": 9110,
-    "name": "Giant Trevally"
+    "name": "Sunset Minnow"
   },
   {
     "id": 9111,
-    "name": "Glacial Lanternfish"
+    "name": "Tarpon"
   },
   {
     "id": 9112,
-    "name": "Glacial Silverfish"
+    "name": "Threadfin Bream"
   },
   {
     "id": 9113,
-    "name": "Heatwarp Flounder"
+    "name": "Tri-Pointed Needlefish"
   },
   {
     "id": 9114,
-    "name": "Hatchetfish"
+    "name": "Game Dev Fish"
   },
   {
     "id": 9115,
-    "name": "Ice Spined Notothenia"
+    "name": "Armoured Searobin"
   },
   {
     "id": 9116,
-    "name": "Iceshelf Skate"
+    "name": "Ash Lionfish"
   },
   {
     "id": 9117,
-    "name": "Icy Sculpin"
+    "name": "Barefrost Toothfish"
   },
   {
     "id": 9118,
-    "name": "Lavaflow Trout"
+    "name": "Blackfin Icefish"
   },
   {
     "id": 9119,
-    "name": "Lavawake Slopefish"
+    "name": "Basalt Pipefish"
   },
   {
     "id": 9120,
-    "name": "Magma Sardinella"
+    "name": "Brimstone Spikefish"
   },
   {
     "id": 9121,
-    "name": "Magma Trout"
+    "name": "Cinder Leviathan"
   },
   {
     "id": 9122,
-    "name": "Marbled Moray Cod"
+    "name": "Crowned Flame Angelfish"
   },
   {
     "id": 9123,
-    "name": "Molten Lotella Cod"
+    "name": "Deepwater Lanternfish"
   },
   {
     "id": 9124,
-    "name": "Northern Wolffish"
+    "name": "Driftice Capelin"
   },
   {
     "id": 9125,
-    "name": "Paleice Rockcod"
+    "name": "Ember Chub"
   },
   {
     "id": 9126,
-    "name": "Permafrost Halibut"
+    "name": "Embermark Wrasse"
   },
   {
     "id": 9127,
-    "name": "Pithead"
+    "name": "Eviota Vader"
   },
   {
     "id": 9128,
-    "name": "Polarflash Electron"
+    "name": "Frost Herring"
   },
   {
     "id": 9129,
-    "name": "Pyroclast Eel"
+    "name": "Frost Wolf Eel"
   },
   {
     "id": 9130,
-    "name": "Pyroscale Grouper"
+    "name": "Frostpaint Notie"
   },
   {
     "id": 9131,
-    "name": "Red Pyreside"
+    "name": "Frozen Grenadier"
   },
   {
     "id": 9132,
-    "name": "Rimesnouted Lancetfish"
+    "name": "Giant Trevally"
   },
   {
     "id": 9133,
-    "name": "Scorched Sunfish"
+    "name": "Glacial Lanternfish"
   },
   {
     "id": 9134,
-    "name": "Scored Dace"
+    "name": "Glacial Silverfish"
   },
   {
     "id": 9135,
-    "name": "Silver Dragonfish"
+    "name": "Heatwarp Flounder"
   },
   {
     "id": 9136,
-    "name": "Snow Haddock"
+    "name": "Hatchetfish"
   },
   {
     "id": 9137,
-    "name": "Volcanic Catfish"
+    "name": "Ice Spined Notothenia"
   },
   {
     "id": 9138,
-    "name": "Volcanic Semperi"
+    "name": "Iceshelf Skate"
   },
   {
     "id": 9139,
-    "name": "Rusty Rod"
+    "name": "Icy Sculpin"
   },
   {
     "id": 9140,
-    "name": "Lucky Rod"
+    "name": "Lavaflow Trout"
   },
   {
     "id": 9141,
-    "name": "Sturdy Rod"
+    "name": "Lavawake Slopefish"
   },
   {
     "id": 9142,
-    "name": "Jungle Rod"
+    "name": "Magma Sardinella"
   },
   {
     "id": 9143,
-    "name": "Draugr Rod"
+    "name": "Magma Trout"
   },
   {
     "id": 9144,
-    "name": "Cursed Rod"
+    "name": "Marbled Moray Cod"
   },
   {
     "id": 9145,
-    "name": "Tangle Resistant Rod"
+    "name": "Molten Lotella Cod"
   },
   {
     "id": 9146,
-    "name": "Speed Rod"
+    "name": "Northern Wolffish"
   },
   {
     "id": 9147,
-    "name": "Carbon Rod"
+    "name": "Paleice Rockcod"
   },
   {
     "id": 9148,
-    "name": "Deep Sea Rod"
+    "name": "Permafrost Halibut"
   },
   {
     "id": 9149,
-    "name": "Master Rod"
+    "name": "Pithead"
   },
   {
     "id": 9150,
-    "name": "Obsidian Rod"
+    "name": "Polarflash Electron"
   },
   {
     "id": 9151,
-    "name": "Molten Magma Rod"
+    "name": "Pyroclast Eel"
   },
   {
     "id": 9152,
-    "name": "Frost Rod"
+    "name": "Pyroscale Grouper"
   },
   {
     "id": 9153,
-    "name": "Black Ice Rod"
+    "name": "Red Pyreside"
   },
   {
     "id": 9154,
-    "name": "Mythic Rod"
+    "name": "Rimesnouted Lancetfish"
   },
   {
     "id": 9155,
-    "name": "Acorn"
+    "name": "Scorched Sunfish"
   },
   {
     "id": 9156,
-    "name": "Acorn Jelly"
+    "name": "Scored Dace"
   },
   {
     "id": 9157,
-    "name": "Cow's Milk"
+    "name": "Silver Dragonfish"
   },
   {
     "id": 9158,
-    "name": "Cheese"
+    "name": "Snow Haddock"
   },
   {
     "id": 9159,
-    "name": "Caught Fish"
+    "name": "Volcanic Catfish"
   },
   {
     "id": 9160,
-    "name": "Fish Fillet"
+    "name": "Volcanic Semperi"
   },
   {
     "id": 9161,
-    "name": "Meaty Bone"
+    "name": "Rusty Rod"
   },
   {
     "id": 9162,
-    "name": "Blinding Pebble"
+    "name": "Lucky Rod"
   },
   {
     "id": 9163,
-    "name": "Sheep's Milk"
+    "name": "Sturdy Rod"
   },
   {
     "id": 9164,
-    "name": "Yoghurt Pot"
+    "name": "Jungle Rod"
   },
   {
     "id": 9165,
-    "name": "Truffle"
+    "name": "Draugr Rod"
   },
   {
     "id": 9166,
-    "name": "Truffle Oil"
+    "name": "Cursed Rod"
   },
   {
     "id": 9167,
-    "name": "Oats"
+    "name": "Tangle Resistant Rod"
   },
   {
     "id": 9168,
-    "name": "Porridge"
+    "name": "Speed Rod"
   },
   {
     "id": 9169,
-    "name": "Dates"
+    "name": "Carbon Rod"
   },
   {
     "id": 9170,
-    "name": "Date Pudding"
+    "name": "Deep Sea Rod"
   },
   {
     "id": 9171,
-    "name": "Poop"
+    "name": "Master Rod"
   },
   {
     "id": 9172,
-    "name": "Fertiliser"
+    "name": "Obsidian Rod"
   },
   {
     "id": 9173,
-    "name": "Medkit"
+    "name": "Molten Magma Rod"
   },
   {
     "id": 9174,
-    "name": "Wood Spear"
+    "name": "Frost Rod"
   },
   {
     "id": 9175,
-    "name": "Stone Spear"
+    "name": "Black Ice Rod"
   },
   {
     "id": 9176,
-    "name": "Iron Spear"
+    "name": "Mythic Rod"
   },
   {
     "id": 9177,
-    "name": "Gold Spear"
+    "name": "Acorn"
   },
   {
     "id": 9178,
-    "name": "Diamond Spear"
+    "name": "Acorn Jelly"
   },
   {
     "id": 9179,
-    "name": "Moonstone Spear"
+    "name": "Cow's Milk"
   },
   {
     "id": 9180,
-    "name": "Wood Dagger"
+    "name": "Cheese"
   },
   {
     "id": 9181,
-    "name": "Stone Dagger"
+    "name": "Caught Fish"
   },
   {
     "id": 9182,
-    "name": "Iron Dagger"
+    "name": "Fish Fillet"
   },
   {
     "id": 9183,
-    "name": "Gold Dagger"
+    "name": "Meaty Bone"
   },
   {
     "id": 9184,
-    "name": "Diamond Dagger"
+    "name": "Blinding Pebble"
   },
   {
     "id": 9185,
-    "name": "Moonstone Dagger"
+    "name": "Sheep's Milk"
   },
   {
     "id": 9186,
-    "name": "Wood Boomerang"
+    "name": "Yoghurt Pot"
   },
   {
     "id": 9187,
-    "name": "Stone Boomerang"
+    "name": "Truffle"
   },
   {
     "id": 9188,
-    "name": "Iron Boomerang"
+    "name": "Truffle Oil"
   },
   {
     "id": 9189,
-    "name": "Gold Boomerang"
+    "name": "Oats"
   },
   {
     "id": 9190,
-    "name": "Diamond Boomerang"
+    "name": "Porridge"
   },
   {
     "id": 9191,
-    "name": "Moonstone Boomerang"
+    "name": "Dates"
   },
   {
     "id": 9192,
-    "name": "Wood Club"
+    "name": "Date Pudding"
   },
   {
     "id": 9193,
-    "name": "Stone Club"
+    "name": "Poop"
   },
   {
     "id": 9194,
-    "name": "Iron Club"
+    "name": "Fertiliser"
   },
   {
     "id": 9195,
-    "name": "Gold Club"
+    "name": "Medkit"
   },
   {
     "id": 9196,
-    "name": "Diamond Club"
+    "name": "Wood Spear"
   },
   {
     "id": 9197,
-    "name": "Moonstone Club"
+    "name": "Stone Spear"
   },
   {
     "id": 9198,
-    "name": "Wood Mace"
+    "name": "Iron Spear"
   },
   {
     "id": 9199,
-    "name": "Stone Mace"
+    "name": "Gold Spear"
   },
   {
     "id": 9200,
-    "name": "Iron Mace"
+    "name": "Diamond Spear"
   },
   {
     "id": 9201,
-    "name": "Gold Mace"
+    "name": "Moonstone Spear"
   },
   {
     "id": 9202,
-    "name": "Diamond Mace"
+    "name": "Wood Dagger"
   },
   {
     "id": 9203,
-    "name": "Moonstone Mace"
+    "name": "Stone Dagger"
   },
   {
     "id": 9204,
-    "name": "Wood Whip"
+    "name": "Iron Dagger"
   },
   {
     "id": 9205,
-    "name": "Stone Whip"
+    "name": "Gold Dagger"
   },
   {
     "id": 9206,
-    "name": "Iron Whip"
+    "name": "Diamond Dagger"
   },
   {
     "id": 9207,
-    "name": "Gold Whip"
+    "name": "Moonstone Dagger"
   },
   {
     "id": 9208,
-    "name": "Diamond Whip"
+    "name": "Wood Boomerang"
   },
   {
     "id": 9209,
-    "name": "Moonstone Whip"
+    "name": "Stone Boomerang"
   },
   {
     "id": 9210,
-    "name": "Beef Stew"
+    "name": "Iron Boomerang"
   },
   {
     "id": 9211,
-    "name": "Chicken"
+    "name": "Gold Boomerang"
   },
   {
     "id": 9212,
-    "name": "Coleslaw"
+    "name": "Diamond Boomerang"
   },
   {
     "id": 9213,
-    "name": "Egg"
+    "name": "Moonstone Boomerang"
   },
   {
     "id": 9214,
-    "name": "Fish N Chips"
+    "name": "Wood Club"
   },
   {
     "id": 9215,
-    "name": "Fried Rice"
+    "name": "Stone Club"
   },
   {
     "id": 9216,
-    "name": "Lettuce"
+    "name": "Iron Club"
   },
   {
     "id": 9217,
-    "name": "Omelette"
+    "name": "Gold Club"
   },
   {
     "id": 9218,
-    "name": "Onion"
+    "name": "Diamond Club"
   },
   {
     "id": 9219,
-    "name": "Red Cabbage"
+    "name": "Moonstone Club"
   },
   {
     "id": 9220,
-    "name": "Roast Dinner"
+    "name": "Wood Mace"
   },
   {
     "id": 9221,
-    "name": "Salad"
+    "name": "Stone Mace"
   },
   {
     "id": 9222,
-    "name": "Stuffed Pepper"
+    "name": "Iron Mace"
   },
   {
     "id": 9223,
-    "name": "Sushi"
+    "name": "Gold Mace"
   },
   {
     "id": 9224,
-    "name": "Tomato"
+    "name": "Diamond Mace"
   },
   {
     "id": 9225,
-    "name": "Vegetable Soup"
+    "name": "Moonstone Mace"
   },
   {
     "id": 9226,
-    "name": "Common Lottery Ticket"
+    "name": "Wood Whip"
   },
   {
     "id": 9227,
-    "name": "Uncommon Lottery Ticket"
+    "name": "Stone Whip"
   },
   {
     "id": 9228,
-    "name": "Rare Lottery Ticket"
+    "name": "Iron Whip"
   },
   {
     "id": 9229,
-    "name": "Epic Lottery Ticket"
+    "name": "Gold Whip"
   },
   {
     "id": 9230,
-    "name": "Legendary Lottery Ticket"
+    "name": "Diamond Whip"
   },
   {
     "id": 9231,
-    "name": "Wood Clock"
+    "name": "Moonstone Whip"
   },
   {
     "id": 9232,
-    "name": "Wood Clock|meta|midnight"
+    "name": "Beef Stew"
   },
   {
     "id": 9233,
-    "name": "Wood Clock|meta|late_night"
+    "name": "Chicken"
   },
   {
     "id": 9234,
-    "name": "Wood Clock|meta|sunrise"
+    "name": "Coleslaw"
   },
   {
     "id": 9235,
-    "name": "Wood Clock|meta|early_day"
+    "name": "Egg"
   },
   {
     "id": 9236,
-    "name": "Wood Clock|meta|late_day"
+    "name": "Fish N Chips"
   },
   {
     "id": 9237,
-    "name": "Wood Clock|meta|sunset"
+    "name": "Fried Rice"
   },
   {
     "id": 9238,
-    "name": "Wood Clock|meta|early_night"
+    "name": "Lettuce"
   },
   {
     "id": 9239,
-    "name": "Gold Clock"
+    "name": "Omelette"
   },
   {
     "id": 9240,
-    "name": "Gold Clock|meta|midnight"
+    "name": "Onion"
   },
   {
     "id": 9241,
-    "name": "Gold Clock|meta|late_night"
+    "name": "Red Cabbage"
   },
   {
     "id": 9242,
-    "name": "Gold Clock|meta|sunrise"
+    "name": "Roast Dinner"
   },
   {
     "id": 9243,
-    "name": "Gold Clock|meta|early_day"
+    "name": "Salad"
   },
   {
     "id": 9244,
-    "name": "Gold Clock|meta|late_day"
+    "name": "Stuffed Pepper"
   },
   {
     "id": 9245,
-    "name": "Gold Clock|meta|sunset"
+    "name": "Sushi"
   },
   {
     "id": 9246,
-    "name": "Gold Clock|meta|early_night"
+    "name": "Tomato"
   },
   {
     "id": 9247,
-    "name": "Lucky Sword Upgrade"
+    "name": "Vegetable Soup"
   },
   {
     "id": 9248,
-    "name": "Lucky Armour Upgrade"
+    "name": "Common Lottery Ticket"
   },
   {
     "id": 9249,
-    "name": "Lucky Tools Upgrade"
+    "name": "Uncommon Lottery Ticket"
   },
   {
     "id": 9250,
-    "name": "Lucky Clover"
+    "name": "Rare Lottery Ticket"
   },
   {
     "id": 9251,
-    "name": "Void Net"
+    "name": "Epic Lottery Ticket"
   },
   {
     "id": 9252,
-    "name": "Lucky Bomb"
+    "name": "Legendary Lottery Ticket"
   },
   {
     "id": 9253,
-    "name": "Unlucky Bomb"
+    "name": "Wood Clock"
   },
   {
     "id": 9254,
-    "name": "Swap Orb"
+    "name": "Wood Clock|meta|midnight"
   },
   {
     "id": 9255,
-    "name": "Golden Lucky Clover"
+    "name": "Wood Clock|meta|late_night"
   },
   {
     "id": 9256,
-    "name": "Amethite"
+    "name": "Wood Clock|meta|sunrise"
   },
   {
     "id": 9257,
-    "name": "Amethite Fragment"
+    "name": "Wood Clock|meta|early_day"
   },
   {
     "id": 9258,
-    "name": "Amethite Pickaxe"
+    "name": "Wood Clock|meta|late_day"
   },
   {
     "id": 9259,
-    "name": "Amethite Axe"
+    "name": "Wood Clock|meta|sunset"
   },
   {
     "id": 9260,
-    "name": "Amethite Spade"
+    "name": "Wood Clock|meta|early_night"
   },
   {
     "id": 9261,
-    "name": "Amethite Sword"
+    "name": "Gold Clock"
   },
   {
     "id": 9262,
-    "name": "Amethite Hoe"
+    "name": "Gold Clock|meta|midnight"
   },
   {
     "id": 9263,
-    "name": "Amethite Helmet"
+    "name": "Gold Clock|meta|late_night"
   },
   {
     "id": 9264,
-    "name": "Amethite Chestplate"
+    "name": "Gold Clock|meta|sunrise"
   },
   {
     "id": 9265,
-    "name": "Amethite Leggings"
+    "name": "Gold Clock|meta|early_day"
   },
   {
     "id": 9266,
-    "name": "Amethite Boots"
+    "name": "Gold Clock|meta|late_day"
   },
   {
     "id": 9267,
-    "name": "Amethite Gauntlets"
+    "name": "Gold Clock|meta|sunset"
   },
   {
     "id": 9268,
-    "name": "Amethite Bow"
+    "name": "Gold Clock|meta|early_night"
   },
   {
     "id": 9269,
-    "name": "Amethite Bow|meta|charging2"
+    "name": "Lucky Sword Upgrade"
   },
   {
     "id": 9270,
-    "name": "Amethite Bow|meta|charging3"
+    "name": "Lucky Armour Upgrade"
   },
   {
     "id": 9271,
-    "name": "Amethite Bow|meta|charging4"
+    "name": "Lucky Tools Upgrade"
   },
   {
     "id": 9272,
-    "name": "Amethite Crossbow"
+    "name": "Lucky Clover"
   },
   {
     "id": 9273,
-    "name": "Amethite Crossbow|meta|charging2"
+    "name": "Void Net"
   },
   {
     "id": 9274,
-    "name": "Amethite Crossbow|meta|charging3"
+    "name": "Lucky Bomb"
   },
   {
     "id": 9275,
-    "name": "Amethite Crossbow|meta|charging4"
+    "name": "Unlucky Bomb"
   },
   {
     "id": 9276,
-    "name": "Amethite Crossbow Charged"
+    "name": "Swap Orb"
   },
   {
     "id": 9277,
-    "name": "Amethite Spear"
+    "name": "Golden Lucky Clover"
   },
   {
     "id": 9278,
-    "name": "Amethite Dagger"
+    "name": "Amethite"
   },
   {
     "id": 9279,
-    "name": "Amethite Boomerang"
+    "name": "Amethite Fragment"
   },
   {
     "id": 9280,
-    "name": "Amethite Club"
+    "name": "Amethite Pickaxe"
   },
   {
     "id": 9281,
-    "name": "Amethite Mace"
+    "name": "Amethite Axe"
   },
   {
     "id": 9282,
-    "name": "Amethite Whip"
+    "name": "Amethite Spade"
   },
   {
     "id": 9283,
-    "name": "Magmasteel"
+    "name": "Amethite Sword"
   },
   {
     "id": 9284,
-    "name": "Magmasteel Fragment"
+    "name": "Amethite Hoe"
   },
   {
     "id": 9285,
-    "name": "Magmasteel Pickaxe"
+    "name": "Amethite Helmet"
   },
   {
     "id": 9286,
-    "name": "Magmasteel Axe"
+    "name": "Amethite Chestplate"
   },
   {
     "id": 9287,
-    "name": "Magmasteel Spade"
+    "name": "Amethite Leggings"
   },
   {
     "id": 9288,
-    "name": "Magmasteel Sword"
+    "name": "Amethite Boots"
   },
   {
     "id": 9289,
-    "name": "Magmasteel Hoe"
+    "name": "Amethite Gauntlets"
   },
   {
     "id": 9290,
-    "name": "Magmasteel Helmet"
+    "name": "Amethite Bow"
   },
   {
     "id": 9291,
-    "name": "Magmasteel Chestplate"
+    "name": "Amethite Bow|meta|charging2"
   },
   {
     "id": 9292,
-    "name": "Magmasteel Leggings"
+    "name": "Amethite Bow|meta|charging3"
   },
   {
     "id": 9293,
-    "name": "Magmasteel Boots"
+    "name": "Amethite Bow|meta|charging4"
   },
   {
     "id": 9294,
-    "name": "Magmasteel Gauntlets"
+    "name": "Amethite Crossbow"
   },
   {
     "id": 9295,
-    "name": "Magmasteel Bow"
+    "name": "Amethite Crossbow|meta|charging2"
   },
   {
     "id": 9296,
-    "name": "Magmasteel Bow|meta|charging2"
+    "name": "Amethite Crossbow|meta|charging3"
   },
   {
     "id": 9297,
-    "name": "Magmasteel Bow|meta|charging3"
+    "name": "Amethite Crossbow|meta|charging4"
   },
   {
     "id": 9298,
-    "name": "Magmasteel Bow|meta|charging4"
+    "name": "Amethite Crossbow Charged"
   },
   {
     "id": 9299,
-    "name": "Magmasteel Crossbow"
+    "name": "Amethite Spear"
   },
   {
     "id": 9300,
-    "name": "Magmasteel Crossbow|meta|charging2"
+    "name": "Amethite Dagger"
   },
   {
     "id": 9301,
-    "name": "Magmasteel Crossbow|meta|charging3"
+    "name": "Amethite Boomerang"
   },
   {
     "id": 9302,
-    "name": "Magmasteel Crossbow|meta|charging4"
+    "name": "Amethite Club"
   },
   {
     "id": 9303,
-    "name": "Magmasteel Crossbow Charged"
+    "name": "Amethite Mace"
   },
   {
     "id": 9304,
-    "name": "Magmasteel Spear"
+    "name": "Amethite Whip"
   },
   {
     "id": 9305,
-    "name": "Magmasteel Dagger"
+    "name": "Magmasteel"
   },
   {
     "id": 9306,
-    "name": "Magmasteel Boomerang"
+    "name": "Magmasteel Fragment"
   },
   {
     "id": 9307,
-    "name": "Magmasteel Club"
+    "name": "Magmasteel Pickaxe"
   },
   {
     "id": 9308,
-    "name": "Magmasteel Mace"
+    "name": "Magmasteel Axe"
   },
   {
     "id": 9309,
-    "name": "Magmasteel Whip"
+    "name": "Magmasteel Spade"
   },
   {
     "id": 9310,
-    "name": "Rubellite"
+    "name": "Magmasteel Sword"
   },
   {
     "id": 9311,
-    "name": "Rubellite Fragment"
+    "name": "Magmasteel Hoe"
   },
   {
     "id": 9312,
-    "name": "Rubellite Pickaxe"
+    "name": "Magmasteel Helmet"
   },
   {
     "id": 9313,
-    "name": "Rubellite Axe"
+    "name": "Magmasteel Chestplate"
   },
   {
     "id": 9314,
-    "name": "Rubellite Spade"
+    "name": "Magmasteel Leggings"
   },
   {
     "id": 9315,
-    "name": "Rubellite Sword"
+    "name": "Magmasteel Boots"
   },
   {
     "id": 9316,
-    "name": "Rubellite Hoe"
+    "name": "Magmasteel Gauntlets"
   },
   {
     "id": 9317,
-    "name": "Rubellite Helmet"
+    "name": "Magmasteel Bow"
   },
   {
     "id": 9318,
-    "name": "Rubellite Chestplate"
+    "name": "Magmasteel Bow|meta|charging2"
   },
   {
     "id": 9319,
-    "name": "Rubellite Leggings"
+    "name": "Magmasteel Bow|meta|charging3"
   },
   {
     "id": 9320,
-    "name": "Rubellite Boots"
+    "name": "Magmasteel Bow|meta|charging4"
   },
   {
     "id": 9321,
-    "name": "Rubellite Gauntlets"
+    "name": "Magmasteel Crossbow"
   },
   {
     "id": 9322,
-    "name": "Rubellite Bow"
+    "name": "Magmasteel Crossbow|meta|charging2"
   },
   {
     "id": 9323,
-    "name": "Rubellite Bow|meta|charging2"
+    "name": "Magmasteel Crossbow|meta|charging3"
   },
   {
     "id": 9324,
-    "name": "Rubellite Bow|meta|charging3"
+    "name": "Magmasteel Crossbow|meta|charging4"
   },
   {
     "id": 9325,
-    "name": "Rubellite Bow|meta|charging4"
+    "name": "Magmasteel Crossbow Charged"
   },
   {
     "id": 9326,
-    "name": "Rubellite Crossbow"
+    "name": "Magmasteel Spear"
   },
   {
     "id": 9327,
-    "name": "Rubellite Crossbow|meta|charging2"
+    "name": "Magmasteel Dagger"
   },
   {
     "id": 9328,
-    "name": "Rubellite Crossbow|meta|charging3"
+    "name": "Magmasteel Boomerang"
   },
   {
     "id": 9329,
-    "name": "Rubellite Crossbow|meta|charging4"
+    "name": "Magmasteel Club"
   },
   {
     "id": 9330,
-    "name": "Rubellite Crossbow Charged"
+    "name": "Magmasteel Mace"
   },
   {
     "id": 9331,
-    "name": "Rubellite Spear"
+    "name": "Magmasteel Whip"
   },
   {
     "id": 9332,
-    "name": "Rubellite Dagger"
+    "name": "Rubellite"
   },
   {
     "id": 9333,
-    "name": "Rubellite Boomerang"
+    "name": "Rubellite Fragment"
   },
   {
     "id": 9334,
-    "name": "Rubellite Club"
+    "name": "Rubellite Pickaxe"
   },
   {
     "id": 9335,
-    "name": "Rubellite Mace"
+    "name": "Rubellite Axe"
   },
   {
     "id": 9336,
-    "name": "Rubellite Whip"
+    "name": "Rubellite Spade"
   },
   {
     "id": 9337,
-    "name": "Serpentite"
+    "name": "Rubellite Sword"
   },
   {
     "id": 9338,
-    "name": "Serpentite Fragment"
+    "name": "Rubellite Hoe"
   },
   {
     "id": 9339,
-    "name": "Serpentite Pickaxe"
+    "name": "Rubellite Helmet"
   },
   {
     "id": 9340,
-    "name": "Serpentite Axe"
+    "name": "Rubellite Chestplate"
   },
   {
     "id": 9341,
-    "name": "Serpentite Spade"
+    "name": "Rubellite Leggings"
   },
   {
     "id": 9342,
-    "name": "Serpentite Sword"
+    "name": "Rubellite Boots"
   },
   {
     "id": 9343,
-    "name": "Serpentite Hoe"
+    "name": "Rubellite Gauntlets"
   },
   {
     "id": 9344,
-    "name": "Serpentite Helmet"
+    "name": "Rubellite Bow"
   },
   {
     "id": 9345,
-    "name": "Serpentite Chestplate"
+    "name": "Rubellite Bow|meta|charging2"
   },
   {
     "id": 9346,
-    "name": "Serpentite Leggings"
+    "name": "Rubellite Bow|meta|charging3"
   },
   {
     "id": 9347,
-    "name": "Serpentite Boots"
+    "name": "Rubellite Bow|meta|charging4"
   },
   {
     "id": 9348,
-    "name": "Serpentite Gauntlets"
+    "name": "Rubellite Crossbow"
   },
   {
     "id": 9349,
-    "name": "Serpentite Bow"
+    "name": "Rubellite Crossbow|meta|charging2"
   },
   {
     "id": 9350,
-    "name": "Serpentite Bow|meta|charging2"
+    "name": "Rubellite Crossbow|meta|charging3"
   },
   {
     "id": 9351,
-    "name": "Serpentite Bow|meta|charging3"
+    "name": "Rubellite Crossbow|meta|charging4"
   },
   {
     "id": 9352,
-    "name": "Serpentite Bow|meta|charging4"
+    "name": "Rubellite Crossbow Charged"
   },
   {
     "id": 9353,
-    "name": "Serpentite Crossbow"
+    "name": "Rubellite Spear"
   },
   {
     "id": 9354,
-    "name": "Serpentite Crossbow|meta|charging2"
+    "name": "Rubellite Dagger"
   },
   {
     "id": 9355,
-    "name": "Serpentite Crossbow|meta|charging3"
+    "name": "Rubellite Boomerang"
   },
   {
     "id": 9356,
-    "name": "Serpentite Crossbow|meta|charging4"
+    "name": "Rubellite Club"
   },
   {
     "id": 9357,
-    "name": "Serpentite Crossbow Charged"
+    "name": "Rubellite Mace"
   },
   {
     "id": 9358,
-    "name": "Serpentite Spear"
+    "name": "Rubellite Whip"
   },
   {
     "id": 9359,
-    "name": "Serpentite Dagger"
+    "name": "Serpentite"
   },
   {
     "id": 9360,
-    "name": "Serpentite Boomerang"
+    "name": "Serpentite Fragment"
   },
   {
     "id": 9361,
-    "name": "Serpentite Club"
+    "name": "Serpentite Pickaxe"
   },
   {
     "id": 9362,
-    "name": "Serpentite Mace"
+    "name": "Serpentite Axe"
   },
   {
     "id": 9363,
-    "name": "Serpentite Whip"
+    "name": "Serpentite Spade"
   },
   {
     "id": 9364,
-    "name": "Cursemetal Helmet"
+    "name": "Serpentite Sword"
   },
   {
     "id": 9365,
-    "name": "Cursemetal Chestplate"
+    "name": "Serpentite Hoe"
   },
   {
     "id": 9366,
-    "name": "Cursemetal Gauntlets"
+    "name": "Serpentite Helmet"
   },
   {
     "id": 9367,
-    "name": "Cursemetal Leggings"
+    "name": "Serpentite Chestplate"
   },
   {
     "id": 9368,
-    "name": "Cursemetal Boots"
+    "name": "Serpentite Leggings"
   },
   {
     "id": 9369,
-    "name": "Kingly Amethite Helmet"
+    "name": "Serpentite Boots"
   },
   {
     "id": 9370,
-    "name": "Kingly Amethite Chestplate"
+    "name": "Serpentite Gauntlets"
   },
   {
     "id": 9371,
-    "name": "Kingly Amethite Gauntlets"
+    "name": "Serpentite Bow"
   },
   {
     "id": 9372,
-    "name": "Kingly Amethite Leggings"
+    "name": "Serpentite Bow|meta|charging2"
   },
   {
     "id": 9373,
-    "name": "Kingly Amethite Boots"
+    "name": "Serpentite Bow|meta|charging3"
   },
   {
     "id": 9374,
-    "name": "Kingly Diamond Helmet"
+    "name": "Serpentite Bow|meta|charging4"
   },
   {
     "id": 9375,
-    "name": "Kingly Diamond Chestplate"
+    "name": "Serpentite Crossbow"
   },
   {
     "id": 9376,
-    "name": "Kingly Diamond Gauntlets"
+    "name": "Serpentite Crossbow|meta|charging2"
   },
   {
     "id": 9377,
-    "name": "Kingly Diamond Leggings"
+    "name": "Serpentite Crossbow|meta|charging3"
   },
   {
     "id": 9378,
-    "name": "Kingly Diamond Boots"
+    "name": "Serpentite Crossbow|meta|charging4"
   },
   {
     "id": 9379,
-    "name": "Sanguine Shard"
+    "name": "Serpentite Crossbow Charged"
   },
   {
     "id": 9380,
-    "name": "Sanguine Sword"
+    "name": "Serpentite Spear"
   },
   {
     "id": 9381,
-    "name": "Sanguine Bow"
+    "name": "Serpentite Dagger"
   },
   {
     "id": 9382,
-    "name": "Sanguine Bow|meta|charging2"
+    "name": "Serpentite Boomerang"
   },
   {
     "id": 9383,
-    "name": "Sanguine Bow|meta|charging3"
+    "name": "Serpentite Club"
   },
   {
     "id": 9384,
-    "name": "Sanguine Bow|meta|charging4"
+    "name": "Serpentite Mace"
   },
   {
     "id": 9385,
-    "name": "Sanguine Crossbow"
+    "name": "Serpentite Whip"
   },
   {
     "id": 9386,
-    "name": "Sanguine Crossbow|meta|charging2"
+    "name": "Cursemetal Helmet"
   },
   {
     "id": 9387,
-    "name": "Sanguine Crossbow|meta|charging3"
+    "name": "Cursemetal Chestplate"
   },
   {
     "id": 9388,
-    "name": "Sanguine Crossbow|meta|charging4"
+    "name": "Cursemetal Gauntlets"
   },
   {
     "id": 9389,
-    "name": "Sanguine Crossbow Charged"
+    "name": "Cursemetal Leggings"
   },
   {
     "id": 9390,
-    "name": "Sanguine Spear"
+    "name": "Cursemetal Boots"
   },
   {
     "id": 9391,
-    "name": "Sanguine Dagger"
+    "name": "Kingly Amethite Helmet"
   },
   {
     "id": 9392,
-    "name": "Sanguine Club"
+    "name": "Kingly Amethite Chestplate"
   },
   {
     "id": 9393,
-    "name": "Sanguine Mace"
+    "name": "Kingly Amethite Gauntlets"
   },
   {
     "id": 9394,
-    "name": "Sanguine Whip"
+    "name": "Kingly Amethite Leggings"
   },
   {
     "id": 9395,
-    "name": "Sanguine Staff"
+    "name": "Kingly Amethite Boots"
   },
   {
     "id": 9396,
-    "name": "Sanguine Helmet"
+    "name": "Kingly Diamond Helmet"
   },
   {
     "id": 9397,
-    "name": "Sanguine Chestplate"
+    "name": "Kingly Diamond Chestplate"
   },
   {
     "id": 9398,
-    "name": "Sanguine Gauntlets"
+    "name": "Kingly Diamond Gauntlets"
   },
   {
     "id": 9399,
-    "name": "Sanguine Leggings"
+    "name": "Kingly Diamond Leggings"
   },
   {
     "id": 9400,
-    "name": "Sanguine Boots"
+    "name": "Kingly Diamond Boots"
   },
   {
     "id": 9401,
-    "name": "Spectral Shard"
+    "name": "Sanguine Shard"
   },
   {
     "id": 9402,
-    "name": "Spectral Sword"
+    "name": "Sanguine Sword"
   },
   {
     "id": 9403,
-    "name": "Spectral Bow"
+    "name": "Sanguine Bow"
   },
   {
     "id": 9404,
-    "name": "Spectral Bow|meta|charging2"
+    "name": "Sanguine Bow|meta|charging2"
   },
   {
     "id": 9405,
-    "name": "Spectral Bow|meta|charging3"
+    "name": "Sanguine Bow|meta|charging3"
   },
   {
     "id": 9406,
-    "name": "Spectral Bow|meta|charging4"
+    "name": "Sanguine Bow|meta|charging4"
   },
   {
     "id": 9407,
-    "name": "Spectral Crossbow"
+    "name": "Sanguine Crossbow"
   },
   {
     "id": 9408,
-    "name": "Spectral Crossbow|meta|charging2"
+    "name": "Sanguine Crossbow|meta|charging2"
   },
   {
     "id": 9409,
-    "name": "Spectral Crossbow|meta|charging3"
+    "name": "Sanguine Crossbow|meta|charging3"
   },
   {
     "id": 9410,
-    "name": "Spectral Crossbow|meta|charging4"
+    "name": "Sanguine Crossbow|meta|charging4"
   },
   {
     "id": 9411,
-    "name": "Spectral Crossbow Charged"
+    "name": "Sanguine Crossbow Charged"
   },
   {
     "id": 9412,
-    "name": "Spectral Spear"
+    "name": "Sanguine Spear"
   },
   {
     "id": 9413,
-    "name": "Spectral Dagger"
+    "name": "Sanguine Dagger"
   },
   {
     "id": 9414,
-    "name": "Spectral Club"
+    "name": "Sanguine Club"
   },
   {
     "id": 9415,
-    "name": "Spectral Mace"
+    "name": "Sanguine Mace"
   },
   {
     "id": 9416,
-    "name": "Spectral Whip"
+    "name": "Sanguine Whip"
   },
   {
     "id": 9417,
-    "name": "Spectral Staff"
+    "name": "Sanguine Staff"
   },
   {
     "id": 9418,
-    "name": "Spectral Helmet"
+    "name": "Sanguine Helmet"
   },
   {
     "id": 9419,
-    "name": "Spectral Chestplate"
+    "name": "Sanguine Chestplate"
   },
   {
     "id": 9420,
-    "name": "Spectral Gauntlets"
+    "name": "Sanguine Gauntlets"
   },
   {
     "id": 9421,
-    "name": "Spectral Leggings"
+    "name": "Sanguine Leggings"
   },
   {
     "id": 9422,
-    "name": "Spectral Boots"
+    "name": "Sanguine Boots"
   },
   {
     "id": 9423,
-    "name": "Geo Shard"
+    "name": "Spectral Shard"
   },
   {
     "id": 9424,
-    "name": "Geo Sword"
+    "name": "Spectral Sword"
   },
   {
     "id": 9425,
-    "name": "Geo Bow"
+    "name": "Spectral Bow"
   },
   {
     "id": 9426,
-    "name": "Geo Bow|meta|charging2"
+    "name": "Spectral Bow|meta|charging2"
   },
   {
     "id": 9427,
-    "name": "Geo Bow|meta|charging3"
+    "name": "Spectral Bow|meta|charging3"
   },
   {
     "id": 9428,
-    "name": "Geo Bow|meta|charging4"
+    "name": "Spectral Bow|meta|charging4"
   },
   {
     "id": 9429,
-    "name": "Geo Crossbow"
+    "name": "Spectral Crossbow"
   },
   {
     "id": 9430,
-    "name": "Geo Crossbow|meta|charging2"
+    "name": "Spectral Crossbow|meta|charging2"
   },
   {
     "id": 9431,
-    "name": "Geo Crossbow|meta|charging3"
+    "name": "Spectral Crossbow|meta|charging3"
   },
   {
     "id": 9432,
-    "name": "Geo Crossbow|meta|charging4"
+    "name": "Spectral Crossbow|meta|charging4"
   },
   {
     "id": 9433,
-    "name": "Geo Crossbow Charged"
+    "name": "Spectral Crossbow Charged"
   },
   {
     "id": 9434,
-    "name": "Geo Spear"
+    "name": "Spectral Spear"
   },
   {
     "id": 9435,
-    "name": "Geo Dagger"
+    "name": "Spectral Dagger"
   },
   {
     "id": 9436,
-    "name": "Geo Club"
+    "name": "Spectral Club"
   },
   {
     "id": 9437,
-    "name": "Geo Mace"
+    "name": "Spectral Mace"
   },
   {
     "id": 9438,
-    "name": "Geo Whip"
+    "name": "Spectral Whip"
   },
   {
     "id": 9439,
-    "name": "Geo Staff"
+    "name": "Spectral Staff"
   },
   {
     "id": 9440,
-    "name": "Geo Helmet"
+    "name": "Spectral Helmet"
   },
   {
     "id": 9441,
-    "name": "Geo Chestplate"
+    "name": "Spectral Chestplate"
   },
   {
     "id": 9442,
-    "name": "Geo Gauntlets"
+    "name": "Spectral Gauntlets"
   },
   {
     "id": 9443,
-    "name": "Geo Leggings"
+    "name": "Spectral Leggings"
   },
   {
     "id": 9444,
-    "name": "Geo Boots"
+    "name": "Spectral Boots"
   },
   {
     "id": 9445,
-    "name": "Astral Shard"
+    "name": "Geo Shard"
   },
   {
     "id": 9446,
-    "name": "Astral Sword"
+    "name": "Geo Sword"
   },
   {
     "id": 9447,
-    "name": "Astral Bow"
+    "name": "Geo Bow"
   },
   {
     "id": 9448,
-    "name": "Astral Bow|meta|charging2"
+    "name": "Geo Bow|meta|charging2"
   },
   {
     "id": 9449,
-    "name": "Astral Bow|meta|charging3"
+    "name": "Geo Bow|meta|charging3"
   },
   {
     "id": 9450,
-    "name": "Astral Bow|meta|charging4"
+    "name": "Geo Bow|meta|charging4"
   },
   {
     "id": 9451,
-    "name": "Astral Crossbow"
+    "name": "Geo Crossbow"
   },
   {
     "id": 9452,
-    "name": "Astral Crossbow|meta|charging2"
+    "name": "Geo Crossbow|meta|charging2"
   },
   {
     "id": 9453,
-    "name": "Astral Crossbow|meta|charging3"
+    "name": "Geo Crossbow|meta|charging3"
   },
   {
     "id": 9454,
-    "name": "Astral Crossbow|meta|charging4"
+    "name": "Geo Crossbow|meta|charging4"
   },
   {
     "id": 9455,
-    "name": "Astral Crossbow Charged"
+    "name": "Geo Crossbow Charged"
   },
   {
     "id": 9456,
-    "name": "Astral Spear"
+    "name": "Geo Spear"
   },
   {
     "id": 9457,
-    "name": "Astral Dagger"
+    "name": "Geo Dagger"
   },
   {
     "id": 9458,
-    "name": "Astral Club"
+    "name": "Geo Club"
   },
   {
     "id": 9459,
-    "name": "Astral Mace"
+    "name": "Geo Mace"
   },
   {
     "id": 9460,
-    "name": "Astral Whip"
+    "name": "Geo Whip"
   },
   {
     "id": 9461,
-    "name": "Astral Staff"
+    "name": "Geo Staff"
   },
   {
     "id": 9462,
-    "name": "Astral Helmet"
+    "name": "Geo Helmet"
   },
   {
     "id": 9463,
-    "name": "Astral Chestplate"
+    "name": "Geo Chestplate"
   },
   {
     "id": 9464,
-    "name": "Astral Gauntlets"
+    "name": "Geo Gauntlets"
   },
   {
     "id": 9465,
-    "name": "Astral Leggings"
+    "name": "Geo Leggings"
   },
   {
     "id": 9466,
-    "name": "Astral Boots"
+    "name": "Geo Boots"
   },
   {
     "id": 9467,
-    "name": "Wooden Key"
+    "name": "Astral Shard"
   },
   {
     "id": 9468,
-    "name": "Stone Key"
+    "name": "Astral Sword"
   },
   {
     "id": 9469,
-    "name": "Iron Key"
+    "name": "Astral Bow"
   },
   {
     "id": 9470,
-    "name": "Gold Key"
+    "name": "Astral Bow|meta|charging2"
   },
   {
     "id": 9471,
-    "name": "Diamond Key"
+    "name": "Astral Bow|meta|charging3"
   },
   {
     "id": 9472,
-    "name": "Cracked Rubellite Pickaxe"
+    "name": "Astral Bow|meta|charging4"
   },
   {
     "id": 9473,
-    "name": "Goldheart Engine"
+    "name": "Astral Crossbow"
   },
   {
     "id": 9474,
-    "name": "Deepbite Drill Tip"
+    "name": "Astral Crossbow|meta|charging2"
   },
   {
     "id": 9475,
-    "name": "Empty Fuel Cell"
+    "name": "Astral Crossbow|meta|charging3"
   },
   {
     "id": 9476,
-    "name": "Blackfire Fuel Cell"
+    "name": "Astral Crossbow|meta|charging4"
   },
   {
     "id": 9477,
-    "name": "Raw Copper"
+    "name": "Astral Crossbow Charged"
   },
   {
     "id": 9478,
-    "name": "Copper Bar"
+    "name": "Astral Spear"
   },
   {
     "id": 9479,
-    "name": "Iron Grit"
+    "name": "Astral Dagger"
   },
   {
     "id": 9480,
-    "name": "Gold Grit"
+    "name": "Astral Club"
   },
   {
     "id": 9481,
-    "name": "Copper Grit"
+    "name": "Astral Mace"
   },
   {
     "id": 9482,
-    "name": "Charcoal"
+    "name": "Astral Whip"
   },
   {
     "id": 9483,
-    "name": "Recall Beacon"
+    "name": "Astral Staff"
   },
   {
     "id": 9484,
-    "name": "Iron Hammer"
+    "name": "Astral Helmet"
   },
   {
     "id": 9485,
-    "name": "Iron Plate"
+    "name": "Astral Chestplate"
   },
   {
     "id": 9486,
-    "name": "Copper Wire"
+    "name": "Astral Gauntlets"
   },
   {
     "id": 9487,
-    "name": "Motor"
+    "name": "Astral Leggings"
   },
   {
     "id": 9488,
-    "name": "Machine Parts"
+    "name": "Astral Boots"
   },
   {
     "id": 9489,
-    "name": "Relay Coil"
+    "name": "Wooden Key"
   },
   {
     "id": 9490,
-    "name": "Deposit Seed (Copper)"
+    "name": "Stone Key"
   },
   {
     "id": 9491,
-    "name": "Deposit Seed (Gold)"
+    "name": "Iron Key"
   },
   {
     "id": 9492,
-    "name": "Deposit Seed (Voltite)"
+    "name": "Gold Key"
   },
   {
     "id": 9493,
-    "name": "Deposit Seed (Coal)"
+    "name": "Diamond Key"
   },
   {
     "id": 9494,
-    "name": "Deposit Seed (Iron)"
+    "name": "Cracked Rubellite Pickaxe"
   },
   {
     "id": 9495,
-    "name": "Deposit Seed (Stone)"
+    "name": "Goldheart Engine"
   },
   {
     "id": 9496,
-    "name": "Steel Bar"
+    "name": "Deepbite Drill Tip"
   },
   {
     "id": 9497,
-    "name": "Gold Plate"
+    "name": "Empty Fuel Cell"
   },
   {
     "id": 9498,
-    "name": "Logic Board"
+    "name": "Blackfire Fuel Cell"
   },
   {
     "id": 9499,
-    "name": "Machine Hull"
+    "name": "Doom Rivet"
   },
   {
     "id": 9500,
-    "name": "Raw Voltite"
+    "name": "Doom Crest"
   },
   {
     "id": 9501,
-    "name": "Power Coupler"
+    "name": "Raw Copper"
   },
   {
     "id": 9502,
-    "name": "Ore Lens"
+    "name": "Copper Bar"
   },
   {
     "id": 9503,
-    "name": "Homing Beacon"
+    "name": "Iron Grit"
   },
   {
     "id": 9504,
-    "name": "Pull Charm"
+    "name": "Gold Grit"
   },
   {
     "id": 9505,
-    "name": "Vein Breaker"
+    "name": "Copper Grit"
   },
   {
     "id": 9506,
-    "name": "Voltite Dust"
+    "name": "Charcoal"
   },
   {
     "id": 9507,
-    "name": "Voltite Cell"
+    "name": "Recall Beacon"
   },
   {
     "id": 9508,
-    "name": "Sky Pack"
+    "name": "Iron Hammer"
   },
   {
     "id": 9509,
-    "name": "Dusk Moss"
+    "name": "Iron Plate"
   },
   {
     "id": 9510,
-    "name": "Star Alloy"
+    "name": "Copper Wire"
   },
   {
     "id": 9511,
-    "name": "Moonstone Dust"
+    "name": "Motor"
   },
   {
     "id": 9512,
-    "name": "Comet Shard"
+    "name": "Machine Parts"
   },
   {
     "id": 9513,
-    "name": "Comet Core"
+    "name": "Relay Coil"
   },
   {
     "id": 9514,
-    "name": "Starbore Drill"
+    "name": "Deposit Seed (Copper)"
   },
   {
     "id": 9515,
-    "name": "Core Tier 2"
+    "name": "Deposit Seed (Gold)"
   },
   {
     "id": 9516,
-    "name": "Core Tier 3"
+    "name": "Deposit Seed (Voltite)"
   },
   {
     "id": 9517,
-    "name": "Core Tier 4"
+    "name": "Deposit Seed (Coal)"
   },
   {
     "id": 9518,
-    "name": "Core Tier 5"
+    "name": "Deposit Seed (Iron)"
   },
   {
     "id": 9519,
-    "name": "Core Tier 6"
+    "name": "Deposit Seed (Stone)"
   },
   {
     "id": 9520,
-    "name": "Core Tier 7"
+    "name": "Steel Bar"
   },
   {
     "id": 9521,
-    "name": "Core Tier 8"
+    "name": "Gold Plate"
   },
   {
     "id": 9522,
-    "name": "Core Tier 9"
+    "name": "Logic Board"
   },
   {
     "id": 9523,
-    "name": "Core Tier 10"
+    "name": "Machine Hull"
   },
   {
     "id": 9524,
-    "name": "Arc Caster"
+    "name": "Raw Voltite"
   },
   {
     "id": 9525,
-    "name": "Voltplate Helmet"
+    "name": "Power Coupler"
   },
   {
     "id": 9526,
-    "name": "Voltplate Chestplate"
+    "name": "Ore Lens"
   },
   {
     "id": 9527,
-    "name": "Voltplate Gauntlets"
+    "name": "Homing Beacon"
   },
   {
     "id": 9528,
-    "name": "Voltplate Leggings"
+    "name": "Pull Charm"
   },
   {
     "id": 9529,
+    "name": "Vein Breaker"
+  },
+  {
+    "id": 9530,
+    "name": "Voltite Dust"
+  },
+  {
+    "id": 9531,
+    "name": "Voltite Cell"
+  },
+  {
+    "id": 9532,
+    "name": "Sky Pack"
+  },
+  {
+    "id": 9533,
+    "name": "Dusk Moss"
+  },
+  {
+    "id": 9534,
+    "name": "Star Alloy"
+  },
+  {
+    "id": 9535,
+    "name": "Moonstone Dust"
+  },
+  {
+    "id": 9536,
+    "name": "Comet Shard"
+  },
+  {
+    "id": 9537,
+    "name": "Comet Core"
+  },
+  {
+    "id": 9538,
+    "name": "Starbore Drill"
+  },
+  {
+    "id": 9539,
+    "name": "Core Tier 2"
+  },
+  {
+    "id": 9540,
+    "name": "Core Tier 3"
+  },
+  {
+    "id": 9541,
+    "name": "Core Tier 4"
+  },
+  {
+    "id": 9542,
+    "name": "Core Tier 5"
+  },
+  {
+    "id": 9543,
+    "name": "Core Tier 6"
+  },
+  {
+    "id": 9544,
+    "name": "Core Tier 7"
+  },
+  {
+    "id": 9545,
+    "name": "Core Tier 8"
+  },
+  {
+    "id": 9546,
+    "name": "Core Tier 9"
+  },
+  {
+    "id": 9547,
+    "name": "Core Tier 10"
+  },
+  {
+    "id": 9548,
+    "name": "Arc Caster"
+  },
+  {
+    "id": 9549,
+    "name": "Voltplate Helmet"
+  },
+  {
+    "id": 9550,
+    "name": "Voltplate Chestplate"
+  },
+  {
+    "id": 9551,
+    "name": "Voltplate Gauntlets"
+  },
+  {
+    "id": 9552,
+    "name": "Voltplate Leggings"
+  },
+  {
+    "id": 9553,
     "name": "Voltplate Boots"
+  },
+  {
+    "id": 9554,
+    "name": "Wood Blade"
+  },
+  {
+    "id": 9555,
+    "name": "Wood Guard"
+  },
+  {
+    "id": 9556,
+    "name": "Wood Handle"
+  },
+  {
+    "id": 9557,
+    "name": "Stone Blade"
+  },
+  {
+    "id": 9558,
+    "name": "Stone Guard"
+  },
+  {
+    "id": 9559,
+    "name": "Stone Handle"
+  },
+  {
+    "id": 9560,
+    "name": "Iron Blade"
+  },
+  {
+    "id": 9561,
+    "name": "Iron Guard"
+  },
+  {
+    "id": 9562,
+    "name": "Iron Handle"
+  },
+  {
+    "id": 9563,
+    "name": "Gold Blade"
+  },
+  {
+    "id": 9564,
+    "name": "Gold Guard"
+  },
+  {
+    "id": 9565,
+    "name": "Gold Handle"
+  },
+  {
+    "id": 9566,
+    "name": "Diamond Blade"
+  },
+  {
+    "id": 9567,
+    "name": "Diamond Guard"
+  },
+  {
+    "id": 9568,
+    "name": "Diamond Handle"
+  },
+  {
+    "id": 9569,
+    "name": "Moonstone Blade"
+  },
+  {
+    "id": 9570,
+    "name": "Moonstone Guard"
+  },
+  {
+    "id": 9571,
+    "name": "Moonstone Handle"
+  },
+  {
+    "id": 9572,
+    "name": "Magmasteel Blade"
+  },
+  {
+    "id": 9573,
+    "name": "Magmasteel Guard"
+  },
+  {
+    "id": 9574,
+    "name": "Magmasteel Handle"
+  },
+  {
+    "id": 9575,
+    "name": "Sanguine Blade"
+  },
+  {
+    "id": 9576,
+    "name": "Sanguine Guard"
+  },
+  {
+    "id": 9577,
+    "name": "Sanguine Handle"
+  },
+  {
+    "id": 9578,
+    "name": "Astral Blade"
+  },
+  {
+    "id": 9579,
+    "name": "Astral Guard"
+  },
+  {
+    "id": 9580,
+    "name": "Astral Handle"
+  },
+  {
+    "id": 9581,
+    "name": "Moonstone Sword"
+  },
+  {
+    "id": 9582,
+    "name": "Magmaward Fuel"
   }
 ]

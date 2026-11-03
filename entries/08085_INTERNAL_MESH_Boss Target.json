@@ -1,0 +1,14 @@
+{
+  "id": 8085,
+  "name": "INTERNAL_MESH_Boss Target",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "unlitStandaloneMesh": true,
+  "stackable": true,
+  "blockModel": "boss_target",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9572,
+  "name": "Magmasteel Blade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:magmasteelBlade",
+    "text": "Magmasteel Blade"
+  },
+  "description": {
+    "key": "item:swordBladeDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "magmasteel_blade",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

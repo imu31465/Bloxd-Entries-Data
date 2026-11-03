@@ -1,0 +1,18 @@
+{
+  "id": 8090,
+  "name": "INTERNAL_MESH_Mortar",
+  "kind": "block",
+  "ttb": 2000,
+  "harvestType": "rock",
+  "drops": null,
+  "modelScale": 1,
+  "meshEntityBones": [
+    "Cannon",
+    "LeftArm",
+    "RightArm"
+  ],
+  "stackable": true,
+  "blockModel": "mortar_goblin",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

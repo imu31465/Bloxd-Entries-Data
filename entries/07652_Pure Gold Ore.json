@@ -10,7 +10,7 @@
   "textureInfo": "pure_gold_ore",
   "harvestType": "rock",
   "drops": "Raw Gold",
-  "RD": 9,
+  "XJ": 9,
   "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "zD": [
+  "KJ": [
     6,
     6,
     0

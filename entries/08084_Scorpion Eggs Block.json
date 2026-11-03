@@ -1,0 +1,18 @@
+{
+  "id": 8084,
+  "name": "Scorpion Eggs Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:scorpionEggsBlock",
+    "text": "Scorpion Eggs Block"
+  },
+  "ttb": 600,
+  "textureInfo": "scorpion_eggs",
+  "harvestType": "cuttable",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "atlasIdx": 1219,
+  "stackable": true
+}

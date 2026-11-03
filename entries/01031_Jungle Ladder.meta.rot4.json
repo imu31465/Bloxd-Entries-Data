@@ -11,7 +11,7 @@
   "model": "rotatableOffset",
   "itemTexture": "ladder_jungle",
   "solid": false,
-  "DD": [
+  "tK": [
     0.75,
     0,
     0,

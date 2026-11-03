@@ -8,7 +8,7 @@
   "itemTexture": "slime_trail",
   "drops": null,
   "solid": false,
-  "DD": [
+  "tK": [
     0,
     0,
     0,
@@ -47,7 +47,7 @@
     "unlit": true,
     "yRotOffset": -1.5707963267948966
   },
-  "zD": [
+  "KJ": [
     14,
     8,
     11

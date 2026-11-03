@@ -10,7 +10,7 @@
   "textureInfo": "pure_voltite_ore",
   "harvestType": "rock",
   "drops": "Raw Voltite",
-  "RD": 9,
+  "XJ": 9,
   "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "zD": [
+  "KJ": [
     2,
     6,
     6
