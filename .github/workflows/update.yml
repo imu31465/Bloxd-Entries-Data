@@ -1,0 +1,137 @@
+# Keeps the extracted Bloxd.io data in sync with the live game.
+# Runs node update.js every ~5 minutes:
+#   - bundle unchanged (update-state.json) -> exits immediately, no commit
+#   - bundle changed -> re-extracts, updates CHANGES.md / entries / README / update-state.json,
+#     commits with the new bundle hash and (optionally) notifies a Discord webhook.
+# Note: GitHub heavily rate-limits/delays high-frequency crons; manual runs can be
+# triggered from the Actions tab ("Run workflow").
+name: Update Bloxd data
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bloxd-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run update.js
+        run: node update.js
+        env:
+          BLOXD_UPDATE_OUT: ${{ runner.temp }}/bloxd-update-summary.json
+
+      - name: Commit and push
+        id: push
+        env:
+          BLOXD_SUMMARY: ${{ runner.temp }}/bloxd-update-summary.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to commit"
+            echo "did_commit=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          HASH=$(node -p "JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')).bundle.hash8 || 'unknown'")
+          CHANGED=$(node -p "const s = JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')); (s.firstRun || s.added || s.removed || s.idChanged) ? '1' : '0'")
+
+          git add -A
+          if [ "$CHANGED" = "1" ]; then
+            git commit -m "Update Bloxd entries data (bundle $HASH)"
+          else
+            git commit -m "Bundle check: entries unchanged (bundle $HASH)"
+          fi
+
+          git push origin main
+          echo "did_commit=true" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Notify Discord (update shipped)
+        if: success() && steps.push.outputs.did_commit == 'true'
+        env:
+          BLOXD_SUMMARY: ${{ runner.temp }}/bloxd-update-summary.json
+          COMMIT_SHA: ${{ steps.push.outputs.commit_sha }}
+          REPO: ${{ github.repository }}
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          PAYLOAD: ${{ runner.temp }}/bloxd-payload.json
+        run: |
+          node -e '
+            const fs = require("fs");
+            const s = JSON.parse(fs.readFileSync(process.env.BLOXD_SUMMARY, "utf8"));
+            const b = s.bundle || {};
+            const hash = b.hash8 || "unknown";
+            const commitUrl = "https://github.com/" + process.env.REPO + "/commit/" + process.env.COMMIT_SHA
+            const bundleLink = b.url ? "[bundle](" + b.url + ")" : "bundle";
+            let title, desc, color = 0x57f287;
+            if (s.firstRun) {
+              title = "Bloxd data: first extraction (bundle " + hash + ")";
+              desc = "Entries: **" + s.nextCount + "**\n" + bundleLink;
+            } else if (s.added || s.removed || s.idChanged) {
+              title = "Bloxd entries updated — bundle " + hash;
+              desc = [
+                "Entries: **" + s.prevCount + " → " + s.nextCount + "**",
+                "Added: **" + s.added + "** / Removed: **" + s.removed + "** / ID changed: **" + s.idChanged + "**",
+                bundleLink + " · [commit](" + commitUrl + ")",
+              ].join("\n");
+            } else {
+              title = "Bundle " + hash + " — entries unchanged";
+              desc = [
+                "Entries: **still " + s.nextCount + "** (no added / removed / ID changes)",
+                bundleLink,
+              ].join("\n");
+              color = 0xfee75c;
+            }
+            const embed = { title, description: desc, color, url: commitUrl };
+            fs.writeFileSync(process.env.PAYLOAD, JSON.stringify({ username: "Bloxd Data Bot", embeds: [embed] }));
+          '
+          if [ -n "$WEBHOOK" ]; then
+            curl -sS --fail -H "Content-Type: application/json" -d @"$PAYLOAD" "$WEBHOOK" > /dev/null
+          else
+            echo "DISCORD_WEBHOOK_URL secret is not set; notification skipped"
+          fi
+
+      - name: Notify Discord (update failed)
+        if: failure()
+        env:
+          REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          PAYLOAD: ${{ runner.temp }}/bloxd-fail-payload.json
+        run: |
+          node -e '
+            const fs = require("fs");
+            const payload = {
+              username: "Bloxd Data Bot",
+              embeds: [{
+                title: "Bloxd data update FAILED",
+                description: "Last Actions run: [open](" + process.env.RUN_URL + ")",
+                color: 0xed4245,
+                url: process.env.RUN_URL,
+              }],
+            };
+            fs.writeFileSync(process.env.PAYLOAD, JSON.stringify(payload));
+          '
+          if [ -n "$WEBHOOK" ]; then
+            curl -sS --fail -H "Content-Type: application/json" -d @"$PAYLOAD" "$WEBHOOK" > /dev/null || true
+          else
+            echo "DISCORD_WEBHOOK_URL secret is not set; notification skipped"
+          fi

@@ -8,14 +8,18 @@ IDs and properties therefore match the live game (verified against the hardcoded
 
 ## Updating
 
-This repository publishes the extracted data only; the extraction script is not included.
-Each update re-extracts the registries from the current bloxd.io main bundle and records the diff in CHANGES.md.
+bloxd.io's main bundle is checked automatically by a GitHub Action (`.github/workflows/update.yml`) roughly every 5 minutes.
+A run compares the bundle URL (its file name embeds a content hash) with `update-state.json`; if it changed, the data is
+re-extracted and the diff is written to CHANGES.md. A run notes it in CHANGES.md even when the bundle changed but no entries did.
+The extraction script `update.js` is included at the repository root (single file, zero dependencies, Node >= 18).
+Run it manually with `node update.js`, `--force` (re-extract even if unchanged), or `--skip-fetch` (no network).
 
 ## Layout
 
 - CHANGES.md : diff produced by the most recent update (added / removed / ID changes)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; `kind` distinguishes block/item)
+- update-state.json : internal state for the automatic update (bundle URL/hash of the last extraction)
 
 State variants (orientation, open/closed, growth, charge, etc.) live in the same folder.
 File names take the form `00165_Furnace.meta.rot2.json` (`|` in the original name replaced with `.`).
