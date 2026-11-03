@@ -1,8 +1,8 @@
 {
   "lastBundle": {
-    "file": "/static/js/ab90qa.main.6188124c.js",
-    "url": "https://bloxd.io/static/js/ab90qa.main.6188124c.js",
-    "sha256": null
+    "file": "/static/js/xkg8x.main.641a7732.js",
+    "url": "https://bloxd.io/static/js/xkg8x.main.641a7732.js",
+    "sha256": "c59e9500a5720f17474efd254d5666d953cad16e437561a80d3b2808c266471a"
   },
   "lastDiff": {
     "prevCount": 9530,
@@ -11,5 +11,5 @@
     "removed": 0,
     "idChanged": 1447
   },
-  "lastRunAt": "2026-11-03T02:21:42.512Z"
+  "lastRunAt": "2026-11-03T19:03:27.214Z"
 }

@@ -52,7 +52,7 @@ jobs:
           fi
 
           HASH=$(node -p "JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')).bundle.hash8 || 'unknown'")
-          CHANGED=$(node -p "const s = JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')); (s.firstRun || s.added || s.removed || s.idChanged) ? '1' : '0'")
+          CHANGED=$(node -p "const s = JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')); (s.firstRun || s.added || s.removed || s.idChanged || s.entryFilesChanged) ? '1' : '0'")
 
           git add -A
           if [ "$CHANGED" = "1" ]; then
@@ -92,6 +92,14 @@ jobs:
                 "Added: **" + s.added + "** / Removed: **" + s.removed + "** / ID changed: **" + s.idChanged + "**",
                 bundleLink + " · [commit](" + commitUrl + ")",
               ].join("\n");
+            } else if (s.entryFilesChanged) {
+              title = "Bundle " + hash + " — property updates";
+              desc = [
+                "Entries: **still " + s.nextCount + "** (names and IDs unchanged)",
+                "Entry files with property changes: **" + s.entryFilesChanged + "**",
+                bundleLink,
+              ].join("\n");
+              color = 0xfee75c;
             } else {
               title = "Bundle " + hash + " — entries unchanged";
               desc = [

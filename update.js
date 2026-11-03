@@ -8,9 +8,11 @@
 //
 // How it works:
 //   1. Detect the main bundle URL from the bloxd.io HTML (the filename contains a content hash)
-//   2. Execute the registry-building code inside the bundle on the same V8 the game uses
+//   2. If the build is code-split (webpack 5), also download the async chunks declared by
+//      the main bundle and merge their module tables into the main one
+//   3. Execute the registry-building code inside the bundle on the same V8 the game uses
 //      (the webpack runtime is reproduced on Node; both are V8, so results match the live game)
-//   3. Write to a temp folder (.update_tmp) -> verify -> swap in
+//   4. Write to a temp folder (.update_tmp) -> verify -> swap in
 //      (a mid-run failure cannot corrupt the existing data in this folder)
 //
 // Files updated (inside this folder):
@@ -30,6 +32,7 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 const crypto = require('crypto');
+const { pathToFileURL } = require('url');
 
 const OUT = __dirname; // bloxd_data folder containing this script
 const STAGING = path.join(OUT, '.update_tmp');
@@ -134,7 +137,9 @@ async function fetchLatestBundle() {
   const state = readState();
   if (state.lastBundleUrl === url && fs.existsSync(SRC_PATH)) {
     logSub('Bundle is new for this repo, but already cached locally');
-    return { changed: true, url, file: rel, sha256: state.lastSha256 || null };
+    const chunkMap = findChunkMap(fs.readFileSync(SRC_PATH, 'utf8'));
+    const chunkFiles = chunkMap ? await downloadChunkFiles(chunkMap) : [];
+    return { changed: true, url, file: rel, sha256: state.lastSha256 || null, chunkFiles };
   }
 
   logSub('Downloading ...');
@@ -150,12 +155,17 @@ async function fetchLatestBundle() {
     bytes: buf.length,
   });
   logSub(`Saved: ${(buf.length / 1e6).toFixed(1)} MB / sha256 ${sha256.slice(0, 16)}...`);
-  return { changed: true, url, file: rel, sha256, bytes: buf.length };
+  const chunkMap = findChunkMap(buf.toString('utf8'));
+  const chunkFiles = chunkMap ? await downloadChunkFiles(chunkMap) : [];
+  return { changed: true, url, file: rel, sha256, bytes: buf.length, chunkFiles };
 }
 
 // ============================================================================
 // 2. Browser global stubs (harness to run the bundle on Node)
 // ============================================================================
+// NOTE: the harness only reproduces the webpack module system; async chunks are
+// merged into the module table beforehand (see loadModuleTable), so chunk
+// requests are stubbed and never hit the network during extraction.
 function installBrowserStubs() {
   function addProp(obj, name, getter) {
     Object.defineProperty(obj, name, { get: getter, configurable: true });
@@ -263,34 +273,166 @@ function installBrowserStubs() {
 //   - Module array bounds are detected with a regex (independent of minified names)
 //   - The registry is identified by "content" (instances with name+id), not by export key names
 // ============================================================================
-function findModuleArrayBounds(source) {
-  const startRe = /\(\(\)=>\{var ([A-Za-z_$][\w$]*)=\[/g;
-  let sm;
-  while ((sm = startRe.exec(source))) {
-    const arrStart = sm.index + sm[0].length - 1; // position of '['
-    const endRe = /\],([A-Za-z_$][\w$]*)=\{\};function ([A-Za-z_$][\w$]*)\(/g;
-    endRe.lastIndex = arrStart;
-    let em;
-    while ((em = endRe.exec(source))) {
-      const arrEnd = em.index + 1; // include the closing ']'
+function objectifyModules(arr) {
+  const obj = Object.create(null);
+  for (let i = 0; i < arr.length; i++) if (typeof arr[i] === 'function') obj[i] = arr[i];
+  return obj;
+}
+
+// Detects the webpack module table in both known shapes:
+//   1. classic single-bundle ARRAY:  (()=>{var X=[fn,fn,...],Y={};function Z(
+//   2. webpack 5 OBJECT module map:  (()=>{var X={1476:(a,b,c)=>{...},...},Y={};function Z(
+// Returns { modules } as a plain id -> function object (ids as keys).
+function findModuleMapBounds(source) {
+  // ---- form 1: module array (old monolithic bundles) ----
+  const startRe1 = /\(\(\)=>\{var ([A-Za-z_$][\w$]*)=\[/g;
+  let sm1;
+  while ((sm1 = startRe1.exec(source))) {
+    const arrStart = sm1.index + sm1[0].length - 1; // position of '['
+    const endRe1 = /\],([A-Za-z_$][\w$]*)=\{\};function ([A-Za-z_$][\w$]*)\(/g;
+    endRe1.lastIndex = arrStart;
+    let em1;
+    while ((em1 = endRe1.exec(source))) {
+      const arrEnd = em1.index + 1; // include the closing ']'
       const arrSrc = source.slice(arrStart, arrEnd);
       try {
         const arr = new Function('return ' + arrSrc)();
         if (Array.isArray(arr) && arr.length > 500) {
-          return { arrStart, arrEnd, modules: arr, length: arr.length };
+          return { modules: objectifyModules(arr), form: 'array' };
         }
       } catch (_) { /* false boundary inside a module body -> try the next one */ }
+    }
+  }
+  // ---- form 2: module object (webpack 5 code-split builds) ----
+  const startRe2 = /\(\(\)=>\{var ([A-Za-z_$][\w$]*)=\{(?=(\d+):)/g;
+  let sm2;
+  while ((sm2 = startRe2.exec(source))) {
+    const mapStart = sm2.index + sm2[0].length - 1; // position of '{'
+    const firstId = sm2[2];
+    const endRe2 = /\},([A-Za-z_$][\w$]*)=/g;
+    endRe2.lastIndex = mapStart;
+    let em2, tried = 0;
+    while ((em2 = endRe2.exec(source))) {
+      if (++tried > 20000) break;
+      const mapEnd = em2.index + 1; // include the closing '}'
+      const mapSrc = source.slice(mapStart, mapEnd);
+      try {
+        const map = new Function('return (' + mapSrc + ')')();
+        const keys = Object.keys(map);
+        if (keys.length > 100 && keys.every((k) => typeof map[k] === 'function') && map[firstId] !== undefined) {
+          return { modules: map, form: 'object' };
+        }
+      } catch (_) { /* not the real boundary -> try the next candidate */ }
     }
   }
   return null;
 }
 
-function createExtractor(src) {
+// Detects the webpack 5 async-chunk URL builder in the main bundle:
+//   .u=<id>=>"static/js/<prefix>."+({0:"name",...}[<id>]||<id>)+"."+{<id>:"hash",...}[<id>]+".chunk.js"
+// Returns { urlPrefix, names, hashes } or null when the build has no async JS chunks.
+function findChunkMap(source) {
+  const iu = source.search(/\.u=/);
+  if (iu < 0) return null;
+  const seg = source.slice(iu, iu + 4000);
+  const m = seg.match(/^\.u=\(?[A-Za-z_$][\w$]*\)?=>("([^"]*)")\+\(?(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\|\|([A-Za-z_$][\w$]*)\)\+"\."\+(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\+"\.chunk\.js"/);
+  if (!m) return null;
+  let names, hashes;
+  try {
+    names = new Function('return (' + m[3] + ')')();
+    hashes = new Function('return (' + m[6] + ')')();
+  } catch (_) { return null; }
+  return { urlPrefix: m[2], names, hashes };
+}
+
+const CHUNK_DIR = path.join(CACHE, 'chunks');
+
+function chunkFileName(chunkMap, id) {
+  const hash = chunkMap.hashes[id];
+  const label = chunkMap.names[id] !== undefined ? chunkMap.names[id] : String(id);
+  return `${label}.${hash}.chunk.mjs`;
+}
+
+// Paths of the async chunk files that are already present in the cache
+function existingChunkFiles(chunkMap) {
+  const out = [];
+  for (const id of Object.keys(chunkMap.hashes)) {
+    const f = path.join(CHUNK_DIR, chunkFileName(chunkMap, id));
+    if (fs.existsSync(f)) out.push(f);
+  }
+  return out;
+}
+
+// Download all async JS chunks declared by the main bundle (cached files are reused).
+// Failures are non-fatal: the registries live in the main bundle; chunks only add coverage.
+async function downloadChunkFiles(chunkMap) {
+  fs.mkdirSync(CHUNK_DIR, { recursive: true });
+  // drop files from older bundles
+  const expected = new Set(Object.keys(chunkMap.hashes).map((id) => chunkFileName(chunkMap, id)));
+  for (const f of fs.readdirSync(CHUNK_DIR)) {
+    if (!expected.has(f)) { try { fs.rmSync(path.join(CHUNK_DIR, f), { force: true }); } catch (_) {} }
+  }
+  const ids = Object.keys(chunkMap.hashes).map(Number).sort((a, b) => a - b);
+  const files = [];
+  let downloaded = 0, missing = 0, failed = 0;
+  const queue = ids.slice();
+  async function worker() {
+    while (queue.length) {
+      const id = queue.shift();
+      const fname = chunkFileName(chunkMap, id);
+      const dest = path.join(CHUNK_DIR, fname);
+      if (fs.existsSync(dest)) { files.push(dest); continue; }
+      const label = fname.replace(/\.chunk\.mjs$/, '');
+      const url = `${ORIGIN}/${chunkMap.urlPrefix}${label}.chunk.js`;
+      let buf = null;
+      for (let attempt = 0; attempt < 2 && !buf; attempt++) {
+        try {
+          const res = await fetch(url, { headers: HEADERS, redirect: 'follow' });
+          if (res.status === 404) break; // not published -> not an error
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          buf = Buffer.from(await res.arrayBuffer());
+        } catch (e) {
+          if (attempt === 1) { failed++; logSub(`Warning: chunk ${label} download failed (${e.message})`); }
+          else await new Promise((r) => setTimeout(r, 500));
+        }
+      }
+      if (buf) { fs.writeFileSync(dest, buf); downloaded++; files.push(dest); }
+      else missing++;
+    }
+  }
+  await Promise.all(Array.from({ length: 6 }, () => worker()));
+  logSub(`Async chunks: ${files.length} available / ${downloaded} downloaded / ${missing} not published / ${failed} failed`);
+  return files;
+}
+
+// Build the id -> module-function table from the main bundle + all cached async chunks.
+async function loadModuleTable(mainPath, chunkFiles) {
+  const mainSrc = fs.readFileSync(mainPath, 'utf8');
+  const bounds = findModuleMapBounds(mainSrc);
+  if (!bounds) throw new Error('webpack module map not found (bundle structure may have changed)');
+  const modules = bounds.modules;
+  let fromChunks = 0, broken = 0;
+  for (const f of chunkFiles) {
+    try {
+      const mod = await import(pathToFileURL(f).href);
+      if (mod && mod.modules && typeof mod.modules === 'object') {
+        for (const [id, fn] of Object.entries(mod.modules)) {
+          if (typeof fn === 'function' && modules[id] === undefined) { modules[id] = fn; fromChunks++; }
+        }
+      }
+    } catch (e) {
+      broken++;
+      logSub(`Warning: could not import chunk ${path.basename(f)} (${String(e.message).split('\n')[0]})`);
+    }
+  }
+  logSub(`Module table: ${Object.keys(modules).length} modules` + (chunkFiles.length ? ` (main bundle + ${fromChunks} from ${chunkFiles.length - broken} chunks)` : ' (single bundle)'));
+  return { modules, mainSrc };
+}
+
+function createExtractor(mainSrc, modules) {
   installBrowserStubs();
 
-  const bounds = findModuleArrayBounds(src);
-  if (!bounds) throw new Error('webpack module array not found (bundle structure may have changed)');
-  const modules = bounds.modules;
+  if (!modules || Object.keys(modules).length === 0) throw new Error('webpack module map not found (bundle structure may have changed)');
   const cache = Object.create(null);
 
   // ---------- webpack require (faithfully reproduces the bundle runtime) ----------
@@ -299,7 +441,7 @@ function createExtractor(src) {
     if (cached !== undefined) return cached.exports;
     const mod = (cache[id] = { id, loaded: false, exports: {} });
     const fn = modules[id];
-    if (typeof fn !== 'function') throw new Error('module ' + id + ' not in main bundle (hole/lazy chunk)');
+    if (typeof fn !== 'function') throw new Error('module ' + id + ' not in module table (hole/lazy chunk)');
     fn.call(mod.exports, mod, mod.exports, Oj);
     mod.loaded = true;
     return mod.exports;
@@ -330,9 +472,9 @@ function createExtractor(src) {
   // ---------- Module / registry discovery ----------
   function findModulesBySource(needle) {
     const out = [];
-    for (let i = 0; i < modules.length; i++) {
-      const fn = modules[i];
-      if (typeof fn === 'function' && fn.toString().includes(needle)) out.push(i);
+    for (const id of Object.keys(modules)) {
+      const fn = modules[id];
+      if (typeof fn === 'function' && fn.toString().includes(needle)) out.push(id);
     }
     return out;
   }
@@ -421,24 +563,25 @@ function createExtractor(src) {
   function validateAgainstHardcodedMap(nameToId) {
     let mjCount = 0, mjMatch = 0;
     const mjMismatch = [];
-    const mjNeedle = '"Patterned Yellow Glass":1007';
-    const mi = src.indexOf(mjNeedle);
-    if (mi < 0) { logSub('Hardcoded ID table not found; skipping comparison'); return null; }
-    const open = src.lastIndexOf('{', mi);
-    if (!src.slice(open + 1, open + 1 + 40).startsWith('"Patterned Yellow Glass"')) {
+    // the ID may drift between builds -> anchor on the name in table form ("name":<number>) and read the expected value from the table itself
+    const tableHit = mainSrc.match(/"Patterned Yellow Glass":(\d+)/);
+    if (!tableHit) { logSub('Hardcoded ID table not found; skipping comparison'); return null; }
+    const mi = tableHit.index;
+    const open = mainSrc.lastIndexOf('{', mi);
+    if (!mainSrc.slice(open + 1, open + 1 + 40).startsWith('"Patterned Yellow Glass"')) {
       logSub('Hardcoded ID table has an unexpected shape; skipping comparison');
       return null;
     }
     let depth = 0, inStr = null, mEnd = -1;
-    for (let i = open; i < src.length; i++) {
-      const c = src[i];
+    for (let i = open; i < mainSrc.length; i++) {
+      const c = mainSrc[i];
       if (inStr) { if (c === '\\') i++; else if (c === inStr) inStr = null; continue; }
       if (c === '"' || c === "'" || c === '`') { inStr = c; continue; }
       if (c === '{') depth++;
       else if (c === '}') { depth--; if (depth === 0) { mEnd = i; break; } }
     }
     try {
-      const Mj = new Function('return ' + src.slice(open, mEnd + 1))();
+      const Mj = new Function('return ' + mainSrc.slice(open, mEnd + 1))();
       for (const [name, idv] of Object.entries(Mj)) {
         mjCount++;
         const base = name.split('|')[0];
@@ -451,7 +594,7 @@ function createExtractor(src) {
     return { count: mjCount, match: mjMatch };
   }
 
-  return { src, modules, loadBlockRegistry, loadItemRegistries, registryMaxId, validateAgainstHardcodedMap };
+  return { src: mainSrc, modules, loadBlockRegistry, loadItemRegistries, registryMaxId, validateAgainstHardcodedMap };
 }
 
 // ============================================================================
@@ -726,6 +869,111 @@ function kindOfEntry(snap, name) {
   return snap && snap.kindOf && snap.kindOf[name] ? snap.kindOf[name] : '';
 }
 
+// ============================================================================
+// Minified prop stabilization
+//   The minifier renames internal short props (light colors, model bounds, ...)
+//   on every build (KJ->E9, tK->N9, ...), which would churn thousands of entry
+//   files per update even when nothing changed. Each renamed key is resolved
+//   against the previous extraction by value signature and renamed back to the
+//   previous (stable) name, so entry files only change when values change.
+// ============================================================================
+const SHORT_KEY_RE = /^[A-Za-z]{1,2}\d?$/;
+
+// Identity of an entry across extractions (rootMetaDesc is unique for state variants)
+function entryIdent(obj) {
+  return (obj && (obj.rootMetaDesc || obj.name)) || null;
+}
+
+function stabilizeMinifiedProps(instances, prevOutDir) {
+  const tops = [], metas = [];
+  for (const inst of instances) {
+    if (!inst || typeof inst !== 'object') continue;
+    const ident = entryIdent(inst);
+    tops.push({ holder: inst, ident });
+    if (inst.meta && typeof inst.meta === 'object') metas.push({ holder: inst.meta, ident, parent: inst, key: 'meta' });
+  }
+  stabilizeMinifiedLevel(tops, prevOutDir, false);
+  if (metas.length) stabilizeMinifiedLevel(metas, prevOutDir, true);
+}
+
+function stabilizeMinifiedLevel(pairs, prevOutDir, isMeta) {
+  const newKeys = new Set();
+  for (const p of pairs) {
+    for (const k of Object.keys(p.holder)) if (SHORT_KEY_RE.test(k) && k !== 'id') newKeys.add(k);
+  }
+  if (!newKeys.size) return;
+
+  // previous short-key values: { oldKey: Map<entryIdent, serializedValue> }
+  const prevValues = {};
+  const prevKeys = new Set();
+  const dir = path.join(prevOutDir, 'entries');
+  if (fs.existsSync(dir)) {
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.endsWith('.json')) continue;
+      try {
+        const j = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+        const id = entryIdent(j);
+        const holder = isMeta ? (j.meta && typeof j.meta === 'object' ? j.meta : null) : j;
+        if (!holder || !id) continue;
+        for (const k of Object.keys(holder)) {
+          if (!SHORT_KEY_RE.test(k) || k === 'id') continue;
+          prevKeys.add(k);
+          (prevValues[k] = prevValues[k] || new Map()).set(id, JSON.stringify(holder[k]));
+        }
+      } catch (_) { /* unreadable file -> skip */ }
+    }
+  }
+
+  const rename = new Map();
+  for (const k of newKeys) {
+    if (prevKeys.has(k)) continue; // name unchanged since the last extraction
+    let best = null;
+    for (const old of prevKeys) {
+      if (newKeys.has(old)) continue; // old key still exists under its own name
+      const oldMap = prevValues[old];
+      let total = 0, equal = 0;
+      for (const p of pairs) {
+        const nv = p.holder[k];
+        if (nv === undefined) continue;
+        const ov = oldMap.get(p.ident);
+        if (ov === undefined) continue;
+        total++;
+        if (JSON.stringify(nv) === ov) equal++;
+      }
+      if (total > 0 && equal === total && (!best || total > best.total)) best = { old, total };
+      else if (total >= 20 && equal / total >= 0.98 && (!best || total > best.total)) best = { old, total };
+    }
+    if (best) rename.set(k, best.old);
+  }
+  if (!rename.size) return;
+  logSub(`Stabilized minified prop names (${isMeta ? 'meta' : 'entry'}): ${[...rename].map(([n, o]) => `${n} -> ${o}`).join(', ')}`);
+  for (const p of pairs) {
+    const keys = Object.keys(p.holder);
+    if (!keys.some((k) => rename.has(k))) continue;
+    const out = {};
+    for (const k of keys) out[rename.has(k) ? rename.get(k) : k] = p.holder[k];
+    if (p.parent) { p.parent[p.key] = out; continue; } // frozen meta objects are replaced via the parent entry
+    for (const k of keys) delete p.holder[k];
+    Object.assign(p.holder, out);
+  }
+}
+
+// Number of per-entry files whose content differs between the staged data and the current data
+function countChangedEntryFiles(stagingDir, outDir) {
+  const a = path.join(stagingDir, 'entries');
+  const b = path.join(outDir, 'entries');
+  if (!fs.existsSync(b)) return null; // no previous data (first extraction)
+  let changed = 0;
+  for (const f of fs.readdirSync(a)) {
+    const pb = path.join(b, f);
+    if (!fs.existsSync(pb)) { changed++; continue; }
+    try {
+      if (!fs.readFileSync(path.join(a, f)).equals(fs.readFileSync(pb))) changed++;
+    } catch (_) { changed++; }
+  }
+  return changed;
+}
+
 function fmtList(rows, snap, cap = 300) {
   if (!rows.length) return '_none_';
   const lines = rows.slice(0, cap).map((r) => {
@@ -747,11 +995,11 @@ function sectionBlock(title, rows, snap) {
   return ['<details>', `<summary>${label}</summary>`, '', fmtList(rows, snap), '', '</details>', ''].join('\n');
 }
 
-// Remove the H1 and previous "Last check" lines before reusing a body as history
+// Remove the H1 and previous check-status lines before reusing a body as history
 function slimHistory(md) {
   return String(md || '')
     .replace(/^# Extraction Change Log\s*\n/, '')
-    .replace(/^- Last check:.*(?:\n|$)/gm, '')
+    .replace(/^- (?:Last check:|\d+ entry files? changed \(property values only).*?(?:\n|$)/gm, '')
     .trim();
 }
 
@@ -762,7 +1010,10 @@ function unchangedMarkdown(existing, info = {}) {
   const b = info.bundleHash8 && info.bundleUrl
     ? `[\`${info.bundleHash8}\`](${info.bundleUrl})`
     : info.bundleHash8 ? `\`${info.bundleHash8}\`` : '(cached bundle)';
-  const lastCheck = `- Last check: ${when} — bundle ${b}: entries unchanged since the last update below.`;
+  let lastCheck = `- Last check: ${when} — bundle ${b}: entries unchanged since the last update below.`;
+  if (info.entryFilesChanged) {
+    lastCheck += `\n- ${info.entryFilesChanged} entry file${info.entryFilesChanged === 1 ? '' : 's'} changed (property values only; names and IDs untouched).`;
+  }
   if (!existing) {
     return ['# Extraction Change Log', '', lastCheck, '', 'No previous diff recorded (first run with no entry changes).', ''].join('\n');
   }
@@ -828,7 +1079,7 @@ IDs and properties therefore match the live game (verified against the hardcoded
 
 ## Updating
 
-bloxd.io's main bundle is checked automatically by a GitHub Action (`.github/workflows/update.yml`) roughly every 5 minutes.
+bloxd.io's main bundle is checked automatically by a GitHub Action (\`.github/workflows/update.yml\`) roughly every 5 minutes.
 A run compares the bundle URL (its file name embeds a content hash) with \`update-state.json\`; if it changed, the data is
 re-extracted and the diff is written to CHANGES.md. A run notes it in CHANGES.md even when the bundle changed but no entries did.
 The extraction script \`update.js\` is included at the repository root (single file, zero dependencies, Node >= 18).
@@ -930,12 +1181,16 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
 
   // ---------- 1. Bundle ----------
   let fetchInfo = null;
+  let chunkFiles = [];
   if (SKIP_FETCH) {
     logStep('Using cached bundle (--skip-fetch)');
     if (!fs.existsSync(SRC_PATH)) throw new Error('No bundle in cache. Re-run without --skip-fetch');
     logSub(`Using: ${SRC_PATH} (${(fs.statSync(SRC_PATH).size / 1e6).toFixed(1)} MB)`);
+    const chunkMap = findChunkMap(fs.readFileSync(SRC_PATH, 'utf8'));
+    if (chunkMap) chunkFiles = existingChunkFiles(chunkMap);
   } else {
     fetchInfo = await fetchLatestBundle();
+    chunkFiles = (fetchInfo && fetchInfo.chunkFiles) || [];
   }
   const changed = fetchInfo ? fetchInfo.changed : true;
   const prevSnap = readSnapshot(OUT);
@@ -944,19 +1199,19 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
     return;
   }
 
-  const src = fs.readFileSync(SRC_PATH, 'utf8');
   const state = readState();
   const sourceLabel = fetchInfo ? fetchInfo.file : (state.lastBundleFile || path.basename(SRC_PATH));
   const extractedAt = new Date().toISOString();
 
   // ---------- 2. Extraction ----------
   logStep('Parsing the bundle and extracting registries');
-  const itemNs = findItemTranslations(src);
+  const { modules, mainSrc } = await loadModuleTable(SRC_PATH, chunkFiles);
+  const itemNs = findItemTranslations(mainSrc);
   if (itemNs) logSub(`English translation table: ${Object.keys(itemNs).length} keys`);
   else logSub('Warning: English translation table not found (displayName/description omitted)');
 
-  const extractor = createExtractor(src);
-  logSub(`webpack modules: ${extractor.modules.length}`);
+  const extractor = createExtractor(mainSrc, modules);
+  logSub(`webpack modules: ${Object.keys(extractor.modules).length}`);
   const block = extractor.loadBlockRegistry();
   const blockRegistry = block.registry;
   const maxBlockId = extractor.registryMaxId(blockRegistry);
@@ -989,6 +1244,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
 
   // ---------- 4. Write to staging ----------
   logStep('Writing per-entry JSON (temp folder)');
+  stabilizeMinifiedProps([...blockInstances, ...items], OUT);
   fs.rmSync(STAGING, { recursive: true, force: true });
   fs.mkdirSync(STAGING, { recursive: true });
   const staged = writeStagedData(STAGING, blockInstances, blocksWithAir, items, itemNs);
@@ -1004,6 +1260,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
   const diff = diffNameToId(prevMaps, nextMaps);
   const s = diff.summary;
   const isZeroDiff = !diff.firstRun && !s.added && !s.removed && !s.idChanged;
+  const entryFilesChanged = countChangedEntryFiles(STAGING, OUT); // property-level changes the name/ID diff cannot see
   const info = bundleInfo(fetchInfo); // current bundle {url, file, sha256, hash8}
   const existingChanges = fs.existsSync(path.join(OUT, 'CHANGES.md'))
     ? fs.readFileSync(path.join(OUT, 'CHANGES.md'), 'utf8')
@@ -1015,10 +1272,11 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
     prevSnap: prevMaps,
     nextSnap: nextMaps,
     existing: existingChanges,
+    entryFilesChanged,
   });
   fs.writeFileSync(path.join(STAGING, 'CHANGES.md'), md);
   if (diff.firstRun) logSub('No baseline (first extraction)');
-  else if (isZeroDiff) logSub('Bundle changed but entries are unchanged -> CHANGES.md gets a status note only');
+  else if (isZeroDiff) logSub(`Bundle changed but entries are unchanged -> CHANGES.md gets a status note only` + (entryFilesChanged ? ` (${entryFilesChanged} entry files have property updates)` : ''));
   else logSub(`Diff: added ${s.added} / removed ${s.removed} / ID changed ${s.idChanged}`);
 
   // ---------- 6. Swap in ----------
@@ -1074,6 +1332,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
         added: s.added,
         removed: s.removed,
         idChanged: s.idChanged,
+        entryFilesChanged: entryFilesChanged || 0,
         bundle: {
           url: info ? info.url : null,
           file: info ? info.file : null,
