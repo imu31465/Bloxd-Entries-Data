@@ -1,0 +1,15 @@
+{
+  "id": 8315,
+  "name": "Diamond Mining Drill",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondMiningDrill",
+    "text": "Diamond Mining Drill"
+  },
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "Off Roader Item",
+  "stackable": false
+}

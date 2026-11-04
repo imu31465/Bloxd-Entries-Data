@@ -10,6 +10,6 @@
   "textureInfo": "grenade_block",
   "harvestType": "rock",
   "unlitStandaloneMesh": true,
-  "atlasIdx": 580,
+  "atlasIdx": 588,
   "stackable": true
 }

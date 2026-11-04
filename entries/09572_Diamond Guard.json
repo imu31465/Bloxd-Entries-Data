@@ -1,0 +1,19 @@
+{
+  "id": 9572,
+  "name": "Diamond Guard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:diamondGuard",
+    "text": "Diamond Guard"
+  },
+  "description": {
+    "key": "item:swordGuardDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "diamond_guard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

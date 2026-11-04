@@ -1,0 +1,19 @@
+{
+  "id": 9512,
+  "name": "Recall Beacon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:recallBeacon",
+    "text": "Recall Beacon"
+  },
+  "description": {
+    "key": "item:recallBeaconDescription",
+    "text": "Use it to go home to your island. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "recall_beacon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

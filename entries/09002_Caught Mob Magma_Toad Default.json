@@ -1,0 +1,15 @@
+{
+  "id": 9002,
+  "name": "Caught Mob Magma_Toad Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_magma_toad_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Magma_Toad Default",
+    "rootId": 9002,
+    "caughtMobType": "Magma Toad"
+  }
+}

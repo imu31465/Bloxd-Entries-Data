@@ -1,0 +1,19 @@
+{
+  "id": 9526,
+  "name": "Gold Plate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldPlate",
+    "text": "Gold Plate"
+  },
+  "description": {
+    "key": "item:goldPlateDescription",
+    "text": "Pressed gold. Used in Logic Boards."
+  },
+  "type": "Item",
+  "textureInfo": "gold_plate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

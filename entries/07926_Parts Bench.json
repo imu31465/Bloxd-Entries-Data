@@ -26,8 +26,8 @@
   "harvestType": "wood",
   "altActionable": true,
   "atlasIdx": [
-    1116,
-    1117
+    1124,
+    1125
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -1,0 +1,54 @@
+{
+  "id": 8092,
+  "name": "Trading Terminal|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:tradingTerminal",
+    "text": "Trading Terminal"
+  },
+  "description": {
+    "key": "item:tradingTerminalDescription",
+    "text": "Opens the Bank and the Market from your island."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    {
+      "animTextures": [
+        "trading_terminal_front0",
+        "trading_terminal_front1",
+        "trading_terminal_front2",
+        "trading_terminal_front3",
+        "trading_terminal_front4",
+        "trading_terminal_front5",
+        "trading_terminal_front6",
+        "trading_terminal_front7"
+      ],
+      "animationInterval": 250
+    },
+    "trading_terminal_side",
+    "trading_terminal_top"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Trading Terminal",
+    "rootId": 8091,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    45,
+    1228,
+    1229
+  ],
+  "stackable": true
+}

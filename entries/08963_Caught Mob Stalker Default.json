@@ -1,0 +1,15 @@
+{
+  "id": 8963,
+  "name": "Caught Mob Stalker Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_stalker_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Stalker Default",
+    "rootId": 8963,
+    "caughtMobType": "Stalker"
+  }
+}

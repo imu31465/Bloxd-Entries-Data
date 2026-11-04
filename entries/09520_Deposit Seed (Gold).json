@@ -1,0 +1,19 @@
+{
+  "id": 9520,
+  "name": "Deposit Seed (Gold)",
+  "kind": "item",
+  "displayName": {
+    "key": "item:depositSeedGold",
+    "text": "Deposit Seed (Gold)"
+  },
+  "description": {
+    "key": "item:depositSeedGoldDescription",
+    "text": "Hold it on your island and tap open ground to grow a Gold Deposit that never runs out. Needs Core tier 3."
+  },
+  "type": "Item",
+  "textureInfo": "deposit_seed_gold",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

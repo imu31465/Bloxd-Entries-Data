@@ -1,0 +1,15 @@
+{
+  "id": 8994,
+  "name": "Caught Mob Glass_Bro Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_glass_bro_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Glass_Bro Default",
+    "rootId": 8994,
+    "caughtMobType": "Glass Bro"
+  }
+}

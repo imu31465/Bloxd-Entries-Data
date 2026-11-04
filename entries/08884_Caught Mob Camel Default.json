@@ -1,0 +1,15 @@
+{
+  "id": 8884,
+  "name": "Caught Mob Camel Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_camel_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Camel Default",
+    "rootId": 8884,
+    "caughtMobType": "Camel"
+  }
+}

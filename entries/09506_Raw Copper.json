@@ -1,0 +1,19 @@
+{
+  "id": 9506,
+  "name": "Raw Copper",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawCopper",
+    "text": "Raw Copper"
+  },
+  "description": {
+    "key": "item:rawCopperDescription",
+    "text": "Smelt or crush me."
+  },
+  "type": "Item",
+  "textureInfo": "raw_copper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

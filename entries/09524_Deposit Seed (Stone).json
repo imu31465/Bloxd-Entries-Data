@@ -1,0 +1,19 @@
+{
+  "id": 9524,
+  "name": "Deposit Seed (Stone)",
+  "kind": "item",
+  "displayName": {
+    "key": "item:depositSeedStone",
+    "text": "Deposit Seed (Stone)"
+  },
+  "description": {
+    "key": "item:depositSeedStoneDescription",
+    "text": "A Stone Deposit you picked up. Hold it on your island and tap open ground to plant it there."
+  },
+  "type": "Item",
+  "textureInfo": "deposit_seed_stone",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

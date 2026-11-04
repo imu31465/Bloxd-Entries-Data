@@ -1,0 +1,35 @@
+{
+  "id": 8095,
+  "name": "Stone Generator",
+  "kind": "block",
+  "displayName": {
+    "key": "item:stoneGenerator",
+    "text": "Stone Generator"
+  },
+  "description": {
+    "key": "item:stoneGeneratorDescription",
+    "text": "Grows a fresh Stone on top of it."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "stone_generator_side",
+    "stone_generator_top",
+    "messy_stone"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1230,
+    1231,
+    223
+  ],
+  "stackable": true
+}

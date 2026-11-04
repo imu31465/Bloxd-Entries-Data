@@ -14,7 +14,7 @@
   "textureInfo": "copper_ore",
   "harvestType": "rock",
   "drops": "Raw Copper",
-  "atlasIdx": 1039,
+  "atlasIdx": 1047,
   "stackable": true,
   "showInCreativeInven": false
 }
