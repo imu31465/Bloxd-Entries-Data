@@ -1,0 +1,15 @@
+{
+  "id": 8995,
+  "name": "Caught Mob Glass_Gremlin Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_glass_gremlin_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Glass_Gremlin Default",
+    "rootId": 8995,
+    "caughtMobType": "Glass Gremlin"
+  }
+}

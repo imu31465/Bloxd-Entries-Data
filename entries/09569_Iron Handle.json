@@ -1,0 +1,19 @@
+{
+  "id": 9569,
+  "name": "Iron Handle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironHandle",
+    "text": "Iron Handle"
+  },
+  "description": {
+    "key": "item:swordHandleDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "iron_handle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

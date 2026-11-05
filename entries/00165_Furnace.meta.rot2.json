@@ -11,30 +11,26 @@
     "text": "Turn ores into crafting items"
   },
   "ttb": 4200,
-  "textureInfo": [
-    "furnace_front",
-    "furnace_side",
-    "furnace_top"
-  ],
-  "texturePerSide": [
-    0,
-    1,
-    2,
-    2,
-    1,
-    1
-  ],
   "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "furnace",
+  "heldItemScale": 4,
+  "modelScale": 8,
   "meta": {
     "rootName": "Furnace",
     "rootId": 164,
     "metaStr": "meta|rot2",
     "rot": 2
   },
-  "atlasIdx": [
-    342,
-    343,
-    344
-  ],
-  "stackable": true
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793,
+    "textureAnimation": {
+      "frames": 3,
+      "animationInterval": 200
+    }
+  },
+  "stackable": true,
+  "blockModel": "Furnace",
+  "blockModelItem": true
 }

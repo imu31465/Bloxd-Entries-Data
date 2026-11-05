@@ -1,0 +1,19 @@
+{
+  "id": 9518,
+  "name": "Motor",
+  "kind": "item",
+  "displayName": {
+    "key": "item:motor",
+    "text": "Motor"
+  },
+  "description": {
+    "key": "item:motorDescription",
+    "text": "The Core's next tier needs these. Made at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "motor",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

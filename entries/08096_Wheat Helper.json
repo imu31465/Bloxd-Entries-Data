@@ -1,0 +1,34 @@
+{
+  "id": 8096,
+  "name": "Wheat Helper",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wheatHelper",
+    "text": "Wheat Helper"
+  },
+  "description": {
+    "key": "item:wheatHelperDescription",
+    "text": "Makes Wheat for you while you're on your island."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "crate",
+    "hay_block_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    918,
+    1226
+  ],
+  "stackable": true
+}

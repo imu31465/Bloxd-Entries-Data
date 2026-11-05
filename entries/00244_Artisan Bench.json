@@ -11,22 +11,15 @@
     "text": "Create decorative blocks"
   },
   "ttb": 3000,
-  "textureInfo": [
-    "artisan_table_side",
-    "artisan_table_top"
-  ],
-  "texturePerSide": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    0
-  ],
   "harvestType": "wood",
-  "atlasIdx": [
-    374,
-    375
-  ],
-  "stackable": true
+  "model": "CustomModel",
+  "itemTexture": "artisan_bench",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Artisan Bench",
+  "blockModelItem": true
 }

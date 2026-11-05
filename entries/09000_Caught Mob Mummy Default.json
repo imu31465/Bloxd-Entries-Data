@@ -1,0 +1,15 @@
+{
+  "id": 9000,
+  "name": "Caught Mob Mummy Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_mummy_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Mummy Default",
+    "rootId": 9000,
+    "caughtMobType": "Mummy"
+  }
+}

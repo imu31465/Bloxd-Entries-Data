@@ -4,7 +4,7 @@
   "kind": "block",
   "displayName": {
     "key": "item:potionTable",
-    "text": "Potion Table"
+    "text": "Cauldron"
   },
   "description": {
     "key": "item:potionTableDescription",
@@ -14,16 +14,8 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "potion_table",
-  "solid": false,
-  "tK": [
-    0,
-    0,
-    0,
-    1,
-    0.875,
-    1
-  ],
-  "modelScale": 10,
+  "heldItemScale": 4,
+  "modelScale": 8,
   "meta": {
     "rootName": "Potion Table",
     "rootId": 1008,
@@ -31,6 +23,15 @@
     "rot": 1
   },
   "rootMetaDesc": "Potion Table|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793,
+    "textureAnimation": {
+      "frames": 4,
+      "animationInterval": 200
+    }
+  },
   "stackable": true,
-  "blockModel": "Potion Table"
+  "blockModel": "Potion Table",
+  "blockModelItem": true
 }

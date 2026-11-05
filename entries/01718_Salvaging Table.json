@@ -14,16 +14,8 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "salvaging_table",
-  "solid": false,
-  "tK": [
-    0,
-    0,
-    0,
-    1,
-    0.625,
-    1
-  ],
-  "modelScale": 10,
+  "heldItemScale": 4,
+  "modelScale": 8,
   "meta": {
     "rootName": "Salvaging Table",
     "rootId": 1718,
@@ -31,6 +23,11 @@
     "rot": 1
   },
   "rootMetaDesc": "Salvaging Table|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793
+  },
   "stackable": true,
-  "blockModel": "Salvaging Table"
+  "blockModel": "Salvaging Table",
+  "blockModelItem": true
 }

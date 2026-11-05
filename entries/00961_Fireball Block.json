@@ -10,6 +10,6 @@
   "textureInfo": "fireball_block",
   "harvestType": "rock",
   "unlitStandaloneMesh": true,
-  "atlasIdx": 546,
+  "atlasIdx": 539,
   "stackable": true
 }

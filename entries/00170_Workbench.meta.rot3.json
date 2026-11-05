@@ -11,28 +11,22 @@
     "text": "Create advanced items"
   },
   "ttb": 3000,
-  "textureInfo": [
-    "crafting_table_side",
-    "crafting_table_top"
-  ],
-  "texturePerSide": [
-    0,
-    0,
-    1,
-    1,
-    0,
-    0
-  ],
   "harvestType": "wood",
+  "model": "rotatable",
+  "itemTexture": "workbench",
+  "heldItemScale": 4,
+  "modelScale": 8,
   "meta": {
     "rootName": "Workbench",
     "rootId": 168,
     "metaStr": "meta|rot3",
     "rot": 3
   },
-  "atlasIdx": [
-    345,
-    346
-  ],
-  "stackable": true
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793
+  },
+  "stackable": true,
+  "blockModel": "Workbench",
+  "blockModelItem": true
 }

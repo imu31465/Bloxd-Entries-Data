@@ -1,0 +1,19 @@
+{
+  "id": 9544,
+  "name": "Comet Core",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cometCore",
+    "text": "Comet Core"
+  },
+  "description": {
+    "key": "item:cometCoreDescription",
+    "text": "The heart of a fallen comet. Each Starwright stage asks for some. Made at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "comet_core",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

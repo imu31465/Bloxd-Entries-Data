@@ -10,6 +10,6 @@
   "textureInfo": "fertilised_soil",
   "harvestType": "granule",
   "drops": "Tilled Soil",
-  "atlasIdx": 933,
+  "atlasIdx": 926,
   "stackable": true
 }
