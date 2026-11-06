@@ -1,0 +1,19 @@
+{
+  "id": 9534,
+  "name": "Power Coupler",
+  "kind": "item",
+  "displayName": {
+    "key": "item:powerCoupler",
+    "text": "Power Coupler"
+  },
+  "description": {
+    "key": "item:powerCouplerDescription",
+    "text": "Tap a Crusher, Smelter or Alloy Kiln with it. That machine then runs twice as fast, on power instead of fuel. Made at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "power_coupler",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

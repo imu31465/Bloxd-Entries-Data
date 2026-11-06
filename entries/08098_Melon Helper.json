@@ -1,0 +1,34 @@
+{
+  "id": 8098,
+  "name": "Melon Helper",
+  "kind": "block",
+  "displayName": {
+    "key": "item:melonHelper",
+    "text": "Melon Helper"
+  },
+  "description": {
+    "key": "item:melonHelperDescription",
+    "text": "Makes Melon Slices for you while you're on your island."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "crate",
+    "melon_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    918,
+    545
+  ],
+  "stackable": true
+}

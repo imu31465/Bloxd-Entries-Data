@@ -1,0 +1,15 @@
+{
+  "id": 8905,
+  "name": "Caught Mob Diamond_Goofy_Golem Shedding",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_diamond_goofy_golem_shedding",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Diamond_Goofy_Golem Shedding",
+    "rootId": 8905,
+    "caughtMobType": "Diamond Goofy Golem"
+  }
+}

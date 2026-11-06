@@ -1,0 +1,14 @@
+{
+  "id": 9120,
+  "name": "Tarpon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:tarpon",
+    "text": "Tarpon"
+  },
+  "type": "Item",
+  "textureInfo": "tarpon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

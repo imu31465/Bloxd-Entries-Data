@@ -1,0 +1,19 @@
+{
+  "id": 9508,
+  "name": "Doom Rivet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:doomRivet",
+    "text": "Doom Rivet"
+  },
+  "description": {
+    "key": "item:doomRivetDescription",
+    "text": "Prised from the armour of the Doom Warlord's retinue."
+  },
+  "type": "Item",
+  "textureInfo": "doom_rivet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8994,
+  "name": "Caught Mob Armour_Collector Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_armour_collector_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Armour_Collector Default",
+    "rootId": 8994,
+    "caughtMobType": "Armour Collector"
+  }
+}

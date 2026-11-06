@@ -20,6 +20,11 @@
   "customModelInfo": {
     "yOffset": -0.5
   },
+  "KJ": [
+    5,
+    6,
+    8
+  ],
   "stackable": true,
   "blockModel": "Moonstone Trophy"
 }

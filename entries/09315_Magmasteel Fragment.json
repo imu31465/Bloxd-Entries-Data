@@ -1,0 +1,18 @@
+{
+  "id": 9315,
+  "name": "Magmasteel Fragment",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Fragment"
+  },
+  "description": {
+    "key": "item:forgeFragmentDescription",
+    "text": "Dropped by Lord Vulcan. Crafted into sword parts at a Workbench."
+  },
+  "type": "Item",
+  "textureInfo": "magmasteel_fragment",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "magmasteel_fragment",
+  "stackable": true
+}

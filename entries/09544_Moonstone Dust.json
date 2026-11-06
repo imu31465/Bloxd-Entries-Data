@@ -1,0 +1,19 @@
+{
+  "id": 9544,
+  "name": "Moonstone Dust",
+  "kind": "item",
+  "displayName": {
+    "key": "item:moonstoneDust",
+    "text": "Moonstone Dust"
+  },
+  "description": {
+    "key": "item:moonstoneDustDescription",
+    "text": "Crushed Moonstone. Goes into Star Alloy at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "moonstone_dust",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

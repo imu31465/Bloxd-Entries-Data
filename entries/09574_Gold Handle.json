@@ -1,0 +1,19 @@
+{
+  "id": 9574,
+  "name": "Gold Handle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldHandle",
+    "text": "Gold Handle"
+  },
+  "description": {
+    "key": "item:swordHandleDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "gold_handle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

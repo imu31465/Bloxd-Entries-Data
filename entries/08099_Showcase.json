@@ -1,0 +1,22 @@
+{
+  "id": 8099,
+  "name": "Showcase",
+  "kind": "block",
+  "displayName": {
+    "key": "item:showcase",
+    "text": "Showcase"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "showcase",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Showcase",
+  "blockModelItem": true,
+  "showInCreativeInven": false
+}

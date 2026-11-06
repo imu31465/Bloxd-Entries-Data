@@ -1,0 +1,19 @@
+{
+  "id": 9509,
+  "name": "Doom Crest",
+  "kind": "item",
+  "displayName": {
+    "key": "item:doomCrest",
+    "text": "Doom Crest"
+  },
+  "description": {
+    "key": "item:doomCrestDescription",
+    "text": "A crest from the Doom Warlord's armour collection, still warm. Rare."
+  },
+  "type": "Item",
+  "textureInfo": "doom_crest",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}
