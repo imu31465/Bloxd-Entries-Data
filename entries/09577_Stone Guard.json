@@ -1,0 +1,19 @@
+{
+  "id": 9577,
+  "name": "Stone Guard",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneGuard",
+    "text": "Stone Guard"
+  },
+  "description": {
+    "key": "item:swordGuardDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "stone_guard",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

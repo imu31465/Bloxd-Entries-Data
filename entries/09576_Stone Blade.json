@@ -1,0 +1,19 @@
+{
+  "id": 9576,
+  "name": "Stone Blade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stoneBlade",
+    "text": "Stone Blade"
+  },
+  "description": {
+    "key": "item:swordBladeDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "stone_blade",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

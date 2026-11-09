@@ -1,0 +1,19 @@
+{
+  "id": 9533,
+  "name": "Deposit Seed (Copper)",
+  "kind": "item",
+  "displayName": {
+    "key": "item:depositSeedCopper",
+    "text": "Deposit Seed (Copper)"
+  },
+  "description": {
+    "key": "item:depositSeedCopperDescription",
+    "text": "Hold it on your island and tap open ground to grow a Copper Deposit that never runs out. Needs Core tier 2."
+  },
+  "type": "Item",
+  "textureInfo": "deposit_seed_copper",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

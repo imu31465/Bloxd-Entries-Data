@@ -1,7 +1,7 @@
 # Bloxd.io Block/Item Data
 
-Source: bloxd.io main bundle (/static/js/v98qt8.main.62d8d238.js)
-Extracted: 2026-11-06T19:58:57.863Z
+Source: bloxd.io main bundle (/static/js/trkzmh.main.ee8a864d.js)
+Extracted: 2026-11-09T19:13:26.574Z
 
 Extraction executes the registry-building code inside the bundle on the same JavaScript engine (V8) the game uses.
 IDs and properties therefore match the live game (verified against the hardcoded ID table in the bundle).
@@ -28,7 +28,7 @@ The `meta` field (rootName / rootId / metaStr) refers back to the base entry.
 ## ID Scheme
 
 - 0 = Air (special value). 1 = Unloaded (unloaded chunk).
-- Blocks: 0..8099 / Items: 8100..9591
+- Blocks: 0..8109 / Items: 8110..9601
 - Blocks and items share one contiguous ID space (items start at the highest block ID + 1).
 
 ## Common Fields (all entries)

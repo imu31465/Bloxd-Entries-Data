@@ -1,0 +1,21 @@
+{
+  "id": 8102,
+  "name": "Cedar Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cedarItemPedestal",
+    "text": "Cedar Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "cedar_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Cedar Item Pedestal",
+  "blockModelItem": true
+}

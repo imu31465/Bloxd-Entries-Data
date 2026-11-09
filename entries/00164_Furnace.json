@@ -25,12 +25,13 @@
   "rootMetaDesc": "Furnace|meta|rot1",
   "customModelInfo": {
     "yOffset": -0.5,
-    "yRotOffset": 3.141592653589793,
-    "textureAnimation": {
-      "frames": 3,
-      "animationInterval": 200
-    }
+    "yRotOffset": 3.141592653589793
   },
+  "KJ": [
+    8,
+    5,
+    2
+  ],
   "stackable": true,
   "blockModel": "Furnace",
   "blockModelItem": true

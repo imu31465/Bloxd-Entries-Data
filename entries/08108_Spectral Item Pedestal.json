@@ -1,0 +1,21 @@
+{
+  "id": 8108,
+  "name": "Spectral Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:spectralItemPedestal",
+    "text": "Spectral Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "spectral_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Spectral Item Pedestal",
+  "blockModelItem": true
+}

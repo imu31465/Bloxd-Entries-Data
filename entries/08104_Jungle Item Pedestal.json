@@ -1,0 +1,21 @@
+{
+  "id": 8104,
+  "name": "Jungle Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jungleItemPedestal",
+    "text": "Jungle Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "jungle_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Jungle Item Pedestal",
+  "blockModelItem": true
+}

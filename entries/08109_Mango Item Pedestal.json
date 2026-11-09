@@ -1,0 +1,21 @@
+{
+  "id": 8109,
+  "name": "Mango Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mangoItemPedestal",
+    "text": "Mango Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "mango_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Mango Item Pedestal",
+  "blockModelItem": true
+}

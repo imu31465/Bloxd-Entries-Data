@@ -1,0 +1,21 @@
+{
+  "id": 8100,
+  "name": "Pine Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pineItemPedestal",
+    "text": "Pine Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "pine_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Pine Item Pedestal",
+  "blockModelItem": true
+}

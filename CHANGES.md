@@ -1,5 +1,338 @@
 # Extraction Change Log
 
+- Run at: 2026-11-09T19:13:26.574Z
+- Bundle: https://bloxd.io/static/js/trkzmh.main.ee8a864d.js
+- Entries: 9592 -> 9602
+
+| Type | Count |
+|---|---|
+| Added | 10 |
+| Removed | 0 |
+| ID changed | 1492 |
+
+## Added (10)
+
+- Pine Item Pedestal (block): **8100**
+- Plum Item Pedestal (block): **8101**
+- Cedar Item Pedestal (block): **8102**
+- Aspen Item Pedestal (block): **8103**
+- Jungle Item Pedestal (block): **8104**
+- Palm Item Pedestal (block): **8105**
+- Pear Item Pedestal (block): **8106**
+- Cherry Item Pedestal (block): **8107**
+- Spectral Item Pedestal (block): **8108**
+- Mango Item Pedestal (block): **8109**
+
+<details>
+<summary>ID changed (1492)</summary>
+
+- Wood Pickaxe (item): 8100 -> **8110**
+- Stone Pickaxe (item): 8101 -> **8111**
+- Iron Pickaxe (item): 8102 -> **8112**
+- Gold Pickaxe (item): 8103 -> **8113**
+- Diamond Pickaxe (item): 8104 -> **8114**
+- Moonstone Pickaxe (item): 8105 -> **8115**
+- Golem Pickaxe (item): 8106 -> **8116**
+- Wood Axe (item): 8107 -> **8117**
+- Stone Axe (item): 8108 -> **8118**
+- Iron Axe (item): 8109 -> **8119**
+- Gold Axe (item): 8110 -> **8120**
+- Diamond Axe (item): 8111 -> **8121**
+- Moonstone Axe (item): 8112 -> **8122**
+- Artisan Axe (item): 8113 -> **8123**
+- Wood Spade (item): 8114 -> **8124**
+- Stone Spade (item): 8115 -> **8125**
+- Iron Spade (item): 8116 -> **8126**
+- Gold Spade (item): 8117 -> **8127**
+- Diamond Spade (item): 8118 -> **8128**
+- Wood Sword (item): 8119 -> **8129**
+- Stone Sword (item): 8120 -> **8130**
+- Iron Sword (item): 8121 -> **8131**
+- Gold Sword (item): 8122 -> **8132**
+- Diamond Sword (item): 8123 -> **8133**
+- Knight Sword (item): 8124 -> **8134**
+- Wood Hoe (item): 8125 -> **8135**
+- Stone Hoe (item): 8126 -> **8136**
+- Iron Hoe (item): 8127 -> **8137**
+- Gold Hoe (item): 8128 -> **8138**
+- Diamond Hoe (item): 8129 -> **8139**
+- Flashlight (item): 8130 -> **8140**
+- Mining Helmet (item): 8131 -> **8141**
+- Wood Helmet (item): 8132 -> **8142**
+- Iron Helmet (item): 8133 -> **8143**
+- Gold Helmet (item): 8134 -> **8144**
+- Diamond Helmet (item): 8135 -> **8145**
+- Wood Chestplate (item): 8136 -> **8146**
+- Iron Chestplate (item): 8137 -> **8147**
+- Gold Chestplate (item): 8138 -> **8148**
+- Diamond Chestplate (item): 8139 -> **8149**
+- Fur Chestplate (item): 8140 -> **8150**
+- Wood Leggings (item): 8141 -> **8151**
+- Iron Leggings (item): 8142 -> **8152**
+- Gold Leggings (item): 8143 -> **8153**
+- Diamond Leggings (item): 8144 -> **8154**
+- Wood Boots (item): 8145 -> **8155**
+- Iron Boots (item): 8146 -> **8156**
+- Gold Boots (item): 8147 -> **8157**
+- Diamond Boots (item): 8148 -> **8158**
+- Spiked Boots (item): 8149 -> **8159**
+- Wood Gauntlets (item): 8150 -> **8160**
+- Iron Gauntlets (item): 8151 -> **8161**
+- Gold Gauntlets (item): 8152 -> **8162**
+- Diamond Gauntlets (item): 8153 -> **8163**
+- Military Helmet (item): 8154 -> **8164**
+- Military Chestplate (item): 8155 -> **8165**
+- Military Gauntlets (item): 8156 -> **8166**
+- Military Leggings (item): 8157 -> **8167**
+- Military Boots (item): 8158 -> **8168**
+- White Wood Helmet (item): 8159 -> **8169**
+- White Wood Chestplate (item): 8160 -> **8170**
+- White Wood Leggings (item): 8161 -> **8171**
+- White Wood Boots (item): 8162 -> **8172**
+- White Wood Gauntlets (item): 8163 -> **8173**
+- Orange Wood Helmet (item): 8164 -> **8174**
+- Orange Wood Chestplate (item): 8165 -> **8175**
+- Orange Wood Leggings (item): 8166 -> **8176**
+- Orange Wood Boots (item): 8167 -> **8177**
+- Orange Wood Gauntlets (item): 8168 -> **8178**
+- Magenta Wood Helmet (item): 8169 -> **8179**
+- Magenta Wood Chestplate (item): 8170 -> **8180**
+- Magenta Wood Leggings (item): 8171 -> **8181**
+- Magenta Wood Boots (item): 8172 -> **8182**
+- Magenta Wood Gauntlets (item): 8173 -> **8183**
+- Light Blue Wood Helmet (item): 8174 -> **8184**
+- Light Blue Wood Chestplate (item): 8175 -> **8185**
+- Light Blue Wood Leggings (item): 8176 -> **8186**
+- Light Blue Wood Boots (item): 8177 -> **8187**
+- Light Blue Wood Gauntlets (item): 8178 -> **8188**
+- Yellow Wood Helmet (item): 8179 -> **8189**
+- Yellow Wood Chestplate (item): 8180 -> **8190**
+- Yellow Wood Leggings (item): 8181 -> **8191**
+- Yellow Wood Boots (item): 8182 -> **8192**
+- Yellow Wood Gauntlets (item): 8183 -> **8193**
+- Lime Wood Helmet (item): 8184 -> **8194**
+- Lime Wood Chestplate (item): 8185 -> **8195**
+- Lime Wood Leggings (item): 8186 -> **8196**
+- Lime Wood Boots (item): 8187 -> **8197**
+- Lime Wood Gauntlets (item): 8188 -> **8198**
+- Pink Wood Helmet (item): 8189 -> **8199**
+- Pink Wood Chestplate (item): 8190 -> **8200**
+- Pink Wood Leggings (item): 8191 -> **8201**
+- Pink Wood Boots (item): 8192 -> **8202**
+- Pink Wood Gauntlets (item): 8193 -> **8203**
+- Gray Wood Helmet (item): 8194 -> **8204**
+- Gray Wood Chestplate (item): 8195 -> **8205**
+- Gray Wood Leggings (item): 8196 -> **8206**
+- Gray Wood Boots (item): 8197 -> **8207**
+- Gray Wood Gauntlets (item): 8198 -> **8208**
+- Light Gray Wood Helmet (item): 8199 -> **8209**
+- Light Gray Wood Chestplate (item): 8200 -> **8210**
+- Light Gray Wood Leggings (item): 8201 -> **8211**
+- Light Gray Wood Boots (item): 8202 -> **8212**
+- Light Gray Wood Gauntlets (item): 8203 -> **8213**
+- Cyan Wood Helmet (item): 8204 -> **8214**
+- Cyan Wood Chestplate (item): 8205 -> **8215**
+- Cyan Wood Leggings (item): 8206 -> **8216**
+- Cyan Wood Boots (item): 8207 -> **8217**
+- Cyan Wood Gauntlets (item): 8208 -> **8218**
+- Purple Wood Helmet (item): 8209 -> **8219**
+- Purple Wood Chestplate (item): 8210 -> **8220**
+- Purple Wood Leggings (item): 8211 -> **8221**
+- Purple Wood Boots (item): 8212 -> **8222**
+- Purple Wood Gauntlets (item): 8213 -> **8223**
+- Blue Wood Helmet (item): 8214 -> **8224**
+- Blue Wood Chestplate (item): 8215 -> **8225**
+- Blue Wood Leggings (item): 8216 -> **8226**
+- Blue Wood Boots (item): 8217 -> **8227**
+- Blue Wood Gauntlets (item): 8218 -> **8228**
+- Brown Wood Helmet (item): 8219 -> **8229**
+- Brown Wood Chestplate (item): 8220 -> **8230**
+- Brown Wood Leggings (item): 8221 -> **8231**
+- Brown Wood Boots (item): 8222 -> **8232**
+- Brown Wood Gauntlets (item): 8223 -> **8233**
+- Green Wood Helmet (item): 8224 -> **8234**
+- Green Wood Chestplate (item): 8225 -> **8235**
+- Green Wood Leggings (item): 8226 -> **8236**
+- Green Wood Boots (item): 8227 -> **8237**
+- Green Wood Gauntlets (item): 8228 -> **8238**
+- Red Wood Helmet (item): 8229 -> **8239**
+- Red Wood Chestplate (item): 8230 -> **8240**
+- Red Wood Leggings (item): 8231 -> **8241**
+- Red Wood Boots (item): 8232 -> **8242**
+- Red Wood Gauntlets (item): 8233 -> **8243**
+- Black Wood Helmet (item): 8234 -> **8244**
+- Black Wood Chestplate (item): 8235 -> **8245**
+- Black Wood Leggings (item): 8236 -> **8246**
+- Black Wood Boots (item): 8237 -> **8247**
+- Black Wood Gauntlets (item): 8238 -> **8248**
+- Shears (item): 8239 -> **8249**
+- Artisan Shears (item): 8240 -> **8250**
+- Stick (item): 8241 -> **8251**
+- Coal (item): 8242 -> **8252**
+- Raw Iron (item): 8243 -> **8253**
+- Iron Bar (item): 8244 -> **8254**
+- Iron Fragment (item): 8245 -> **8255**
+- Raw Gold (item): 8246 -> **8256**
+- Gold Bar (item): 8247 -> **8257**
+- Gold Fragment (item): 8248 -> **8258**
+- Diamond (item): 8249 -> **8259**
+- Diamond Fragment (item): 8250 -> **8260**
+- Moonstone (item): 8251 -> **8261**
+- Lunite (item): 8252 -> **8262**
+- Moonstone Fragment (item): 8253 -> **8263**
+- Bowl (item): 8254 -> **8264**
+- Partially Full Bowl of Cranberries (item): 8255 -> **8265**
+- Half Full Bowl of Cranberries (item): 8256 -> **8266**
+- Nearly Full Bowl of Cranberries (item): 8257 -> **8267**
+- Bowl of Cranberries (item): 8258 -> **8268**
+- Mushroom Soup (item): 8259 -> **8269**
+- Glowing Soup (item): 8260 -> **8270**
+- Night Vision Soup (item): 8261 -> **8271**
+- Cotton (item): 8262 -> **8272**
+- Gold Crop (item): 8263 -> **8273**
+- Bucket (item): 8264 -> **8274**
+- Water Bucket (item): 8265 -> **8275**
+- Lava Bucket (item): 8266 -> **8276**
+- Boat (item): 8267 -> **8277**
+- INTERNAL_MESH_Boat (item): 8268 -> **8278**
+- Obsidian Boat (item): 8269 -> **8279**
+- INTERNAL_MESH_Obsidian Boat (item): 8270 -> **8280**
+- Speedboat (item): 8271 -> **8281**
+- INTERNAL_MESH_Speedboat (item): 8272 -> **8282**
+- Wood Hang Glider (item): 8273 -> **8283**
+- INTERNAL_MESH_Wood Hang Glider (item): 8274 -> **8284**
+- Iron Hang Glider (item): 8275 -> **8285**
+- INTERNAL_MESH_Iron Hang Glider (item): 8276 -> **8286**
+- Gold Hang Glider (item): 8277 -> **8287**
+- INTERNAL_MESH_Gold Hang Glider (item): 8278 -> **8288**
+- Diamond Hang Glider (item): 8279 -> **8289**
+- INTERNAL_MESH_Diamond Hang Glider (item): 8280 -> **8290**
+- Hovercraft (item): 8281 -> **8291**
+- INTERNAL_MESH_Hovercraft (item): 8282 -> **8292**
+- Yellow Kart (item): 8283 -> **8293**
+- White Kart (item): 8284 -> **8294**
+- Red Kart (item): 8285 -> **8295**
+- Purple Kart (item): 8286 -> **8296**
+- Pink Kart (item): 8287 -> **8297**
+- Orange Kart (item): 8288 -> **8298**
+- Magenta Kart (item): 8289 -> **8299**
+- Lime Kart (item): 8290 -> **8300**
+- Light Gray Kart (item): 8291 -> **8301**
+- Light Blue Kart (item): 8292 -> **8302**
+- Green Kart (item): 8293 -> **8303**
+- Gray Kart (item): 8294 -> **8304**
+- Cyan Kart (item): 8295 -> **8305**
+- Brown Kart (item): 8296 -> **8306**
+- Blue Kart (item): 8297 -> **8307**
+- Black Kart (item): 8298 -> **8308**
+- INTERNAL_MESH_Yellow Kart (item): 8299 -> **8309**
+- INTERNAL_MESH_White Kart (item): 8300 -> **8310**
+- INTERNAL_MESH_Red Kart (item): 8301 -> **8311**
+- INTERNAL_MESH_Purple Kart (item): 8302 -> **8312**
+- INTERNAL_MESH_Pink Kart (item): 8303 -> **8313**
+- INTERNAL_MESH_Orange Kart (item): 8304 -> **8314**
+- INTERNAL_MESH_Magenta Kart (item): 8305 -> **8315**
+- INTERNAL_MESH_Lime Kart (item): 8306 -> **8316**
+- INTERNAL_MESH_Light Gray Kart (item): 8307 -> **8317**
+- INTERNAL_MESH_Light Blue Kart (item): 8308 -> **8318**
+- INTERNAL_MESH_Green Kart (item): 8309 -> **8319**
+- INTERNAL_MESH_Gray Kart (item): 8310 -> **8320**
+- INTERNAL_MESH_Cyan Kart (item): 8311 -> **8321**
+- INTERNAL_MESH_Brown Kart (item): 8312 -> **8322**
+- INTERNAL_MESH_Blue Kart (item): 8313 -> **8323**
+- INTERNAL_MESH_Black Kart (item): 8314 -> **8324**
+- Off Roader (item): 8315 -> **8325**
+- INTERNAL_MESH_Off Roader (item): 8316 -> **8326**
+- Gold Mining Drill (item): 8317 -> **8327**
+- Iron Mining Drill (item): 8318 -> **8328**
+- Diamond Mining Drill (item): 8319 -> **8329**
+- Moonstone Mining Drill (item): 8320 -> **8330**
+- Armored Car (item): 8321 -> **8331**
+- INTERNAL_MESH_Gold Mining Drill (item): 8322 -> **8332**
+- INTERNAL_MESH_Iron Mining Drill (item): 8323 -> **8333**
+- INTERNAL_MESH_Diamond Mining Drill (item): 8324 -> **8334**
+- INTERNAL_MESH_Moonstone Mining Drill (item): 8325 -> **8335**
+- INTERNAL_MESH_Armored Car (item): 8326 -> **8336**
+- Light Blue Car (item): 8327 -> **8337**
+- INTERNAL_MESH_Car (item): 8328 -> **8338**
+- Snowball (item): 8329 -> **8339**
+- Snowball Launcher (item): 8330 -> **8340**
+- Pebble (item): 8331 -> **8341**
+- Reinforced Pebble (item): 8332 -> **8342**
+- Bullet (item): 8333 -> **8343**
+- Ball (item): 8334 -> **8344**
+- Reinforced Ball (item): 8335 -> **8345**
+- Frag Grenade (item): 8336 -> **8346**
+- Mining Grenade (item): 8337 -> **8347**
+- Smoke Grenade (item): 8338 -> **8348**
+- Moonstone Orb (item): 8339 -> **8349**
+- Fireball (item): 8340 -> **8350**
+- Bouncy Bomb (item): 8341 -> **8351**
+- RPG (item): 8342 -> **8352**
+- Obby RPG (item): 8343 -> **8353**
+- Super RPG (item): 8344 -> **8354**
+- Grenade Launcher (item): 8345 -> **8355**
+- Iceball (item): 8346 -> **8356**
+- 67 Base Projectile (item): 8347 -> **8357**
+- 67 Boosted Projectile (item): 8348 -> **8358**
+- Capitano Grenade (item): 8349 -> **8359**
+- Scatter Pellet (item): 8350 -> **8360**
+- Wood Bow (item): 8351 -> **8361**
+- Wood Bow|meta|charging2 (item): 8352 -> **8362**
+- Wood Bow|meta|charging3 (item): 8353 -> **8363**
+- Wood Bow|meta|charging4 (item): 8354 -> **8364**
+- Stone Bow (item): 8355 -> **8365**
+- Stone Bow|meta|charging2 (item): 8356 -> **8366**
+- Stone Bow|meta|charging3 (item): 8357 -> **8367**
+- Stone Bow|meta|charging4 (item): 8358 -> **8368**
+- Iron Bow (item): 8359 -> **8369**
+- Iron Bow|meta|charging2 (item): 8360 -> **8370**
+- Iron Bow|meta|charging3 (item): 8361 -> **8371**
+- Iron Bow|meta|charging4 (item): 8362 -> **8372**
+- Gold Bow (item): 8363 -> **8373**
+- Gold Bow|meta|charging2 (item): 8364 -> **8374**
+- Gold Bow|meta|charging3 (item): 8365 -> **8375**
+- Gold Bow|meta|charging4 (item): 8366 -> **8376**
+- Diamond Bow (item): 8367 -> **8377**
+- Diamond Bow|meta|charging2 (item): 8368 -> **8378**
+- Diamond Bow|meta|charging3 (item): 8369 -> **8379**
+- Diamond Bow|meta|charging4 (item): 8370 -> **8380**
+- Wood Crossbow (item): 8371 -> **8381**
+- Wood Crossbow|meta|charging2 (item): 8372 -> **8382**
+- Wood Crossbow|meta|charging3 (item): 8373 -> **8383**
+- Wood Crossbow|meta|charging4 (item): 8374 -> **8384**
+- Stone Crossbow (item): 8375 -> **8385**
+- Stone Crossbow|meta|charging2 (item): 8376 -> **8386**
+- Stone Crossbow|meta|charging3 (item): 8377 -> **8387**
+- Stone Crossbow|meta|charging4 (item): 8378 -> **8388**
+- Iron Crossbow (item): 8379 -> **8389**
+- Iron Crossbow|meta|charging2 (item): 8380 -> **8390**
+- Iron Crossbow|meta|charging3 (item): 8381 -> **8391**
+- Iron Crossbow|meta|charging4 (item): 8382 -> **8392**
+- Gold Crossbow (item): 8383 -> **8393**
+- Gold Crossbow|meta|charging2 (item): 8384 -> **8394**
+- Gold Crossbow|meta|charging3 (item): 8385 -> **8395**
+- Gold Crossbow|meta|charging4 (item): 8386 -> **8396**
+- Diamond Crossbow (item): 8387 -> **8397**
+- Diamond Crossbow|meta|charging2 (item): 8388 -> **8398**
+- Diamond Crossbow|meta|charging3 (item): 8389 -> **8399**
+- Diamond Crossbow|meta|charging4 (item): 8390 -> **8400**
+- Wood Crossbow Charged (item): 8391 -> **8401**
+- Stone Crossbow Charged (item): 8392 -> **8402**
+- Iron Crossbow Charged (item): 8393 -> **8403**
+- Gold Crossbow Charged (item): 8394 -> **8404**
+- Diamond Crossbow Charged (item): 8395 -> **8405**
+- Arrow (item): 8396 -> **8406**
+- Compass (item): 8397 -> **8407**
+- Compass|meta|dir2 (item): 8398 -> **8408**
+- Compass|meta|dir3 (item): 8399 -> **8409**
+- ...and 1192 more
+
+</details>
+
+<details>
+<summary>Older changes</summary>
+
 - Run at: 2026-11-06T19:58:57.863Z
 - Bundle: https://bloxd.io/static/js/v98qt8.main.62d8d238.js
 - Entries: 9590 -> 9592
@@ -1347,6 +1680,8 @@
 - Compass|meta|dir2 (item): 8381 -> **8389**
 - Compass|meta|dir3 (item): 8382 -> **8390**
 - ...and 1147 more
+
+</details>
 
 </details>
 

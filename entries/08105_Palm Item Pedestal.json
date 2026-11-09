@@ -1,0 +1,21 @@
+{
+  "id": 8105,
+  "name": "Palm Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:palmItemPedestal",
+    "text": "Palm Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "palm_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Palm Item Pedestal",
+  "blockModelItem": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8106,
+  "name": "Pear Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pearItemPedestal",
+    "text": "Pear Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "pear_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Pear Item Pedestal",
+  "blockModelItem": true
+}

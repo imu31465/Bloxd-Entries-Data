@@ -1,0 +1,21 @@
+{
+  "id": 8107,
+  "name": "Cherry Item Pedestal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:cherryItemPedestal",
+    "text": "Cherry Item Pedestal"
+  },
+  "ttb": 960,
+  "harvestType": "wood",
+  "model": "CustomModel",
+  "itemTexture": "cherry_item_pedestal",
+  "heldItemScale": 4,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Cherry Item Pedestal",
+  "blockModelItem": true
+}
