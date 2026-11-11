@@ -24,6 +24,9 @@
     0.625
   ],
   "modelScale": 10,
+  "climbableInside": {
+    "upForceScalar": 0.95
+  },
   "customModelInfo": {
     "yOffset": -0.4375,
     "backFaceCulling": true

@@ -18,5 +18,5 @@
   "secondaryDamage": 250,
   "holdAsAiming": true,
   "hideAimingUI": true,
-  "fireInterval": 1000
+  "fireInterval": 1015
 }

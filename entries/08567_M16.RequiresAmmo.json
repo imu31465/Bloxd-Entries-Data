@@ -28,8 +28,9 @@
   ],
   "muzzleFlashScale": 1.5,
   "autoFireWithMouse": true,
-  "fireRate": 900,
+  "fireRate": 708,
   "cadenceMs": 66.66666666666667,
+  "equipDelay": 23,
   "reloadTime": 2300,
   "clipSize": 30,
   "tagSpeedMult": 0.8,
@@ -47,8 +48,8 @@
   "minKickback": 0.022,
   "maxKickback": 0.06,
   "kickbackRate": 10,
-  "msPerRound": 66.66666666666667,
-  "msPerRoundTouchScreen": 66.66666666666667,
+  "msPerRound": 84.7457627118644,
+  "msPerRoundTouchScreen": 84.7457627118644,
   "altYVelocityInaccuracy": 4,
   "altInaccuracyFromJump": 45
 }
