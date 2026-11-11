@@ -334,7 +334,13 @@ function findModuleMapBounds(source) {
 function findChunkMap(source) {
   const iu = source.search(/\.u=/);
   if (iu < 0) return null;
-  const seg = source.slice(iu, iu + 4000);
+  // 2026-11: bloxd.io grew past ~260 async chunks, so the .u= arrow function got longer
+  // than the old fixed 4000-char window and the regex stopped matching (no chunks were
+  // downloaded -> "Block registry not found"). Slice to the function's ".chunk.js"
+  // terminator instead of a fixed window, with a generous fallback.
+  let end = source.indexOf('.chunk.js"', iu);
+  if (end < 0 || end - iu > 100000) end = iu + 100000;
+  const seg = source.slice(iu, Math.min(end + 12, source.length));
   const m = seg.match(/^\.u=\(?[A-Za-z_$][\w$]*\)?=>("([^"]*)")\+\(?(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\|\|([A-Za-z_$][\w$]*)\)\+"\."\+(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\+"\.chunk\.js"/);
   if (!m) return null;
   let names, hashes;
@@ -412,6 +418,7 @@ async function loadModuleTable(mainPath, chunkFiles) {
   if (!bounds) throw new Error('webpack module map not found (bundle structure may have changed)');
   const modules = bounds.modules;
   let fromChunks = 0, broken = 0;
+  const chunkSrcs = []; // chunk texts are searched for the i18n / hardcoded-ID tables
   for (const f of chunkFiles) {
     try {
       const mod = await import(pathToFileURL(f).href);
@@ -419,6 +426,7 @@ async function loadModuleTable(mainPath, chunkFiles) {
         for (const [id, fn] of Object.entries(mod.modules)) {
           if (typeof fn === 'function' && modules[id] === undefined) { modules[id] = fn; fromChunks++; }
         }
+        try { chunkSrcs.push(fs.readFileSync(f, 'utf8')); } catch (_) {}
       }
     } catch (e) {
       broken++;
@@ -426,10 +434,10 @@ async function loadModuleTable(mainPath, chunkFiles) {
     }
   }
   logSub(`Module table: ${Object.keys(modules).length} modules` + (chunkFiles.length ? ` (main bundle + ${fromChunks} from ${chunkFiles.length - broken} chunks)` : ' (single bundle)'));
-  return { modules, mainSrc };
+  return { modules, mainSrc, chunkSrcs };
 }
 
-function createExtractor(mainSrc, modules) {
+function createExtractor(mainSrc, modules, chunkSrcs = []) {
   installBrowserStubs();
 
   if (!modules || Object.keys(modules).length === 0) throw new Error('webpack module map not found (bundle structure may have changed)');
@@ -559,39 +567,42 @@ function createExtractor(mainSrc, modules) {
     throw new Error('Item registry not found (candidate modules exhausted)');
   }
 
-  // Compare against the hardcoded ID table in the bundle (e.g. Mj={...}). Informational only in case it disappears in the future
+  // Compare against the hardcoded ID table in the bundle (e.g. Mj={...}). Informational only in case it disappears in the future.
+  // 2026-11: the table moved out of the main bundle into an async chunk -> search every source.
   function validateAgainstHardcodedMap(nameToId) {
     let mjCount = 0, mjMatch = 0;
     const mjMismatch = [];
     // the ID may drift between builds -> anchor on the name in table form ("name":<number>) and read the expected value from the table itself
-    const tableHit = mainSrc.match(/"Patterned Yellow Glass":(\d+)/);
-    if (!tableHit) { logSub('Hardcoded ID table not found; skipping comparison'); return null; }
-    const mi = tableHit.index;
-    const open = mainSrc.lastIndexOf('{', mi);
-    if (!mainSrc.slice(open + 1, open + 1 + 40).startsWith('"Patterned Yellow Glass"')) {
-      logSub('Hardcoded ID table has an unexpected shape; skipping comparison');
-      return null;
-    }
-    let depth = 0, inStr = null, mEnd = -1;
-    for (let i = open; i < mainSrc.length; i++) {
-      const c = mainSrc[i];
-      if (inStr) { if (c === '\\') i++; else if (c === inStr) inStr = null; continue; }
-      if (c === '"' || c === "'" || c === '`') { inStr = c; continue; }
-      if (c === '{') depth++;
-      else if (c === '}') { depth--; if (depth === 0) { mEnd = i; break; } }
-    }
-    try {
-      const Mj = new Function('return ' + mainSrc.slice(open, mEnd + 1))();
-      for (const [name, idv] of Object.entries(Mj)) {
-        mjCount++;
-        const base = name.split('|')[0];
-        const ourId = nameToId[name] !== undefined ? nameToId[name] : (nameToId[base] !== undefined ? nameToId[base] : null);
-        if (ourId === idv) mjMatch++;
-        else mjMismatch.push({ name, expected: idv, got: ourId });
+    for (const src of [mainSrc, ...chunkSrcs]) {
+      const tableHit = src.match(/"Patterned Yellow Glass":(\d+)/);
+      if (!tableHit) continue;
+      const mi = tableHit.index;
+      const open = src.lastIndexOf('{', mi);
+      if (!src.slice(open + 1, open + 1 + 40).startsWith('"Patterned Yellow Glass"')) continue; // wrong occurrence -> try other sources
+      let depth = 0, inStr = null, mEnd = -1;
+      for (let i = open; i < src.length; i++) {
+        const c = src[i];
+        if (inStr) { if (c === '\\') i++; else if (c === inStr) inStr = null; continue; }
+        if (c === '"' || c === "'" || c === '`') { inStr = c; continue; }
+        if (c === '{') depth++;
+        else if (c === '}') { depth--; if (depth === 0) { mEnd = i; break; } }
       }
-    } catch (e) { logSub(`Failed to parse hardcoded ID table: ${e.message}`); return null; }
-    logSub(`Hardcoded ID table comparison: ${mjMatch}/${mjCount} match${mjMismatch.length ? ' ' + JSON.stringify(mjMismatch.slice(0, 10)) : ''}`);
-    return { count: mjCount, match: mjMatch };
+      if (mEnd < 0) continue;
+      try {
+        const Mj = new Function('return ' + src.slice(open, mEnd + 1))();
+        for (const [name, idv] of Object.entries(Mj)) {
+          mjCount++;
+          const base = name.split('|')[0];
+          const ourId = nameToId[name] !== undefined ? nameToId[name] : (nameToId[base] !== undefined ? nameToId[base] : null);
+          if (ourId === idv) mjMatch++;
+          else mjMismatch.push({ name, expected: idv, got: ourId });
+        }
+      } catch (e) { logSub(`Failed to parse hardcoded ID table: ${e.message}`); continue; }
+      logSub(`Hardcoded ID table comparison: ${mjMatch}/${mjCount} match${mjMismatch.length ? ' ' + JSON.stringify(mjMismatch.slice(0, 10)) : ''}`);
+      return { count: mjCount, match: mjMatch };
+    }
+    logSub('Hardcoded ID table not found; skipping comparison');
+    return null;
   }
 
   return { src: mainSrc, modules, loadBlockRegistry, loadItemRegistries, registryMaxId, validateAgainstHardcodedMap };
@@ -611,7 +622,7 @@ function braceMatchFrom(source, open) {
   }
   return -1;
 }
-function findItemTranslations(source) {
+function findItemTranslationsInSource(source) {
   const patterns = [/"item":\{/g, /'item':\{/g, /item:\{/g];
   for (const re of patterns) {
     let m, best = null;
@@ -623,13 +634,27 @@ function findItemTranslations(source) {
       try { obj = new Function('return ' + source.slice(open, end + 1))(); } catch (_) { continue; }
       const keys = Object.keys(obj);
       if (keys.length < 100) continue;
-      if (obj.woodPickaxe !== undefined) return obj; // strong signal: well-known item key
+      if (obj.woodPickaxe !== undefined) return { obj, strong: true }; // strong signal: well-known item key
       const strVals = keys.filter((k) => typeof obj[k] === 'string').length;
       if (strVals / keys.length > 0.8 && (!best || keys.length > Object.keys(best).length)) best = obj;
     }
-    if (best) return best;
+    if (best) return { obj: best, strong: false };
   }
   return null;
+}
+
+// 2026-11: the English i18n table moved out of the main bundle into an async chunk, so
+// search every source (main first). A strong (woodPickaxe) hit in ANY source wins over
+// heuristic hits from earlier sources.
+function findItemTranslations(sources) {
+  let best = null;
+  for (const source of sources) {
+    const hit = findItemTranslationsInSource(source);
+    if (!hit) continue;
+    if (hit.strong) return hit.obj;
+    if (!best || Object.keys(hit.obj).length > Object.keys(best).length) best = hit.obj;
+  }
+  return best;
 }
 
 // ============================================================================
@@ -1205,12 +1230,12 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
 
   // ---------- 2. Extraction ----------
   logStep('Parsing the bundle and extracting registries');
-  const { modules, mainSrc } = await loadModuleTable(SRC_PATH, chunkFiles);
-  const itemNs = findItemTranslations(mainSrc);
+  const { modules, mainSrc, chunkSrcs } = await loadModuleTable(SRC_PATH, chunkFiles);
+  const itemNs = findItemTranslations([mainSrc, ...chunkSrcs]);
   if (itemNs) logSub(`English translation table: ${Object.keys(itemNs).length} keys`);
   else logSub('Warning: English translation table not found (displayName/description omitted)');
 
-  const extractor = createExtractor(mainSrc, modules);
+  const extractor = createExtractor(mainSrc, modules, chunkSrcs);
   logSub(`webpack modules: ${Object.keys(extractor.modules).length}`);
   const block = extractor.loadBlockRegistry();
   const blockRegistry = block.registry;
