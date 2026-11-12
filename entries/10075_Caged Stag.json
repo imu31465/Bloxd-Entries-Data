@@ -1,0 +1,19 @@
+{
+  "id": 10075,
+  "name": "Caged Stag",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cagedStag",
+    "text": "Caged Stag"
+  },
+  "description": {
+    "key": "item:cagedMobDescription",
+    "text": "Put it in a Mob Farm to farm its drops."
+  },
+  "type": "Item",
+  "textureInfo": "mob_cage_filled",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10058,
+  "name": "Core Tier 12",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coreTier12",
+    "text": "Atomic 2"
+  },
+  "description": {
+    "key": "item:coreTier12Description",
+    "text": "Reach Atomic 2 to make this."
+  },
+  "type": "Item",
+  "textureInfo": "core_tier_5",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

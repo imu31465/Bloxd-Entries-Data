@@ -1,0 +1,21 @@
+{
+  "id": 8250,
+  "name": "_Jetpack Back",
+  "kind": "block",
+  "displayName": {
+    "key": "item:jetChestplate",
+    "text": "Jetpack"
+  },
+  "description": {
+    "key": "item:jetChestplateDescription",
+    "text": "Wear it, then hold jump to fly for up to 90 s. No armour. Charges from your island's power. Made at the Tool Bench."
+  },
+  "ttb": 500000000000,
+  "textureInfo": "jetpack_back",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": 1425,
+  "stackable": true,
+  "showInCreativeInven": false
+}

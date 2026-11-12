@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "jungle_fence_gate",
-  "tK": [
+  "jso": [
     0.875,
     0,
     0.375,
@@ -32,7 +32,7 @@
     "rot": 3,
     "open": true
   },
-  "atlasIdx": 214,
+  "atlasIdx": 330,
   "stackable": true,
   "attachedTop": "_Jungle Fence Gate Top|meta|rot3|open"
 }

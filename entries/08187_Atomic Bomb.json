@@ -1,0 +1,34 @@
+{
+  "id": 8187,
+  "name": "Atomic Bomb",
+  "kind": "block",
+  "displayName": {
+    "key": "item:atomicBomb",
+    "text": "Atomic Bomb"
+  },
+  "description": {
+    "key": "item:atomicBombDescription",
+    "text": "Place it in the Wilds and run: 30 s later it clears land 64 blocks around. Ores survive. Made at the Atomic Bench."
+  },
+  "ttb": 50,
+  "textureInfo": [
+    "atomic_bomb_side",
+    "atomic_bomb_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "cuttable",
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1390,
+    1391
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

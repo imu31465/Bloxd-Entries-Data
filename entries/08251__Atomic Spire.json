@@ -1,0 +1,26 @@
+{
+  "id": 8251,
+  "name": "_Atomic Spire",
+  "kind": "block",
+  "displayName": {
+    "key": "item:atomicSpire",
+    "text": "Atomic Spire"
+  },
+  "description": {
+    "key": "item:atomicSpireDescription",
+    "text": "Your Core's spire, grown at an Atomic tier."
+  },
+  "ttb": 500000000000,
+  "textureInfo": "atomic_spire",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "KJ": [
+    5,
+    9,
+    2
+  ],
+  "atlasIdx": 1426,
+  "stackable": true,
+  "showInCreativeInven": false
+}

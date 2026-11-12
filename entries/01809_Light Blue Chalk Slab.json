@@ -20,7 +20,7 @@
   "textureInfo": "chalk_light_blue",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -36,7 +36,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Light Blue Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 849,
+  "atlasIdx": 965,
   "stackable": true,
   "slabFullBlock": "Light Blue Chalk"
 }

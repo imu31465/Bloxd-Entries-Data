@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "maple_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -20,7 +20,7 @@
     0.5,
     0.625
   ],
-  "atlasIdx": 211,
+  "atlasIdx": 327,
   "stackable": true,
   "canBePlacedOver": true
 }

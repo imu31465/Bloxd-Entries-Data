@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "palm_fence_gate",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0,
@@ -32,7 +32,7 @@
     "rot": 4,
     "open": true
   },
-  "atlasIdx": 473,
+  "atlasIdx": 589,
   "stackable": true,
   "attachedTop": "_Palm Fence Gate Top|meta|rot4|open"
 }

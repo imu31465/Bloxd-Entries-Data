@@ -1,0 +1,15 @@
+{
+  "id": 9315,
+  "name": "Caught Mob Cow Cream",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_cow_cream",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Cow Cream",
+    "rootId": 9315,
+    "caughtMobType": "Cow"
+  }
+}

@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0.5,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    526,
-    524
+    642,
+    640
   ],
   "stackable": true,
   "slabFullBlock": "Pear Wood Planks"

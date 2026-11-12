@@ -1,0 +1,36 @@
+{
+  "id": 8540,
+  "name": "Nova Trophy",
+  "kind": "block",
+  "displayName": {
+    "key": "item:novaTrophy",
+    "text": "Nova Trophy"
+  },
+  "description": {
+    "key": "item:novaTrophyDescription",
+    "text": "For reaching the end of the Atomic Age. Place it where visitors can see it."
+  },
+  "ttb": 2000,
+  "harvestType": "rock",
+  "model": "rotatable",
+  "itemTexture": "nova_trophy",
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Nova Trophy",
+    "rootId": 8540,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Nova Trophy|meta|rot1",
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "KJ": [
+    4,
+    10,
+    5
+  ],
+  "stackable": true,
+  "blockModel": "Nova Trophy",
+  "showInCreativeInven": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": 8206,
+  "name": "_Collider Focus|meta|rot4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:collider",
+    "text": "Collider"
+  },
+  "description": {
+    "key": "item:colliderDescription",
+    "text": "Lasers aimed at it turn Star Alloy and Glow Dust into Nova Matter, which comes out of its base's front. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "collider_side_off",
+    "collider_top[rot[1",
+    "collider_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": null,
+  "meta": {
+    "rootName": "_Collider Focus",
+    "rootId": 8203,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1397,
+    1398,
+    1402
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

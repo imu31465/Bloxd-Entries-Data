@@ -20,7 +20,7 @@
   "textureInfo": "chalk_bricks_pink",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -41,6 +41,6 @@
     "rot": 2,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 860,
+  "atlasIdx": 976,
   "stackable": true
 }

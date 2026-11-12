@@ -1,0 +1,19 @@
+{
+  "id": 10052,
+  "name": "Deposit Seed (Uranium)",
+  "kind": "item",
+  "displayName": {
+    "key": "item:depositSeedUranium",
+    "text": "Deposit Seed (Uranium)"
+  },
+  "description": {
+    "key": "item:depositSeedUraniumDescription",
+    "text": "Plant it on your island to grow a Uranium Deposit."
+  },
+  "type": "Item",
+  "textureInfo": "deposit_seed_uranium",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

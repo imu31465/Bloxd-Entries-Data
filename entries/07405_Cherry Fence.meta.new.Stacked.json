@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "cherry_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -42,7 +42,7 @@
     "rootId": 7378,
     "metaStr": "meta|new|Stacked"
   },
-  "atlasIdx": 584,
+  "atlasIdx": 700,
   "stackable": true,
   "attachedTop": "_Cherry Fence Top|meta|new"
 }

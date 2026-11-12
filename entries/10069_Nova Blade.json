@@ -1,0 +1,23 @@
+{
+  "id": 10069,
+  "name": "Nova Blade",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaBlade",
+    "text": "Nova Blade"
+  },
+  "description": {
+    "key": "item:novaBladeDescription",
+    "text": "Swing to sweep the creatures in front of you. Sweeps that hit use island power. Made at the Tool Bench."
+  },
+  "type": "Tool",
+  "textureInfo": "nova_blade",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "stackable": false,
+  "damage": 50,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 1,
+  "showInCreativeInven": false
+}

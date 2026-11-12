@@ -1,0 +1,26 @@
+{
+  "id": 8252,
+  "name": "Isotope Comet Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:isotopeCometOre",
+    "text": "Isotope Comet Ore"
+  },
+  "description": {
+    "key": "item:isotopeCometOreDescription",
+    "text": "Green comet rock: mine it for Comet Shards. Raw Uranium comes from its Heart."
+  },
+  "ttb": 5000,
+  "textureInfo": "isotope_comet_ore",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 3,
+  "KJ": [
+    6,
+    10,
+    2
+  ],
+  "atlasIdx": 1427,
+  "stackable": true,
+  "showInCreativeInven": false
+}

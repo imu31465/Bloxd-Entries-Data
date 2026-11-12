@@ -1,0 +1,25 @@
+{
+  "id": 8177,
+  "name": "Reactor Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorGlass",
+    "text": "Reactor Glass"
+  },
+  "description": {
+    "key": "item:reactorGlassDescription",
+    "text": "A window in a reactor wall. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": "reactor_glass",
+  "harvestType": "rock",
+  "transTex": true,
+  "harvestLevel": 0,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": 1385,
+  "stackable": true,
+  "showInCreativeInven": false
+}

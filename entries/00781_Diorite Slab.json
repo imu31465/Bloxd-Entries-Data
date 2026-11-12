@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Diorite Slab|meta|rot1|bot",
   "atlasIdx": [
-    499,
-    226
+    615,
+    342
   ],
   "stackable": true,
   "slabFullBlock": "Diorite"

@@ -10,7 +10,7 @@
   "textureInfo": "green_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -26,7 +26,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Green Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 292,
+  "atlasIdx": 408,
   "stackable": true,
   "slabFullBlock": "Green Concrete"
 }

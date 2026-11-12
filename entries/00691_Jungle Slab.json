@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Jungle Slab|meta|rot1|bot",
   "atlasIdx": [
-    484,
-    214
+    600,
+    330
   ],
   "stackable": true,
   "slabFullBlock": "Jungle Wood Planks"

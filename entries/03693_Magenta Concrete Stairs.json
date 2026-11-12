@@ -10,7 +10,7 @@
   "textureInfo": "magenta_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Magenta Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 286,
+  "atlasIdx": 402,
   "stackable": true
 }

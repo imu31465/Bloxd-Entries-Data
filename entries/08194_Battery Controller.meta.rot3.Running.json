@@ -1,0 +1,54 @@
+{
+  "id": 8194,
+  "name": "Battery Controller|meta|rot3|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:batteryController",
+    "text": "Battery Controller"
+  },
+  "description": {
+    "key": "item:batteryControllerDescription",
+    "text": "No longer used: a Battery is Battery Cells alone."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    {
+      "animTextures": [
+        "battery_controller_front_running0",
+        "battery_controller_front_running1",
+        "battery_controller_front_running2",
+        "battery_controller_front_running3"
+      ],
+      "animationInterval": 250
+    },
+    "battery_casing"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Battery Controller",
+    "rootId": 8188,
+    "metaStr": "meta|rot3|Running",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    64,
+    1393
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

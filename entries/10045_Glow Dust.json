@@ -1,0 +1,19 @@
+{
+  "id": 10045,
+  "name": "Glow Dust",
+  "kind": "item",
+  "displayName": {
+    "key": "item:glowDust",
+    "text": "Glow Dust"
+  },
+  "description": {
+    "key": "item:glowDustDescription",
+    "text": "Crushed from Spent Pellets."
+  },
+  "type": "Item",
+  "textureInfo": "glow_dust",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

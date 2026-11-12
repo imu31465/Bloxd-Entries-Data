@@ -8,7 +8,7 @@
   },
   "description": {
     "key": "item:storageSiloDescription",
-    "text": "Holds up to 4096 of one item. Belt items in, or tap it with an empty hand to take a stack. Made at the Machine Bench."
+    "text": "Holds up to 4,096 of one item. Belt items in or tap it with a stack to store it; tap it with an empty hand to take a stack. Made at the Machine Bench."
   },
   "ttb": 1500,
   "textureInfo": [
@@ -27,8 +27,8 @@
   "harvestLevel": 0,
   "altActionable": true,
   "atlasIdx": [
-    1112,
-    1113
+    1228,
+    1229
   ],
   "stackable": true,
   "showInCreativeInven": false

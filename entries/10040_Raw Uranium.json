@@ -1,0 +1,19 @@
+{
+  "id": 10040,
+  "name": "Raw Uranium",
+  "kind": "item",
+  "displayName": {
+    "key": "item:rawUranium",
+    "text": "Raw Uranium"
+  },
+  "description": {
+    "key": "item:rawUraniumDescription",
+    "text": "Crush it into Uranium Grit."
+  },
+  "type": "Item",
+  "textureInfo": "raw_uranium",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

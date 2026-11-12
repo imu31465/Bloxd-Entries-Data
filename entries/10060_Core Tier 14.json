@@ -1,0 +1,19 @@
+{
+  "id": 10060,
+  "name": "Core Tier 14",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coreTier14",
+    "text": "Atomic 4"
+  },
+  "description": {
+    "key": "item:coreTier14Description",
+    "text": "Reach Atomic 4 to make this."
+  },
+  "type": "Item",
+  "textureInfo": "core_tier_5",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

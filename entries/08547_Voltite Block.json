@@ -1,0 +1,25 @@
+{
+  "id": 8547,
+  "name": "Voltite Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:voltiteBlock",
+    "text": "Voltite Block"
+  },
+  "description": {
+    "key": "item:voltiteBlockDescription",
+    "text": "Nine Voltite Dust packed into a glowing block. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": "voltite_block",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "KJ": [
+    2,
+    6,
+    6
+  ],
+  "atlasIdx": 1443,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "maple_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -42,7 +42,7 @@
     "rootId": 6994,
     "metaStr": "meta|nsw|Stacked"
   },
-  "atlasIdx": 211,
+  "atlasIdx": 327,
   "stackable": true,
   "attachedTop": "_Maple Fence Top|meta|nsw"
 }

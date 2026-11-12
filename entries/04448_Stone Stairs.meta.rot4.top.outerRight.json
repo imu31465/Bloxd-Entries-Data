@@ -10,7 +10,7 @@
   "textureInfo": "stone",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 1,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 224,
+  "atlasIdx": 340,
   "stackable": true
 }

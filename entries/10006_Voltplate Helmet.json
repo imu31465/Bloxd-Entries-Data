@@ -1,0 +1,20 @@
+{
+  "id": 10006,
+  "name": "Voltplate Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:voltplateHelmet",
+    "text": "Voltplate Helmet"
+  },
+  "description": {
+    "key": "item:voltplateHelmetDescription",
+    "text": "Armour. In the Wilds: see in the dark. Made at the Tool Bench."
+  },
+  "type": "Armour",
+  "textureInfo": "voltplate_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.14,
+  "showInCreativeInven": false
+}

@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -48,8 +48,8 @@
   },
   "rootMetaDesc": "Red Chalk Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    874,
-    858
+    990,
+    974
   ],
   "stackable": true,
   "slabFullBlock": "Red Chalk Bricks"

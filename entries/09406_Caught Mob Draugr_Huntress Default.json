@@ -1,0 +1,15 @@
+{
+  "id": 9406,
+  "name": "Caught Mob Draugr_Huntress Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_huntress_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Huntress Default",
+    "rootId": 9406,
+    "caughtMobType": "Draugr Huntress"
+  }
+}

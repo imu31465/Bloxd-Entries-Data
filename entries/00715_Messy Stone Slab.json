@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Messy Stone Slab|meta|rot1|bot",
   "atlasIdx": [
-    488,
-    223
+    604,
+    339
   ],
   "stackable": true,
   "slabFullBlock": "Messy Stone"

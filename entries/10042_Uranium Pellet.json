@@ -1,0 +1,19 @@
+{
+  "id": 10042,
+  "name": "Uranium Pellet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:uraniumPellet",
+    "text": "Uranium Pellet"
+  },
+  "description": {
+    "key": "item:uraniumPelletDescription",
+    "text": "Reactor fuel. Made in a Centrifuge."
+  },
+  "type": "Item",
+  "textureInfo": "uranium_pellet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

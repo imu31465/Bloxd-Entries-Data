@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "mango_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -36,7 +36,7 @@
     "rootId": 7474,
     "metaStr": "meta|nw|Stacked"
   },
-  "atlasIdx": 893,
+  "atlasIdx": 1009,
   "stackable": true,
   "attachedTop": "_Mango Fence Top|meta|nw"
 }

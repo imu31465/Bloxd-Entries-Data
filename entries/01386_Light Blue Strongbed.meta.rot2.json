@@ -10,7 +10,7 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "light_blue_strongbed",
-  "tK": [
+  "jso": [
     0,
     0,
     0,

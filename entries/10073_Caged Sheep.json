@@ -1,0 +1,19 @@
+{
+  "id": 10073,
+  "name": "Caged Sheep",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cagedSheep",
+    "text": "Caged Sheep"
+  },
+  "description": {
+    "key": "item:cagedMobDescription",
+    "text": "Put it in a Mob Farm to farm its drops."
+  },
+  "type": "Item",
+  "textureInfo": "mob_cage_filled",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

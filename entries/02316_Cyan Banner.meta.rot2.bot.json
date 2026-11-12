@@ -11,7 +11,7 @@
   "model": "rotatable",
   "itemTexture": "banner_cyan",
   "solid": false,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0,

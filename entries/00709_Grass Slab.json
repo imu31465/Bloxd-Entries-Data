@@ -21,7 +21,7 @@
   ],
   "harvestType": "granule",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Grass Slab|meta|rot1|bot",
   "atlasIdx": [
-    487,
-    200
+    603,
+    316
   ],
   "stackable": true,
   "slabFullBlock": "Grass Block"

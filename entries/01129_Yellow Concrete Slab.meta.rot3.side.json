@@ -10,7 +10,7 @@
   "textureInfo": "yellow_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0.5,
@@ -25,7 +25,7 @@
     "rot": 3,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 293,
+  "atlasIdx": 409,
   "stackable": true,
   "slabFullBlock": "Yellow Concrete"
 }

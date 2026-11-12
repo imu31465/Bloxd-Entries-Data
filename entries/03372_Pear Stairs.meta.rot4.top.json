@@ -10,7 +10,7 @@
   "textureInfo": "planks_pear",
   "harvestType": "wood",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 524,
+  "atlasIdx": 640,
   "stackable": true
 }

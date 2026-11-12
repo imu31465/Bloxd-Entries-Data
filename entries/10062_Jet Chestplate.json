@@ -1,0 +1,20 @@
+{
+  "id": 10062,
+  "name": "Jet Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:jetChestplate",
+    "text": "Jetpack"
+  },
+  "description": {
+    "key": "item:jetChestplateDescription",
+    "text": "Wear it, then hold jump to fly for up to 90 s. No armour. Charges from your island's power. Made at the Tool Bench."
+  },
+  "type": "Armour",
+  "textureInfo": "jetpack",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0,
+  "showInCreativeInven": false
+}

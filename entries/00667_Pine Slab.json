@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Pine Slab|meta|rot1|bot",
   "atlasIdx": [
-    480,
-    215
+    596,
+    331
   ],
   "stackable": true,
   "slabFullBlock": "Pine Wood Planks"

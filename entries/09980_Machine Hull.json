@@ -1,0 +1,19 @@
+{
+  "id": 9980,
+  "name": "Machine Hull",
+  "kind": "item",
+  "displayName": {
+    "key": "item:machineHull",
+    "text": "Machine Hull"
+  },
+  "description": {
+    "key": "item:machineHullDescription",
+    "text": "The frame of most machines, the Starframe and the Forge Hopper. Made at the Parts Bench."
+  },
+  "type": "Item",
+  "textureInfo": "machine_hull",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

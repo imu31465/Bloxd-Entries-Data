@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Spectral Slab|meta|rot1|bot",
   "atlasIdx": [
-    832,
-    830
+    948,
+    946
   ],
   "stackable": true,
   "slabFullBlock": "Spectral Wood Planks"

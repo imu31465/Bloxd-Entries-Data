@@ -1,0 +1,19 @@
+{
+  "id": 10048,
+  "name": "Containment Plate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:containmentPlate",
+    "text": "Containment Plate"
+  },
+  "description": {
+    "key": "item:containmentPlateDescription",
+    "text": "The plate reactor and Battery parts are made from. Made at the Parts Bench or by an Assembler."
+  },
+  "type": "Item",
+  "textureInfo": "containment_plate",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

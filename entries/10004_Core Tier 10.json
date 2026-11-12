@@ -1,0 +1,19 @@
+{
+  "id": 10004,
+  "name": "Core Tier 10",
+  "kind": "item",
+  "displayName": {
+    "key": "item:coreTier10",
+    "text": "Starwright Stage 5"
+  },
+  "description": {
+    "key": "item:coreTier10Description",
+    "text": "Reach Starwright stage 5 to make this."
+  },
+  "type": "Item",
+  "textureInfo": "core_tier_5",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

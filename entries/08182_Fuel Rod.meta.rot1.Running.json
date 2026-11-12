@@ -1,0 +1,53 @@
+{
+  "id": 8182,
+  "name": "Fuel Rod|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fuelRod",
+    "text": "Fuel Rod"
+  },
+  "description": {
+    "key": "item:fuelRodDescription",
+    "text": "Inside a reactor, burns Pellets for heat: each Fuel Rod or Graphite Block beside it makes it hotter. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "fuel_rod0",
+    {
+      "animTextures": [
+        "fuel_rod0",
+        "fuel_rod1",
+        "fuel_rod2",
+        "fuel_rod3"
+      ],
+      "animationInterval": 250
+    }
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Fuel Rod",
+    "rootId": 8181,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "KJ": [
+    5,
+    9,
+    2
+  ],
+  "atlasIdx": [
+    62,
+    62
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

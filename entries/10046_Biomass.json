@@ -1,0 +1,19 @@
+{
+  "id": 10046,
+  "name": "Biomass",
+  "kind": "item",
+  "displayName": {
+    "key": "item:biomass",
+    "text": "Biomass"
+  },
+  "description": {
+    "key": "item:biomassDescription",
+    "text": "Crushed from plants or mob drops. A Smelter makes Fertiliser of it, a Synthesizer plants, a Coolant Mixer Cryo Coolant."
+  },
+  "type": "Item",
+  "textureInfo": "biomass",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

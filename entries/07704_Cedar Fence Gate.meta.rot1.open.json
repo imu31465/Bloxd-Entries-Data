@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "cedar_fence_gate",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,7 +32,7 @@
     "rot": 1,
     "open": true
   },
-  "atlasIdx": 216,
+  "atlasIdx": 332,
   "stackable": true,
   "attachedTop": "_Cedar Fence Gate Top|meta|rot1|open"
 }

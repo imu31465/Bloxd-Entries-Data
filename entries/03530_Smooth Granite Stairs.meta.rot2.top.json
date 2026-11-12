@@ -10,7 +10,7 @@
   "textureInfo": "stone_granite_smooth",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -31,6 +31,6 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 231,
+  "atlasIdx": 347,
   "stackable": true
 }

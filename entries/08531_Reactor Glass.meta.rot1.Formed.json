@@ -1,0 +1,44 @@
+{
+  "id": 8531,
+  "name": "Reactor Glass|meta|rot1|Formed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorGlass",
+    "text": "Reactor Glass"
+  },
+  "description": {
+    "key": "item:reactorGlassDescription",
+    "text": "A window in a reactor wall. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "reactor_base",
+    "reactor_base_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Reactor Glass",
+    "rootId": 8177,
+    "metaStr": "meta|rot1|Formed",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": [
+    1437,
+    1438
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

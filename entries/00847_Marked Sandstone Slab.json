@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Marked Sandstone Slab|meta|rot1|bot",
   "atlasIdx": [
-    509,
-    453
+    625,
+    569
   ],
   "stackable": true,
   "slabFullBlock": "Marked Sandstone"

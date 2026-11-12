@@ -1,0 +1,56 @@
+{
+  "id": 8138,
+  "name": "Synthesizer",
+  "kind": "block",
+  "displayName": {
+    "key": "item:synthesizer",
+    "text": "Synthesizer"
+  },
+  "description": {
+    "key": "item:synthesizerDescription",
+    "text": "Grows plants from Biomass and piped water. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "output",
+    "synthesizer_side",
+    "synthesizer_top[rot[1",
+    "synthesizer_top[rot[2",
+    "synthesizer_top[rot[3",
+    "synthesizer_top[rot[4",
+    "synthesizer_bottom",
+    "synthesizer_back",
+    "synthesizer_side_flip"
+  ],
+  "texturePerSide": [
+    1,
+    8,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Synthesizer",
+    "rootId": 8138,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Synthesizer|meta|rot1",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1350,
+    1367,
+    1368,
+    1369,
+    1370,
+    1371,
+    1372,
+    1373,
+    1374
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

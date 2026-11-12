@@ -1,0 +1,43 @@
+{
+  "id": 8112,
+  "name": "Sky Spring",
+  "kind": "block",
+  "displayName": {
+    "key": "item:skySpring",
+    "text": "Sky Spring"
+  },
+  "description": {
+    "key": "item:skySpringDescription",
+    "text": "An old spring. Nothing draws from it now."
+  },
+  "ttb": 6000,
+  "textureInfo": [
+    {
+      "animTextures": [
+        "sky_spring0",
+        "sky_spring1",
+        "sky_spring2",
+        "sky_spring3"
+      ],
+      "animationInterval": 250
+    },
+    "stone"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "atlasIdx": [
+    46,
+    340
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

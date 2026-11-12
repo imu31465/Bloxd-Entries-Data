@@ -1,0 +1,40 @@
+{
+  "id": 8530,
+  "name": "Reactor Frame|meta|rot1|Formed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorFrame",
+    "text": "Reactor Frame"
+  },
+  "description": {
+    "key": "item:reactorFrameDescription",
+    "text": "The edges of a reactor's shell. Place one on open ground to start a reactor, then build what its ghost shows; the Frame along its bottom shows its status lights. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "reactor_base",
+    "reactor_base_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Reactor Frame",
+    "rootId": 8175,
+    "metaStr": "meta|rot1|Formed",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "atlasIdx": [
+    1437,
+    1438
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

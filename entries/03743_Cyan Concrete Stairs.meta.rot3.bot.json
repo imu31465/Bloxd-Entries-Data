@@ -10,7 +10,7 @@
   "textureInfo": "cyan_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 283,
+  "atlasIdx": 399,
   "stackable": true
 }

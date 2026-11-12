@@ -10,7 +10,7 @@
   "textureInfo": "engraved_andesite",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 464,
+  "atlasIdx": 580,
   "stackable": true
 }

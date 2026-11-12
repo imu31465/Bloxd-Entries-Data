@@ -1,0 +1,34 @@
+{
+  "id": 8113,
+  "name": "Atomic Bench",
+  "kind": "block",
+  "displayName": {
+    "key": "item:atomicBench",
+    "text": "Atomic Bench"
+  },
+  "description": {
+    "key": "item:atomicBenchDescription",
+    "text": "Makes the blocks reactors and Batteries are built from; you build your first Battery at Atomic 2. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": [
+    "atomic_bench_side",
+    "atomic_bench_top"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ],
+  "harvestType": "wood",
+  "altActionable": true,
+  "atlasIdx": [
+    1345,
+    1346
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "spectral_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -37,7 +37,7 @@
     "rootId": 7458,
     "metaStr": "meta|sw"
   },
-  "atlasIdx": 830,
+  "atlasIdx": 946,
   "stackable": true,
   "canBePlacedOver": true
 }

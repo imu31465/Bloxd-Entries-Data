@@ -1,7 +1,631 @@
 # Extraction Change Log
 
-- Last check: 2026-11-11T17:15:20.801Z — bundle [`57cd8edd`](https://bloxd.io/static/js/7rp1w.main.57cd8edd.js): entries unchanged since the last update below.
-- 74 entry files changed (property values only; names and IDs untouched).
+- Run at: 2026-11-12T20:24:23.855Z
+- Bundle: https://bloxd.io/static/js/j3ktyq.main.3c8c7aed.js
+- Entries: 9602 -> 10080
+
+| Type | Count |
+|---|---|
+| Added | 478 |
+| Removed | 0 |
+| ID changed | 1492 |
+
+<details>
+<summary>Added (478)</summary>
+
+- Uranium Ore (block): **8110**
+- Uranium Deposit (block): **8111**
+- Sky Spring (block): **8112**
+- Atomic Bench (block): **8113**
+- Pump (block): **8114**
+- Pump|meta|rot2 (block): **8115**
+- Pump|meta|rot3 (block): **8116**
+- Pump|meta|rot4 (block): **8117**
+- Pump|meta|rot1|Running (block): **8118**
+- Pump|meta|rot2|Running (block): **8119**
+- Pump|meta|rot3|Running (block): **8120**
+- Pump|meta|rot4|Running (block): **8121**
+- Condenser (block): **8122**
+- Condenser|meta|rot2 (block): **8123**
+- Condenser|meta|rot3 (block): **8124**
+- Condenser|meta|rot4 (block): **8125**
+- Condenser|meta|rot1|Running (block): **8126**
+- Condenser|meta|rot2|Running (block): **8127**
+- Condenser|meta|rot3|Running (block): **8128**
+- Condenser|meta|rot4|Running (block): **8129**
+- Centrifuge (block): **8130**
+- Centrifuge|meta|rot2 (block): **8131**
+- Centrifuge|meta|rot3 (block): **8132**
+- Centrifuge|meta|rot4 (block): **8133**
+- Centrifuge|meta|rot1|Running (block): **8134**
+- Centrifuge|meta|rot2|Running (block): **8135**
+- Centrifuge|meta|rot3|Running (block): **8136**
+- Centrifuge|meta|rot4|Running (block): **8137**
+- Synthesizer (block): **8138**
+- Synthesizer|meta|rot2 (block): **8139**
+- Synthesizer|meta|rot3 (block): **8140**
+- Synthesizer|meta|rot4 (block): **8141**
+- Synthesizer|meta|rot1|Running (block): **8142**
+- Synthesizer|meta|rot2|Running (block): **8143**
+- Synthesizer|meta|rot3|Running (block): **8144**
+- Synthesizer|meta|rot4|Running (block): **8145**
+- Mob Farm (block): **8146**
+- Mob Farm|meta|rot2 (block): **8147**
+- Mob Farm|meta|rot3 (block): **8148**
+- Mob Farm|meta|rot4 (block): **8149**
+- Mob Farm|meta|rot1|Running (block): **8150**
+- Mob Farm|meta|rot2|Running (block): **8151**
+- Mob Farm|meta|rot3|Running (block): **8152**
+- Mob Farm|meta|rot4|Running (block): **8153**
+- Fluid Tank (block): **8154**
+- Reactor Controller (block): **8155**
+- Reactor Controller|meta|rot2 (block): **8156**
+- Reactor Controller|meta|rot3 (block): **8157**
+- Reactor Controller|meta|rot4 (block): **8158**
+- Reactor Controller|meta|rot1|Calm (block): **8159**
+- Reactor Controller|meta|rot2|Calm (block): **8160**
+- Reactor Controller|meta|rot3|Calm (block): **8161**
+- Reactor Controller|meta|rot4|Calm (block): **8162**
+- Reactor Controller|meta|rot1|Warm (block): **8163**
+- Reactor Controller|meta|rot2|Warm (block): **8164**
+- Reactor Controller|meta|rot3|Warm (block): **8165**
+- Reactor Controller|meta|rot4|Warm (block): **8166**
+- Reactor Controller|meta|rot1|Hot (block): **8167**
+- Reactor Controller|meta|rot2|Hot (block): **8168**
+- Reactor Controller|meta|rot3|Hot (block): **8169**
+- Reactor Controller|meta|rot4|Hot (block): **8170**
+- Reactor Controller|meta|rot1|Alarm (block): **8171**
+- Reactor Controller|meta|rot2|Alarm (block): **8172**
+- Reactor Controller|meta|rot3|Alarm (block): **8173**
+- Reactor Controller|meta|rot4|Alarm (block): **8174**
+- Reactor Frame (block): **8175**
+- Reactor Casing (block): **8176**
+- Reactor Glass (block): **8177**
+- Reactor Port (block): **8178**
+- Reactor Port|meta|rot1|Water (block): **8179**
+- Reactor Port|meta|rot1|Waste (block): **8180**
+- Fuel Rod (block): **8181**
+- Fuel Rod|meta|rot1|Running (block): **8182**
+- Graphite Block (block): **8183**
+- Coolant Channel (block): **8184**
+- Coolant Channel|meta|rot1|Running (block): **8185**
+- Reactor Slag (block): **8186**
+- Atomic Bomb (block): **8187**
+- Battery Controller (block): **8188**
+- Battery Controller|meta|rot2 (block): **8189**
+- Battery Controller|meta|rot3 (block): **8190**
+- Battery Controller|meta|rot4 (block): **8191**
+- Battery Controller|meta|rot1|Running (block): **8192**
+- Battery Controller|meta|rot2|Running (block): **8193**
+- Battery Controller|meta|rot3|Running (block): **8194**
+- Battery Controller|meta|rot4|Running (block): **8195**
+- Battery Casing (block): **8196**
+- Battery Cell (block): **8197**
+- Battery Cell|meta|rot1|Running (block): **8198**
+- Collider (block): **8199**
+- Collider|meta|rot2 (block): **8200**
+- Collider|meta|rot3 (block): **8201**
+- Collider|meta|rot4 (block): **8202**
+- _Collider Focus (block): **8203**
+- _Collider Focus|meta|rot2 (block): **8204**
+- _Collider Focus|meta|rot3 (block): **8205**
+- _Collider Focus|meta|rot4 (block): **8206**
+- _Collider Output (block): **8207**
+- _Collider Output|meta|rot2 (block): **8208**
+- _Collider Output|meta|rot3 (block): **8209**
+- _Collider Output|meta|rot4 (block): **8210**
+- Laser (block): **8211**
+- Laser|meta|rot2 (block): **8212**
+- Laser|meta|rot3 (block): **8213**
+- Laser|meta|rot4 (block): **8214**
+- Wireless Terminal (block): **8215**
+- Wireless Terminal|meta|rot2 (block): **8216**
+- Wireless Terminal|meta|rot3 (block): **8217**
+- Wireless Terminal|meta|rot4 (block): **8218**
+- Dense Silo (block): **8219**
+- Express Belt (block): **8220**
+- Express Belt|meta|rot2 (block): **8221**
+- Express Belt|meta|rot3 (block): **8222**
+- Express Belt|meta|rot4 (block): **8223**
+- Express Belt|meta|rot1|turnLeft (block): **8224**
+- Express Belt|meta|rot2|turnLeft (block): **8225**
+- Express Belt|meta|rot3|turnLeft (block): **8226**
+- Express Belt|meta|rot4|turnLeft (block): **8227**
+- Express Belt|meta|rot1|turnRight (block): **8228**
+- Express Belt|meta|rot2|turnRight (block): **8229**
+- Express Belt|meta|rot3|turnRight (block): **8230**
+- Express Belt|meta|rot4|turnRight (block): **8231**
+- Fast Loader (block): **8232**
+- Fast Loader|meta|rot2 (block): **8233**
+- Fast Loader|meta|rot3 (block): **8234**
+- Fast Loader|meta|rot4 (block): **8235**
+- Splitter|meta|rot1|leftFront (block): **8236**
+- Splitter|meta|rot2|leftFront (block): **8237**
+- Splitter|meta|rot3|leftFront (block): **8238**
+- Splitter|meta|rot4|leftFront (block): **8239**
+- Splitter|meta|rot1|frontRight (block): **8240**
+- Splitter|meta|rot2|frontRight (block): **8241**
+- Splitter|meta|rot3|frontRight (block): **8242**
+- Splitter|meta|rot4|frontRight (block): **8243**
+- Sorting Gate|meta|rot1|right (block): **8244**
+- Sorting Gate|meta|rot2|right (block): **8245**
+- Sorting Gate|meta|rot3|right (block): **8246**
+- Sorting Gate|meta|rot4|right (block): **8247**
+- Uranium Glass (block): **8248**
+- Glow Lamp (block): **8249**
+- _Jetpack Back (block): **8250**
+- _Atomic Spire (block): **8251**
+- Isotope Comet Ore (block): **8252**
+- Isotope Comet Heart (block): **8253**
+- Laser|meta|rot1|Running (block): **8254**
+- Laser|meta|rot2|Running (block): **8255**
+- Laser|meta|rot3|Running (block): **8256**
+- Laser|meta|rot4|Running (block): **8257**
+- _Collider Focus|meta|rot1|Running (block): **8258**
+- _Collider Focus|meta|rot2|Running (block): **8259**
+- _Collider Focus|meta|rot3|Running (block): **8260**
+- _Collider Focus|meta|rot4|Running (block): **8261**
+- Fluid Pipe (block): **8262**
+- Fluid Pipe|meta|conn|nx (block): **8263**
+- Fluid Pipe|meta|conn|ny (block): **8264**
+- Fluid Pipe|meta|conn|nx_ny (block): **8265**
+- Fluid Pipe|meta|conn|nz (block): **8266**
+- Fluid Pipe|meta|conn|nx_nz (block): **8267**
+- Fluid Pipe|meta|conn|ny_nz (block): **8268**
+- Fluid Pipe|meta|conn|nx_ny_nz (block): **8269**
+- Fluid Pipe|meta|conn|px (block): **8270**
+- Fluid Pipe|meta|conn|nx_px (block): **8271**
+- Fluid Pipe|meta|conn|ny_px (block): **8272**
+- Fluid Pipe|meta|conn|nx_ny_px (block): **8273**
+- Fluid Pipe|meta|conn|nz_px (block): **8274**
+- Fluid Pipe|meta|conn|nx_nz_px (block): **8275**
+- Fluid Pipe|meta|conn|ny_nz_px (block): **8276**
+- Fluid Pipe|meta|conn|nx_ny_nz_px (block): **8277**
+- Fluid Pipe|meta|conn|py (block): **8278**
+- Fluid Pipe|meta|conn|nx_py (block): **8279**
+- Fluid Pipe|meta|conn|ny_py (block): **8280**
+- Fluid Pipe|meta|conn|nx_ny_py (block): **8281**
+- Fluid Pipe|meta|conn|nz_py (block): **8282**
+- Fluid Pipe|meta|conn|nx_nz_py (block): **8283**
+- Fluid Pipe|meta|conn|ny_nz_py (block): **8284**
+- Fluid Pipe|meta|conn|nx_ny_nz_py (block): **8285**
+- Fluid Pipe|meta|conn|px_py (block): **8286**
+- Fluid Pipe|meta|conn|nx_px_py (block): **8287**
+- Fluid Pipe|meta|conn|ny_px_py (block): **8288**
+- Fluid Pipe|meta|conn|nx_ny_px_py (block): **8289**
+- Fluid Pipe|meta|conn|nz_px_py (block): **8290**
+- Fluid Pipe|meta|conn|nx_nz_px_py (block): **8291**
+- Fluid Pipe|meta|conn|ny_nz_px_py (block): **8292**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py (block): **8293**
+- Fluid Pipe|meta|conn|pz (block): **8294**
+- Fluid Pipe|meta|conn|nx_pz (block): **8295**
+- Fluid Pipe|meta|conn|ny_pz (block): **8296**
+- Fluid Pipe|meta|conn|nx_ny_pz (block): **8297**
+- Fluid Pipe|meta|conn|nz_pz (block): **8298**
+- Fluid Pipe|meta|conn|nx_nz_pz (block): **8299**
+- Fluid Pipe|meta|conn|ny_nz_pz (block): **8300**
+- Fluid Pipe|meta|conn|nx_ny_nz_pz (block): **8301**
+- Fluid Pipe|meta|conn|px_pz (block): **8302**
+- Fluid Pipe|meta|conn|nx_px_pz (block): **8303**
+- Fluid Pipe|meta|conn|ny_px_pz (block): **8304**
+- Fluid Pipe|meta|conn|nx_ny_px_pz (block): **8305**
+- Fluid Pipe|meta|conn|nz_px_pz (block): **8306**
+- Fluid Pipe|meta|conn|nx_nz_px_pz (block): **8307**
+- Fluid Pipe|meta|conn|ny_nz_px_pz (block): **8308**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_pz (block): **8309**
+- Fluid Pipe|meta|conn|py_pz (block): **8310**
+- Fluid Pipe|meta|conn|nx_py_pz (block): **8311**
+- Fluid Pipe|meta|conn|ny_py_pz (block): **8312**
+- Fluid Pipe|meta|conn|nx_ny_py_pz (block): **8313**
+- Fluid Pipe|meta|conn|nz_py_pz (block): **8314**
+- Fluid Pipe|meta|conn|nx_nz_py_pz (block): **8315**
+- Fluid Pipe|meta|conn|ny_nz_py_pz (block): **8316**
+- Fluid Pipe|meta|conn|nx_ny_nz_py_pz (block): **8317**
+- Fluid Pipe|meta|conn|px_py_pz (block): **8318**
+- Fluid Pipe|meta|conn|nx_px_py_pz (block): **8319**
+- Fluid Pipe|meta|conn|ny_px_py_pz (block): **8320**
+- Fluid Pipe|meta|conn|nx_ny_px_py_pz (block): **8321**
+- Fluid Pipe|meta|conn|nz_px_py_pz (block): **8322**
+- Fluid Pipe|meta|conn|nx_nz_px_py_pz (block): **8323**
+- Fluid Pipe|meta|conn|ny_nz_px_py_pz (block): **8324**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8325**
+- Coolant Mixer (block): **8326**
+- Coolant Mixer|meta|rot2 (block): **8327**
+- Coolant Mixer|meta|rot3 (block): **8328**
+- Coolant Mixer|meta|rot4 (block): **8329**
+- Coolant Mixer|meta|rot1|Running (block): **8330**
+- Coolant Mixer|meta|rot2|Running (block): **8331**
+- Coolant Mixer|meta|rot3|Running (block): **8332**
+- Coolant Mixer|meta|rot4|Running (block): **8333**
+- Coolant Pipe (block): **8334**
+- Coolant Pipe|meta|conn|nx (block): **8335**
+- Coolant Pipe|meta|conn|ny (block): **8336**
+- Coolant Pipe|meta|conn|nx_ny (block): **8337**
+- Coolant Pipe|meta|conn|nz (block): **8338**
+- Coolant Pipe|meta|conn|nx_nz (block): **8339**
+- Coolant Pipe|meta|conn|ny_nz (block): **8340**
+- Coolant Pipe|meta|conn|nx_ny_nz (block): **8341**
+- Coolant Pipe|meta|conn|px (block): **8342**
+- Coolant Pipe|meta|conn|nx_px (block): **8343**
+- Coolant Pipe|meta|conn|ny_px (block): **8344**
+- Coolant Pipe|meta|conn|nx_ny_px (block): **8345**
+- Coolant Pipe|meta|conn|nz_px (block): **8346**
+- Coolant Pipe|meta|conn|nx_nz_px (block): **8347**
+- Coolant Pipe|meta|conn|ny_nz_px (block): **8348**
+- Coolant Pipe|meta|conn|nx_ny_nz_px (block): **8349**
+- Coolant Pipe|meta|conn|py (block): **8350**
+- Coolant Pipe|meta|conn|nx_py (block): **8351**
+- Coolant Pipe|meta|conn|ny_py (block): **8352**
+- Coolant Pipe|meta|conn|nx_ny_py (block): **8353**
+- Coolant Pipe|meta|conn|nz_py (block): **8354**
+- Coolant Pipe|meta|conn|nx_nz_py (block): **8355**
+- Coolant Pipe|meta|conn|ny_nz_py (block): **8356**
+- Coolant Pipe|meta|conn|nx_ny_nz_py (block): **8357**
+- Coolant Pipe|meta|conn|px_py (block): **8358**
+- Coolant Pipe|meta|conn|nx_px_py (block): **8359**
+- Coolant Pipe|meta|conn|ny_px_py (block): **8360**
+- Coolant Pipe|meta|conn|nx_ny_px_py (block): **8361**
+- Coolant Pipe|meta|conn|nz_px_py (block): **8362**
+- Coolant Pipe|meta|conn|nx_nz_px_py (block): **8363**
+- Coolant Pipe|meta|conn|ny_nz_px_py (block): **8364**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py (block): **8365**
+- Coolant Pipe|meta|conn|pz (block): **8366**
+- Coolant Pipe|meta|conn|nx_pz (block): **8367**
+- Coolant Pipe|meta|conn|ny_pz (block): **8368**
+- Coolant Pipe|meta|conn|nx_ny_pz (block): **8369**
+- Coolant Pipe|meta|conn|nz_pz (block): **8370**
+- Coolant Pipe|meta|conn|nx_nz_pz (block): **8371**
+- Coolant Pipe|meta|conn|ny_nz_pz (block): **8372**
+- Coolant Pipe|meta|conn|nx_ny_nz_pz (block): **8373**
+- Coolant Pipe|meta|conn|px_pz (block): **8374**
+- Coolant Pipe|meta|conn|nx_px_pz (block): **8375**
+- Coolant Pipe|meta|conn|ny_px_pz (block): **8376**
+- Coolant Pipe|meta|conn|nx_ny_px_pz (block): **8377**
+- Coolant Pipe|meta|conn|nz_px_pz (block): **8378**
+- Coolant Pipe|meta|conn|nx_nz_px_pz (block): **8379**
+- Coolant Pipe|meta|conn|ny_nz_px_pz (block): **8380**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_pz (block): **8381**
+- Coolant Pipe|meta|conn|py_pz (block): **8382**
+- Coolant Pipe|meta|conn|nx_py_pz (block): **8383**
+- Coolant Pipe|meta|conn|ny_py_pz (block): **8384**
+- Coolant Pipe|meta|conn|nx_ny_py_pz (block): **8385**
+- Coolant Pipe|meta|conn|nz_py_pz (block): **8386**
+- Coolant Pipe|meta|conn|nx_nz_py_pz (block): **8387**
+- Coolant Pipe|meta|conn|ny_nz_py_pz (block): **8388**
+- Coolant Pipe|meta|conn|nx_ny_nz_py_pz (block): **8389**
+- Coolant Pipe|meta|conn|px_py_pz (block): **8390**
+- Coolant Pipe|meta|conn|nx_px_py_pz (block): **8391**
+- Coolant Pipe|meta|conn|ny_px_py_pz (block): **8392**
+- Coolant Pipe|meta|conn|nx_ny_px_py_pz (block): **8393**
+- Coolant Pipe|meta|conn|nz_px_py_pz (block): **8394**
+- Coolant Pipe|meta|conn|nx_nz_px_py_pz (block): **8395**
+- Coolant Pipe|meta|conn|ny_nz_px_py_pz (block): **8396**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8397**
+- Fluid Tank|meta|rot1|Fill1 (block): **8398**
+- Fluid Tank|meta|rot1|Fill2 (block): **8399**
+- Fluid Tank|meta|rot1|Fill3 (block): **8400**
+- Fluid Tank|meta|rot1|Fill4 (block): **8401**
+- Fluid Pipe|meta|conn|none|Full (block): **8402**
+- Fluid Pipe|meta|conn|nx|Full (block): **8403**
+- Fluid Pipe|meta|conn|ny|Full (block): **8404**
+- Fluid Pipe|meta|conn|nx_ny|Full (block): **8405**
+- Fluid Pipe|meta|conn|nz|Full (block): **8406**
+- Fluid Pipe|meta|conn|nx_nz|Full (block): **8407**
+- Fluid Pipe|meta|conn|ny_nz|Full (block): **8408**
+- Fluid Pipe|meta|conn|nx_ny_nz|Full (block): **8409**
+- ...and 178 more
+
+</details>
+
+<details>
+<summary>ID changed (1492)</summary>
+
+- Wood Pickaxe (item): 8110 -> **8548**
+- Stone Pickaxe (item): 8111 -> **8549**
+- Iron Pickaxe (item): 8112 -> **8550**
+- Gold Pickaxe (item): 8113 -> **8551**
+- Diamond Pickaxe (item): 8114 -> **8552**
+- Moonstone Pickaxe (item): 8115 -> **8553**
+- Golem Pickaxe (item): 8116 -> **8554**
+- Wood Axe (item): 8117 -> **8555**
+- Stone Axe (item): 8118 -> **8556**
+- Iron Axe (item): 8119 -> **8557**
+- Gold Axe (item): 8120 -> **8558**
+- Diamond Axe (item): 8121 -> **8559**
+- Moonstone Axe (item): 8122 -> **8560**
+- Artisan Axe (item): 8123 -> **8561**
+- Wood Spade (item): 8124 -> **8562**
+- Stone Spade (item): 8125 -> **8563**
+- Iron Spade (item): 8126 -> **8564**
+- Gold Spade (item): 8127 -> **8565**
+- Diamond Spade (item): 8128 -> **8566**
+- Wood Sword (item): 8129 -> **8567**
+- Stone Sword (item): 8130 -> **8568**
+- Iron Sword (item): 8131 -> **8569**
+- Gold Sword (item): 8132 -> **8570**
+- Diamond Sword (item): 8133 -> **8571**
+- Knight Sword (item): 8134 -> **8572**
+- Wood Hoe (item): 8135 -> **8573**
+- Stone Hoe (item): 8136 -> **8574**
+- Iron Hoe (item): 8137 -> **8575**
+- Gold Hoe (item): 8138 -> **8576**
+- Diamond Hoe (item): 8139 -> **8577**
+- Flashlight (item): 8140 -> **8578**
+- Mining Helmet (item): 8141 -> **8579**
+- Wood Helmet (item): 8142 -> **8580**
+- Iron Helmet (item): 8143 -> **8581**
+- Gold Helmet (item): 8144 -> **8582**
+- Diamond Helmet (item): 8145 -> **8583**
+- Wood Chestplate (item): 8146 -> **8584**
+- Iron Chestplate (item): 8147 -> **8585**
+- Gold Chestplate (item): 8148 -> **8586**
+- Diamond Chestplate (item): 8149 -> **8587**
+- Fur Chestplate (item): 8150 -> **8588**
+- Wood Leggings (item): 8151 -> **8589**
+- Iron Leggings (item): 8152 -> **8590**
+- Gold Leggings (item): 8153 -> **8591**
+- Diamond Leggings (item): 8154 -> **8592**
+- Wood Boots (item): 8155 -> **8593**
+- Iron Boots (item): 8156 -> **8594**
+- Gold Boots (item): 8157 -> **8595**
+- Diamond Boots (item): 8158 -> **8596**
+- Spiked Boots (item): 8159 -> **8597**
+- Wood Gauntlets (item): 8160 -> **8598**
+- Iron Gauntlets (item): 8161 -> **8599**
+- Gold Gauntlets (item): 8162 -> **8600**
+- Diamond Gauntlets (item): 8163 -> **8601**
+- Military Helmet (item): 8164 -> **8602**
+- Military Chestplate (item): 8165 -> **8603**
+- Military Gauntlets (item): 8166 -> **8604**
+- Military Leggings (item): 8167 -> **8605**
+- Military Boots (item): 8168 -> **8606**
+- White Wood Helmet (item): 8169 -> **8607**
+- White Wood Chestplate (item): 8170 -> **8608**
+- White Wood Leggings (item): 8171 -> **8609**
+- White Wood Boots (item): 8172 -> **8610**
+- White Wood Gauntlets (item): 8173 -> **8611**
+- Orange Wood Helmet (item): 8174 -> **8612**
+- Orange Wood Chestplate (item): 8175 -> **8613**
+- Orange Wood Leggings (item): 8176 -> **8614**
+- Orange Wood Boots (item): 8177 -> **8615**
+- Orange Wood Gauntlets (item): 8178 -> **8616**
+- Magenta Wood Helmet (item): 8179 -> **8617**
+- Magenta Wood Chestplate (item): 8180 -> **8618**
+- Magenta Wood Leggings (item): 8181 -> **8619**
+- Magenta Wood Boots (item): 8182 -> **8620**
+- Magenta Wood Gauntlets (item): 8183 -> **8621**
+- Light Blue Wood Helmet (item): 8184 -> **8622**
+- Light Blue Wood Chestplate (item): 8185 -> **8623**
+- Light Blue Wood Leggings (item): 8186 -> **8624**
+- Light Blue Wood Boots (item): 8187 -> **8625**
+- Light Blue Wood Gauntlets (item): 8188 -> **8626**
+- Yellow Wood Helmet (item): 8189 -> **8627**
+- Yellow Wood Chestplate (item): 8190 -> **8628**
+- Yellow Wood Leggings (item): 8191 -> **8629**
+- Yellow Wood Boots (item): 8192 -> **8630**
+- Yellow Wood Gauntlets (item): 8193 -> **8631**
+- Lime Wood Helmet (item): 8194 -> **8632**
+- Lime Wood Chestplate (item): 8195 -> **8633**
+- Lime Wood Leggings (item): 8196 -> **8634**
+- Lime Wood Boots (item): 8197 -> **8635**
+- Lime Wood Gauntlets (item): 8198 -> **8636**
+- Pink Wood Helmet (item): 8199 -> **8637**
+- Pink Wood Chestplate (item): 8200 -> **8638**
+- Pink Wood Leggings (item): 8201 -> **8639**
+- Pink Wood Boots (item): 8202 -> **8640**
+- Pink Wood Gauntlets (item): 8203 -> **8641**
+- Gray Wood Helmet (item): 8204 -> **8642**
+- Gray Wood Chestplate (item): 8205 -> **8643**
+- Gray Wood Leggings (item): 8206 -> **8644**
+- Gray Wood Boots (item): 8207 -> **8645**
+- Gray Wood Gauntlets (item): 8208 -> **8646**
+- Light Gray Wood Helmet (item): 8209 -> **8647**
+- Light Gray Wood Chestplate (item): 8210 -> **8648**
+- Light Gray Wood Leggings (item): 8211 -> **8649**
+- Light Gray Wood Boots (item): 8212 -> **8650**
+- Light Gray Wood Gauntlets (item): 8213 -> **8651**
+- Cyan Wood Helmet (item): 8214 -> **8652**
+- Cyan Wood Chestplate (item): 8215 -> **8653**
+- Cyan Wood Leggings (item): 8216 -> **8654**
+- Cyan Wood Boots (item): 8217 -> **8655**
+- Cyan Wood Gauntlets (item): 8218 -> **8656**
+- Purple Wood Helmet (item): 8219 -> **8657**
+- Purple Wood Chestplate (item): 8220 -> **8658**
+- Purple Wood Leggings (item): 8221 -> **8659**
+- Purple Wood Boots (item): 8222 -> **8660**
+- Purple Wood Gauntlets (item): 8223 -> **8661**
+- Blue Wood Helmet (item): 8224 -> **8662**
+- Blue Wood Chestplate (item): 8225 -> **8663**
+- Blue Wood Leggings (item): 8226 -> **8664**
+- Blue Wood Boots (item): 8227 -> **8665**
+- Blue Wood Gauntlets (item): 8228 -> **8666**
+- Brown Wood Helmet (item): 8229 -> **8667**
+- Brown Wood Chestplate (item): 8230 -> **8668**
+- Brown Wood Leggings (item): 8231 -> **8669**
+- Brown Wood Boots (item): 8232 -> **8670**
+- Brown Wood Gauntlets (item): 8233 -> **8671**
+- Green Wood Helmet (item): 8234 -> **8672**
+- Green Wood Chestplate (item): 8235 -> **8673**
+- Green Wood Leggings (item): 8236 -> **8674**
+- Green Wood Boots (item): 8237 -> **8675**
+- Green Wood Gauntlets (item): 8238 -> **8676**
+- Red Wood Helmet (item): 8239 -> **8677**
+- Red Wood Chestplate (item): 8240 -> **8678**
+- Red Wood Leggings (item): 8241 -> **8679**
+- Red Wood Boots (item): 8242 -> **8680**
+- Red Wood Gauntlets (item): 8243 -> **8681**
+- Black Wood Helmet (item): 8244 -> **8682**
+- Black Wood Chestplate (item): 8245 -> **8683**
+- Black Wood Leggings (item): 8246 -> **8684**
+- Black Wood Boots (item): 8247 -> **8685**
+- Black Wood Gauntlets (item): 8248 -> **8686**
+- Shears (item): 8249 -> **8687**
+- Artisan Shears (item): 8250 -> **8688**
+- Stick (item): 8251 -> **8689**
+- Coal (item): 8252 -> **8690**
+- Raw Iron (item): 8253 -> **8691**
+- Iron Bar (item): 8254 -> **8692**
+- Iron Fragment (item): 8255 -> **8693**
+- Raw Gold (item): 8256 -> **8694**
+- Gold Bar (item): 8257 -> **8695**
+- Gold Fragment (item): 8258 -> **8696**
+- Diamond (item): 8259 -> **8697**
+- Diamond Fragment (item): 8260 -> **8698**
+- Moonstone (item): 8261 -> **8699**
+- Lunite (item): 8262 -> **8700**
+- Moonstone Fragment (item): 8263 -> **8701**
+- Bowl (item): 8264 -> **8702**
+- Partially Full Bowl of Cranberries (item): 8265 -> **8703**
+- Half Full Bowl of Cranberries (item): 8266 -> **8704**
+- Nearly Full Bowl of Cranberries (item): 8267 -> **8705**
+- Bowl of Cranberries (item): 8268 -> **8706**
+- Mushroom Soup (item): 8269 -> **8707**
+- Glowing Soup (item): 8270 -> **8708**
+- Night Vision Soup (item): 8271 -> **8709**
+- Cotton (item): 8272 -> **8710**
+- Gold Crop (item): 8273 -> **8711**
+- Bucket (item): 8274 -> **8712**
+- Water Bucket (item): 8275 -> **8713**
+- Lava Bucket (item): 8276 -> **8714**
+- Boat (item): 8277 -> **8715**
+- INTERNAL_MESH_Boat (item): 8278 -> **8716**
+- Obsidian Boat (item): 8279 -> **8717**
+- INTERNAL_MESH_Obsidian Boat (item): 8280 -> **8718**
+- Speedboat (item): 8281 -> **8719**
+- INTERNAL_MESH_Speedboat (item): 8282 -> **8720**
+- Wood Hang Glider (item): 8283 -> **8721**
+- INTERNAL_MESH_Wood Hang Glider (item): 8284 -> **8722**
+- Iron Hang Glider (item): 8285 -> **8723**
+- INTERNAL_MESH_Iron Hang Glider (item): 8286 -> **8724**
+- Gold Hang Glider (item): 8287 -> **8725**
+- INTERNAL_MESH_Gold Hang Glider (item): 8288 -> **8726**
+- Diamond Hang Glider (item): 8289 -> **8727**
+- INTERNAL_MESH_Diamond Hang Glider (item): 8290 -> **8728**
+- Hovercraft (item): 8291 -> **8729**
+- INTERNAL_MESH_Hovercraft (item): 8292 -> **8730**
+- Yellow Kart (item): 8293 -> **8731**
+- White Kart (item): 8294 -> **8732**
+- Red Kart (item): 8295 -> **8733**
+- Purple Kart (item): 8296 -> **8734**
+- Pink Kart (item): 8297 -> **8735**
+- Orange Kart (item): 8298 -> **8736**
+- Magenta Kart (item): 8299 -> **8737**
+- Lime Kart (item): 8300 -> **8738**
+- Light Gray Kart (item): 8301 -> **8739**
+- Light Blue Kart (item): 8302 -> **8740**
+- Green Kart (item): 8303 -> **8741**
+- Gray Kart (item): 8304 -> **8742**
+- Cyan Kart (item): 8305 -> **8743**
+- Brown Kart (item): 8306 -> **8744**
+- Blue Kart (item): 8307 -> **8745**
+- Black Kart (item): 8308 -> **8746**
+- INTERNAL_MESH_Yellow Kart (item): 8309 -> **8747**
+- INTERNAL_MESH_White Kart (item): 8310 -> **8748**
+- INTERNAL_MESH_Red Kart (item): 8311 -> **8749**
+- INTERNAL_MESH_Purple Kart (item): 8312 -> **8750**
+- INTERNAL_MESH_Pink Kart (item): 8313 -> **8751**
+- INTERNAL_MESH_Orange Kart (item): 8314 -> **8752**
+- INTERNAL_MESH_Magenta Kart (item): 8315 -> **8753**
+- INTERNAL_MESH_Lime Kart (item): 8316 -> **8754**
+- INTERNAL_MESH_Light Gray Kart (item): 8317 -> **8755**
+- INTERNAL_MESH_Light Blue Kart (item): 8318 -> **8756**
+- INTERNAL_MESH_Green Kart (item): 8319 -> **8757**
+- INTERNAL_MESH_Gray Kart (item): 8320 -> **8758**
+- INTERNAL_MESH_Cyan Kart (item): 8321 -> **8759**
+- INTERNAL_MESH_Brown Kart (item): 8322 -> **8760**
+- INTERNAL_MESH_Blue Kart (item): 8323 -> **8761**
+- INTERNAL_MESH_Black Kart (item): 8324 -> **8762**
+- Off Roader (item): 8325 -> **8763**
+- INTERNAL_MESH_Off Roader (item): 8326 -> **8764**
+- Gold Mining Drill (item): 8327 -> **8765**
+- Iron Mining Drill (item): 8328 -> **8766**
+- Diamond Mining Drill (item): 8329 -> **8767**
+- Moonstone Mining Drill (item): 8330 -> **8768**
+- Armored Car (item): 8331 -> **8769**
+- INTERNAL_MESH_Gold Mining Drill (item): 8332 -> **8770**
+- INTERNAL_MESH_Iron Mining Drill (item): 8333 -> **8771**
+- INTERNAL_MESH_Diamond Mining Drill (item): 8334 -> **8772**
+- INTERNAL_MESH_Moonstone Mining Drill (item): 8335 -> **8773**
+- INTERNAL_MESH_Armored Car (item): 8336 -> **8774**
+- Light Blue Car (item): 8337 -> **8775**
+- INTERNAL_MESH_Car (item): 8338 -> **8776**
+- Snowball (item): 8339 -> **8777**
+- Snowball Launcher (item): 8340 -> **8778**
+- Pebble (item): 8341 -> **8779**
+- Reinforced Pebble (item): 8342 -> **8780**
+- Bullet (item): 8343 -> **8781**
+- Ball (item): 8344 -> **8782**
+- Reinforced Ball (item): 8345 -> **8783**
+- Frag Grenade (item): 8346 -> **8784**
+- Mining Grenade (item): 8347 -> **8785**
+- Smoke Grenade (item): 8348 -> **8786**
+- Moonstone Orb (item): 8349 -> **8787**
+- Fireball (item): 8350 -> **8788**
+- Bouncy Bomb (item): 8351 -> **8789**
+- RPG (item): 8352 -> **8790**
+- Obby RPG (item): 8353 -> **8791**
+- Super RPG (item): 8354 -> **8792**
+- Grenade Launcher (item): 8355 -> **8793**
+- Iceball (item): 8356 -> **8794**
+- 67 Base Projectile (item): 8357 -> **8795**
+- 67 Boosted Projectile (item): 8358 -> **8796**
+- Capitano Grenade (item): 8359 -> **8797**
+- Scatter Pellet (item): 8360 -> **8798**
+- Wood Bow (item): 8361 -> **8799**
+- Wood Bow|meta|charging2 (item): 8362 -> **8800**
+- Wood Bow|meta|charging3 (item): 8363 -> **8801**
+- Wood Bow|meta|charging4 (item): 8364 -> **8802**
+- Stone Bow (item): 8365 -> **8803**
+- Stone Bow|meta|charging2 (item): 8366 -> **8804**
+- Stone Bow|meta|charging3 (item): 8367 -> **8805**
+- Stone Bow|meta|charging4 (item): 8368 -> **8806**
+- Iron Bow (item): 8369 -> **8807**
+- Iron Bow|meta|charging2 (item): 8370 -> **8808**
+- Iron Bow|meta|charging3 (item): 8371 -> **8809**
+- Iron Bow|meta|charging4 (item): 8372 -> **8810**
+- Gold Bow (item): 8373 -> **8811**
+- Gold Bow|meta|charging2 (item): 8374 -> **8812**
+- Gold Bow|meta|charging3 (item): 8375 -> **8813**
+- Gold Bow|meta|charging4 (item): 8376 -> **8814**
+- Diamond Bow (item): 8377 -> **8815**
+- Diamond Bow|meta|charging2 (item): 8378 -> **8816**
+- Diamond Bow|meta|charging3 (item): 8379 -> **8817**
+- Diamond Bow|meta|charging4 (item): 8380 -> **8818**
+- Wood Crossbow (item): 8381 -> **8819**
+- Wood Crossbow|meta|charging2 (item): 8382 -> **8820**
+- Wood Crossbow|meta|charging3 (item): 8383 -> **8821**
+- Wood Crossbow|meta|charging4 (item): 8384 -> **8822**
+- Stone Crossbow (item): 8385 -> **8823**
+- Stone Crossbow|meta|charging2 (item): 8386 -> **8824**
+- Stone Crossbow|meta|charging3 (item): 8387 -> **8825**
+- Stone Crossbow|meta|charging4 (item): 8388 -> **8826**
+- Iron Crossbow (item): 8389 -> **8827**
+- Iron Crossbow|meta|charging2 (item): 8390 -> **8828**
+- Iron Crossbow|meta|charging3 (item): 8391 -> **8829**
+- Iron Crossbow|meta|charging4 (item): 8392 -> **8830**
+- Gold Crossbow (item): 8393 -> **8831**
+- Gold Crossbow|meta|charging2 (item): 8394 -> **8832**
+- Gold Crossbow|meta|charging3 (item): 8395 -> **8833**
+- Gold Crossbow|meta|charging4 (item): 8396 -> **8834**
+- Diamond Crossbow (item): 8397 -> **8835**
+- Diamond Crossbow|meta|charging2 (item): 8398 -> **8836**
+- Diamond Crossbow|meta|charging3 (item): 8399 -> **8837**
+- Diamond Crossbow|meta|charging4 (item): 8400 -> **8838**
+- Wood Crossbow Charged (item): 8401 -> **8839**
+- Stone Crossbow Charged (item): 8402 -> **8840**
+- Iron Crossbow Charged (item): 8403 -> **8841**
+- Gold Crossbow Charged (item): 8404 -> **8842**
+- Diamond Crossbow Charged (item): 8405 -> **8843**
+- Arrow (item): 8406 -> **8844**
+- Compass (item): 8407 -> **8845**
+- Compass|meta|dir2 (item): 8408 -> **8846**
+- Compass|meta|dir3 (item): 8409 -> **8847**
+- ...and 1192 more
+
+</details>
+
+<details>
+<summary>Older changes</summary>
 
 - Run at: 2026-11-09T19:13:26.574Z
 - Bundle: https://bloxd.io/static/js/trkzmh.main.ee8a864d.js
@@ -1683,6 +2307,8 @@
 - Compass|meta|dir2 (item): 8381 -> **8389**
 - Compass|meta|dir3 (item): 8382 -> **8390**
 - ...and 1147 more
+
+</details>
 
 </details>
 

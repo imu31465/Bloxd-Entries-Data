@@ -10,7 +10,7 @@
   "textureInfo": "planks_maple",
   "harvestType": "wood",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 211,
+  "atlasIdx": 327,
   "stackable": true
 }

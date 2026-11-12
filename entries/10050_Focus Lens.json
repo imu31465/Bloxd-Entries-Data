@@ -1,0 +1,19 @@
+{
+  "id": 10050,
+  "name": "Focus Lens",
+  "kind": "item",
+  "displayName": {
+    "key": "item:focusLens",
+    "text": "Focus Lens"
+  },
+  "description": {
+    "key": "item:focusLensDescription",
+    "text": "A part for Lasers and the Collider. Made at the Parts Bench or by an Assembler."
+  },
+  "type": "Item",
+  "textureInfo": "focus_lens",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

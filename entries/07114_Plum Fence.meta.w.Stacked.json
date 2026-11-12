@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "plum_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -30,7 +30,7 @@
     "rootId": 7090,
     "metaStr": "meta|w|Stacked"
   },
-  "atlasIdx": 213,
+  "atlasIdx": 329,
   "stackable": true,
   "attachedTop": "_Plum Fence Top|meta|w"
 }

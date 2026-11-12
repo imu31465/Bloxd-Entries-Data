@@ -1,0 +1,19 @@
+{
+  "id": 10051,
+  "name": "Nova Matter",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaMatter",
+    "text": "Nova Matter"
+  },
+  "description": {
+    "key": "item:novaMatterDescription",
+    "text": "Made in a Collider. Used for Nova gear."
+  },
+  "type": "Item",
+  "textureInfo": "nova_matter",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

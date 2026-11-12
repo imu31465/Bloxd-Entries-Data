@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0.5,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    508,
-    332
+    624,
+    448
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Sandstone"

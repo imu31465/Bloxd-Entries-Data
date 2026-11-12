@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0.5,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    498,
-    465
+    614,
+    581
   ],
   "stackable": true,
   "slabFullBlock": "Andesite Bricks"

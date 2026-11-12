@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "pear_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -43,7 +43,7 @@
     "rootId": 7362,
     "metaStr": "meta|nsw"
   },
-  "atlasIdx": 524,
+  "atlasIdx": 640,
   "stackable": true,
   "canBePlacedOver": true
 }

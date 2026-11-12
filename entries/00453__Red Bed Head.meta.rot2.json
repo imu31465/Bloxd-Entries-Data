@@ -7,7 +7,7 @@
   "model": "rotatable",
   "itemTexture": "red_bed",
   "drops": "Red Bed",
-  "tK": [
+  "jso": [
     0,
     0,
     0,

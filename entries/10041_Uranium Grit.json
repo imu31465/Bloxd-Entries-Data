@@ -1,0 +1,19 @@
+{
+  "id": 10041,
+  "name": "Uranium Grit",
+  "kind": "item",
+  "displayName": {
+    "key": "item:uraniumGrit",
+    "text": "Uranium Grit"
+  },
+  "description": {
+    "key": "item:uraniumGritDescription",
+    "text": "Spin it into Uranium Pellets in a Centrifuge."
+  },
+  "type": "Item",
+  "textureInfo": "uranium_grit",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

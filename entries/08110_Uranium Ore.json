@@ -1,0 +1,26 @@
+{
+  "id": 8110,
+  "name": "Uranium Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:uraniumOre",
+    "text": "Uranium Ore"
+  },
+  "description": {
+    "key": "item:uraniumOreDescription",
+    "text": "Deep Wilds ore (Y -78 to -98). Mine with an Iron Pickaxe or better."
+  },
+  "ttb": 5400,
+  "textureInfo": "uranium_ore",
+  "harvestType": "rock",
+  "drops": "Raw Uranium",
+  "harvestLevel": 3,
+  "KJ": [
+    5,
+    8,
+    1
+  ],
+  "atlasIdx": 1343,
+  "stackable": true,
+  "showInCreativeInven": false
+}

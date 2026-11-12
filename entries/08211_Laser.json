@@ -1,0 +1,54 @@
+{
+  "id": 8211,
+  "name": "Laser",
+  "kind": "block",
+  "displayName": {
+    "key": "item:laser",
+    "text": "Laser"
+  },
+  "description": {
+    "key": "item:laserDescription",
+    "text": "Place up to 4 round a Collider, level with its top and with a 2-block gap. Each one makes Nova Matter faster. Uses 5,000 power a second while firing. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "laser_front",
+    "laser_side",
+    "laser_side",
+    "laser_side",
+    "laser_side",
+    "laser_side",
+    "laser_side",
+    "laser_back"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Laser",
+    "rootId": 8211,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Laser|meta|rot1",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1403,
+    1404,
+    1404,
+    1404,
+    1404,
+    1404,
+    1404,
+    1405
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

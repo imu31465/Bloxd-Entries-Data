@@ -1,0 +1,19 @@
+{
+  "id": 10013,
+  "name": "Wood Handle",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodHandle",
+    "text": "Wood Handle"
+  },
+  "description": {
+    "key": "item:swordHandleDescription",
+    "text": "A sword part. Take a blade, guard and handle to the Forge Mother in Emberwatch to forge a sword."
+  },
+  "type": "Item",
+  "textureInfo": "wood_handle",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

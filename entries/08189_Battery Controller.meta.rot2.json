@@ -1,0 +1,41 @@
+{
+  "id": 8189,
+  "name": "Battery Controller|meta|rot2",
+  "kind": "block",
+  "displayName": {
+    "key": "item:batteryController",
+    "text": "Battery Controller"
+  },
+  "description": {
+    "key": "item:batteryControllerDescription",
+    "text": "No longer used: a Battery is Battery Cells alone."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "battery_controller_front",
+    "battery_casing"
+  ],
+  "texturePerSide": [
+    0,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Battery Controller",
+    "rootId": 8188,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1392,
+    1393
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

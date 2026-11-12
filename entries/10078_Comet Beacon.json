@@ -1,0 +1,19 @@
+{
+  "id": 10078,
+  "name": "Comet Beacon",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cometBeacon",
+    "text": "Comet Beacon"
+  },
+  "description": {
+    "key": "item:cometBeaconDescription",
+    "text": "Tap it in the Wilds to call down an Isotope Comet guarded by Irradiated Draugr. Keep it on you: it's used when the comet lands."
+  },
+  "type": "Item",
+  "textureInfo": "comet_beacon",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "palm_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -36,7 +36,7 @@
     "rootId": 7282,
     "metaStr": "meta|ns"
   },
-  "atlasIdx": 473,
+  "atlasIdx": 589,
   "stackable": true,
   "attachedTop": "_Palm Fence Top|meta|ns"
 }

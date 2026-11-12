@@ -1,0 +1,20 @@
+{
+  "id": 10063,
+  "name": "Nova Jet Chestplate",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaJetChestplate",
+    "text": "Nova Jetpack"
+  },
+  "description": {
+    "key": "item:novaJetChestplateDescription",
+    "text": "A Jetpack with a Nova Chestplate's armour and Barrier: hold jump to fly for up to 90 s. Charges from your island's power. Made at the Tool Bench."
+  },
+  "type": "Armour",
+  "textureInfo": "nova_jetpack",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.27,
+  "showInCreativeInven": false
+}

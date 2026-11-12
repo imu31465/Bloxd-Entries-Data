@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "cherry_fence_gate",
-  "tK": [
+  "jso": [
     0,
     0,
     0.375,
@@ -27,7 +27,7 @@
     "open": false
   },
   "rootMetaDesc": "Cherry Fence Gate|meta|rot1|closed",
-  "atlasIdx": 584,
+  "atlasIdx": 700,
   "stackable": true,
   "attachedTop": "_Cherry Fence Gate Top"
 }

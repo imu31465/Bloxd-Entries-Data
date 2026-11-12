@@ -20,7 +20,7 @@
   "textureInfo": "chalk_red",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0.5,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 4,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 842,
+  "atlasIdx": 958,
   "stackable": true,
   "slabFullBlock": "Red Chalk"
 }

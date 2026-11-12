@@ -1,0 +1,35 @@
+{
+  "id": 8219,
+  "name": "Dense Silo",
+  "kind": "block",
+  "displayName": {
+    "key": "item:denseSilo",
+    "text": "Dense Silo"
+  },
+  "description": {
+    "key": "item:denseSiloDescription",
+    "text": "Holds 131,072 of one item. Tap a Storage Silo with it to upgrade it, keeping what it holds. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "dense_silo_top",
+    "dense_silo_side"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1412,
+    1413
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8253,
+  "name": "Isotope Comet Heart",
+  "kind": "block",
+  "displayName": {
+    "key": "item:isotopeCometHeart",
+    "text": "Isotope Comet Heart"
+  },
+  "description": {
+    "key": "item:isotopeCometHeartDescription",
+    "text": "Break it with an Iron Pickaxe or better for a Comet Core, Raw Uranium and, from your own comet, a Deposit Seed (Uranium)."
+  },
+  "ttb": 18000,
+  "textureInfo": "isotope_comet_heart",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 3,
+  "KJ": [
+    6,
+    10,
+    2
+  ],
+  "atlasIdx": 1428,
+  "stackable": true,
+  "showInCreativeInven": false
+}

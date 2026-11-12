@@ -1,0 +1,19 @@
+{
+  "id": 9969,
+  "name": "Machine Parts",
+  "kind": "item",
+  "displayName": {
+    "key": "item:machineParts",
+    "text": "Machine Parts"
+  },
+  "description": {
+    "key": "item:machinePartsDescription",
+    "text": "Salvage from ruin chests in the Wilds. A Recycler turns them into useful items, like Relay Coils and Deposit Seeds."
+  },
+  "type": "Item",
+  "textureInfo": "machine_parts",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

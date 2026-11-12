@@ -1,0 +1,55 @@
+{
+  "id": 8328,
+  "name": "Coolant Mixer|meta|rot3",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coolantMixer",
+    "text": "Coolant Mixer"
+  },
+  "description": {
+    "key": "item:coolantMixerDescription",
+    "text": "Mixes water and Biomass into Cryo Coolant: pipe water into its sides, belt Biomass in or put it in its slot, and Cryo comes out its front. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "output",
+    "coolant_mixer_side",
+    "coolant_mixer_top[rot[1",
+    "coolant_mixer_top[rot[2",
+    "coolant_mixer_top[rot[3",
+    "coolant_mixer_top[rot[4",
+    "coolant_mixer_bottom",
+    "coolant_mixer_back",
+    "coolant_mixer_side_flip"
+  ],
+  "texturePerSide": [
+    8,
+    1,
+    4,
+    6,
+    7,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Coolant Mixer",
+    "rootId": 8326,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1350,
+    1429,
+    1430,
+    1431,
+    1432,
+    1433,
+    1434,
+    1435,
+    1436
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

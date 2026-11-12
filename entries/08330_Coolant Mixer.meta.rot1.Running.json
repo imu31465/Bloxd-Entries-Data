@@ -1,0 +1,84 @@
+{
+  "id": 8330,
+  "name": "Coolant Mixer|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coolantMixer",
+    "text": "Coolant Mixer"
+  },
+  "description": {
+    "key": "item:coolantMixerDescription",
+    "text": "Mixes water and Biomass into Cryo Coolant: pipe water into its sides, belt Biomass in or put it in its slot, and Cryo comes out its front. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "output",
+    {
+      "animTextures": [
+        "coolant_mixer_side_running0",
+        "coolant_mixer_side_running1",
+        "coolant_mixer_side_running2",
+        "coolant_mixer_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "coolant_mixer_top[rot[1",
+    "coolant_mixer_top[rot[2",
+    "coolant_mixer_top[rot[3",
+    "coolant_mixer_top[rot[4",
+    "coolant_mixer_bottom",
+    {
+      "animTextures": [
+        "coolant_mixer_back_running0",
+        "coolant_mixer_back_running1",
+        "coolant_mixer_back_running2",
+        "coolant_mixer_back_running3"
+      ],
+      "animationInterval": 250
+    },
+    {
+      "animTextures": [
+        "coolant_mixer_side_flip_running0",
+        "coolant_mixer_side_flip_running1",
+        "coolant_mixer_side_flip_running2",
+        "coolant_mixer_side_flip_running3"
+      ],
+      "animationInterval": 250
+    }
+  ],
+  "texturePerSide": [
+    1,
+    8,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Coolant Mixer",
+    "rootId": 8326,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    1350,
+    67,
+    1430,
+    1431,
+    1432,
+    1433,
+    1434,
+    68,
+    69
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

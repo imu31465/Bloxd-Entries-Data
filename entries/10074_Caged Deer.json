@@ -1,0 +1,19 @@
+{
+  "id": 10074,
+  "name": "Caged Deer",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cagedDeer",
+    "text": "Caged Deer"
+  },
+  "description": {
+    "key": "item:cagedMobDescription",
+    "text": "Put it in a Mob Farm to farm its drops."
+  },
+  "type": "Item",
+  "textureInfo": "mob_cage_filled",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

@@ -10,7 +10,7 @@
   "textureInfo": "mossy_cobblestone",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Mossy Stone Stairs|meta|rot1|bot",
-  "atlasIdx": 438,
+  "atlasIdx": 554,
   "stackable": true
 }

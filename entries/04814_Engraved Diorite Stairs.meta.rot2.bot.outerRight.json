@@ -10,7 +10,7 @@
   "textureInfo": "engraved_diorite",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 462,
+  "atlasIdx": 578,
   "stackable": true
 }

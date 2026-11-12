@@ -1,0 +1,19 @@
+{
+  "id": 10044,
+  "name": "Spent Pellet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spentPellet",
+    "text": "Spent Pellet"
+  },
+  "description": {
+    "key": "item:spentPelletDescription",
+    "text": "What a reactor leaves of its fuel. Spin it into Plutonium or crush it into Glow Dust."
+  },
+  "type": "Item",
+  "textureInfo": "spent_pellet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

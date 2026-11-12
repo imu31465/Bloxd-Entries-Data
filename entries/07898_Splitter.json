@@ -8,7 +8,7 @@
   },
   "description": {
     "key": "item:splitterDescription",
-    "text": "Sends items out of its left and right sides in turn. Each side can feed a belt, machine, chest or the Core. A full side is skipped. Made at the Machine Bench."
+    "text": "Sends items left and right in turn, skipping a full side. Made at the Machine Bench."
   },
   "ttb": 600,
   "textureInfo": [
@@ -26,7 +26,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab|rotatable",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -51,9 +51,9 @@
     "yOffset": -0.25
   },
   "atlasIdx": [
-    1083,
-    1084,
-    1082
+    1199,
+    1200,
+    1198
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0.5,
     0,
     0,
@@ -47,8 +47,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    884,
-    868
+    1000,
+    984
   ],
   "stackable": true,
   "slabFullBlock": "Cyan Chalk Bricks"

@@ -1,0 +1,84 @@
+{
+  "id": 8136,
+  "name": "Centrifuge|meta|rot3|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:centrifuge",
+    "text": "Centrifuge"
+  },
+  "description": {
+    "key": "item:centrifugeDescription",
+    "text": "Spins Uranium Grit into Uranium Pellets, and Spent Pellets into Plutonium Pellets, with piped water. Pellets come out the front. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "output",
+    {
+      "animTextures": [
+        "centrifuge_side_running0",
+        "centrifuge_side_running1",
+        "centrifuge_side_running2",
+        "centrifuge_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "centrifuge_top[rot[1",
+    "centrifuge_top[rot[2",
+    "centrifuge_top[rot[3",
+    "centrifuge_top[rot[4",
+    "centrifuge_bottom",
+    {
+      "animTextures": [
+        "centrifuge_back_running0",
+        "centrifuge_back_running1",
+        "centrifuge_back_running2",
+        "centrifuge_back_running3"
+      ],
+      "animationInterval": 250
+    },
+    {
+      "animTextures": [
+        "centrifuge_side_flip_running0",
+        "centrifuge_side_flip_running1",
+        "centrifuge_side_flip_running2",
+        "centrifuge_side_flip_running3"
+      ],
+      "animationInterval": 250
+    }
+  ],
+  "texturePerSide": [
+    8,
+    1,
+    4,
+    6,
+    7,
+    0
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Centrifuge",
+    "rootId": 8130,
+    "metaStr": "meta|rot3|Running",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    6,
+    9,
+    2
+  ],
+  "atlasIdx": [
+    1350,
+    51,
+    1360,
+    1361,
+    1362,
+    1363,
+    1364,
+    52,
+    53
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

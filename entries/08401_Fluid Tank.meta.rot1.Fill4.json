@@ -1,0 +1,54 @@
+{
+  "id": 8401,
+  "name": "Fluid Tank|meta|rot1|Fill4",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fluidTank",
+    "text": "Fluid Tank"
+  },
+  "description": {
+    "key": "item:fluidTankDescription",
+    "text": "Stores water for the pipes it joins. Optional: Condensers hold a little themselves. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "fluid_tank_fill4_0",
+    {
+      "animTextures": [
+        "fluid_tank_fill4_0",
+        "fluid_tank_fill4_1",
+        "fluid_tank_fill4_2",
+        "fluid_tank_fill4_3"
+      ],
+      "animationInterval": 300
+    }
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "transTex": true,
+  "meta": {
+    "rootName": "Fluid Tank",
+    "rootId": 8154,
+    "metaStr": "meta|rot1|Fill4",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "atlasIdx": [
+    73,
+    73
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "cedar_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -48,7 +48,7 @@
     "rootId": 7138,
     "metaStr": "meta|nesw"
   },
-  "atlasIdx": 216,
+  "atlasIdx": 332,
   "stackable": true,
   "attachedTop": "_Cedar Fence Top|meta|nesw"
 }

@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Stone Slab|meta|rot1|bot",
   "atlasIdx": [
-    489,
-    224
+    605,
+    340
   ],
   "stackable": true,
   "slabFullBlock": "Stone"

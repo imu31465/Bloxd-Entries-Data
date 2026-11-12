@@ -1,0 +1,60 @@
+{
+  "id": 8244,
+  "name": "Sorting Gate|meta|rot1|right",
+  "kind": "block",
+  "displayName": {
+    "key": "item:sortingGate",
+    "text": "Sorting Gate"
+  },
+  "description": {
+    "key": "item:sortingGateDescription",
+    "text": "Tap it with an item: that item turns left, everything else goes straight on. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "sorting_gate_top_right",
+    "sorting_gate_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "drops": "Sorting Gate",
+  "jso": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Sorting Gate",
+    "rootId": 7915,
+    "metaStr": "meta|rot1|right",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    0,
+    0,
+    -2
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1422,
+    1225,
+    1198
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -10,7 +10,7 @@
   "textureInfo": "stone_granite_smooth",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Smooth Granite Stairs|meta|rot1|bot",
-  "atlasIdx": 231,
+  "atlasIdx": 347,
   "stackable": true
 }

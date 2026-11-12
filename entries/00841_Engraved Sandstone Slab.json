@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Engraved Sandstone Slab|meta|rot1|bot",
   "atlasIdx": [
-    508,
-    332
+    624,
+    448
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Sandstone"

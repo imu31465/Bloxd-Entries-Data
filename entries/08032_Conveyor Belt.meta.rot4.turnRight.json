@@ -26,7 +26,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab|rotatable",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -50,9 +50,9 @@
     "yOffset": -0.25
   },
   "atlasIdx": [
-    1173,
-    1081,
-    1082
+    1289,
+    1197,
+    1198
   ],
   "stackable": true,
   "showInCreativeInven": false

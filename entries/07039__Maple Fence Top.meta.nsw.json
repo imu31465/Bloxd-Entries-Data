@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "maple_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -43,7 +43,7 @@
     "rootId": 7026,
     "metaStr": "meta|nsw"
   },
-  "atlasIdx": 211,
+  "atlasIdx": 327,
   "stackable": true,
   "canBePlacedOver": true
 }

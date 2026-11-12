@@ -10,7 +10,7 @@
   "textureInfo": "ice_brick",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -33,6 +33,6 @@
   },
   "harvestLevel": 0,
   "stoodOnSpeedMultiplier": 1.4,
-  "atlasIdx": 468,
+  "atlasIdx": 584,
   "stackable": true
 }

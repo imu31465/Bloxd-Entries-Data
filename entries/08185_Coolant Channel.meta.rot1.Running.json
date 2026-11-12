@@ -1,0 +1,48 @@
+{
+  "id": 8185,
+  "name": "Coolant Channel|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coolantChannel",
+    "text": "Coolant Channel"
+  },
+  "description": {
+    "key": "item:coolantChannelDescription",
+    "text": "Inside a reactor, cools the Fuel Rods it touches. Needs water. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "coolant_channel0",
+    {
+      "animTextures": [
+        "coolant_channel0",
+        "coolant_channel1",
+        "coolant_channel2",
+        "coolant_channel3"
+      ],
+      "animationInterval": 250
+    }
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Coolant Channel",
+    "rootId": 8184,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "atlasIdx": [
+    63,
+    63
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

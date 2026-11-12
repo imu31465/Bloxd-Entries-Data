@@ -1,0 +1,19 @@
+{
+  "id": 10053,
+  "name": "Reactor Blueprint",
+  "kind": "item",
+  "displayName": {
+    "key": "item:reactorBlueprint",
+    "text": "Reactor Blueprint"
+  },
+  "description": {
+    "key": "item:reactorBlueprintDescription",
+    "text": "Tap a built reactor to copy its layout, then an unbuilt one to show it. Made at the Atomic Bench."
+  },
+  "type": "Item",
+  "textureInfo": "reactor_blueprint",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

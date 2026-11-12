@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "jungle_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -31,7 +31,7 @@
     "rootId": 7266,
     "metaStr": "meta|s"
   },
-  "atlasIdx": 214,
+  "atlasIdx": 330,
   "stackable": true,
   "canBePlacedOver": true
 }

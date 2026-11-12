@@ -10,7 +10,7 @@
   "textureInfo": "sandstone_top",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -31,6 +31,6 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 331,
+  "atlasIdx": 447,
   "stackable": true
 }

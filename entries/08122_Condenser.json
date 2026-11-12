@@ -1,0 +1,56 @@
+{
+  "id": 8122,
+  "name": "Condenser",
+  "kind": "block",
+  "displayName": {
+    "key": "item:condenser",
+    "text": "Condenser"
+  },
+  "description": {
+    "key": "item:condenserDescription",
+    "text": "Turns power into water, out of its front only: pipe it to the machines, Tanks and Water Ports that need it. On a reactor's water line it runs without power. A Coupler in its socket speeds it up."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "output",
+    "condenser_side",
+    "condenser_top[rot[1",
+    "condenser_top[rot[2",
+    "condenser_top[rot[3",
+    "condenser_top[rot[4",
+    "condenser_bottom",
+    "condenser_back",
+    "condenser_side_flip"
+  ],
+  "texturePerSide": [
+    1,
+    8,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Condenser",
+    "rootId": 8122,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Condenser|meta|rot1",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "atlasIdx": [
+    1350,
+    1351,
+    1352,
+    1353,
+    1354,
+    1355,
+    1356,
+    1357,
+    1358
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

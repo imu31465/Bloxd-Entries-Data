@@ -1,0 +1,19 @@
+{
+  "id": 10047,
+  "name": "Graphite",
+  "kind": "item",
+  "displayName": {
+    "key": "item:graphite",
+    "text": "Graphite"
+  },
+  "description": {
+    "key": "item:graphiteDescription",
+    "text": "Pressed from Coal. Made into Graphite Blocks."
+  },
+  "type": "Item",
+  "textureInfo": "graphite",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

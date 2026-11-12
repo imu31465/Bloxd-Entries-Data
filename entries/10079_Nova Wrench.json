@@ -1,0 +1,19 @@
+{
+  "id": 10079,
+  "name": "Nova Wrench",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaWrench",
+    "text": "Nova Wrench"
+  },
+  "description": {
+    "key": "item:novaWrenchDescription",
+    "text": "Does all a Wrench does. Crouch and right-click or tap a belt to pick up its whole run. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "nova_wrench",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

@@ -1,0 +1,59 @@
+{
+  "id": 8215,
+  "name": "Wireless Terminal",
+  "kind": "block",
+  "displayName": {
+    "key": "item:wirelessTerminal",
+    "text": "Wireless Terminal"
+  },
+  "description": {
+    "key": "item:wirelessTerminalDescription",
+    "text": "See everything in your island's Silos and take it out in one place. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "wireless_terminal_front",
+    "wireless_terminal_top[rot[1",
+    "wireless_terminal_top[rot[1",
+    "wireless_terminal_top[rot[2",
+    "wireless_terminal_top[rot[3",
+    "wireless_terminal_top[rot[4",
+    "wireless_terminal_bottom",
+    "wireless_terminal_top[rot[1"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    6,
+    0,
+    7
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Wireless Terminal",
+    "rootId": 8215,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Wireless Terminal|meta|rot1",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    2,
+    6,
+    3
+  ],
+  "atlasIdx": [
+    1406,
+    1407,
+    1407,
+    1408,
+    1409,
+    1410,
+    1411,
+    1407
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

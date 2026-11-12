@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fenceGate",
   "itemTexture": "pine_fence_gate",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0,
@@ -32,7 +32,7 @@
     "rot": 4,
     "open": true
   },
-  "atlasIdx": 215,
+  "atlasIdx": 331,
   "stackable": true,
   "attachedTop": "_Pine Fence Gate Top|meta|rot4|open"
 }

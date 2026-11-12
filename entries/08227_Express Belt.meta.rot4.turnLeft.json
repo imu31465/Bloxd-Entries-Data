@@ -1,0 +1,59 @@
+{
+  "id": 8227,
+  "name": "Express Belt|meta|rot4|turnLeft",
+  "kind": "block",
+  "displayName": {
+    "key": "item:expressBelt",
+    "text": "Express Belt"
+  },
+  "description": {
+    "key": "item:expressBeltDescription",
+    "text": "12 items a second, 3× a Conveyor Belt. Tap a belt with it to upgrade it. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "express_belt_turn_left",
+    "express_belt_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "jso": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Express Belt",
+    "rootId": 8220,
+    "metaStr": "meta|rot4|turnLeft",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    6,
+    0,
+    0
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1416,
+    1415,
+    1198
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

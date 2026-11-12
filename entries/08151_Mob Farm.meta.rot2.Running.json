@@ -1,0 +1,66 @@
+{
+  "id": 8151,
+  "name": "Mob Farm|meta|rot2|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:mobFarm",
+    "text": "Mob Farm"
+  },
+  "description": {
+    "key": "item:mobFarmDescription",
+    "text": "Farms the drops of the caged mob or Spawner Block in it, on power. Made at the Machine Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "mob_farm_front",
+    {
+      "animTextures": [
+        "mob_farm_side_running0",
+        "mob_farm_side_running1",
+        "mob_farm_side_running2",
+        "mob_farm_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "mob_farm_top[rot[1",
+    "mob_farm_top[rot[2",
+    "mob_farm_top[rot[3",
+    "mob_farm_top[rot[4",
+    "machine_side",
+    "mob_farm_back"
+  ],
+  "texturePerSide": [
+    0,
+    7,
+    3,
+    6,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Mob Farm",
+    "rootId": 8146,
+    "metaStr": "meta|rot2|Running",
+    "rot": 2
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    9,
+    6,
+    3
+  ],
+  "atlasIdx": [
+    1375,
+    57,
+    1377,
+    1378,
+    1379,
+    1380,
+    1156,
+    1381
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

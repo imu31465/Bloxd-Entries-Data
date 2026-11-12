@@ -1,0 +1,57 @@
+{
+  "id": 8198,
+  "name": "Battery Cell|meta|rot1|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:batteryCell",
+    "text": "Battery Cell"
+  },
+  "description": {
+    "key": "item:batteryCellDescription",
+    "text": "Fill a box 2 to 12 a side with them to build a Battery that stores your island's spare power; bigger boxes store more per cell. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    "battery_cell",
+    {
+      "animTextures": [
+        "battery_cell_running0",
+        "battery_cell_running1",
+        "battery_cell_running2",
+        "battery_cell_running3"
+      ],
+      "animationInterval": 250
+    },
+    "battery_cell_top",
+    "battery_cell_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    2,
+    3,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Battery Cell",
+    "rootId": 8197,
+    "metaStr": "meta|rot1|Running",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    1394,
+    65,
+    1395,
+    1396
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

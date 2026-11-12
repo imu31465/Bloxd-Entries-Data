@@ -1,0 +1,29 @@
+{
+  "id": 10005,
+  "name": "Arc Caster",
+  "kind": "item",
+  "displayName": {
+    "key": "item:arcCaster",
+    "text": "Arc Caster"
+  },
+  "description": {
+    "key": "item:arcCasterDescription",
+    "text": "Tap to fire an arc at a creature up to 20 blocks away. Each shot uses 25 of your island's power. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "arc_caster",
+  "weight": 1,
+  "heldItemScale": 1,
+  "firstPersonHeldRotationOffset": [
+    -0.34,
+    -0.014,
+    0.081
+  ],
+  "thirdPersonHeldRotationOffset": [
+    1.5707963267948966,
+    0,
+    0
+  ],
+  "stackable": false,
+  "showInCreativeInven": false
+}

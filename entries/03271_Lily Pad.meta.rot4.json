@@ -11,7 +11,7 @@
   "model": "rotatable",
   "itemTexture": "lily_pad",
   "solid": true,
-  "tK": [
+  "jso": [
     0,
     0,
     0,

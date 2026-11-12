@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "pear_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -30,7 +30,7 @@
     "rootId": 7330,
     "metaStr": "meta|n|Stacked"
   },
-  "atlasIdx": 524,
+  "atlasIdx": 640,
   "stackable": true,
   "attachedTop": "_Pear Fence Top|meta|n"
 }

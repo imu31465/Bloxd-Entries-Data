@@ -1,0 +1,19 @@
+{
+  "id": 10054,
+  "name": "Wrench",
+  "kind": "item",
+  "displayName": {
+    "key": "item:wrench",
+    "text": "Wrench"
+  },
+  "description": {
+    "key": "item:wrenchDescription",
+    "text": "Right-click or tap a belt or machine to turn it, or a Reactor Port to switch it. Crouch as you do to pick it up with what's inside. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "wrench",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "showInCreativeInven": false
+}

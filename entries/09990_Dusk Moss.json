@@ -1,0 +1,19 @@
+{
+  "id": 9990,
+  "name": "Dusk Moss",
+  "kind": "item",
+  "displayName": {
+    "key": "item:duskMoss",
+    "text": "Dusk Moss"
+  },
+  "description": {
+    "key": "item:duskMossDescription",
+    "text": "A rare moss that grows on old ruin walls."
+  },
+  "type": "Item",
+  "textureInfo": "dusk_moss",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

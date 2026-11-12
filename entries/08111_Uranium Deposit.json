@@ -1,0 +1,26 @@
+{
+  "id": 8111,
+  "name": "Uranium Deposit",
+  "kind": "block",
+  "displayName": {
+    "key": "item:uraniumDeposit",
+    "text": "Uranium Deposit"
+  },
+  "description": {
+    "key": "item:uraniumDepositDescription",
+    "text": "Dense ore: 15 Raw Uranium a minute under any drill. Never runs out."
+  },
+  "ttb": 36000,
+  "textureInfo": "uranium_deposit",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "KJ": [
+    5,
+    8,
+    1
+  ],
+  "atlasIdx": 1344,
+  "stackable": true,
+  "showInCreativeInven": false
+}

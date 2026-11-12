@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -39,8 +39,8 @@
   "harvestLevel": 0,
   "stoodOnSpeedMultiplier": 1.4,
   "atlasIdx": [
-    516,
-    468
+    632,
+    584
   ],
   "stackable": true,
   "slabFullBlock": "Ice Bricks"

@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "plum_fence_gate",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0,
@@ -33,7 +33,7 @@
     "rot": 4,
     "open": true
   },
-  "atlasIdx": 213,
+  "atlasIdx": 329,
   "stackable": true,
   "canBePlacedOver": true
 }

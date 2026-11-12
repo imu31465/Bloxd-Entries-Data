@@ -1,0 +1,23 @@
+{
+  "id": 10076,
+  "name": "Nova Multitool",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaMultitool",
+    "text": "Nova Multitool"
+  },
+  "description": {
+    "key": "item:novaMultitoolDescription",
+    "text": "Mines stone, wood and dirt faster than any pickaxe. In the Wilds it also breaks 3×3 and whole ore veins. Made at the Tool Bench."
+  },
+  "type": "Tool",
+  "textureInfo": "nova_multitool",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "damage": 32,
+  "harvests": "rock",
+  "multiplier": 1,
+  "level": 5,
+  "showInCreativeInven": false
+}

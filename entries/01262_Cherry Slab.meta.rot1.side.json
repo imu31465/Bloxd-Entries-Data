@@ -21,7 +21,7 @@
   ],
   "harvestType": "wood",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    587,
-    584
+    703,
+    700
   ],
   "stackable": true,
   "slabFullBlock": "Cherry Wood Planks"

@@ -10,7 +10,7 @@
   "textureInfo": "purple_concrete",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Purple Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 289,
+  "atlasIdx": 405,
   "stackable": true
 }

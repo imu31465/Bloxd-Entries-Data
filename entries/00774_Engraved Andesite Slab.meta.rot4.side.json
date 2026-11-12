@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0.5,
     0,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 2
   },
   "atlasIdx": [
-    497,
-    464
+    613,
+    580
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Andesite"

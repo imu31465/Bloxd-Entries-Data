@@ -1,0 +1,19 @@
+{
+  "id": 10049,
+  "name": "Heat Exchanger",
+  "kind": "item",
+  "displayName": {
+    "key": "item:heatExchanger",
+    "text": "Heat Exchanger"
+  },
+  "description": {
+    "key": "item:heatExchangerDescription",
+    "text": "A part for Condensers and Coolant Channels. Made at the Parts Bench or by an Assembler."
+  },
+  "type": "Item",
+  "textureInfo": "heat_exchanger",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

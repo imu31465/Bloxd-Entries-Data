@@ -31,7 +31,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -47,8 +47,8 @@
     "halfblockPlacement": 1
   },
   "atlasIdx": [
-    878,
-    862
+    994,
+    978
   ],
   "stackable": true,
   "slabFullBlock": "Magenta Chalk Bricks"

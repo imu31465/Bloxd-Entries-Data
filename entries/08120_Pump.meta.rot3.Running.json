@@ -1,0 +1,57 @@
+{
+  "id": 8120,
+  "name": "Pump|meta|rot3|Running",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pump",
+    "text": "Pump"
+  },
+  "description": {
+    "key": "item:pumpDescription",
+    "text": "Retired: break it for a Condenser."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    {
+      "animTextures": [
+        "pump_side_running0",
+        "pump_side_running1",
+        "pump_side_running2",
+        "pump_side_running3"
+      ],
+      "animationInterval": 250
+    },
+    "pump_top",
+    "pump_bottom"
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    1,
+    2,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": "Condenser",
+  "meta": {
+    "rootName": "Pump",
+    "rootId": 8114,
+    "metaStr": "meta|rot3|Running",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "altActionable": true,
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "atlasIdx": [
+    47,
+    1348,
+    1349
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

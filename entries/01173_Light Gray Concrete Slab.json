@@ -10,7 +10,7 @@
   "textureInfo": "light_gray_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -26,7 +26,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Light Gray Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 279,
+  "atlasIdx": 395,
   "stackable": true,
   "slabFullBlock": "Light Gray Concrete"
 }

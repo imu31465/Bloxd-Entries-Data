@@ -1,0 +1,25 @@
+{
+  "id": 8544,
+  "name": "Uranium Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:uraniumBlock",
+    "text": "Uranium Block"
+  },
+  "description": {
+    "key": "item:uraniumBlockDescription",
+    "text": "Nine Uranium Pellets packed into a glowing block. Made at the Workbench."
+  },
+  "ttb": 3000,
+  "textureInfo": "uranium_block",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "KJ": [
+    5,
+    9,
+    2
+  ],
+  "atlasIdx": 1440,
+  "stackable": true,
+  "showInCreativeInven": false
+}

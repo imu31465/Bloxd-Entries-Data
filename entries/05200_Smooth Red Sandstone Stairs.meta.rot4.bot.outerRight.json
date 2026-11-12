@@ -10,7 +10,7 @@
   "textureInfo": "red_sandstone_top",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 455,
+  "atlasIdx": 571,
   "stackable": true
 }

@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 1
   },
   "atlasIdx": [
-    503,
-    230
+    619,
+    346
   ],
   "stackable": true,
   "slabFullBlock": "Granite"

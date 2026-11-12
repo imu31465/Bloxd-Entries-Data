@@ -12,7 +12,7 @@
   "itemTexture": "noticeboard",
   "drops": "Noticeboard",
   "solid": true,
-  "tK": [
+  "jso": [
     0,
     0,
     0,

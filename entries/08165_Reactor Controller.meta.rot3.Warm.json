@@ -1,0 +1,50 @@
+{
+  "id": 8165,
+  "name": "Reactor Controller|meta|rot3|Warm",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorFrame",
+    "text": "Reactor Frame"
+  },
+  "description": {
+    "key": "item:reactorFrameDescription",
+    "text": "The edges of a reactor's shell. Place one on open ground to start a reactor, then build what its ghost shows; the Frame along its bottom shows its status lights. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": [
+    {
+      "animTextures": [
+        "reactor_controller_yellow0",
+        "reactor_controller_yellow1"
+      ],
+      "animationInterval": 600
+    }
+  ],
+  "texturePerSide": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "harvestType": "rock",
+  "drops": "Reactor Frame",
+  "meta": {
+    "rootName": "Reactor Controller",
+    "rootId": 8155,
+    "metaStr": "meta|rot3|Warm",
+    "rot": 3
+  },
+  "harvestLevel": 0,
+  "KJ": [
+    10,
+    10,
+    1
+  ],
+  "atlasIdx": [
+    59
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

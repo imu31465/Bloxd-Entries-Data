@@ -10,7 +10,7 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "cyan_bed",
-  "tK": [
+  "jso": [
     0,
     0,
     0,

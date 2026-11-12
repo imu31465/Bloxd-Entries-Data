@@ -11,7 +11,7 @@
   "harvestType": "wood",
   "model": "fence",
   "itemTexture": "spectral_fence",
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -48,7 +48,7 @@
     "rootId": 7426,
     "metaStr": "meta|nesw|Stacked"
   },
-  "atlasIdx": 830,
+  "atlasIdx": 946,
   "stackable": true,
   "attachedTop": "_Spectral Fence Top|meta|nesw"
 }

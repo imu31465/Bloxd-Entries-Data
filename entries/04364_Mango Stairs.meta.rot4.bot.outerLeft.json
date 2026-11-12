@@ -10,7 +10,7 @@
   "textureInfo": "planks_mango",
   "harvestType": "wood",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 893,
+  "atlasIdx": 1009,
   "stackable": true
 }

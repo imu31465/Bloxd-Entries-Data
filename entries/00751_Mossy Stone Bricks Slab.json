@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Mossy Stone Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    494,
-    329
+    610,
+    445
   ],
   "stackable": true,
   "slabFullBlock": "Mossy Stone Bricks"

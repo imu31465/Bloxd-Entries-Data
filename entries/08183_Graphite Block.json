@@ -1,0 +1,20 @@
+{
+  "id": 8183,
+  "name": "Graphite Block",
+  "kind": "block",
+  "displayName": {
+    "key": "item:graphiteBlock",
+    "text": "Graphite Block"
+  },
+  "description": {
+    "key": "item:graphiteBlockDescription",
+    "text": "Inside a reactor, makes the Fuel Rods next to it burn hotter. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": "graphite",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "atlasIdx": 1388,
+  "stackable": true,
+  "showInCreativeInven": false
+}

@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Engraved Stone Slab|meta|rot1|bot",
   "atlasIdx": [
-    491,
-    328
+    607,
+    444
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Stone"

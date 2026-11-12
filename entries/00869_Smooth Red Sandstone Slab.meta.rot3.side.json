@@ -10,7 +10,7 @@
   "textureInfo": "red_sandstone_top",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0.5,
@@ -25,7 +25,7 @@
     "rot": 3,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 455,
+  "atlasIdx": 571,
   "stackable": true,
   "slabFullBlock": "Smooth Red Sandstone"
 }

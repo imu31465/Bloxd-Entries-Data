@@ -1,0 +1,25 @@
+{
+  "id": 8539,
+  "name": "Scaffolding",
+  "kind": "block",
+  "displayName": {
+    "key": "item:scaffolding",
+    "text": "Scaffolding"
+  },
+  "description": {
+    "key": "item:scaffoldingDescription",
+    "text": "A light iron frame you can walk into. Hold jump inside it to climb, crouch to hold on."
+  },
+  "ttb": 300,
+  "textureInfo": "scaffolding",
+  "harvestType": "rock",
+  "transTex": true,
+  "solid": false,
+  "harvestLevel": 0,
+  "climbableInside": {
+    "upForceScalar": 1.05
+  },
+  "atlasIdx": 1439,
+  "stackable": true,
+  "showInCreativeInven": false
+}

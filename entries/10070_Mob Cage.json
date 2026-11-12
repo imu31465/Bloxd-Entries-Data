@@ -1,0 +1,19 @@
+{
+  "id": 10070,
+  "name": "Mob Cage",
+  "kind": "item",
+  "displayName": {
+    "key": "item:mobCage",
+    "text": "Mob Cage"
+  },
+  "description": {
+    "key": "item:mobCageDescription",
+    "text": "Tap a Pig, Cow, Sheep, Deer or Stag in the Wilds to cage it for a Mob Farm. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "mob_cage",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

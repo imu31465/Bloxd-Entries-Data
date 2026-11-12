@@ -1,0 +1,29 @@
+{
+  "id": 10056,
+  "name": "Nova Coupler",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaCoupler",
+    "text": "Nova Coupler"
+  },
+  "description": {
+    "key": "item:novaCouplerDescription",
+    "text": "Tap a Smelter, Alloy Kiln or Condenser with it: 8× speed. Made at the Parts Bench or by an Assembler."
+  },
+  "type": "Item",
+  "textureInfo": "nova_upgrade",
+  "weight": 1,
+  "heldItemScale": 1,
+  "firstPersonHeldRotationOffset": [
+    -0.34,
+    -0.014,
+    0.081
+  ],
+  "thirdPersonHeldRotationOffset": [
+    1.5707963267948966,
+    0,
+    0
+  ],
+  "stackable": false,
+  "showInCreativeInven": false
+}

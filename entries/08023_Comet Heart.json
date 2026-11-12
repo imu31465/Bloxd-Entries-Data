@@ -8,7 +8,7 @@
   },
   "description": {
     "key": "item:cometHeartDescription",
-    "text": "Break it for a Comet Core: everyone within 24 blocks gets one."
+    "text": "Break it with an Iron Pickaxe or better for a Comet Core: everyone within 24 blocks gets one."
   },
   "ttb": 18000,
   "textureInfo": "comet_heart",
@@ -20,7 +20,7 @@
     10,
     14
   ],
-  "atlasIdx": 1171,
+  "atlasIdx": 1287,
   "stackable": true,
   "showInCreativeInven": false
 }

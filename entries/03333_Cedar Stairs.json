@@ -10,7 +10,7 @@
   "textureInfo": "planks_cedar",
   "harvestType": "wood",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -32,6 +32,6 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "Cedar Stairs|meta|rot1|bot",
-  "atlasIdx": 216,
+  "atlasIdx": 332,
   "stackable": true
 }

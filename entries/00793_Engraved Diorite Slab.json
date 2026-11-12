@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Engraved Diorite Slab|meta|rot1|bot",
   "atlasIdx": [
-    501,
-    462
+    617,
+    578
   ],
   "stackable": true,
   "slabFullBlock": "Engraved Diorite"

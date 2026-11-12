@@ -1,0 +1,62 @@
+{
+  "id": 8232,
+  "name": "Fast Loader",
+  "kind": "block",
+  "displayName": {
+    "key": "item:fastLoader",
+    "text": "Fast Loader"
+  },
+  "description": {
+    "key": "item:fastLoaderDescription",
+    "text": "A Belt Loader that keeps up with Express Belts: 12 a second. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "fast_loader_top",
+    "fast_belt_slab_side",
+    "conveyor_belt_bottom",
+    "fast_loader_slab_front"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    3,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "jso": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Fast Loader",
+    "rootId": 8232,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
+  "rootMetaDesc": "Fast Loader|meta|rot1",
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    0,
+    0,
+    -2
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1418,
+    1274,
+    1198,
+    1419
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

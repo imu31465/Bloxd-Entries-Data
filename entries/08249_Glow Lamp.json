@@ -1,0 +1,25 @@
+{
+  "id": 8249,
+  "name": "Glow Lamp",
+  "kind": "block",
+  "displayName": {
+    "key": "item:glowLamp",
+    "text": "Glow Lamp"
+  },
+  "description": {
+    "key": "item:glowLampDescription",
+    "text": "A bright lamp. Made at the Machine Bench."
+  },
+  "ttb": 450,
+  "textureInfo": "glow_lamp",
+  "harvestType": "wood",
+  "harvestLevel": 0,
+  "KJ": [
+    8,
+    12,
+    13
+  ],
+  "atlasIdx": 1424,
+  "stackable": true,
+  "showInCreativeInven": false
+}

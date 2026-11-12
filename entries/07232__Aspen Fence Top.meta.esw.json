@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "aspen_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -43,7 +43,7 @@
     "rootId": 7218,
     "metaStr": "meta|esw"
   },
-  "atlasIdx": 212,
+  "atlasIdx": 328,
   "stackable": true,
   "canBePlacedOver": true
 }

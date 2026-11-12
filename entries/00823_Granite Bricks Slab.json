@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Granite Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
-    506,
-    467
+    622,
+    583
   ],
   "stackable": true,
   "slabFullBlock": "Granite Bricks"

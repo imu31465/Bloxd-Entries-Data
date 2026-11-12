@@ -20,7 +20,7 @@
   "textureInfo": "chalk_white",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -36,7 +36,7 @@
     "halfblockPlacement": 0
   },
   "rootMetaDesc": "White Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 841,
+  "atlasIdx": 957,
   "stackable": true,
   "slabFullBlock": "White Chalk"
 }

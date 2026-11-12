@@ -1,0 +1,36 @@
+{
+  "id": 8521,
+  "name": "Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full",
+  "kind": "block",
+  "displayName": {
+    "key": "item:coolantPipe",
+    "text": "Coolant Pipe"
+  },
+  "description": {
+    "key": "item:fluidPipeDescription",
+    "text": "Carries water from a Condenser, or Cryo Coolant from a Coolant Mixer's front, to what it touches. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "harvestType": "rock",
+  "model": "CustomModel",
+  "itemTexture": "fluid_pipe",
+  "drops": "Fluid Pipe",
+  "solid": false,
+  "modelScale": 8,
+  "meta": {
+    "rootName": "Coolant Pipe",
+    "rootId": 8334,
+    "metaStr": "meta|conn|nx_ny_nz_py_pz|Full"
+  },
+  "particlesIgnoreBlack": true,
+  "harvestLevel": 0,
+  "customModelInfo": {
+    "textureAnimation": {
+      "frames": 2,
+      "animationInterval": 350
+    }
+  },
+  "stackable": true,
+  "blockModel": "baf2_coolant_pipe_nx_ny_nz_py_pz",
+  "showInCreativeInven": false
+}

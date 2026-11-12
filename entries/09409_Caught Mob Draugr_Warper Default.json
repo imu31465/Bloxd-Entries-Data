@@ -1,0 +1,15 @@
+{
+  "id": 9409,
+  "name": "Caught Mob Draugr_Warper Default",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "caught_draugr_warper_default",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "meta": {
+    "rootName": "Caught Mob Draugr_Warper Default",
+    "rootId": 9409,
+    "caughtMobType": "Draugr Warper"
+  }
+}

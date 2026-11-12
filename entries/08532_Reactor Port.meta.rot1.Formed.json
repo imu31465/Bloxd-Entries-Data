@@ -1,0 +1,26 @@
+{
+  "id": 8532,
+  "name": "Reactor Port|meta|rot1|Formed",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorPort",
+    "text": "Reactor Port"
+  },
+  "description": {
+    "key": "item:reactorPortDescription",
+    "text": "Fuel in, water in or waste out: place it in a reactor's wall, roof or floor and it takes the job the reactor lacks. The Wrench switches it. Made at the Atomic Bench."
+  },
+  "ttb": 1500,
+  "textureInfo": "fuel_port",
+  "harvestType": "rock",
+  "meta": {
+    "rootName": "Reactor Port",
+    "rootId": 8178,
+    "metaStr": "meta|rot1|Formed",
+    "rot": 1
+  },
+  "harvestLevel": 0,
+  "atlasIdx": 1386,
+  "stackable": true,
+  "showInCreativeInven": false
+}

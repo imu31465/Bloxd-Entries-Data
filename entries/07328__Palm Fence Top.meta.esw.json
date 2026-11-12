@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "palm_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -43,7 +43,7 @@
     "rootId": 7314,
     "metaStr": "meta|esw"
   },
-  "atlasIdx": 473,
+  "atlasIdx": 589,
   "stackable": true,
   "canBePlacedOver": true
 }

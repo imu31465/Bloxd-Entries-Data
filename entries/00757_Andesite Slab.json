@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -38,8 +38,8 @@
   },
   "rootMetaDesc": "Andesite Slab|meta|rot1|bot",
   "atlasIdx": [
-    495,
-    228
+    611,
+    344
   ],
   "stackable": true,
   "slabFullBlock": "Andesite"

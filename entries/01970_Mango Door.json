@@ -10,7 +10,7 @@
   "harvestType": "wood",
   "model": "door",
   "itemTexture": "mango_door",
-  "tK": [
+  "jso": [
     0,
     0,
     0.875,

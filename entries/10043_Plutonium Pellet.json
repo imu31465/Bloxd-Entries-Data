@@ -1,0 +1,19 @@
+{
+  "id": 10043,
+  "name": "Plutonium Pellet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:plutoniumPellet",
+    "text": "Plutonium Pellet"
+  },
+  "description": {
+    "key": "item:plutoniumPelletDescription",
+    "text": "Spun from Spent Pellets in a Centrifuge."
+  },
+  "type": "Item",
+  "textureInfo": "plutonium_pellet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "showInCreativeInven": false
+}

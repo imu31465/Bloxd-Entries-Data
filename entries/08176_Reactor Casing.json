@@ -1,0 +1,20 @@
+{
+  "id": 8176,
+  "name": "Reactor Casing",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorCasing",
+    "text": "Reactor Casing"
+  },
+  "description": {
+    "key": "item:reactorCasingDescription",
+    "text": "No longer used: a reactor's walls are Reactor Glass."
+  },
+  "ttb": 1500,
+  "textureInfo": "reactor_casing",
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "atlasIdx": 1384,
+  "stackable": true,
+  "showInCreativeInven": false
+}

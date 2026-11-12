@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "spectral_fence_gate",
   "drops": null,
-  "tK": [
+  "jso": [
     0,
     0,
     0.375,
@@ -28,7 +28,7 @@
     "open": false
   },
   "rootMetaDesc": "_Spectral Fence Gate Top|meta|rot1|closed",
-  "atlasIdx": 830,
+  "atlasIdx": 946,
   "stackable": true,
   "canBePlacedOver": true
 }

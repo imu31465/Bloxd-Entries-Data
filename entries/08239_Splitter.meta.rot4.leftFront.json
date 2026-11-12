@@ -1,0 +1,60 @@
+{
+  "id": 8239,
+  "name": "Splitter|meta|rot4|leftFront",
+  "kind": "block",
+  "displayName": {
+    "key": "item:splitter",
+    "text": "Splitter"
+  },
+  "description": {
+    "key": "item:splitterDescription",
+    "text": "Sends items left and right in turn, skipping a full side. Made at the Machine Bench."
+  },
+  "ttb": 600,
+  "textureInfo": [
+    "splitter_top_left_front",
+    "splitter_slab_side",
+    "conveyor_belt_bottom"
+  ],
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "harvestType": "rock",
+  "model": "Slab|rotatable",
+  "drops": "Splitter",
+  "jso": [
+    0,
+    0,
+    0,
+    1,
+    0.5,
+    1
+  ],
+  "meta": {
+    "rootName": "Splitter",
+    "rootId": 7898,
+    "metaStr": "meta|rot4|leftFront",
+    "rot": 4
+  },
+  "harvestLevel": 0,
+  "surfaceVelocity": [
+    2,
+    0,
+    0
+  ],
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
+  "atlasIdx": [
+    1420,
+    1200,
+    1198
+  ],
+  "stackable": true,
+  "showInCreativeInven": false
+}

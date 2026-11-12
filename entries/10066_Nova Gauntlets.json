@@ -1,0 +1,20 @@
+{
+  "id": 10066,
+  "name": "Nova Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:novaGauntlets",
+    "text": "Nova Gauntlets"
+  },
+  "description": {
+    "key": "item:novaGauntletsDescription",
+    "text": "Armour 13. Your Arc Caster and Nova Blade fire faster. Made at the Tool Bench."
+  },
+  "type": "Armour",
+  "textureInfo": "nova_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13,
+  "showInCreativeInven": false
+}

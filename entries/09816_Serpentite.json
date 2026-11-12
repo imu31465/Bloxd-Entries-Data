@@ -1,0 +1,14 @@
+{
+  "id": 9816,
+  "name": "Serpentite",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite"
+  },
+  "type": "Item",
+  "textureInfo": "serpentite",
+  "weight": 1,
+  "heldItemScale": 1,
+  "heldItemGlb": "serpentite",
+  "stackable": true
+}

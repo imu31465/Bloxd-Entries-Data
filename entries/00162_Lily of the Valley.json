@@ -3,8 +3,8 @@
   "name": "Lily of the Valley",
   "kind": "block",
   "displayName": {
-    "key": "item:lillyOfTheValley",
-    "unresolved": true
+    "key": "item:lilyOfTheValley",
+    "text": "Lily of the Valley"
   },
   "ttb": 300,
   "textureInfo": "lily_of_the_valley",

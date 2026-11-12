@@ -1,0 +1,31 @@
+{
+  "id": 8545,
+  "name": "Pure Uranium Ore",
+  "kind": "block",
+  "displayName": {
+    "key": "item:pureUraniumOre",
+    "text": "Pure Uranium Ore"
+  },
+  "description": {
+    "key": "item:pureUraniumOreDescription",
+    "text": "A rich vein of uranium: nine times the Raw Uranium. Mine with an Iron Pickaxe or better."
+  },
+  "ttb": 48600,
+  "textureInfo": "pure_uranium_ore",
+  "harvestType": "rock",
+  "drops": "Raw Uranium",
+  "XJ": 9,
+  "harvestLevel": 3,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Pure Uranium Ore"
+  },
+  "KJ": [
+    6,
+    10,
+    2
+  ],
+  "atlasIdx": 1441,
+  "stackable": true,
+  "showInCreativeInven": false
+}

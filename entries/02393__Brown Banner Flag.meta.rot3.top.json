@@ -12,7 +12,7 @@
   "itemTexture": "banner_brown",
   "drops": "Brown Banner",
   "solid": false,
-  "tK": [
+  "jso": [
     0,
     0,
     0.625,

@@ -21,7 +21,7 @@
   ],
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -37,8 +37,8 @@
     "halfblockPlacement": 1
   },
   "atlasIdx": [
-    493,
-    438
+    609,
+    554
   ],
   "stackable": true,
   "slabFullBlock": "Mossy Messy Stone"

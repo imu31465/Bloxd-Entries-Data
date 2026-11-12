@@ -10,7 +10,7 @@
   "textureInfo": "pink_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0.5,
     0,
@@ -25,7 +25,7 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 288,
+  "atlasIdx": 404,
   "stackable": true,
   "slabFullBlock": "Pink Concrete"
 }

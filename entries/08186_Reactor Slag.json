@@ -1,0 +1,26 @@
+{
+  "id": 8186,
+  "name": "Reactor Slag",
+  "kind": "block",
+  "displayName": {
+    "key": "item:reactorSlag",
+    "text": "Reactor Slag"
+  },
+  "description": {
+    "key": "item:reactorSlagDescription",
+    "text": "A Reactor Frame or Reactor Glass block a meltdown wrecked. Mine it, then put the block back."
+  },
+  "ttb": 1500,
+  "textureInfo": "reactor_slag",
+  "harvestType": "rock",
+  "drops": null,
+  "harvestLevel": 0,
+  "KJ": [
+    3,
+    5,
+    1
+  ],
+  "atlasIdx": 1389,
+  "stackable": true,
+  "showInCreativeInven": false
+}

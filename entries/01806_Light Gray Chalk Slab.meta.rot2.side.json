@@ -20,7 +20,7 @@
   "textureInfo": "chalk_light_gray",
   "harvestType": "rock",
   "model": "Slab",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -35,7 +35,7 @@
     "rot": 2,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 848,
+  "atlasIdx": 964,
   "stackable": true,
   "slabFullBlock": "Light Gray Chalk"
 }

@@ -20,7 +20,7 @@
   "textureInfo": "chalk_light_blue",
   "harvestType": "rock",
   "model": "Stairs",
-  "tK": [
+  "jso": [
     0,
     0,
     0,
@@ -48,6 +48,6 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 849,
+  "atlasIdx": 965,
   "stackable": true
 }

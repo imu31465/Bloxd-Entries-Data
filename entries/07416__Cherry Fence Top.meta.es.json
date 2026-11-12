@@ -12,7 +12,7 @@
   "model": "fence",
   "itemTexture": "cherry_fence",
   "drops": null,
-  "tK": [
+  "jso": [
     0.375,
     0,
     0.375,
@@ -37,7 +37,7 @@
     "rootId": 7410,
     "metaStr": "meta|es"
   },
-  "atlasIdx": 584,
+  "atlasIdx": 700,
   "stackable": true,
   "canBePlacedOver": true
 }

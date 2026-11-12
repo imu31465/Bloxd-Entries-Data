@@ -1,0 +1,29 @@
+{
+  "id": 10077,
+  "name": "Pocket Terminal",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pocketTerminal",
+    "text": "Pocket Terminal"
+  },
+  "description": {
+    "key": "item:pocketTerminalDescription",
+    "text": "Tap it anywhere to take from your island's Silos. Made at the Tool Bench."
+  },
+  "type": "Item",
+  "textureInfo": "pocket_terminal",
+  "weight": 1,
+  "heldItemScale": 0.4,
+  "firstPersonHeldRotationOffset": [
+    -0.53,
+    1.67,
+    0.02
+  ],
+  "thirdPersonHeldRotationOffset": [
+    -1.5707963267948966,
+    0,
+    0
+  ],
+  "stackable": false,
+  "showInCreativeInven": false
+}

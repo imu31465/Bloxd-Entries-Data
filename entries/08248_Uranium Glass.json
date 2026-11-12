@@ -1,0 +1,30 @@
+{
+  "id": 8248,
+  "name": "Uranium Glass",
+  "kind": "block",
+  "displayName": {
+    "key": "item:uraniumGlass",
+    "text": "Uranium Glass"
+  },
+  "description": {
+    "key": "item:uraniumGlassDescription",
+    "text": "Glass that glows green. Made at the Machine Bench."
+  },
+  "ttb": 450,
+  "textureInfo": "uranium_glass",
+  "harvestType": "wood",
+  "transTex": true,
+  "harvestLevel": 0,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "KJ": [
+    4,
+    7,
+    1
+  ],
+  "atlasIdx": 1423,
+  "stackable": true,
+  "showInCreativeInven": false
+}
