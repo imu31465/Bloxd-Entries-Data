@@ -11,7 +11,7 @@
     "text": "Inside a reactor, makes the Fuel Rods next to it burn hotter. Made at the Atomic Bench."
   },
   "ttb": 1500,
-  "textureInfo": "graphite",
+  "textureInfo": "graphite_block",
   "harvestType": "rock",
   "harvestLevel": 0,
   "atlasIdx": 1388,

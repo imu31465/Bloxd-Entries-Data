@@ -7,7 +7,7 @@
   "model": "door",
   "itemTexture": "pear_door",
   "drops": "Pear Door",
-  "jso": [
+  "ib": [
     0,
     0,
     0.875,

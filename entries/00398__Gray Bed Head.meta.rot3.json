@@ -7,7 +7,7 @@
   "model": "rotatable",
   "itemTexture": "gray_bed",
   "drops": "Gray Bed",
-  "jso": [
+  "ib": [
     0,
     0,
     0,

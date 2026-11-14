@@ -23,7 +23,8 @@
         "trading_terminal_front6",
         "trading_terminal_front7"
       ],
-      "animationInterval": 250
+      "animationInterval": 250,
+      "interpolateFrames": false
     },
     "trading_terminal_side",
     "trading_terminal_top"

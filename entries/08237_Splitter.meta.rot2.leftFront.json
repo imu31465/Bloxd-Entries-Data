@@ -27,7 +27,7 @@
   "harvestType": "rock",
   "model": "Slab|rotatable",
   "drops": "Splitter",
-  "jso": [
+  "ib": [
     0,
     0,
     0,

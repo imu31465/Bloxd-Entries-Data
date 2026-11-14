@@ -3,11 +3,11 @@
   "name": "Football",
   "kind": "block",
   "ttb": 600,
-  "textureInfo": "football",
+  "textureInfo": "football_block",
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "football",
-  "jso": [
+  "ib": [
     0.25,
     0,
     0.25,

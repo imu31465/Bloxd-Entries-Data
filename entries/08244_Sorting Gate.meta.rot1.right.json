@@ -27,7 +27,7 @@
   "harvestType": "rock",
   "model": "Slab|rotatable",
   "drops": "Sorting Gate",
-  "jso": [
+  "ib": [
     0,
     0,
     0,

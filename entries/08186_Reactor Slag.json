@@ -4,7 +4,7 @@
   "kind": "block",
   "displayName": {
     "key": "item:reactorSlag",
-    "text": "Reactor Slag"
+    "text": "Reactor Debris"
   },
   "description": {
     "key": "item:reactorSlagDescription",

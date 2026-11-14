@@ -13,7 +13,8 @@
       "orange_portal2",
       "orange_portal3"
     ],
-    "animationInterval": 300
+    "animationInterval": 300,
+    "interpolateFrames": false
   },
   "harvestType": "rock",
   "drops": null,

@@ -13,7 +13,8 @@
       "magenta_portal2",
       "magenta_portal3"
     ],
-    "animationInterval": 300
+    "animationInterval": 300,
+    "interpolateFrames": false
   },
   "harvestType": "rock",
   "drops": null,

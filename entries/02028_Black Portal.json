@@ -13,7 +13,8 @@
       "black_portal2",
       "black_portal3"
     ],
-    "animationInterval": 300
+    "animationInterval": 300,
+    "interpolateFrames": false
   },
   "harvestType": "rock",
   "drops": null,

@@ -12,7 +12,7 @@
   "itemTexture": "noticeboard",
   "drops": "Noticeboard",
   "solid": true,
-  "jso": [
+  "ib": [
     0,
     0,
     0,

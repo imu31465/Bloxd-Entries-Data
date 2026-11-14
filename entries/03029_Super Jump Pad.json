@@ -15,7 +15,7 @@
   "model": "CustomModel",
   "itemTexture": "jump_pad_super",
   "solid": false,
-  "jso": [
+  "ib": [
     0,
     0,
     0,

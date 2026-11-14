@@ -12,7 +12,7 @@
   "model": "fenceGate",
   "itemTexture": "palm_fence_gate",
   "drops": null,
-  "jso": [
+  "ib": [
     0,
     0,
     0.875,

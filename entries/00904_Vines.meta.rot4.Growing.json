@@ -7,7 +7,7 @@
   "model": "rotatableOffset",
   "itemTexture": "vine_coloured",
   "solid": false,
-  "jso": [
+  "ib": [
     0.875,
     0,
     0,

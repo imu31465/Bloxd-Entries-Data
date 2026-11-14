@@ -7,7 +7,7 @@
   "model": "rotatable",
   "itemTexture": "pink_strongbed",
   "drops": "Pink Strongbed",
-  "jso": [
+  "ib": [
     0,
     0,
     0,

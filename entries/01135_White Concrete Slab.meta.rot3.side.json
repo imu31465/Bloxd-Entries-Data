@@ -10,7 +10,7 @@
   "textureInfo": "white_concrete",
   "harvestType": "rock",
   "model": "Slab",
-  "jso": [
+  "ib": [
     0,
     0,
     0.5,

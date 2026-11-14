@@ -11,7 +11,7 @@
   "model": "rotatable",
   "itemTexture": "noticeboard_standing_top_right",
   "solid": true,
-  "jso": [
+  "ib": [
     0.375,
     0,
     0,

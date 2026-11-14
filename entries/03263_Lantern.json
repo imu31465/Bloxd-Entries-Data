@@ -10,7 +10,7 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "lantern",
-  "jso": [
+  "ib": [
     0.125,
     0,
     0.125,
