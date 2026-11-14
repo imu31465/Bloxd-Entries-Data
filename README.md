@@ -16,7 +16,8 @@ Run it manually with `node update.js`, `--force` (re-extract even if unchanged),
 
 ## Layout
 
-- CHANGES.md : diff produced by the most recent update (added / removed / ID changes)
+- CHANGES.md : diff produced by the most recent update (added / removed / ID changes, with texture thumbnails)
+- HISTORY.md : diffs from older updates, text-only (thumbnails would exceed GitHub's 512 KB render limit)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; `kind` distinguishes block/item)
 - update-state.json : internal state for the automatic update (bundle URL/hash of the last extraction)

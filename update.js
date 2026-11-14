@@ -1455,6 +1455,16 @@ function slimHistory(md) {
     .trim();
 }
 
+// CHANGES.md is kept small enough for GitHub to render (files above 512 KB are shown as raw
+// text), so older runs move to HISTORY.md. There the lists are text-only: images would push
+// HISTORY.md over the same limit and blow up the repo.
+function stripHistoryImages(md) {
+  return String(md || '')
+    .split('\n')
+    .map((l) => l.replace(/!\[[^\]]*\]\(textures\/[^)]*\s"texture"\)\s*/g, ''))
+    .join('\n');
+}
+
 // Insert/replace the "entries still unchanged" status line and keep the last real diff body
 function unchangedMarkdown(existing, info = {}) {
   if (!info.bundleHash8 && !info.bundleUrl) return existing; // no bundle info (--skip-fetch) -> keep as is
@@ -1501,17 +1511,22 @@ function changesMarkdown(diff, info = {}) {
     if (s.removed) { L.push(sectionBlock('Removed', diff.removed, info.prevSnap, info.texIdx)); L.push(''); }
     if (s.idChanged) { L.push(sectionBlock('ID changed', diff.idChanged, info.nextSnap, info.texIdx)); L.push(''); }
   }
-  const history = slimHistory(info.existing);
-  if (history) {
-    L.push('<details>');
-    L.push('<summary>Older changes</summary>');
-    L.push('');
-    L.push(history);
-    L.push('');
-    L.push('</details>');
-    L.push('');
-  }
+  L.push('Older updates: [HISTORY.md](HISTORY.md)');
+  L.push('');
   return L.join('\n').replace(/\n{3,}/g, '\n\n');
+}
+
+// HISTORY.md = previous runs, newest first, text-only (no thumbnails; images would exceed
+// GitHub's 512 KB render limit). The body of the previous CHANGES.md is prepended.
+function historyMarkdown(prevChangesMd, existingHistoryMd) {
+  const oldBody = stripHistoryImages(slimHistory(prevChangesMd));
+  const oldHistory = String(existingHistoryMd || '')
+    .replace(/^# Update History\s*\n/, '')
+    .trim();
+  const parts = [];
+  if (oldBody) parts.push(oldBody);
+  if (oldHistory) parts.push(oldHistory);
+  return ['# Update History', '', 'Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) (the latest diff) to keep this file renderable.', '', parts.join('\n\n---\n\n'), ''].join('\n');
 }
 
 // ============================================================================
@@ -1539,7 +1554,8 @@ Run it manually with \`node update.js\`, \`--force\` (re-extract even if unchang
 
 ## Layout
 
-- CHANGES.md : diff produced by the most recent update (added / removed / ID changes)
+- CHANGES.md : diff produced by the most recent update (added / removed / ID changes, with texture thumbnails)
+- HISTORY.md : diffs from older updates, text-only (thumbnails would exceed GitHub's 512 KB render limit)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; \`kind\` distinguishes block/item)
 - textures/    : one PNG per entry where a texture is available (blocks = atlas tile upscaled 2x, items = the game's sprite; CHANGES.md embeds these next to entry names)
@@ -1737,6 +1753,12 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
     texIdx,
   });
   fs.writeFileSync(path.join(STAGING, 'CHANGES.md'), md);
+
+  // HISTORY.md: move the previous runs out of CHANGES.md (GitHub renders only files < 512 KB)
+  const existingHistory = fs.existsSync(path.join(OUT, 'HISTORY.md'))
+    ? fs.readFileSync(path.join(OUT, 'HISTORY.md'), 'utf8')
+    : null;
+  fs.writeFileSync(path.join(STAGING, 'HISTORY.md'), historyMarkdown(existingChanges, existingHistory));
   if (diff.firstRun) logSub('No baseline (first extraction)');
   else if (isZeroDiff) logSub(`Bundle changed but entries are unchanged -> CHANGES.md gets a status note only` + (entryFilesChanged ? ` (${entryFilesChanged} entry files have property updates)` : ''));
   else logSub(`Diff: added ${s.added} / removed ${s.removed} / ID changed ${s.idChanged}`);
@@ -1744,7 +1766,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
   // ---------- 6. Swap in ----------
   logStep('Swapping in the data');
   // README is identical whenever the entry registry is unchanged -> skip to avoid timestamp churn
-  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'textures'];
+  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'HISTORY.md', 'textures'];
   for (const a of swapTargets) {
     const dst = path.join(OUT, a);
     fs.rmSync(dst, { recursive: true, force: true });
