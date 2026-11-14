@@ -1,6 +1,6 @@
 # Update History
 
-Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) (the latest diff) to keep this file renderable.
+Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
 
 - Run at: 2026-11-09T19:13:26.574Z
 - Bundle: https://bloxd.io/static/js/trkzmh.main.ee8a864d.js

@@ -10,13 +10,14 @@ IDs and properties therefore match the live game (verified against the hardcoded
 
 bloxd.io's main bundle is checked automatically by a GitHub Action (`.github/workflows/update.yml`) roughly every 5 minutes.
 A run compares the bundle URL (its file name embeds a content hash) with `update-state.json`; if it changed, the data is
-re-extracted and the diff is written to CHANGES.md. A run notes it in CHANGES.md even when the bundle changed but no entries did.
+re-extracted and the diff is written to CHANGES.md (added/removed) and ID-CHANGES.md (ID changes). A run notes it in CHANGES.md even when the bundle changed but no entries did.
 The extraction script `update.js` is included at the repository root (single file, zero dependencies, Node >= 18).
 Run it manually with `node update.js`, `--force` (re-extract even if unchanged), or `--skip-fetch` (no network).
 
 ## Layout
 
-- CHANGES.md : diff produced by the most recent update (added / removed / ID changes, with texture thumbnails)
+- CHANGES.md : diff produced by the most recent update (added / removed, with texture thumbnails)
+- ID-CHANGES.md : ID changes from the most recent update, with texture thumbnails
 - HISTORY.md : diffs from older updates, text-only (thumbnails would exceed GitHub's 512 KB render limit)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; `kind` distinguishes block/item)

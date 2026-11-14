@@ -18,7 +18,8 @@
 // Files updated (inside this folder):
 //   entries.json               id<->name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 //   entries/                   one JSON per entry (5-digit zero-padded ID_Name.json, kind=block/item)
-//   README.md / CHANGES.md     documentation / diff from the previous run
+//   README.md / CHANGES.md /     documentation / added+removed / ID changes from the previous run
+//   ID-CHANGES.md / HISTORY.md   older runs (text-only, no thumbnails)
 //   update-state.json          last bundle url + diff counts (committed, used by CI to skip unchanged runs)
 // Compatibility: if legacy blocks.json / items.json / blocks/ / items/ exist, they are read and
 //               migrated to the unified format on a successful update (legacy files are deleted).
@@ -1509,24 +1510,70 @@ function changesMarkdown(diff, info = {}) {
     L.push('');
     if (s.added) { L.push(sectionBlock('Added', diff.added, info.nextSnap, info.texIdx)); L.push(''); }
     if (s.removed) { L.push(sectionBlock('Removed', diff.removed, info.prevSnap, info.texIdx)); L.push(''); }
-    if (s.idChanged) { L.push(sectionBlock('ID changed', diff.idChanged, info.nextSnap, info.texIdx)); L.push(''); }
   }
+  L.push('ID changes: [ID-CHANGES.md](ID-CHANGES.md)');
   L.push('Older updates: [HISTORY.md](HISTORY.md)');
   L.push('');
   return L.join('\n').replace(/\n{3,}/g, '\n\n');
 }
 
+// ID-CHANGES.md = the ID changes of the most recent run, with thumbnails. Kept in its own file
+// because the added/removed and ID-changed lists together would push CHANGES.md past GitHub's
+// 512 KB render limit (the reason this log is split across files in the first place).
+function idChangesMarkdown(diff, info = {}) {
+  const s = diff.summary;
+  const L = [];
+  L.push('# ID Change Log');
+  L.push('');
+  L.push(`- Run at: ${info.runAt || new Date().toISOString()}`);
+  L.push(`- Bundle: ${info.bundleUrl || '(same as previous)'}`);
+  if (diff.firstRun) {
+    L.push('- Baseline: none (first extraction)');
+    L.push(`- Entry count: ${s.nextCount}`);
+  } else {
+    L.push(`- Entries: ${s.prevCount} -> ${s.nextCount}`);
+  }
+  L.push('');
+  if (!diff.firstRun && s.idChanged) {
+    L.push(sectionBlock('ID changed', diff.idChanged, info.nextSnap, info.texIdx));
+    L.push('');
+  } else {
+    L.push('No ID changes in this update.');
+    L.push('');
+  }
+  L.push('Latest added/removed: [CHANGES.md](CHANGES.md)');
+  L.push('ID changes from older updates: [HISTORY.md](HISTORY.md)');
+  L.push('');
+  return L.join('\n').replace(/\n{3,}/g, '\n\n');
+}
+
+// Cross-link lines at the bottom of CHANGES.md / ID-CHANGES.md (dropped when a run is archived)
+const CHANGELOG_LINK_RE = /^(?:ID changes: \[ID-CHANGES\.md\]\(ID-CHANGES\.md\)|Older updates: \[HISTORY\.md\]\(HISTORY\.md\)|Latest added\/removed: \[CHANGES\.md\]\(CHANGES\.md\)|ID changes from older updates: \[HISTORY\.md\]\(HISTORY\.md\)).*?(?:\n|$)/gm;
+
+// The ID changed section of an ID-CHANGES.md without its H1, run meta and cross-links
+function idChangesBody(md) {
+  return String(md || '')
+    .replace(/^# ID Change Log\s*\n/, '')
+    .replace(/^- (?:Run at:|Bundle:|Entries:|Baseline: none \(first extraction\)|Entry count:).*?(?:\n|$)/gm, '')
+    .replace(CHANGELOG_LINK_RE, '')
+    .replace(/^No ID changes in this update\.\s*(?:\n|$)/m, '')
+    .trim();
+}
+
 // HISTORY.md = previous runs, newest first, text-only (no thumbnails; images would exceed
-// GitHub's 512 KB render limit). The body of the previous CHANGES.md is prepended.
-function historyMarkdown(prevChangesMd, existingHistoryMd) {
-  const oldBody = stripHistoryImages(slimHistory(prevChangesMd));
+// GitHub's 512 KB render limit). The previous CHANGES.md body and the ID changed section of
+// the previous ID-CHANGES.md are merged back into one block per run.
+function historyMarkdown(prevChangesMd, prevIdChangesMd, existingHistoryMd) {
+  const runBlock = stripHistoryImages(String(slimHistory(prevChangesMd) || '').replace(CHANGELOG_LINK_RE, '').trim());
+  const idBody = stripHistoryImages(idChangesBody(prevIdChangesMd));
+  const block = runBlock && idBody ? `${runBlock}\n\n${idBody}` : (runBlock || idBody);
   const oldHistory = String(existingHistoryMd || '')
     .replace(/^# Update History\s*\n/, '')
     .trim();
   const parts = [];
-  if (oldBody) parts.push(oldBody);
+  if (block) parts.push(block);
   if (oldHistory) parts.push(oldHistory);
-  return ['# Update History', '', 'Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) (the latest diff) to keep this file renderable.', '', parts.join('\n\n---\n\n'), ''].join('\n');
+  return ['# Update History', '', 'Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.', '', parts.join('\n\n---\n\n'), ''].join('\n');
 }
 
 // ============================================================================
@@ -1548,17 +1595,18 @@ IDs and properties therefore match the live game (verified against the hardcoded
 
 bloxd.io's main bundle is checked automatically by a GitHub Action (\`.github/workflows/update.yml\`) roughly every 5 minutes.
 A run compares the bundle URL (its file name embeds a content hash) with \`update-state.json\`; if it changed, the data is
-re-extracted and the diff is written to CHANGES.md. A run notes it in CHANGES.md even when the bundle changed but no entries did.
+re-extracted and the diff is written to CHANGES.md (added/removed) and ID-CHANGES.md (ID changes). A run notes it in CHANGES.md even when the bundle changed but no entries did.
 The extraction script \`update.js\` is included at the repository root (single file, zero dependencies, Node >= 18).
 Run it manually with \`node update.js\`, \`--force\` (re-extract even if unchanged), or \`--skip-fetch\` (no network).
 
 ## Layout
 
-- CHANGES.md : diff produced by the most recent update (added / removed / ID changes, with texture thumbnails)
+- CHANGES.md : diff produced by the most recent update (added / removed, with texture thumbnails)
+- ID-CHANGES.md : ID changes from the most recent update, with texture thumbnails
 - HISTORY.md : diffs from older updates, text-only (thumbnails would exceed GitHub's 512 KB render limit)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; \`kind\` distinguishes block/item)
-- textures/    : one PNG per entry where a texture is available (blocks = atlas tile upscaled 2x, items = the game's sprite; CHANGES.md embeds these next to entry names)
+- textures/    : one PNG per entry where a texture is available (blocks = atlas tile upscaled 2x, items = the game's sprite; CHANGES.md and ID-CHANGES.md embed these next to entry names)
 - update-state.json : internal state for the automatic update (bundle URL/hash of the last extraction)
 
 State variants (orientation, open/closed, growth, charge, etc.) live in the same folder.
@@ -1639,7 +1687,7 @@ Usage:
   node update.js --force      re-extract even if the bundle is the same as last time
   node update.js --skip-fetch re-extract from the downloaded bundle (no network)
 
-Files updated: entries.json / entries/ / README.md / CHANGES.md`);
+Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md / HISTORY.md`);
     return;
   }
 
@@ -1753,12 +1801,20 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
     texIdx,
   });
   fs.writeFileSync(path.join(STAGING, 'CHANGES.md'), md);
+  fs.writeFileSync(path.join(STAGING, 'ID-CHANGES.md'), idChangesMarkdown(diff, {
+    runAt: extractedAt,
+    bundleUrl: info ? `${info.url}` : null,
+    texIdx,
+  }));
 
-  // HISTORY.md: move the previous runs out of CHANGES.md (GitHub renders only files < 512 KB)
+  // HISTORY.md: move the previous runs out of CHANGES.md / ID-CHANGES.md (GitHub renders only files < 512 KB)
   const existingHistory = fs.existsSync(path.join(OUT, 'HISTORY.md'))
     ? fs.readFileSync(path.join(OUT, 'HISTORY.md'), 'utf8')
     : null;
-  fs.writeFileSync(path.join(STAGING, 'HISTORY.md'), historyMarkdown(existingChanges, existingHistory));
+  const existingIdChanges = fs.existsSync(path.join(OUT, 'ID-CHANGES.md'))
+    ? fs.readFileSync(path.join(OUT, 'ID-CHANGES.md'), 'utf8')
+    : null;
+  fs.writeFileSync(path.join(STAGING, 'HISTORY.md'), historyMarkdown(existingChanges, existingIdChanges, existingHistory));
   if (diff.firstRun) logSub('No baseline (first extraction)');
   else if (isZeroDiff) logSub(`Bundle changed but entries are unchanged -> CHANGES.md gets a status note only` + (entryFilesChanged ? ` (${entryFilesChanged} entry files have property updates)` : ''));
   else logSub(`Diff: added ${s.added} / removed ${s.removed} / ID changed ${s.idChanged}`);
@@ -1766,7 +1822,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
   // ---------- 6. Swap in ----------
   logStep('Swapping in the data');
   // README is identical whenever the entry registry is unchanged -> skip to avoid timestamp churn
-  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'HISTORY.md', 'textures'];
+  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'ID-CHANGES.md', 'HISTORY.md', 'textures'];
   for (const a of swapTargets) {
     const dst = path.join(OUT, a);
     fs.rmSync(dst, { recursive: true, force: true });
