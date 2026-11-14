@@ -64,6 +64,10 @@ const HEADERS = {
   'Referer': 'https://bloxd.io/',
 };
 
+// Real Node fetch, saved before the browser-harness stubs replace globalThis.fetch.
+// Used by writeTextures for the item sprite downloads (the harness must never touch the network).
+const rawFetch = globalThis.fetch && globalThis.fetch.bind(globalThis);
+
 async function httpGet(url) {
   const res = await fetch(url, { headers: HEADERS, redirect: 'follow' });
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
@@ -416,6 +420,231 @@ async function downloadChunkFiles(chunkMap) {
   await Promise.all(Array.from({ length: 6 }, () => worker()));
   logSub(`Async chunks: ${files.length} available / ${downloaded} downloaded / ${missing} not published / ${failed} failed`);
   return files;
+}
+
+// ============================================================================
+// 1b. Texture extraction (block atlas sheets + item sprite URLs -> textures/)
+// ============================================================================
+// The game ships block textures as base64 PNG "atlas sheets" (one 8-px-wide column of
+// 8x8 tiles, 256 tiles per sheet; sheet = floor(atlasIdx / 256), tile = atlasIdx % 256)
+// and item textures as static/media/<name>.<hash>.png files declared in a require.context
+// sprite chunk. We crop each block's tile into its own PNG and copy item sprites, so
+// CHANGES.md can show ![name](textures/XXXXX_Name.png) thumbnails.
+const zlib = require('zlib');
+
+// Minimal PNG codec (8-bit RGBA, non-interlaced only; enough for atlas sheets and sprites).
+function pngDecode(buf) {
+  if (buf.readUInt32BE(0) !== 0x89504e47) throw new Error('not a PNG');
+  let off = 8, w = 0, h = 0, bitDepth = 0, colorType = 0, interlace = 0, idat = [];
+  while (off < buf.length) {
+    const len = buf.readUInt32BE(off);
+    const type = buf.slice(off + 4, off + 8).toString('ascii');
+    const data = buf.slice(off + 8, off + 8 + len);
+    if (type === 'IHDR') {
+      w = data.readUInt32BE(0); h = data.readUInt32BE(4);
+      bitDepth = data[8]; colorType = data[9]; interlace = data[12];
+    } else if (type === 'IDAT') idat.push(data);
+    else if (type === 'IEND') break;
+    off += 12 + len;
+  }
+  if (bitDepth !== 8 || (colorType !== 6 && colorType !== 2) || interlace !== 0) throw new Error(`unsupported PNG (depth=${bitDepth} color=${colorType} interlace=${interlace})`);
+  const bpp = colorType === 6 ? 4 : 3;
+  const raw = zlib.inflateSync(Buffer.concat(idat));
+  const stride = w * bpp;
+  const out = Buffer.alloc(h * stride);
+  for (let y = 0; y < h; y++) {
+    const filter = raw[y * (stride + 1)];
+    const row = raw.subarray(y * (stride + 1) + 1, (y + 1) * (stride + 1));
+    const prev = y > 0 ? out.subarray((y - 1) * stride, y * stride) : null;
+    const cur = out.subarray(y * stride, (y + 1) * stride);
+    for (let x = 0; x < stride; x++) {
+      const a = x >= bpp ? cur[x - bpp] : 0;
+      const b = prev ? prev[x] : 0;
+      const c = x >= bpp && prev ? prev[x - bpp] : 0;
+      let v = row[x];
+      if (filter === 1) v = (v + a) & 0xff;
+      else if (filter === 2) v = (v + b) & 0xff;
+      else if (filter === 3) v = (v + ((a + b) >> 1)) & 0xff;
+      else if (filter === 4) { // Paeth
+        const p = a + b - c, pa = Math.abs(p - a), pb = Math.abs(p - b), pc = Math.abs(p - c);
+        v = (v + (pa <= pb && pa <= pc ? a : pb <= pc ? b : c)) & 0xff;
+      }
+      cur[x] = v;
+    }
+  }
+  return { width: w, height: h, bpp, pixels: out };
+}
+
+const PNG_CRC = (() => {
+  const t = new Int32Array(256);
+  for (let n = 0; n < 256; n++) {
+    let c = n;
+    for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+    t[n] = c;
+  }
+  return t;
+})();
+function pngChunk(type, data) {
+  const b = Buffer.alloc(8 + data.length + 4);
+  b.writeUInt32BE(data.length, 0);
+  b.write(type, 4, 'ascii');
+  data.copy(b, 8);
+  let c = -1;
+  for (const byte of Buffer.concat([Buffer.from(type, 'ascii'), data])) c = PNG_CRC[(c ^ byte) & 0xff] ^ (c >>> 8);
+  b.writeUInt32BE((c ^ -1) >>> 0, 8 + data.length); // final XOR + unsigned, per PNG spec
+  return b;
+}
+function pngEncode(width, height, bpp, pixels) {
+  const stride = width * bpp;
+  const raw = Buffer.alloc((stride + 1) * height);
+  for (let y = 0; y < height; y++) {
+    raw[y * (stride + 1)] = 0; // filter none (tiles are tiny; size is irrelevant here)
+    pixels.copy(raw, y * (stride + 1) + 1, y * stride, (y + 1) * stride);
+  }
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(width, 0); ihdr.writeUInt32BE(height, 4);
+  ihdr[8] = 8; ihdr[9] = bpp === 4 ? 6 : 2; ihdr[12] = 0;
+  return Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    pngChunk('IHDR', ihdr),
+    pngChunk('IDAT', zlib.deflateSync(raw, { level: 6 })),
+    pngChunk('IEND', Buffer.alloc(0)),
+  ]);
+}
+
+// Extract the atlas sheets (data URIs) and the item sprite URL map from the chunk sources.
+// Returns { sheets: [Buffer...], width, perAtlas, itemUrls: {name -> url} } or null.
+function findTextureSources(chunkSrcs) {
+  let sheets = null, width = 8, perAtlas = 256, itemUrls = null;
+  for (const src of chunkSrcs) {
+    // --- block atlas chunk: exports blockAtlasUrls = [MW(id), ...] with data:image/png modules ---
+    if (!sheets && src.includes('blockAtlasUrls')) {
+      const mW = src.match(/(\w+)=\[MW\((\d+)\)((?:,MW\(\d+\))*)\]/); // e.g. zR=[MW(32679),MW(32684),...]
+      if (mW) {
+        const ids = [mW[2], ...(mW[3] || '').matchAll(/MW\((\d+)\)/g).map((x) => x[1])];
+        const bufs = [];
+        let ok = true;
+        for (const id of ids) {
+          const dm = src.match(new RegExp(id + ':(?:\\(WW,RW,MW\\)|WW)=>\\{WW\\.exports=\\"(data:image/png;base64,[^\\"]+)\\"\\}'));
+          if (!dm) { ok = false; break; }
+          bufs.push(Buffer.from(dm[1].slice('data:image/png;base64,'.length), 'base64'));
+        }
+        if (ok && bufs.length) {
+          sheets = bufs;
+          const wM = src.match(/const (\w+)=(\d+),(\w+)=\[([\d,]+)\]/); // const wW=8,CW=[256,...]
+          if (wM) { width = Number(wM[2]); perAtlas = Number(wM[4].split(',')[0]); }
+        }
+      }
+    }
+    // --- item sprite chunk: require.context map './name.png' -> id -> static/media URL ---
+    if (!itemUrls) {
+      const ctx = src.match(/var \w+=\{("\.\/[^"]+\.png":\d+[,\s\S]*?)\};/);
+      if (ctx && src.includes('static/media/')) {
+        const urlById = new Map();
+        for (const m of src.matchAll(/(\d+):\((?:WW|RW|MW),(?:WW|RW|MW),(?:WW|RW|MW)\)=>\{WW\.exports=MW\.p\+"([^"]+)"\}/g)) {
+          urlById.set(m[1], m[2]);
+        }
+        if (urlById.size > 100) {
+          const urls = {};
+          for (const [, name, id] of ctx[1].matchAll(/"\.\/([^"]+)\.png":(\d+)/g)) {
+            const u = urlById.get(id);
+            if (u) urls[name] = u;
+          }
+          if (Object.keys(urls).length > 100) itemUrls = urls;
+        }
+      }
+    }
+  }
+  if (!sheets && !itemUrls) return null;
+  return { sheets, width, perAtlas, itemUrls };
+}
+
+// Crop the 8x8 tile for atlasIdx out of the decoded sheets and return an (optionally scaled) PNG buffer.
+function blockTilePng(sheetsDecoded, width, perAtlas, atlasIdx, scale = 2) {
+  const sheet = Math.floor(atlasIdx / perAtlas);
+  const tile = atlasIdx % perAtlas;
+  const dec = sheetsDecoded[sheet];
+  if (!dec) return null;
+  const cols = Math.max(1, Math.floor(dec.width / width)); // tiles per row (1 for the 8px-wide strips)
+  const tx = (tile % cols) * width;
+  const ty = Math.floor(tile / cols) * width;
+  if (ty + width > dec.height) return null;
+  const out = Buffer.alloc(width * width * scale * scale * dec.bpp);
+  for (let y = 0; y < width * scale; y++) {
+    for (let x = 0; x < width * scale; x++) {
+      const sy = ty + Math.floor(y / scale), sx = tx + Math.floor(x / scale);
+      for (let c = 0; c < dec.bpp; c++) {
+        out[(y * width * scale + x) * dec.bpp + c] = dec.pixels[(sy * dec.width + sx) * dec.bpp + c];
+      }
+    }
+  }
+  return pngEncode(width * scale, width * scale, dec.bpp, out);
+}
+
+// Write textures/XXXXX_Name.png for every entry we can render.
+// Blocks use the atlas sheets (first texture of arrays/animations); items use the sprite URLs.
+// Returns Map<name, filename> for CHANGES.md image embedding, or null when no textures were found.
+async function writeTextures(staging, chunkSrcs, blockInstances, items) {
+  if (!chunkSrcs || !chunkSrcs.length) return null;
+  const src = findTextureSources(chunkSrcs);
+  if (!src) { logSub('No atlas / sprite chunks found; textures skipped'); return null; }
+  const texDir = path.join(staging, 'textures');
+  fs.mkdirSync(texDir, { recursive: true });
+
+  // name -> texture file name, e.g. 'Dirt' -> '00002_Dirt.png'
+  const texIdx = new Map();
+  const texName = (inst) => `${String(inst.id).padStart(5, '0')}_${sanitizeFilename(inst.name)}.png`;
+
+  let blocksDone = 0;
+  if (src.sheets) {
+    const sheetsDecoded = src.sheets.map((b) => { try { return pngDecode(b); } catch (_) { return null; } });
+    if (sheetsDecoded.some(Boolean)) {
+      for (const inst of blockInstances) {
+        let idx = inst.atlasIdx;
+        if (Array.isArray(idx)) idx = idx[0]; // per-face / animation: use the first texture
+        if (typeof idx !== 'number' || !Number.isFinite(idx)) continue;
+        const png = blockTilePng(sheetsDecoded, src.width, src.perAtlas, Math.floor(idx));
+        if (!png) continue;
+        const fname = texName(inst);
+        fs.writeFileSync(path.join(texDir, fname), png);
+        if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
+        blocksDone++;
+      }
+    }
+  }
+
+  let itemsDone = 0;
+  if (src.itemUrls) {
+    // item textureInfo is a texture name like 'stone_pickaxe' (or heldItemGlb for models)
+    const wanted = new Map();
+    for (const it of items) {
+      const t = typeof it.textureInfo === 'string' ? it.textureInfo : null;
+      if (t && src.itemUrls[t]) wanted.set(t, it);
+    }
+    const jobs = [...wanted.values()].map(async (it) => {
+      const url = `${ORIGIN}/${src.itemUrls[it.textureInfo]}`;
+      for (let attempt = 0; attempt < 2; attempt++) {
+        try {
+          const res = await rawFetch(url, { headers: HEADERS, redirect: 'follow' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const buf = Buffer.from(await res.arrayBuffer());
+          const fname = texName(it);
+          fs.writeFileSync(path.join(texDir, fname), buf);
+          if (!texIdx.has(it.name)) texIdx.set(it.name, fname);
+          return true;
+        } catch (e) {
+          if (attempt === 1) return false;
+          await new Promise((r) => setTimeout(r, 300));
+        }
+      }
+      return false;
+    });
+    const results = await Promise.all(jobs);
+    itemsDone = results.filter(Boolean).length;
+  }
+
+  logSub(`Textures: ${blocksDone} blocks (atlas tiles) + ${itemsDone} items (sprites)`);
+  return texIdx.size ? texIdx : null;
 }
 
 // Build the id -> module-function table from the main bundle + all cached async chunks.
@@ -1006,25 +1235,27 @@ function countChangedEntryFiles(stagingDir, outDir) {
   return changed;
 }
 
-function fmtList(rows, snap, cap = 300) {
+function fmtList(rows, snap, texIdx) {
   if (!rows.length) return '_none_';
-  const lines = rows.slice(0, cap).map((r) => {
+  const lines = rows.map((r) => {
     const kind = kindOfEntry(snap, r.name);
     const tag = kind ? ` (${kind === 'block' ? 'block' : 'item'})` : '';
-    if (r.from !== undefined) return `- ${r.name}${tag}: ${r.from} -> **${r.to}**`;
-    return `- ${r.name}${tag}: **${r.id}**`;
+    // texture thumbnail to the left of the name (only when the PNG exists in textures/)
+    let img = '';
+    if (texIdx && texIdx.has(r.name)) img = `![${r.name.replace(/[\[\]]/g, '')}](textures/${encodeURIComponent(texIdx.get(r.name))} "texture") `;
+    if (r.from !== undefined) return `- ${img}${r.name}${tag}: ${r.from} -> **${r.to}**`;
+    return `- ${img}${r.name}${tag}: **${r.id}**`;
   });
-  if (rows.length > cap) lines.push(`- ...and ${rows.length - cap} more`);
   return lines.join('\n');
 }
 
-function sectionBlock(title, rows, snap) {
+function sectionBlock(title, rows, snap, texIdx) {
   if (!rows.length) return null;
   const label = `${title} (${rows.length})`;
   if (rows.length <= INLINE_LIST_MAX) {
-    return [`## ${label}`, '', fmtList(rows, snap), ''].join('\n');
+    return [`## ${label}`, '', fmtList(rows, snap, texIdx), ''].join('\n');
   }
-  return ['<details>', `<summary>${label}</summary>`, '', fmtList(rows, snap), '', '</details>', ''].join('\n');
+  return ['<details>', `<summary>${label}</summary>`, '', fmtList(rows, snap, texIdx), '', '</details>', ''].join('\n');
 }
 
 // Remove the H1 and previous check-status lines before reusing a body as history
@@ -1077,9 +1308,9 @@ function changesMarkdown(diff, info = {}) {
     L.push(`| Removed | ${s.removed} |`);
     L.push(`| ID changed | ${s.idChanged} |`);
     L.push('');
-    if (s.added) { L.push(sectionBlock('Added', diff.added, info.nextSnap)); L.push(''); }
-    if (s.removed) { L.push(sectionBlock('Removed', diff.removed, info.prevSnap)); L.push(''); }
-    if (s.idChanged) { L.push(sectionBlock('ID changed', diff.idChanged, info.nextSnap)); L.push(''); }
+    if (s.added) { L.push(sectionBlock('Added', diff.added, info.nextSnap, info.texIdx)); L.push(''); }
+    if (s.removed) { L.push(sectionBlock('Removed', diff.removed, info.prevSnap, info.texIdx)); L.push(''); }
+    if (s.idChanged) { L.push(sectionBlock('ID changed', diff.idChanged, info.nextSnap, info.texIdx)); L.push(''); }
   }
   const history = slimHistory(info.existing);
   if (history) {
@@ -1122,6 +1353,7 @@ Run it manually with \`node update.js\`, \`--force\` (re-extract even if unchang
 - CHANGES.md : diff produced by the most recent update (added / removed / ID changes)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; \`kind\` distinguishes block/item)
+- textures/    : one PNG per entry where a texture is available (blocks = atlas tile upscaled 2x, items = the game's sprite; CHANGES.md embeds these next to entry names)
 - update-state.json : internal state for the automatic update (bundle URL/hash of the last extraction)
 
 State variants (orientation, open/closed, growth, charge, etc.) live in the same folder.
@@ -1282,6 +1514,14 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
   const staged = writeStagedData(STAGING, blockInstances, blocksWithAir, items, itemNs);
   logSub(`${staged.n} files total`);
 
+  // ---------- 4b. Textures (block atlas tiles + item sprites -> textures/) ----------
+  let texIdx = null;
+  try {
+    texIdx = await writeTextures(STAGING, chunkSrcs, blockInstances, items);
+  } catch (e) {
+    logSub(`Warning: texture generation skipped (${String(e.message).split('\n')[0]})`);
+  }
+
   // ---------- 5. ID/name map + README + CHANGES ----------
   logStep('Building the id/name map, README, and diff');
   const readme = buildReadme({ sourceLabel, extractedAt, blocksArr: staged.blocksArr, itemsArr: staged.itemsArr });
@@ -1305,6 +1545,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
     nextSnap: nextMaps,
     existing: existingChanges,
     entryFilesChanged,
+    texIdx,
   });
   fs.writeFileSync(path.join(STAGING, 'CHANGES.md'), md);
   if (diff.firstRun) logSub('No baseline (first extraction)');
@@ -1314,7 +1555,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md`);
   // ---------- 6. Swap in ----------
   logStep('Swapping in the data');
   // README is identical whenever the entry registry is unchanged -> skip to avoid timestamp churn
-  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md'];
+  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'textures'];
   for (const a of swapTargets) {
     const dst = path.join(OUT, a);
     fs.rmSync(dst, { recursive: true, force: true });
