@@ -1241,8 +1241,9 @@ function fmtList(rows, snap, texIdx) {
     const kind = kindOfEntry(snap, r.name);
     const tag = kind ? ` (${kind === 'block' ? 'block' : 'item'})` : '';
     // texture thumbnail to the left of the name (only when the PNG exists in textures/)
+    // encode ( ) too: a ')' inside the URL would end the markdown link destination
     let img = '';
-    if (texIdx && texIdx.has(r.name)) img = `![${r.name.replace(/[\[\]]/g, '')}](textures/${encodeURIComponent(texIdx.get(r.name))} "texture") `;
+    if (texIdx && texIdx.has(r.name)) img = `![${r.name.replace(/[\[\]]/g, '')}](textures/${encodeURIComponent(texIdx.get(r.name)).replace(/[()']/g, (c) => '%' + c.charCodeAt(0).toString(16).toUpperCase())} "texture") `;
     if (r.from !== undefined) return `- ${img}${r.name}${tag}: ${r.from} -> **${r.to}**`;
     return `- ${img}${r.name}${tag}: **${r.id}**`;
   });
