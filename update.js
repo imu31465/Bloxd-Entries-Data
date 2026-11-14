@@ -332,23 +332,30 @@ function findModuleMapBounds(source) {
 //   .u=<id>=>"static/js/<prefix>."+({0:"name",...}[<id>]||<id>)+"."+{<id>:"hash",...}[<id>]+".chunk.js"
 // Returns { urlPrefix, names, hashes } or null when the build has no async JS chunks.
 function findChunkMap(source) {
-  const iu = source.search(/\.u=/);
-  if (iu < 0) return null;
-  // 2026-11: bloxd.io grew past ~260 async chunks, so the .u= arrow function got longer
+  // 2026-11 (a): bloxd.io grew past ~260 async chunks, so the .u= arrow function got longer
   // than the old fixed 4000-char window and the regex stopped matching (no chunks were
   // downloaded -> "Block registry not found"). Slice to the function's ".chunk.js"
   // terminator instead of a fixed window, with a generous fallback.
-  let end = source.indexOf('.chunk.js"', iu);
-  if (end < 0 || end - iu > 100000) end = iu + 100000;
-  const seg = source.slice(iu, Math.min(end + 12, source.length));
-  const m = seg.match(/^\.u=\(?[A-Za-z_$][\w$]*\)?=>("([^"]*)")\+\(?(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\|\|([A-Za-z_$][\w$]*)\)\+"\."\+(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\+"\.chunk\.js"/);
-  if (!m) return null;
-  let names, hashes;
-  try {
-    names = new Function('return (' + m[3] + ')')();
-    hashes = new Function('return (' + m[6] + ')')();
-  } catch (_) { return null; }
-  return { urlPrefix: m[2], names, hashes };
+  // 2026-11 (b): minified app code can contain unrelated ".u=" occurrences (e.g. ".u===X"
+  // comparisons) BEFORE the real webpack chunk-URL builder, so source.search(/\.u=/) hit the
+  // wrong one and the regex never matched. Try EVERY ".u=" occurrence and accept the first
+  // one that parses as the URL-builder shape.
+  let iu = -1;
+  while ((iu = source.indexOf('.u=', iu + 1)) !== -1) {
+    let end = source.indexOf('.chunk.js"', iu);
+    if (end < 0 || end - iu > 100000) end = iu + 100000;
+    const seg = source.slice(iu, Math.min(end + 12, source.length));
+    const m = seg.match(/^\.u=\(?[A-Za-z_$][\w$]*\)?=>("([^"]*)")\+\(?(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\|\|([A-Za-z_$][\w$]*)\)\+"\."\+(\{[^{}]*\})\[([A-Za-z_$][\w$]*)\]\+"\.chunk\.js"/);
+    if (!m) continue;
+    let names, hashes;
+    try {
+      names = new Function('return (' + m[3] + ')')();
+      hashes = new Function('return (' + m[6] + ')')();
+    } catch (_) { continue; }
+    if (!hashes || typeof hashes !== 'object' || Object.keys(hashes).length === 0) continue;
+    return { urlPrefix: m[2], names, hashes };
+  }
+  return null;
 }
 
 const CHUNK_DIR = path.join(CACHE, 'chunks');
