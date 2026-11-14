@@ -513,9 +513,9 @@ function pngEncode(width, height, bpp, pixels) {
 }
 
 // Extract the atlas sheets (data URIs) and the item sprite URL map from the chunk sources.
-// Returns { sheets: [Buffer...], width, perAtlas, itemUrls: {name -> url} } or null.
+// Returns { sheets, width, perAtlas, itemUrls, inlineSprites, glbUrls, mobAtlas } or null.
 function findTextureSources(chunkSrcs) {
-  let sheets = null, width = 8, perAtlas = 256, itemUrls = null;
+  let sheets = null, width = 8, perAtlas = 256, itemUrls = null, inlineSprites = null, glbUrls = null, mobAtlas = null;
   for (const src of chunkSrcs) {
     // --- block atlas chunk: exports blockAtlasUrls = [MW(id), ...] with data:image/png modules ---
     if (!sheets && src.includes('blockAtlasUrls')) {
@@ -554,9 +554,45 @@ function findTextureSources(chunkSrcs) {
         }
       }
     }
+    // --- sprite chunk with INLINE base64 PNGs (id:WW=>{WW.exports="data:image/png;base64,..."}) ---
+    if (!inlineSprites) {
+      const ctx = src.match(/\{("\.\/[^"]+\.png":\d+(?:,\s*"[^"]+\.png":\d+)*)\}/);
+      if (ctx && src.includes('data:image/png;base64,')) {
+        const nameById = {};
+        for (const m of ctx[1].matchAll(/"\.\/([^"]+)\.png":(\d+)/g)) nameById[m[2]] = m[1];
+        const dataById = {};
+        for (const m of src.matchAll(/(\d+):\w+=>\{\w+\.exports="data:image\/png;base64,([A-Za-z0-9+/=]+)"\}/g)) dataById[m[1]] = m[2];
+        const found = {};
+        for (const [id, name] of Object.entries(nameById)) {
+          if (dataById[id]) found[name] = 'data:image/png;base64,' + dataById[id];
+        }
+        if (Object.keys(found).length > 100) inlineSprites = found;
+      }
+    }
+    // --- model catalogue chunk: './name.png'/'./name.glb'/'./Mob/Mob_Atlas.png' -> static/media URL ---
+    if (!glbUrls) {
+      const urlById = new Map();
+      for (const m of src.matchAll(/(\d+):\((?:WW|RW|MW),(?:WW|RW|MW),(?:WW|RW|MW)\)=>\{WW\.exports=MW\.p\+"([^"]+)"\}/g)) urlById.set(m[1], m[2]);
+      const glbCtx = src.match(/\{("\.\/[^"]+?\.glb":\d+(?:,\s*"[^"]+?\.glb":\d+)*)\}/);
+      const pngCtx = src.match(/\{("\.\/[^"/]+\/[^"]+?_Atlas\.png":\d+(?:,\s*"[^"]+?_Atlas\.png":\d+)*)\}/);
+      if (glbCtx || pngCtx) {
+        glbUrls = {};
+        if (glbCtx) for (const [, name, id] of glbCtx[1].matchAll(/"\.\/([^"]+?)\.glb":(\d+)/g)) {
+          const u = urlById.get(id); if (u) glbUrls[name] = u;
+        }
+        mobAtlas = {};
+        if (pngCtx) for (const m of pngCtx[1].matchAll(/"\.\/([^/"]+)\/[^"]+?_Atlas\.png":(\d+)/g)) {
+          const u = urlById.get(m[2]); if (u) mobAtlas[m[1]] = u;
+        }
+        // extra: catalogue also exports named texture urls {name:"x",url:()=>MW(id)}
+        for (const m of src.matchAll(/\{name:"([^"]+)",url:\(\)=>MW\((\d+)\)\}/g)) {
+          const u = urlById.get(m[2]); if (u) (itemUrls ??= {})[m[1]] ??= u;
+        }
+      }
+    }
   }
-  if (!sheets && !itemUrls) return null;
-  return { sheets, width, perAtlas, itemUrls };
+  if (!sheets && !itemUrls && !inlineSprites && !glbUrls) return null;
+  return { sheets, width, perAtlas, itemUrls, inlineSprites, glbUrls, mobAtlas };
 }
 
 // Crop the 8x8 tile for atlasIdx out of the decoded sheets and return an (optionally scaled) PNG buffer.
@@ -582,7 +618,11 @@ function blockTilePng(sheetsDecoded, width, perAtlas, atlasIdx, scale = 2) {
 }
 
 // Write textures/XXXXX_Name.png for every entry we can render.
-// Blocks use the atlas sheets (first texture of arrays/animations); items use the sprite URLs.
+// Blocks use the atlas sheets (first texture of arrays/animations). Blocks without an atlas
+// index (cross-model plants, rotatable machines, doors...) and items use the item sprite
+// chunk: textureInfo first, then itemTexture — the name the game itself shows in inventory
+// UIs. Every entry gets its own PNG even when several share one sprite (e.g. recolored
+// armour sets: 'Wood Helmet' .. 'Yellow Wood Helmet' all use wood_helmet.png).
 // Returns Map<name, filename> for CHANGES.md image embedding, or null when no textures were found.
 async function writeTextures(staging, chunkSrcs, blockInstances, items) {
   if (!chunkSrcs || !chunkSrcs.length) return null;
@@ -613,37 +653,185 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
     }
   }
 
-  let itemsDone = 0;
-  if (src.itemUrls) {
-    // item textureInfo is a texture name like 'stone_pickaxe' (or heldItemGlb for models)
-    const wanted = new Map();
-    for (const it of items) {
-      const t = typeof it.textureInfo === 'string' ? it.textureInfo : null;
-      if (t && src.itemUrls[t]) wanted.set(t, it);
-    }
-    const jobs = [...wanted.values()].map(async (it) => {
-      const url = `${ORIGIN}/${src.itemUrls[it.textureInfo]}`;
-      for (let attempt = 0; attempt < 2; attempt++) {
-        try {
-          const res = await rawFetch(url, { headers: HEADERS, redirect: 'follow' });
-          if (!res.ok) throw new Error('HTTP ' + res.status);
-          const buf = Buffer.from(await res.arrayBuffer());
-          const fname = texName(it);
-          fs.writeFileSync(path.join(texDir, fname), buf);
-          if (!texIdx.has(it.name)) texIdx.set(it.name, fname);
-          return true;
-        } catch (e) {
-          if (attempt === 1) return false;
-          await new Promise((r) => setTimeout(r, 300));
-        }
-      }
-      return false;
-    });
-    const results = await Promise.all(jobs);
-    itemsDone = results.filter(Boolean).length;
+  // Sprite-based rendering: one job per (entry, sprite) pair, so shared sprites are
+  // downloaded once per entry file name rather than once per distinct texture name.
+  // Sources per sprite name: static/media URL map, then the inline base64 PNG map.
+  const spriteJobs = [];
+  const queueSprite = (inst, sprite) => {
+    const url = src.itemUrls && src.itemUrls[sprite];
+    const inline = src.inlineSprites && src.inlineSprites[sprite];
+    if (!url && !inline) return false;
+    spriteJobs.push({ inst, url, inline });
+    return true;
+  };
+  // items: textureInfo is a sprite name like 'stone_pickaxe'
+  for (const it of items) {
+    if (typeof it.textureInfo === 'string' && queueSprite(it, it.textureInfo)) continue;
+    if (typeof it.itemTexture === 'string') queueSprite(it, it.itemTexture);
+  }
+  // blocks without a usable atlas tile: textureInfo (cross-model plants) then itemTexture
+  for (const inst of blockInstances) {
+    const idx = Array.isArray(inst.atlasIdx) ? inst.atlasIdx[0] : inst.atlasIdx;
+    if (typeof idx === 'number' && Number.isFinite(idx)) continue; // already atlas-rendered
+    if (typeof inst.textureInfo === 'string' && queueSprite(inst, inst.textureInfo)) continue;
+    if (typeof inst.itemTexture === 'string') queueSprite(inst, inst.itemTexture);
   }
 
-  logSub(`Textures: ${blocksDone} blocks (atlas tiles) + ${itemsDone} items (sprites)`);
+  // Shared URLs are fetched once and written to every referencing entry's file.
+  const byUrl = new Map();
+  for (const j of spriteJobs) {
+    const key = j.inline ? 'inline:' + j.inline.slice(-48) : 'url:' + j.url;
+    if (!byUrl.has(key)) byUrl.set(key, { url: j.url, inline: j.inline, insts: [] });
+    byUrl.get(key).insts.push(j.inst);
+  }
+  let itemsDone = 0;
+  const jobs = [...byUrl.entries()].map(async ([, { url, inline, insts }]) => {
+    if (inline) {
+      // embedded data URI: no network needed
+      const buf = Buffer.from(inline.slice('data:image/png;base64,'.length), 'base64');
+      for (const inst of insts) {
+        const fname = texName(inst);
+        fs.writeFileSync(path.join(texDir, fname), buf);
+        if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
+        itemsDone++;
+      }
+      return true;
+    }
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try {
+        const res = await rawFetch(`${ORIGIN}/${url}`, { headers: HEADERS, redirect: 'follow' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const buf = Buffer.from(await res.arrayBuffer());
+        for (const inst of insts) {
+          const fname = texName(inst);
+          fs.writeFileSync(path.join(texDir, fname), buf);
+          if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
+          itemsDone++;
+        }
+        return true;
+      } catch (e) {
+        if (attempt === 1) return false;
+        await new Promise((r) => setTimeout(r, 300));
+      }
+    }
+    return false;
+  });
+  await Promise.all(jobs);
+
+  // ---------- fallback chain for entries still without a PNG ----------
+  const doneSet = new Set(fs.existsSync(texDir) ? fs.readdirSync(texDir) : []);
+  const markDone = (fname) => doneSet.add(fname);
+  const glbNorm = new Map();
+  if (src.glbUrls) for (const [k, v] of Object.entries(src.glbUrls)) glbNorm.set(k.toLowerCase().replace(/\s+/g, '_'), v);
+
+  // Extract the first embedded PNG from a GLB buffer (binary glTF: json chunk + bin chunk).
+  function glbFirstPng(buf) {
+    if (buf.length < 20 || buf.readUInt32LE(0) !== 0x46546c67) return null;
+    let jsonLen;
+    try { jsonLen = buf.readUInt32LE(12); } catch (_) { return null; }
+    let json;
+    try { json = JSON.parse(buf.slice(20, 20 + jsonLen).toString('utf8')); } catch (_) { return null; }
+    if (!json.images || !json.images.length || !json.bufferViews) return null;
+    const binHeader = 20 + jsonLen;
+    const binLen = buf.readUInt32LE(binHeader);
+    const bin = buf.slice(binHeader + 8, binHeader + 8 + binLen);
+    for (const img of json.images) {
+      if (img.mimeType !== 'image/png') continue;
+      const bv = json.bufferViews[img.bufferView];
+      if (!bv) continue;
+      const png = bin.slice(bv.byteOffset || 0, (bv.byteOffset || 0) + (bv.byteLength || bin.length));
+      if (png.length > 8 && png.readUInt32BE(0) === 0x89504e47) return png;
+    }
+    return null;
+  }
+
+  // 16x16 solid RGBA swatch (for GLB models whose material is a plain baseColorFactor,
+  // and for color-only blocks like Water whose textureInfo IS an [r,g,b,a] array).
+  function solidSwatchPng(r, g, b, a) {
+    const W = 16, raw = Buffer.alloc((W * 4 + 1) * W);
+    for (let y = 0; y < W; y++) {
+      raw[y * (W * 4 + 1)] = 0;
+      for (let x = 0; x < W * 4; x += 4) {
+        const o = y * (W * 4 + 1) + 1 + x;
+        raw[o] = r; raw[o + 1] = g; raw[o + 2] = b; raw[o + 3] = a;
+      }
+    }
+    const ihdr = Buffer.alloc(13);
+    ihdr.writeUInt32BE(W, 0); ihdr.writeUInt32BE(W, 4); ihdr[8] = 8; ihdr[9] = 6;
+    return Buffer.concat([
+      Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+      pngChunk('IHDR', ihdr),
+      pngChunk('IDAT', zlib.deflateSync(raw)),
+      pngChunk('IEND', Buffer.alloc(0)),
+    ]);
+  }
+
+  const byId = new Map(blockInstances.map((b) => [b.id, b]));
+  const byName = new Map(blockInstances.map((b) => [b.name, b]));
+  let extra = 0;
+  const addPng = (inst, png) => {
+    const fname = texName(inst);
+    fs.writeFileSync(path.join(texDir, fname), png);
+    markDone(fname);
+    if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
+    extra++;
+  };
+
+  for (const inst of [...blockInstances, ...items]) {
+    if (doneSet.has(texName(inst))) continue;
+
+    // (a) meta variants inherit the root entry's PNG (doors, trapdoors, rot variants)
+    const rootId = inst.meta && inst.meta.rootId;
+    const root = rootId != null ? byId.get(rootId) : null;
+    if (root && root.id !== inst.id && doneSet.has(texName(root))) {
+      fs.copyFileSync(path.join(texDir, texName(root)), path.join(texDir, texName(inst)));
+      markDone(texName(inst));
+      if (!texIdx.has(inst.name)) texIdx.set(inst.name, texName(inst));
+      extra++;
+      continue;
+    }
+
+    // (b) blocks whose drops-item has a texture reuse that icon (machines dropping their item)
+    if (inst.kind === undefined || inst.kind === 'block') {
+      const drop = inst.drops && byName.get(inst.drops);
+      if (drop && drop.id !== inst.id && doneSet.has(texName(drop))) {
+        fs.copyFileSync(path.join(texDir, texName(drop)), path.join(texDir, texName(inst)));
+        markDone(texName(inst));
+        if (!texIdx.has(inst.name)) texIdx.set(inst.name, texName(inst));
+        extra++;
+        continue;
+      }
+    }
+
+    // (c) color-only blocks: textureInfo = [r, g, b, a] (0..1), e.g. Water
+    if (Array.isArray(inst.textureInfo) && inst.textureInfo.length >= 3
+        && inst.textureInfo.every((v) => typeof v === 'number')) {
+      const [r, g, b, a] = inst.textureInfo;
+      addPng(inst, solidSwatchPng(Math.round(r * 255), Math.round(g * 255), Math.round(b * 255), Math.round((a ?? 1) * 255)));
+      continue;
+    }
+
+    // (d) GLB models: embedded texture, else a baseColorFactor swatch
+    if (typeof inst.blockModel === 'string' && src.glbUrls) {
+      const url = glbNorm.get(inst.blockModel.toLowerCase().replace(/\s+/g, '_'));
+      if (!url) continue;
+      try {
+        const res = await rawFetch(`${ORIGIN}/${url}`, { headers: HEADERS, redirect: 'follow' });
+        if (!res.ok) continue;
+        const buf = Buffer.from(await res.arrayBuffer());
+        const png = glbFirstPng(buf);
+        if (png) { addPng(inst, png); continue; }
+        // untextured model: render its material's base color as a swatch
+        const jsonLen = buf.readUInt32LE(12);
+        const json = JSON.parse(buf.slice(20, 20 + jsonLen).toString('utf8'));
+        const mat = (json.materials || []).find((m) => m.pbrMetallicRoughness && m.pbrMetallicRoughness.baseColorFactor);
+        const c = mat ? mat.pbrMetallicRoughness.baseColorFactor : [0.5, 0.5, 0.5, 1];
+        addPng(inst, solidSwatchPng(Math.round(c[0] * 255), Math.round(c[1] * 255), Math.round(c[2] * 255), Math.round((c[3] ?? 1) * 255)));
+      } catch (_) { /* network/parse failure: leave untextured */ }
+    }
+  }
+
+  logSub(`Textures: ${blocksDone} blocks (atlas tiles) + ${itemsDone} sprites written (${byUrl.size} sources) + ${extra} via fallbacks (root/drops/GLB/swatch)`);
   return texIdx.size ? texIdx : null;
 }
 

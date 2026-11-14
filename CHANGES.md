@@ -167,70 +167,70 @@
 - ![_Collider Focus|meta|rot2|Running](textures/08259__Collider%20Focus.meta.rot2.Running.png "texture") _Collider Focus|meta|rot2|Running (block): **8259**
 - ![_Collider Focus|meta|rot3|Running](textures/08260__Collider%20Focus.meta.rot3.Running.png "texture") _Collider Focus|meta|rot3|Running (block): **8260**
 - ![_Collider Focus|meta|rot4|Running](textures/08261__Collider%20Focus.meta.rot4.Running.png "texture") _Collider Focus|meta|rot4|Running (block): **8261**
-- Fluid Pipe (block): **8262**
-- Fluid Pipe|meta|conn|nx (block): **8263**
-- Fluid Pipe|meta|conn|ny (block): **8264**
-- Fluid Pipe|meta|conn|nx_ny (block): **8265**
-- Fluid Pipe|meta|conn|nz (block): **8266**
-- Fluid Pipe|meta|conn|nx_nz (block): **8267**
-- Fluid Pipe|meta|conn|ny_nz (block): **8268**
-- Fluid Pipe|meta|conn|nx_ny_nz (block): **8269**
-- Fluid Pipe|meta|conn|px (block): **8270**
-- Fluid Pipe|meta|conn|nx_px (block): **8271**
-- Fluid Pipe|meta|conn|ny_px (block): **8272**
-- Fluid Pipe|meta|conn|nx_ny_px (block): **8273**
-- Fluid Pipe|meta|conn|nz_px (block): **8274**
-- Fluid Pipe|meta|conn|nx_nz_px (block): **8275**
-- Fluid Pipe|meta|conn|ny_nz_px (block): **8276**
-- Fluid Pipe|meta|conn|nx_ny_nz_px (block): **8277**
-- Fluid Pipe|meta|conn|py (block): **8278**
-- Fluid Pipe|meta|conn|nx_py (block): **8279**
-- Fluid Pipe|meta|conn|ny_py (block): **8280**
-- Fluid Pipe|meta|conn|nx_ny_py (block): **8281**
-- Fluid Pipe|meta|conn|nz_py (block): **8282**
-- Fluid Pipe|meta|conn|nx_nz_py (block): **8283**
-- Fluid Pipe|meta|conn|ny_nz_py (block): **8284**
-- Fluid Pipe|meta|conn|nx_ny_nz_py (block): **8285**
-- Fluid Pipe|meta|conn|px_py (block): **8286**
-- Fluid Pipe|meta|conn|nx_px_py (block): **8287**
-- Fluid Pipe|meta|conn|ny_px_py (block): **8288**
-- Fluid Pipe|meta|conn|nx_ny_px_py (block): **8289**
-- Fluid Pipe|meta|conn|nz_px_py (block): **8290**
-- Fluid Pipe|meta|conn|nx_nz_px_py (block): **8291**
-- Fluid Pipe|meta|conn|ny_nz_px_py (block): **8292**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_py (block): **8293**
-- Fluid Pipe|meta|conn|pz (block): **8294**
-- Fluid Pipe|meta|conn|nx_pz (block): **8295**
-- Fluid Pipe|meta|conn|ny_pz (block): **8296**
-- Fluid Pipe|meta|conn|nx_ny_pz (block): **8297**
-- Fluid Pipe|meta|conn|nz_pz (block): **8298**
-- Fluid Pipe|meta|conn|nx_nz_pz (block): **8299**
-- Fluid Pipe|meta|conn|ny_nz_pz (block): **8300**
-- Fluid Pipe|meta|conn|nx_ny_nz_pz (block): **8301**
-- Fluid Pipe|meta|conn|px_pz (block): **8302**
-- Fluid Pipe|meta|conn|nx_px_pz (block): **8303**
-- Fluid Pipe|meta|conn|ny_px_pz (block): **8304**
-- Fluid Pipe|meta|conn|nx_ny_px_pz (block): **8305**
-- Fluid Pipe|meta|conn|nz_px_pz (block): **8306**
-- Fluid Pipe|meta|conn|nx_nz_px_pz (block): **8307**
-- Fluid Pipe|meta|conn|ny_nz_px_pz (block): **8308**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_pz (block): **8309**
-- Fluid Pipe|meta|conn|py_pz (block): **8310**
-- Fluid Pipe|meta|conn|nx_py_pz (block): **8311**
-- Fluid Pipe|meta|conn|ny_py_pz (block): **8312**
-- Fluid Pipe|meta|conn|nx_ny_py_pz (block): **8313**
-- Fluid Pipe|meta|conn|nz_py_pz (block): **8314**
-- Fluid Pipe|meta|conn|nx_nz_py_pz (block): **8315**
-- Fluid Pipe|meta|conn|ny_nz_py_pz (block): **8316**
-- Fluid Pipe|meta|conn|nx_ny_nz_py_pz (block): **8317**
-- Fluid Pipe|meta|conn|px_py_pz (block): **8318**
-- Fluid Pipe|meta|conn|nx_px_py_pz (block): **8319**
-- Fluid Pipe|meta|conn|ny_px_py_pz (block): **8320**
-- Fluid Pipe|meta|conn|nx_ny_px_py_pz (block): **8321**
-- Fluid Pipe|meta|conn|nz_px_py_pz (block): **8322**
-- Fluid Pipe|meta|conn|nx_nz_px_py_pz (block): **8323**
-- Fluid Pipe|meta|conn|ny_nz_px_py_pz (block): **8324**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8325**
+- ![Fluid Pipe](textures/08262_Fluid%20Pipe.png "texture") Fluid Pipe (block): **8262**
+- ![Fluid Pipe|meta|conn|nx](textures/08263_Fluid%20Pipe.meta.conn.nx.png "texture") Fluid Pipe|meta|conn|nx (block): **8263**
+- ![Fluid Pipe|meta|conn|ny](textures/08264_Fluid%20Pipe.meta.conn.ny.png "texture") Fluid Pipe|meta|conn|ny (block): **8264**
+- ![Fluid Pipe|meta|conn|nx_ny](textures/08265_Fluid%20Pipe.meta.conn.nx_ny.png "texture") Fluid Pipe|meta|conn|nx_ny (block): **8265**
+- ![Fluid Pipe|meta|conn|nz](textures/08266_Fluid%20Pipe.meta.conn.nz.png "texture") Fluid Pipe|meta|conn|nz (block): **8266**
+- ![Fluid Pipe|meta|conn|nx_nz](textures/08267_Fluid%20Pipe.meta.conn.nx_nz.png "texture") Fluid Pipe|meta|conn|nx_nz (block): **8267**
+- ![Fluid Pipe|meta|conn|ny_nz](textures/08268_Fluid%20Pipe.meta.conn.ny_nz.png "texture") Fluid Pipe|meta|conn|ny_nz (block): **8268**
+- ![Fluid Pipe|meta|conn|nx_ny_nz](textures/08269_Fluid%20Pipe.meta.conn.nx_ny_nz.png "texture") Fluid Pipe|meta|conn|nx_ny_nz (block): **8269**
+- ![Fluid Pipe|meta|conn|px](textures/08270_Fluid%20Pipe.meta.conn.px.png "texture") Fluid Pipe|meta|conn|px (block): **8270**
+- ![Fluid Pipe|meta|conn|nx_px](textures/08271_Fluid%20Pipe.meta.conn.nx_px.png "texture") Fluid Pipe|meta|conn|nx_px (block): **8271**
+- ![Fluid Pipe|meta|conn|ny_px](textures/08272_Fluid%20Pipe.meta.conn.ny_px.png "texture") Fluid Pipe|meta|conn|ny_px (block): **8272**
+- ![Fluid Pipe|meta|conn|nx_ny_px](textures/08273_Fluid%20Pipe.meta.conn.nx_ny_px.png "texture") Fluid Pipe|meta|conn|nx_ny_px (block): **8273**
+- ![Fluid Pipe|meta|conn|nz_px](textures/08274_Fluid%20Pipe.meta.conn.nz_px.png "texture") Fluid Pipe|meta|conn|nz_px (block): **8274**
+- ![Fluid Pipe|meta|conn|nx_nz_px](textures/08275_Fluid%20Pipe.meta.conn.nx_nz_px.png "texture") Fluid Pipe|meta|conn|nx_nz_px (block): **8275**
+- ![Fluid Pipe|meta|conn|ny_nz_px](textures/08276_Fluid%20Pipe.meta.conn.ny_nz_px.png "texture") Fluid Pipe|meta|conn|ny_nz_px (block): **8276**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px](textures/08277_Fluid%20Pipe.meta.conn.nx_ny_nz_px.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px (block): **8277**
+- ![Fluid Pipe|meta|conn|py](textures/08278_Fluid%20Pipe.meta.conn.py.png "texture") Fluid Pipe|meta|conn|py (block): **8278**
+- ![Fluid Pipe|meta|conn|nx_py](textures/08279_Fluid%20Pipe.meta.conn.nx_py.png "texture") Fluid Pipe|meta|conn|nx_py (block): **8279**
+- ![Fluid Pipe|meta|conn|ny_py](textures/08280_Fluid%20Pipe.meta.conn.ny_py.png "texture") Fluid Pipe|meta|conn|ny_py (block): **8280**
+- ![Fluid Pipe|meta|conn|nx_ny_py](textures/08281_Fluid%20Pipe.meta.conn.nx_ny_py.png "texture") Fluid Pipe|meta|conn|nx_ny_py (block): **8281**
+- ![Fluid Pipe|meta|conn|nz_py](textures/08282_Fluid%20Pipe.meta.conn.nz_py.png "texture") Fluid Pipe|meta|conn|nz_py (block): **8282**
+- ![Fluid Pipe|meta|conn|nx_nz_py](textures/08283_Fluid%20Pipe.meta.conn.nx_nz_py.png "texture") Fluid Pipe|meta|conn|nx_nz_py (block): **8283**
+- ![Fluid Pipe|meta|conn|ny_nz_py](textures/08284_Fluid%20Pipe.meta.conn.ny_nz_py.png "texture") Fluid Pipe|meta|conn|ny_nz_py (block): **8284**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_py](textures/08285_Fluid%20Pipe.meta.conn.nx_ny_nz_py.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_py (block): **8285**
+- ![Fluid Pipe|meta|conn|px_py](textures/08286_Fluid%20Pipe.meta.conn.px_py.png "texture") Fluid Pipe|meta|conn|px_py (block): **8286**
+- ![Fluid Pipe|meta|conn|nx_px_py](textures/08287_Fluid%20Pipe.meta.conn.nx_px_py.png "texture") Fluid Pipe|meta|conn|nx_px_py (block): **8287**
+- ![Fluid Pipe|meta|conn|ny_px_py](textures/08288_Fluid%20Pipe.meta.conn.ny_px_py.png "texture") Fluid Pipe|meta|conn|ny_px_py (block): **8288**
+- ![Fluid Pipe|meta|conn|nx_ny_px_py](textures/08289_Fluid%20Pipe.meta.conn.nx_ny_px_py.png "texture") Fluid Pipe|meta|conn|nx_ny_px_py (block): **8289**
+- ![Fluid Pipe|meta|conn|nz_px_py](textures/08290_Fluid%20Pipe.meta.conn.nz_px_py.png "texture") Fluid Pipe|meta|conn|nz_px_py (block): **8290**
+- ![Fluid Pipe|meta|conn|nx_nz_px_py](textures/08291_Fluid%20Pipe.meta.conn.nx_nz_px_py.png "texture") Fluid Pipe|meta|conn|nx_nz_px_py (block): **8291**
+- ![Fluid Pipe|meta|conn|ny_nz_px_py](textures/08292_Fluid%20Pipe.meta.conn.ny_nz_px_py.png "texture") Fluid Pipe|meta|conn|ny_nz_px_py (block): **8292**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_py](textures/08293_Fluid%20Pipe.meta.conn.nx_ny_nz_px_py.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_py (block): **8293**
+- ![Fluid Pipe|meta|conn|pz](textures/08294_Fluid%20Pipe.meta.conn.pz.png "texture") Fluid Pipe|meta|conn|pz (block): **8294**
+- ![Fluid Pipe|meta|conn|nx_pz](textures/08295_Fluid%20Pipe.meta.conn.nx_pz.png "texture") Fluid Pipe|meta|conn|nx_pz (block): **8295**
+- ![Fluid Pipe|meta|conn|ny_pz](textures/08296_Fluid%20Pipe.meta.conn.ny_pz.png "texture") Fluid Pipe|meta|conn|ny_pz (block): **8296**
+- ![Fluid Pipe|meta|conn|nx_ny_pz](textures/08297_Fluid%20Pipe.meta.conn.nx_ny_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_pz (block): **8297**
+- ![Fluid Pipe|meta|conn|nz_pz](textures/08298_Fluid%20Pipe.meta.conn.nz_pz.png "texture") Fluid Pipe|meta|conn|nz_pz (block): **8298**
+- ![Fluid Pipe|meta|conn|nx_nz_pz](textures/08299_Fluid%20Pipe.meta.conn.nx_nz_pz.png "texture") Fluid Pipe|meta|conn|nx_nz_pz (block): **8299**
+- ![Fluid Pipe|meta|conn|ny_nz_pz](textures/08300_Fluid%20Pipe.meta.conn.ny_nz_pz.png "texture") Fluid Pipe|meta|conn|ny_nz_pz (block): **8300**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_pz](textures/08301_Fluid%20Pipe.meta.conn.nx_ny_nz_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_pz (block): **8301**
+- ![Fluid Pipe|meta|conn|px_pz](textures/08302_Fluid%20Pipe.meta.conn.px_pz.png "texture") Fluid Pipe|meta|conn|px_pz (block): **8302**
+- ![Fluid Pipe|meta|conn|nx_px_pz](textures/08303_Fluid%20Pipe.meta.conn.nx_px_pz.png "texture") Fluid Pipe|meta|conn|nx_px_pz (block): **8303**
+- ![Fluid Pipe|meta|conn|ny_px_pz](textures/08304_Fluid%20Pipe.meta.conn.ny_px_pz.png "texture") Fluid Pipe|meta|conn|ny_px_pz (block): **8304**
+- ![Fluid Pipe|meta|conn|nx_ny_px_pz](textures/08305_Fluid%20Pipe.meta.conn.nx_ny_px_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_px_pz (block): **8305**
+- ![Fluid Pipe|meta|conn|nz_px_pz](textures/08306_Fluid%20Pipe.meta.conn.nz_px_pz.png "texture") Fluid Pipe|meta|conn|nz_px_pz (block): **8306**
+- ![Fluid Pipe|meta|conn|nx_nz_px_pz](textures/08307_Fluid%20Pipe.meta.conn.nx_nz_px_pz.png "texture") Fluid Pipe|meta|conn|nx_nz_px_pz (block): **8307**
+- ![Fluid Pipe|meta|conn|ny_nz_px_pz](textures/08308_Fluid%20Pipe.meta.conn.ny_nz_px_pz.png "texture") Fluid Pipe|meta|conn|ny_nz_px_pz (block): **8308**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_pz](textures/08309_Fluid%20Pipe.meta.conn.nx_ny_nz_px_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_pz (block): **8309**
+- ![Fluid Pipe|meta|conn|py_pz](textures/08310_Fluid%20Pipe.meta.conn.py_pz.png "texture") Fluid Pipe|meta|conn|py_pz (block): **8310**
+- ![Fluid Pipe|meta|conn|nx_py_pz](textures/08311_Fluid%20Pipe.meta.conn.nx_py_pz.png "texture") Fluid Pipe|meta|conn|nx_py_pz (block): **8311**
+- ![Fluid Pipe|meta|conn|ny_py_pz](textures/08312_Fluid%20Pipe.meta.conn.ny_py_pz.png "texture") Fluid Pipe|meta|conn|ny_py_pz (block): **8312**
+- ![Fluid Pipe|meta|conn|nx_ny_py_pz](textures/08313_Fluid%20Pipe.meta.conn.nx_ny_py_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_py_pz (block): **8313**
+- ![Fluid Pipe|meta|conn|nz_py_pz](textures/08314_Fluid%20Pipe.meta.conn.nz_py_pz.png "texture") Fluid Pipe|meta|conn|nz_py_pz (block): **8314**
+- ![Fluid Pipe|meta|conn|nx_nz_py_pz](textures/08315_Fluid%20Pipe.meta.conn.nx_nz_py_pz.png "texture") Fluid Pipe|meta|conn|nx_nz_py_pz (block): **8315**
+- ![Fluid Pipe|meta|conn|ny_nz_py_pz](textures/08316_Fluid%20Pipe.meta.conn.ny_nz_py_pz.png "texture") Fluid Pipe|meta|conn|ny_nz_py_pz (block): **8316**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_py_pz](textures/08317_Fluid%20Pipe.meta.conn.nx_ny_nz_py_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_py_pz (block): **8317**
+- ![Fluid Pipe|meta|conn|px_py_pz](textures/08318_Fluid%20Pipe.meta.conn.px_py_pz.png "texture") Fluid Pipe|meta|conn|px_py_pz (block): **8318**
+- ![Fluid Pipe|meta|conn|nx_px_py_pz](textures/08319_Fluid%20Pipe.meta.conn.nx_px_py_pz.png "texture") Fluid Pipe|meta|conn|nx_px_py_pz (block): **8319**
+- ![Fluid Pipe|meta|conn|ny_px_py_pz](textures/08320_Fluid%20Pipe.meta.conn.ny_px_py_pz.png "texture") Fluid Pipe|meta|conn|ny_px_py_pz (block): **8320**
+- ![Fluid Pipe|meta|conn|nx_ny_px_py_pz](textures/08321_Fluid%20Pipe.meta.conn.nx_ny_px_py_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_px_py_pz (block): **8321**
+- ![Fluid Pipe|meta|conn|nz_px_py_pz](textures/08322_Fluid%20Pipe.meta.conn.nz_px_py_pz.png "texture") Fluid Pipe|meta|conn|nz_px_py_pz (block): **8322**
+- ![Fluid Pipe|meta|conn|nx_nz_px_py_pz](textures/08323_Fluid%20Pipe.meta.conn.nx_nz_px_py_pz.png "texture") Fluid Pipe|meta|conn|nx_nz_px_py_pz (block): **8323**
+- ![Fluid Pipe|meta|conn|ny_nz_px_py_pz](textures/08324_Fluid%20Pipe.meta.conn.ny_nz_px_py_pz.png "texture") Fluid Pipe|meta|conn|ny_nz_px_py_pz (block): **8324**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz](textures/08325_Fluid%20Pipe.meta.conn.nx_ny_nz_px_py_pz.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8325**
 - ![Coolant Mixer](textures/08326_Coolant%20Mixer.png "texture") Coolant Mixer (block): **8326**
 - ![Coolant Mixer|meta|rot2](textures/08327_Coolant%20Mixer.meta.rot2.png "texture") Coolant Mixer|meta|rot2 (block): **8327**
 - ![Coolant Mixer|meta|rot3](textures/08328_Coolant%20Mixer.meta.rot3.png "texture") Coolant Mixer|meta|rot3 (block): **8328**
@@ -239,202 +239,202 @@
 - ![Coolant Mixer|meta|rot2|Running](textures/08331_Coolant%20Mixer.meta.rot2.Running.png "texture") Coolant Mixer|meta|rot2|Running (block): **8331**
 - ![Coolant Mixer|meta|rot3|Running](textures/08332_Coolant%20Mixer.meta.rot3.Running.png "texture") Coolant Mixer|meta|rot3|Running (block): **8332**
 - ![Coolant Mixer|meta|rot4|Running](textures/08333_Coolant%20Mixer.meta.rot4.Running.png "texture") Coolant Mixer|meta|rot4|Running (block): **8333**
-- Coolant Pipe (block): **8334**
-- Coolant Pipe|meta|conn|nx (block): **8335**
-- Coolant Pipe|meta|conn|ny (block): **8336**
-- Coolant Pipe|meta|conn|nx_ny (block): **8337**
-- Coolant Pipe|meta|conn|nz (block): **8338**
-- Coolant Pipe|meta|conn|nx_nz (block): **8339**
-- Coolant Pipe|meta|conn|ny_nz (block): **8340**
-- Coolant Pipe|meta|conn|nx_ny_nz (block): **8341**
-- Coolant Pipe|meta|conn|px (block): **8342**
-- Coolant Pipe|meta|conn|nx_px (block): **8343**
-- Coolant Pipe|meta|conn|ny_px (block): **8344**
-- Coolant Pipe|meta|conn|nx_ny_px (block): **8345**
-- Coolant Pipe|meta|conn|nz_px (block): **8346**
-- Coolant Pipe|meta|conn|nx_nz_px (block): **8347**
-- Coolant Pipe|meta|conn|ny_nz_px (block): **8348**
-- Coolant Pipe|meta|conn|nx_ny_nz_px (block): **8349**
-- Coolant Pipe|meta|conn|py (block): **8350**
-- Coolant Pipe|meta|conn|nx_py (block): **8351**
-- Coolant Pipe|meta|conn|ny_py (block): **8352**
-- Coolant Pipe|meta|conn|nx_ny_py (block): **8353**
-- Coolant Pipe|meta|conn|nz_py (block): **8354**
-- Coolant Pipe|meta|conn|nx_nz_py (block): **8355**
-- Coolant Pipe|meta|conn|ny_nz_py (block): **8356**
-- Coolant Pipe|meta|conn|nx_ny_nz_py (block): **8357**
-- Coolant Pipe|meta|conn|px_py (block): **8358**
-- Coolant Pipe|meta|conn|nx_px_py (block): **8359**
-- Coolant Pipe|meta|conn|ny_px_py (block): **8360**
-- Coolant Pipe|meta|conn|nx_ny_px_py (block): **8361**
-- Coolant Pipe|meta|conn|nz_px_py (block): **8362**
-- Coolant Pipe|meta|conn|nx_nz_px_py (block): **8363**
-- Coolant Pipe|meta|conn|ny_nz_px_py (block): **8364**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_py (block): **8365**
-- Coolant Pipe|meta|conn|pz (block): **8366**
-- Coolant Pipe|meta|conn|nx_pz (block): **8367**
-- Coolant Pipe|meta|conn|ny_pz (block): **8368**
-- Coolant Pipe|meta|conn|nx_ny_pz (block): **8369**
-- Coolant Pipe|meta|conn|nz_pz (block): **8370**
-- Coolant Pipe|meta|conn|nx_nz_pz (block): **8371**
-- Coolant Pipe|meta|conn|ny_nz_pz (block): **8372**
-- Coolant Pipe|meta|conn|nx_ny_nz_pz (block): **8373**
-- Coolant Pipe|meta|conn|px_pz (block): **8374**
-- Coolant Pipe|meta|conn|nx_px_pz (block): **8375**
-- Coolant Pipe|meta|conn|ny_px_pz (block): **8376**
-- Coolant Pipe|meta|conn|nx_ny_px_pz (block): **8377**
-- Coolant Pipe|meta|conn|nz_px_pz (block): **8378**
-- Coolant Pipe|meta|conn|nx_nz_px_pz (block): **8379**
-- Coolant Pipe|meta|conn|ny_nz_px_pz (block): **8380**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_pz (block): **8381**
-- Coolant Pipe|meta|conn|py_pz (block): **8382**
-- Coolant Pipe|meta|conn|nx_py_pz (block): **8383**
-- Coolant Pipe|meta|conn|ny_py_pz (block): **8384**
-- Coolant Pipe|meta|conn|nx_ny_py_pz (block): **8385**
-- Coolant Pipe|meta|conn|nz_py_pz (block): **8386**
-- Coolant Pipe|meta|conn|nx_nz_py_pz (block): **8387**
-- Coolant Pipe|meta|conn|ny_nz_py_pz (block): **8388**
-- Coolant Pipe|meta|conn|nx_ny_nz_py_pz (block): **8389**
-- Coolant Pipe|meta|conn|px_py_pz (block): **8390**
-- Coolant Pipe|meta|conn|nx_px_py_pz (block): **8391**
-- Coolant Pipe|meta|conn|ny_px_py_pz (block): **8392**
-- Coolant Pipe|meta|conn|nx_ny_px_py_pz (block): **8393**
-- Coolant Pipe|meta|conn|nz_px_py_pz (block): **8394**
-- Coolant Pipe|meta|conn|nx_nz_px_py_pz (block): **8395**
-- Coolant Pipe|meta|conn|ny_nz_px_py_pz (block): **8396**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8397**
+- ![Coolant Pipe](textures/08334_Coolant%20Pipe.png "texture") Coolant Pipe (block): **8334**
+- ![Coolant Pipe|meta|conn|nx](textures/08335_Coolant%20Pipe.meta.conn.nx.png "texture") Coolant Pipe|meta|conn|nx (block): **8335**
+- ![Coolant Pipe|meta|conn|ny](textures/08336_Coolant%20Pipe.meta.conn.ny.png "texture") Coolant Pipe|meta|conn|ny (block): **8336**
+- ![Coolant Pipe|meta|conn|nx_ny](textures/08337_Coolant%20Pipe.meta.conn.nx_ny.png "texture") Coolant Pipe|meta|conn|nx_ny (block): **8337**
+- ![Coolant Pipe|meta|conn|nz](textures/08338_Coolant%20Pipe.meta.conn.nz.png "texture") Coolant Pipe|meta|conn|nz (block): **8338**
+- ![Coolant Pipe|meta|conn|nx_nz](textures/08339_Coolant%20Pipe.meta.conn.nx_nz.png "texture") Coolant Pipe|meta|conn|nx_nz (block): **8339**
+- ![Coolant Pipe|meta|conn|ny_nz](textures/08340_Coolant%20Pipe.meta.conn.ny_nz.png "texture") Coolant Pipe|meta|conn|ny_nz (block): **8340**
+- ![Coolant Pipe|meta|conn|nx_ny_nz](textures/08341_Coolant%20Pipe.meta.conn.nx_ny_nz.png "texture") Coolant Pipe|meta|conn|nx_ny_nz (block): **8341**
+- ![Coolant Pipe|meta|conn|px](textures/08342_Coolant%20Pipe.meta.conn.px.png "texture") Coolant Pipe|meta|conn|px (block): **8342**
+- ![Coolant Pipe|meta|conn|nx_px](textures/08343_Coolant%20Pipe.meta.conn.nx_px.png "texture") Coolant Pipe|meta|conn|nx_px (block): **8343**
+- ![Coolant Pipe|meta|conn|ny_px](textures/08344_Coolant%20Pipe.meta.conn.ny_px.png "texture") Coolant Pipe|meta|conn|ny_px (block): **8344**
+- ![Coolant Pipe|meta|conn|nx_ny_px](textures/08345_Coolant%20Pipe.meta.conn.nx_ny_px.png "texture") Coolant Pipe|meta|conn|nx_ny_px (block): **8345**
+- ![Coolant Pipe|meta|conn|nz_px](textures/08346_Coolant%20Pipe.meta.conn.nz_px.png "texture") Coolant Pipe|meta|conn|nz_px (block): **8346**
+- ![Coolant Pipe|meta|conn|nx_nz_px](textures/08347_Coolant%20Pipe.meta.conn.nx_nz_px.png "texture") Coolant Pipe|meta|conn|nx_nz_px (block): **8347**
+- ![Coolant Pipe|meta|conn|ny_nz_px](textures/08348_Coolant%20Pipe.meta.conn.ny_nz_px.png "texture") Coolant Pipe|meta|conn|ny_nz_px (block): **8348**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px](textures/08349_Coolant%20Pipe.meta.conn.nx_ny_nz_px.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px (block): **8349**
+- ![Coolant Pipe|meta|conn|py](textures/08350_Coolant%20Pipe.meta.conn.py.png "texture") Coolant Pipe|meta|conn|py (block): **8350**
+- ![Coolant Pipe|meta|conn|nx_py](textures/08351_Coolant%20Pipe.meta.conn.nx_py.png "texture") Coolant Pipe|meta|conn|nx_py (block): **8351**
+- ![Coolant Pipe|meta|conn|ny_py](textures/08352_Coolant%20Pipe.meta.conn.ny_py.png "texture") Coolant Pipe|meta|conn|ny_py (block): **8352**
+- ![Coolant Pipe|meta|conn|nx_ny_py](textures/08353_Coolant%20Pipe.meta.conn.nx_ny_py.png "texture") Coolant Pipe|meta|conn|nx_ny_py (block): **8353**
+- ![Coolant Pipe|meta|conn|nz_py](textures/08354_Coolant%20Pipe.meta.conn.nz_py.png "texture") Coolant Pipe|meta|conn|nz_py (block): **8354**
+- ![Coolant Pipe|meta|conn|nx_nz_py](textures/08355_Coolant%20Pipe.meta.conn.nx_nz_py.png "texture") Coolant Pipe|meta|conn|nx_nz_py (block): **8355**
+- ![Coolant Pipe|meta|conn|ny_nz_py](textures/08356_Coolant%20Pipe.meta.conn.ny_nz_py.png "texture") Coolant Pipe|meta|conn|ny_nz_py (block): **8356**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_py](textures/08357_Coolant%20Pipe.meta.conn.nx_ny_nz_py.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_py (block): **8357**
+- ![Coolant Pipe|meta|conn|px_py](textures/08358_Coolant%20Pipe.meta.conn.px_py.png "texture") Coolant Pipe|meta|conn|px_py (block): **8358**
+- ![Coolant Pipe|meta|conn|nx_px_py](textures/08359_Coolant%20Pipe.meta.conn.nx_px_py.png "texture") Coolant Pipe|meta|conn|nx_px_py (block): **8359**
+- ![Coolant Pipe|meta|conn|ny_px_py](textures/08360_Coolant%20Pipe.meta.conn.ny_px_py.png "texture") Coolant Pipe|meta|conn|ny_px_py (block): **8360**
+- ![Coolant Pipe|meta|conn|nx_ny_px_py](textures/08361_Coolant%20Pipe.meta.conn.nx_ny_px_py.png "texture") Coolant Pipe|meta|conn|nx_ny_px_py (block): **8361**
+- ![Coolant Pipe|meta|conn|nz_px_py](textures/08362_Coolant%20Pipe.meta.conn.nz_px_py.png "texture") Coolant Pipe|meta|conn|nz_px_py (block): **8362**
+- ![Coolant Pipe|meta|conn|nx_nz_px_py](textures/08363_Coolant%20Pipe.meta.conn.nx_nz_px_py.png "texture") Coolant Pipe|meta|conn|nx_nz_px_py (block): **8363**
+- ![Coolant Pipe|meta|conn|ny_nz_px_py](textures/08364_Coolant%20Pipe.meta.conn.ny_nz_px_py.png "texture") Coolant Pipe|meta|conn|ny_nz_px_py (block): **8364**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_py](textures/08365_Coolant%20Pipe.meta.conn.nx_ny_nz_px_py.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_py (block): **8365**
+- ![Coolant Pipe|meta|conn|pz](textures/08366_Coolant%20Pipe.meta.conn.pz.png "texture") Coolant Pipe|meta|conn|pz (block): **8366**
+- ![Coolant Pipe|meta|conn|nx_pz](textures/08367_Coolant%20Pipe.meta.conn.nx_pz.png "texture") Coolant Pipe|meta|conn|nx_pz (block): **8367**
+- ![Coolant Pipe|meta|conn|ny_pz](textures/08368_Coolant%20Pipe.meta.conn.ny_pz.png "texture") Coolant Pipe|meta|conn|ny_pz (block): **8368**
+- ![Coolant Pipe|meta|conn|nx_ny_pz](textures/08369_Coolant%20Pipe.meta.conn.nx_ny_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_pz (block): **8369**
+- ![Coolant Pipe|meta|conn|nz_pz](textures/08370_Coolant%20Pipe.meta.conn.nz_pz.png "texture") Coolant Pipe|meta|conn|nz_pz (block): **8370**
+- ![Coolant Pipe|meta|conn|nx_nz_pz](textures/08371_Coolant%20Pipe.meta.conn.nx_nz_pz.png "texture") Coolant Pipe|meta|conn|nx_nz_pz (block): **8371**
+- ![Coolant Pipe|meta|conn|ny_nz_pz](textures/08372_Coolant%20Pipe.meta.conn.ny_nz_pz.png "texture") Coolant Pipe|meta|conn|ny_nz_pz (block): **8372**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_pz](textures/08373_Coolant%20Pipe.meta.conn.nx_ny_nz_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_pz (block): **8373**
+- ![Coolant Pipe|meta|conn|px_pz](textures/08374_Coolant%20Pipe.meta.conn.px_pz.png "texture") Coolant Pipe|meta|conn|px_pz (block): **8374**
+- ![Coolant Pipe|meta|conn|nx_px_pz](textures/08375_Coolant%20Pipe.meta.conn.nx_px_pz.png "texture") Coolant Pipe|meta|conn|nx_px_pz (block): **8375**
+- ![Coolant Pipe|meta|conn|ny_px_pz](textures/08376_Coolant%20Pipe.meta.conn.ny_px_pz.png "texture") Coolant Pipe|meta|conn|ny_px_pz (block): **8376**
+- ![Coolant Pipe|meta|conn|nx_ny_px_pz](textures/08377_Coolant%20Pipe.meta.conn.nx_ny_px_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_px_pz (block): **8377**
+- ![Coolant Pipe|meta|conn|nz_px_pz](textures/08378_Coolant%20Pipe.meta.conn.nz_px_pz.png "texture") Coolant Pipe|meta|conn|nz_px_pz (block): **8378**
+- ![Coolant Pipe|meta|conn|nx_nz_px_pz](textures/08379_Coolant%20Pipe.meta.conn.nx_nz_px_pz.png "texture") Coolant Pipe|meta|conn|nx_nz_px_pz (block): **8379**
+- ![Coolant Pipe|meta|conn|ny_nz_px_pz](textures/08380_Coolant%20Pipe.meta.conn.ny_nz_px_pz.png "texture") Coolant Pipe|meta|conn|ny_nz_px_pz (block): **8380**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_pz](textures/08381_Coolant%20Pipe.meta.conn.nx_ny_nz_px_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_pz (block): **8381**
+- ![Coolant Pipe|meta|conn|py_pz](textures/08382_Coolant%20Pipe.meta.conn.py_pz.png "texture") Coolant Pipe|meta|conn|py_pz (block): **8382**
+- ![Coolant Pipe|meta|conn|nx_py_pz](textures/08383_Coolant%20Pipe.meta.conn.nx_py_pz.png "texture") Coolant Pipe|meta|conn|nx_py_pz (block): **8383**
+- ![Coolant Pipe|meta|conn|ny_py_pz](textures/08384_Coolant%20Pipe.meta.conn.ny_py_pz.png "texture") Coolant Pipe|meta|conn|ny_py_pz (block): **8384**
+- ![Coolant Pipe|meta|conn|nx_ny_py_pz](textures/08385_Coolant%20Pipe.meta.conn.nx_ny_py_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_py_pz (block): **8385**
+- ![Coolant Pipe|meta|conn|nz_py_pz](textures/08386_Coolant%20Pipe.meta.conn.nz_py_pz.png "texture") Coolant Pipe|meta|conn|nz_py_pz (block): **8386**
+- ![Coolant Pipe|meta|conn|nx_nz_py_pz](textures/08387_Coolant%20Pipe.meta.conn.nx_nz_py_pz.png "texture") Coolant Pipe|meta|conn|nx_nz_py_pz (block): **8387**
+- ![Coolant Pipe|meta|conn|ny_nz_py_pz](textures/08388_Coolant%20Pipe.meta.conn.ny_nz_py_pz.png "texture") Coolant Pipe|meta|conn|ny_nz_py_pz (block): **8388**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_py_pz](textures/08389_Coolant%20Pipe.meta.conn.nx_ny_nz_py_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_py_pz (block): **8389**
+- ![Coolant Pipe|meta|conn|px_py_pz](textures/08390_Coolant%20Pipe.meta.conn.px_py_pz.png "texture") Coolant Pipe|meta|conn|px_py_pz (block): **8390**
+- ![Coolant Pipe|meta|conn|nx_px_py_pz](textures/08391_Coolant%20Pipe.meta.conn.nx_px_py_pz.png "texture") Coolant Pipe|meta|conn|nx_px_py_pz (block): **8391**
+- ![Coolant Pipe|meta|conn|ny_px_py_pz](textures/08392_Coolant%20Pipe.meta.conn.ny_px_py_pz.png "texture") Coolant Pipe|meta|conn|ny_px_py_pz (block): **8392**
+- ![Coolant Pipe|meta|conn|nx_ny_px_py_pz](textures/08393_Coolant%20Pipe.meta.conn.nx_ny_px_py_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_px_py_pz (block): **8393**
+- ![Coolant Pipe|meta|conn|nz_px_py_pz](textures/08394_Coolant%20Pipe.meta.conn.nz_px_py_pz.png "texture") Coolant Pipe|meta|conn|nz_px_py_pz (block): **8394**
+- ![Coolant Pipe|meta|conn|nx_nz_px_py_pz](textures/08395_Coolant%20Pipe.meta.conn.nx_nz_px_py_pz.png "texture") Coolant Pipe|meta|conn|nx_nz_px_py_pz (block): **8395**
+- ![Coolant Pipe|meta|conn|ny_nz_px_py_pz](textures/08396_Coolant%20Pipe.meta.conn.ny_nz_px_py_pz.png "texture") Coolant Pipe|meta|conn|ny_nz_px_py_pz (block): **8396**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz](textures/08397_Coolant%20Pipe.meta.conn.nx_ny_nz_px_py_pz.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8397**
 - ![Fluid Tank|meta|rot1|Fill1](textures/08398_Fluid%20Tank.meta.rot1.Fill1.png "texture") Fluid Tank|meta|rot1|Fill1 (block): **8398**
 - ![Fluid Tank|meta|rot1|Fill2](textures/08399_Fluid%20Tank.meta.rot1.Fill2.png "texture") Fluid Tank|meta|rot1|Fill2 (block): **8399**
 - ![Fluid Tank|meta|rot1|Fill3](textures/08400_Fluid%20Tank.meta.rot1.Fill3.png "texture") Fluid Tank|meta|rot1|Fill3 (block): **8400**
 - ![Fluid Tank|meta|rot1|Fill4](textures/08401_Fluid%20Tank.meta.rot1.Fill4.png "texture") Fluid Tank|meta|rot1|Fill4 (block): **8401**
-- Fluid Pipe|meta|conn|none|Full (block): **8402**
-- Fluid Pipe|meta|conn|nx|Full (block): **8403**
-- Fluid Pipe|meta|conn|ny|Full (block): **8404**
-- Fluid Pipe|meta|conn|nx_ny|Full (block): **8405**
-- Fluid Pipe|meta|conn|nz|Full (block): **8406**
-- Fluid Pipe|meta|conn|nx_nz|Full (block): **8407**
-- Fluid Pipe|meta|conn|ny_nz|Full (block): **8408**
-- Fluid Pipe|meta|conn|nx_ny_nz|Full (block): **8409**
-- Fluid Pipe|meta|conn|px|Full (block): **8410**
-- Fluid Pipe|meta|conn|nx_px|Full (block): **8411**
-- Fluid Pipe|meta|conn|ny_px|Full (block): **8412**
-- Fluid Pipe|meta|conn|nx_ny_px|Full (block): **8413**
-- Fluid Pipe|meta|conn|nz_px|Full (block): **8414**
-- Fluid Pipe|meta|conn|nx_nz_px|Full (block): **8415**
-- Fluid Pipe|meta|conn|ny_nz_px|Full (block): **8416**
-- Fluid Pipe|meta|conn|nx_ny_nz_px|Full (block): **8417**
-- Fluid Pipe|meta|conn|py|Full (block): **8418**
-- Fluid Pipe|meta|conn|nx_py|Full (block): **8419**
-- Fluid Pipe|meta|conn|ny_py|Full (block): **8420**
-- Fluid Pipe|meta|conn|nx_ny_py|Full (block): **8421**
-- Fluid Pipe|meta|conn|nz_py|Full (block): **8422**
-- Fluid Pipe|meta|conn|nx_nz_py|Full (block): **8423**
-- Fluid Pipe|meta|conn|ny_nz_py|Full (block): **8424**
-- Fluid Pipe|meta|conn|nx_ny_nz_py|Full (block): **8425**
-- Fluid Pipe|meta|conn|px_py|Full (block): **8426**
-- Fluid Pipe|meta|conn|nx_px_py|Full (block): **8427**
-- Fluid Pipe|meta|conn|ny_px_py|Full (block): **8428**
-- Fluid Pipe|meta|conn|nx_ny_px_py|Full (block): **8429**
-- Fluid Pipe|meta|conn|nz_px_py|Full (block): **8430**
-- Fluid Pipe|meta|conn|nx_nz_px_py|Full (block): **8431**
-- Fluid Pipe|meta|conn|ny_nz_px_py|Full (block): **8432**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8433**
-- Fluid Pipe|meta|conn|pz|Full (block): **8434**
-- Fluid Pipe|meta|conn|nx_pz|Full (block): **8435**
-- Fluid Pipe|meta|conn|ny_pz|Full (block): **8436**
-- Fluid Pipe|meta|conn|nx_ny_pz|Full (block): **8437**
-- Fluid Pipe|meta|conn|nz_pz|Full (block): **8438**
-- Fluid Pipe|meta|conn|nx_nz_pz|Full (block): **8439**
-- Fluid Pipe|meta|conn|ny_nz_pz|Full (block): **8440**
-- Fluid Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8441**
-- Fluid Pipe|meta|conn|px_pz|Full (block): **8442**
-- Fluid Pipe|meta|conn|nx_px_pz|Full (block): **8443**
-- Fluid Pipe|meta|conn|ny_px_pz|Full (block): **8444**
-- Fluid Pipe|meta|conn|nx_ny_px_pz|Full (block): **8445**
-- Fluid Pipe|meta|conn|nz_px_pz|Full (block): **8446**
-- Fluid Pipe|meta|conn|nx_nz_px_pz|Full (block): **8447**
-- Fluid Pipe|meta|conn|ny_nz_px_pz|Full (block): **8448**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8449**
-- Fluid Pipe|meta|conn|py_pz|Full (block): **8450**
-- Fluid Pipe|meta|conn|nx_py_pz|Full (block): **8451**
-- Fluid Pipe|meta|conn|ny_py_pz|Full (block): **8452**
-- Fluid Pipe|meta|conn|nx_ny_py_pz|Full (block): **8453**
-- Fluid Pipe|meta|conn|nz_py_pz|Full (block): **8454**
-- Fluid Pipe|meta|conn|nx_nz_py_pz|Full (block): **8455**
-- Fluid Pipe|meta|conn|ny_nz_py_pz|Full (block): **8456**
-- Fluid Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8457**
-- Fluid Pipe|meta|conn|px_py_pz|Full (block): **8458**
-- Fluid Pipe|meta|conn|nx_px_py_pz|Full (block): **8459**
-- Fluid Pipe|meta|conn|ny_px_py_pz|Full (block): **8460**
-- Fluid Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8461**
-- Fluid Pipe|meta|conn|nz_px_py_pz|Full (block): **8462**
-- Fluid Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8463**
-- Fluid Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8464**
-- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8465**
-- Coolant Pipe|meta|conn|none|Full (block): **8466**
-- Coolant Pipe|meta|conn|nx|Full (block): **8467**
-- Coolant Pipe|meta|conn|ny|Full (block): **8468**
-- Coolant Pipe|meta|conn|nx_ny|Full (block): **8469**
-- Coolant Pipe|meta|conn|nz|Full (block): **8470**
-- Coolant Pipe|meta|conn|nx_nz|Full (block): **8471**
-- Coolant Pipe|meta|conn|ny_nz|Full (block): **8472**
-- Coolant Pipe|meta|conn|nx_ny_nz|Full (block): **8473**
-- Coolant Pipe|meta|conn|px|Full (block): **8474**
-- Coolant Pipe|meta|conn|nx_px|Full (block): **8475**
-- Coolant Pipe|meta|conn|ny_px|Full (block): **8476**
-- Coolant Pipe|meta|conn|nx_ny_px|Full (block): **8477**
-- Coolant Pipe|meta|conn|nz_px|Full (block): **8478**
-- Coolant Pipe|meta|conn|nx_nz_px|Full (block): **8479**
-- Coolant Pipe|meta|conn|ny_nz_px|Full (block): **8480**
-- Coolant Pipe|meta|conn|nx_ny_nz_px|Full (block): **8481**
-- Coolant Pipe|meta|conn|py|Full (block): **8482**
-- Coolant Pipe|meta|conn|nx_py|Full (block): **8483**
-- Coolant Pipe|meta|conn|ny_py|Full (block): **8484**
-- Coolant Pipe|meta|conn|nx_ny_py|Full (block): **8485**
-- Coolant Pipe|meta|conn|nz_py|Full (block): **8486**
-- Coolant Pipe|meta|conn|nx_nz_py|Full (block): **8487**
-- Coolant Pipe|meta|conn|ny_nz_py|Full (block): **8488**
-- Coolant Pipe|meta|conn|nx_ny_nz_py|Full (block): **8489**
-- Coolant Pipe|meta|conn|px_py|Full (block): **8490**
-- Coolant Pipe|meta|conn|nx_px_py|Full (block): **8491**
-- Coolant Pipe|meta|conn|ny_px_py|Full (block): **8492**
-- Coolant Pipe|meta|conn|nx_ny_px_py|Full (block): **8493**
-- Coolant Pipe|meta|conn|nz_px_py|Full (block): **8494**
-- Coolant Pipe|meta|conn|nx_nz_px_py|Full (block): **8495**
-- Coolant Pipe|meta|conn|ny_nz_px_py|Full (block): **8496**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8497**
-- Coolant Pipe|meta|conn|pz|Full (block): **8498**
-- Coolant Pipe|meta|conn|nx_pz|Full (block): **8499**
-- Coolant Pipe|meta|conn|ny_pz|Full (block): **8500**
-- Coolant Pipe|meta|conn|nx_ny_pz|Full (block): **8501**
-- Coolant Pipe|meta|conn|nz_pz|Full (block): **8502**
-- Coolant Pipe|meta|conn|nx_nz_pz|Full (block): **8503**
-- Coolant Pipe|meta|conn|ny_nz_pz|Full (block): **8504**
-- Coolant Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8505**
-- Coolant Pipe|meta|conn|px_pz|Full (block): **8506**
-- Coolant Pipe|meta|conn|nx_px_pz|Full (block): **8507**
-- Coolant Pipe|meta|conn|ny_px_pz|Full (block): **8508**
-- Coolant Pipe|meta|conn|nx_ny_px_pz|Full (block): **8509**
-- Coolant Pipe|meta|conn|nz_px_pz|Full (block): **8510**
-- Coolant Pipe|meta|conn|nx_nz_px_pz|Full (block): **8511**
-- Coolant Pipe|meta|conn|ny_nz_px_pz|Full (block): **8512**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8513**
-- Coolant Pipe|meta|conn|py_pz|Full (block): **8514**
-- Coolant Pipe|meta|conn|nx_py_pz|Full (block): **8515**
-- Coolant Pipe|meta|conn|ny_py_pz|Full (block): **8516**
-- Coolant Pipe|meta|conn|nx_ny_py_pz|Full (block): **8517**
-- Coolant Pipe|meta|conn|nz_py_pz|Full (block): **8518**
-- Coolant Pipe|meta|conn|nx_nz_py_pz|Full (block): **8519**
-- Coolant Pipe|meta|conn|ny_nz_py_pz|Full (block): **8520**
-- Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8521**
-- Coolant Pipe|meta|conn|px_py_pz|Full (block): **8522**
-- Coolant Pipe|meta|conn|nx_px_py_pz|Full (block): **8523**
-- Coolant Pipe|meta|conn|ny_px_py_pz|Full (block): **8524**
-- Coolant Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8525**
-- Coolant Pipe|meta|conn|nz_px_py_pz|Full (block): **8526**
-- Coolant Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8527**
-- Coolant Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8528**
-- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8529**
+- ![Fluid Pipe|meta|conn|none|Full](textures/08402_Fluid%20Pipe.meta.conn.none.Full.png "texture") Fluid Pipe|meta|conn|none|Full (block): **8402**
+- ![Fluid Pipe|meta|conn|nx|Full](textures/08403_Fluid%20Pipe.meta.conn.nx.Full.png "texture") Fluid Pipe|meta|conn|nx|Full (block): **8403**
+- ![Fluid Pipe|meta|conn|ny|Full](textures/08404_Fluid%20Pipe.meta.conn.ny.Full.png "texture") Fluid Pipe|meta|conn|ny|Full (block): **8404**
+- ![Fluid Pipe|meta|conn|nx_ny|Full](textures/08405_Fluid%20Pipe.meta.conn.nx_ny.Full.png "texture") Fluid Pipe|meta|conn|nx_ny|Full (block): **8405**
+- ![Fluid Pipe|meta|conn|nz|Full](textures/08406_Fluid%20Pipe.meta.conn.nz.Full.png "texture") Fluid Pipe|meta|conn|nz|Full (block): **8406**
+- ![Fluid Pipe|meta|conn|nx_nz|Full](textures/08407_Fluid%20Pipe.meta.conn.nx_nz.Full.png "texture") Fluid Pipe|meta|conn|nx_nz|Full (block): **8407**
+- ![Fluid Pipe|meta|conn|ny_nz|Full](textures/08408_Fluid%20Pipe.meta.conn.ny_nz.Full.png "texture") Fluid Pipe|meta|conn|ny_nz|Full (block): **8408**
+- ![Fluid Pipe|meta|conn|nx_ny_nz|Full](textures/08409_Fluid%20Pipe.meta.conn.nx_ny_nz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz|Full (block): **8409**
+- ![Fluid Pipe|meta|conn|px|Full](textures/08410_Fluid%20Pipe.meta.conn.px.Full.png "texture") Fluid Pipe|meta|conn|px|Full (block): **8410**
+- ![Fluid Pipe|meta|conn|nx_px|Full](textures/08411_Fluid%20Pipe.meta.conn.nx_px.Full.png "texture") Fluid Pipe|meta|conn|nx_px|Full (block): **8411**
+- ![Fluid Pipe|meta|conn|ny_px|Full](textures/08412_Fluid%20Pipe.meta.conn.ny_px.Full.png "texture") Fluid Pipe|meta|conn|ny_px|Full (block): **8412**
+- ![Fluid Pipe|meta|conn|nx_ny_px|Full](textures/08413_Fluid%20Pipe.meta.conn.nx_ny_px.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_px|Full (block): **8413**
+- ![Fluid Pipe|meta|conn|nz_px|Full](textures/08414_Fluid%20Pipe.meta.conn.nz_px.Full.png "texture") Fluid Pipe|meta|conn|nz_px|Full (block): **8414**
+- ![Fluid Pipe|meta|conn|nx_nz_px|Full](textures/08415_Fluid%20Pipe.meta.conn.nx_nz_px.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_px|Full (block): **8415**
+- ![Fluid Pipe|meta|conn|ny_nz_px|Full](textures/08416_Fluid%20Pipe.meta.conn.ny_nz_px.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_px|Full (block): **8416**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px|Full](textures/08417_Fluid%20Pipe.meta.conn.nx_ny_nz_px.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px|Full (block): **8417**
+- ![Fluid Pipe|meta|conn|py|Full](textures/08418_Fluid%20Pipe.meta.conn.py.Full.png "texture") Fluid Pipe|meta|conn|py|Full (block): **8418**
+- ![Fluid Pipe|meta|conn|nx_py|Full](textures/08419_Fluid%20Pipe.meta.conn.nx_py.Full.png "texture") Fluid Pipe|meta|conn|nx_py|Full (block): **8419**
+- ![Fluid Pipe|meta|conn|ny_py|Full](textures/08420_Fluid%20Pipe.meta.conn.ny_py.Full.png "texture") Fluid Pipe|meta|conn|ny_py|Full (block): **8420**
+- ![Fluid Pipe|meta|conn|nx_ny_py|Full](textures/08421_Fluid%20Pipe.meta.conn.nx_ny_py.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_py|Full (block): **8421**
+- ![Fluid Pipe|meta|conn|nz_py|Full](textures/08422_Fluid%20Pipe.meta.conn.nz_py.Full.png "texture") Fluid Pipe|meta|conn|nz_py|Full (block): **8422**
+- ![Fluid Pipe|meta|conn|nx_nz_py|Full](textures/08423_Fluid%20Pipe.meta.conn.nx_nz_py.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_py|Full (block): **8423**
+- ![Fluid Pipe|meta|conn|ny_nz_py|Full](textures/08424_Fluid%20Pipe.meta.conn.ny_nz_py.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_py|Full (block): **8424**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_py|Full](textures/08425_Fluid%20Pipe.meta.conn.nx_ny_nz_py.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_py|Full (block): **8425**
+- ![Fluid Pipe|meta|conn|px_py|Full](textures/08426_Fluid%20Pipe.meta.conn.px_py.Full.png "texture") Fluid Pipe|meta|conn|px_py|Full (block): **8426**
+- ![Fluid Pipe|meta|conn|nx_px_py|Full](textures/08427_Fluid%20Pipe.meta.conn.nx_px_py.Full.png "texture") Fluid Pipe|meta|conn|nx_px_py|Full (block): **8427**
+- ![Fluid Pipe|meta|conn|ny_px_py|Full](textures/08428_Fluid%20Pipe.meta.conn.ny_px_py.Full.png "texture") Fluid Pipe|meta|conn|ny_px_py|Full (block): **8428**
+- ![Fluid Pipe|meta|conn|nx_ny_px_py|Full](textures/08429_Fluid%20Pipe.meta.conn.nx_ny_px_py.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_px_py|Full (block): **8429**
+- ![Fluid Pipe|meta|conn|nz_px_py|Full](textures/08430_Fluid%20Pipe.meta.conn.nz_px_py.Full.png "texture") Fluid Pipe|meta|conn|nz_px_py|Full (block): **8430**
+- ![Fluid Pipe|meta|conn|nx_nz_px_py|Full](textures/08431_Fluid%20Pipe.meta.conn.nx_nz_px_py.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_px_py|Full (block): **8431**
+- ![Fluid Pipe|meta|conn|ny_nz_px_py|Full](textures/08432_Fluid%20Pipe.meta.conn.ny_nz_px_py.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_px_py|Full (block): **8432**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_py|Full](textures/08433_Fluid%20Pipe.meta.conn.nx_ny_nz_px_py.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8433**
+- ![Fluid Pipe|meta|conn|pz|Full](textures/08434_Fluid%20Pipe.meta.conn.pz.Full.png "texture") Fluid Pipe|meta|conn|pz|Full (block): **8434**
+- ![Fluid Pipe|meta|conn|nx_pz|Full](textures/08435_Fluid%20Pipe.meta.conn.nx_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_pz|Full (block): **8435**
+- ![Fluid Pipe|meta|conn|ny_pz|Full](textures/08436_Fluid%20Pipe.meta.conn.ny_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_pz|Full (block): **8436**
+- ![Fluid Pipe|meta|conn|nx_ny_pz|Full](textures/08437_Fluid%20Pipe.meta.conn.nx_ny_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_pz|Full (block): **8437**
+- ![Fluid Pipe|meta|conn|nz_pz|Full](textures/08438_Fluid%20Pipe.meta.conn.nz_pz.Full.png "texture") Fluid Pipe|meta|conn|nz_pz|Full (block): **8438**
+- ![Fluid Pipe|meta|conn|nx_nz_pz|Full](textures/08439_Fluid%20Pipe.meta.conn.nx_nz_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_pz|Full (block): **8439**
+- ![Fluid Pipe|meta|conn|ny_nz_pz|Full](textures/08440_Fluid%20Pipe.meta.conn.ny_nz_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_pz|Full (block): **8440**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_pz|Full](textures/08441_Fluid%20Pipe.meta.conn.nx_ny_nz_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8441**
+- ![Fluid Pipe|meta|conn|px_pz|Full](textures/08442_Fluid%20Pipe.meta.conn.px_pz.Full.png "texture") Fluid Pipe|meta|conn|px_pz|Full (block): **8442**
+- ![Fluid Pipe|meta|conn|nx_px_pz|Full](textures/08443_Fluid%20Pipe.meta.conn.nx_px_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_px_pz|Full (block): **8443**
+- ![Fluid Pipe|meta|conn|ny_px_pz|Full](textures/08444_Fluid%20Pipe.meta.conn.ny_px_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_px_pz|Full (block): **8444**
+- ![Fluid Pipe|meta|conn|nx_ny_px_pz|Full](textures/08445_Fluid%20Pipe.meta.conn.nx_ny_px_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_px_pz|Full (block): **8445**
+- ![Fluid Pipe|meta|conn|nz_px_pz|Full](textures/08446_Fluid%20Pipe.meta.conn.nz_px_pz.Full.png "texture") Fluid Pipe|meta|conn|nz_px_pz|Full (block): **8446**
+- ![Fluid Pipe|meta|conn|nx_nz_px_pz|Full](textures/08447_Fluid%20Pipe.meta.conn.nx_nz_px_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_px_pz|Full (block): **8447**
+- ![Fluid Pipe|meta|conn|ny_nz_px_pz|Full](textures/08448_Fluid%20Pipe.meta.conn.ny_nz_px_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_px_pz|Full (block): **8448**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_pz|Full](textures/08449_Fluid%20Pipe.meta.conn.nx_ny_nz_px_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8449**
+- ![Fluid Pipe|meta|conn|py_pz|Full](textures/08450_Fluid%20Pipe.meta.conn.py_pz.Full.png "texture") Fluid Pipe|meta|conn|py_pz|Full (block): **8450**
+- ![Fluid Pipe|meta|conn|nx_py_pz|Full](textures/08451_Fluid%20Pipe.meta.conn.nx_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_py_pz|Full (block): **8451**
+- ![Fluid Pipe|meta|conn|ny_py_pz|Full](textures/08452_Fluid%20Pipe.meta.conn.ny_py_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_py_pz|Full (block): **8452**
+- ![Fluid Pipe|meta|conn|nx_ny_py_pz|Full](textures/08453_Fluid%20Pipe.meta.conn.nx_ny_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_py_pz|Full (block): **8453**
+- ![Fluid Pipe|meta|conn|nz_py_pz|Full](textures/08454_Fluid%20Pipe.meta.conn.nz_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nz_py_pz|Full (block): **8454**
+- ![Fluid Pipe|meta|conn|nx_nz_py_pz|Full](textures/08455_Fluid%20Pipe.meta.conn.nx_nz_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_py_pz|Full (block): **8455**
+- ![Fluid Pipe|meta|conn|ny_nz_py_pz|Full](textures/08456_Fluid%20Pipe.meta.conn.ny_nz_py_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_py_pz|Full (block): **8456**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_py_pz|Full](textures/08457_Fluid%20Pipe.meta.conn.nx_ny_nz_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8457**
+- ![Fluid Pipe|meta|conn|px_py_pz|Full](textures/08458_Fluid%20Pipe.meta.conn.px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|px_py_pz|Full (block): **8458**
+- ![Fluid Pipe|meta|conn|nx_px_py_pz|Full](textures/08459_Fluid%20Pipe.meta.conn.nx_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_px_py_pz|Full (block): **8459**
+- ![Fluid Pipe|meta|conn|ny_px_py_pz|Full](textures/08460_Fluid%20Pipe.meta.conn.ny_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_px_py_pz|Full (block): **8460**
+- ![Fluid Pipe|meta|conn|nx_ny_px_py_pz|Full](textures/08461_Fluid%20Pipe.meta.conn.nx_ny_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8461**
+- ![Fluid Pipe|meta|conn|nz_px_py_pz|Full](textures/08462_Fluid%20Pipe.meta.conn.nz_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nz_px_py_pz|Full (block): **8462**
+- ![Fluid Pipe|meta|conn|nx_nz_px_py_pz|Full](textures/08463_Fluid%20Pipe.meta.conn.nx_nz_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8463**
+- ![Fluid Pipe|meta|conn|ny_nz_px_py_pz|Full](textures/08464_Fluid%20Pipe.meta.conn.ny_nz_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8464**
+- ![Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz|Full](textures/08465_Fluid%20Pipe.meta.conn.nx_ny_nz_px_py_pz.Full.png "texture") Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8465**
+- ![Coolant Pipe|meta|conn|none|Full](textures/08466_Coolant%20Pipe.meta.conn.none.Full.png "texture") Coolant Pipe|meta|conn|none|Full (block): **8466**
+- ![Coolant Pipe|meta|conn|nx|Full](textures/08467_Coolant%20Pipe.meta.conn.nx.Full.png "texture") Coolant Pipe|meta|conn|nx|Full (block): **8467**
+- ![Coolant Pipe|meta|conn|ny|Full](textures/08468_Coolant%20Pipe.meta.conn.ny.Full.png "texture") Coolant Pipe|meta|conn|ny|Full (block): **8468**
+- ![Coolant Pipe|meta|conn|nx_ny|Full](textures/08469_Coolant%20Pipe.meta.conn.nx_ny.Full.png "texture") Coolant Pipe|meta|conn|nx_ny|Full (block): **8469**
+- ![Coolant Pipe|meta|conn|nz|Full](textures/08470_Coolant%20Pipe.meta.conn.nz.Full.png "texture") Coolant Pipe|meta|conn|nz|Full (block): **8470**
+- ![Coolant Pipe|meta|conn|nx_nz|Full](textures/08471_Coolant%20Pipe.meta.conn.nx_nz.Full.png "texture") Coolant Pipe|meta|conn|nx_nz|Full (block): **8471**
+- ![Coolant Pipe|meta|conn|ny_nz|Full](textures/08472_Coolant%20Pipe.meta.conn.ny_nz.Full.png "texture") Coolant Pipe|meta|conn|ny_nz|Full (block): **8472**
+- ![Coolant Pipe|meta|conn|nx_ny_nz|Full](textures/08473_Coolant%20Pipe.meta.conn.nx_ny_nz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz|Full (block): **8473**
+- ![Coolant Pipe|meta|conn|px|Full](textures/08474_Coolant%20Pipe.meta.conn.px.Full.png "texture") Coolant Pipe|meta|conn|px|Full (block): **8474**
+- ![Coolant Pipe|meta|conn|nx_px|Full](textures/08475_Coolant%20Pipe.meta.conn.nx_px.Full.png "texture") Coolant Pipe|meta|conn|nx_px|Full (block): **8475**
+- ![Coolant Pipe|meta|conn|ny_px|Full](textures/08476_Coolant%20Pipe.meta.conn.ny_px.Full.png "texture") Coolant Pipe|meta|conn|ny_px|Full (block): **8476**
+- ![Coolant Pipe|meta|conn|nx_ny_px|Full](textures/08477_Coolant%20Pipe.meta.conn.nx_ny_px.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_px|Full (block): **8477**
+- ![Coolant Pipe|meta|conn|nz_px|Full](textures/08478_Coolant%20Pipe.meta.conn.nz_px.Full.png "texture") Coolant Pipe|meta|conn|nz_px|Full (block): **8478**
+- ![Coolant Pipe|meta|conn|nx_nz_px|Full](textures/08479_Coolant%20Pipe.meta.conn.nx_nz_px.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_px|Full (block): **8479**
+- ![Coolant Pipe|meta|conn|ny_nz_px|Full](textures/08480_Coolant%20Pipe.meta.conn.ny_nz_px.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_px|Full (block): **8480**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px|Full](textures/08481_Coolant%20Pipe.meta.conn.nx_ny_nz_px.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px|Full (block): **8481**
+- ![Coolant Pipe|meta|conn|py|Full](textures/08482_Coolant%20Pipe.meta.conn.py.Full.png "texture") Coolant Pipe|meta|conn|py|Full (block): **8482**
+- ![Coolant Pipe|meta|conn|nx_py|Full](textures/08483_Coolant%20Pipe.meta.conn.nx_py.Full.png "texture") Coolant Pipe|meta|conn|nx_py|Full (block): **8483**
+- ![Coolant Pipe|meta|conn|ny_py|Full](textures/08484_Coolant%20Pipe.meta.conn.ny_py.Full.png "texture") Coolant Pipe|meta|conn|ny_py|Full (block): **8484**
+- ![Coolant Pipe|meta|conn|nx_ny_py|Full](textures/08485_Coolant%20Pipe.meta.conn.nx_ny_py.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_py|Full (block): **8485**
+- ![Coolant Pipe|meta|conn|nz_py|Full](textures/08486_Coolant%20Pipe.meta.conn.nz_py.Full.png "texture") Coolant Pipe|meta|conn|nz_py|Full (block): **8486**
+- ![Coolant Pipe|meta|conn|nx_nz_py|Full](textures/08487_Coolant%20Pipe.meta.conn.nx_nz_py.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_py|Full (block): **8487**
+- ![Coolant Pipe|meta|conn|ny_nz_py|Full](textures/08488_Coolant%20Pipe.meta.conn.ny_nz_py.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_py|Full (block): **8488**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_py|Full](textures/08489_Coolant%20Pipe.meta.conn.nx_ny_nz_py.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_py|Full (block): **8489**
+- ![Coolant Pipe|meta|conn|px_py|Full](textures/08490_Coolant%20Pipe.meta.conn.px_py.Full.png "texture") Coolant Pipe|meta|conn|px_py|Full (block): **8490**
+- ![Coolant Pipe|meta|conn|nx_px_py|Full](textures/08491_Coolant%20Pipe.meta.conn.nx_px_py.Full.png "texture") Coolant Pipe|meta|conn|nx_px_py|Full (block): **8491**
+- ![Coolant Pipe|meta|conn|ny_px_py|Full](textures/08492_Coolant%20Pipe.meta.conn.ny_px_py.Full.png "texture") Coolant Pipe|meta|conn|ny_px_py|Full (block): **8492**
+- ![Coolant Pipe|meta|conn|nx_ny_px_py|Full](textures/08493_Coolant%20Pipe.meta.conn.nx_ny_px_py.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_px_py|Full (block): **8493**
+- ![Coolant Pipe|meta|conn|nz_px_py|Full](textures/08494_Coolant%20Pipe.meta.conn.nz_px_py.Full.png "texture") Coolant Pipe|meta|conn|nz_px_py|Full (block): **8494**
+- ![Coolant Pipe|meta|conn|nx_nz_px_py|Full](textures/08495_Coolant%20Pipe.meta.conn.nx_nz_px_py.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_px_py|Full (block): **8495**
+- ![Coolant Pipe|meta|conn|ny_nz_px_py|Full](textures/08496_Coolant%20Pipe.meta.conn.ny_nz_px_py.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_px_py|Full (block): **8496**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_py|Full](textures/08497_Coolant%20Pipe.meta.conn.nx_ny_nz_px_py.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8497**
+- ![Coolant Pipe|meta|conn|pz|Full](textures/08498_Coolant%20Pipe.meta.conn.pz.Full.png "texture") Coolant Pipe|meta|conn|pz|Full (block): **8498**
+- ![Coolant Pipe|meta|conn|nx_pz|Full](textures/08499_Coolant%20Pipe.meta.conn.nx_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_pz|Full (block): **8499**
+- ![Coolant Pipe|meta|conn|ny_pz|Full](textures/08500_Coolant%20Pipe.meta.conn.ny_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_pz|Full (block): **8500**
+- ![Coolant Pipe|meta|conn|nx_ny_pz|Full](textures/08501_Coolant%20Pipe.meta.conn.nx_ny_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_pz|Full (block): **8501**
+- ![Coolant Pipe|meta|conn|nz_pz|Full](textures/08502_Coolant%20Pipe.meta.conn.nz_pz.Full.png "texture") Coolant Pipe|meta|conn|nz_pz|Full (block): **8502**
+- ![Coolant Pipe|meta|conn|nx_nz_pz|Full](textures/08503_Coolant%20Pipe.meta.conn.nx_nz_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_pz|Full (block): **8503**
+- ![Coolant Pipe|meta|conn|ny_nz_pz|Full](textures/08504_Coolant%20Pipe.meta.conn.ny_nz_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_pz|Full (block): **8504**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_pz|Full](textures/08505_Coolant%20Pipe.meta.conn.nx_ny_nz_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8505**
+- ![Coolant Pipe|meta|conn|px_pz|Full](textures/08506_Coolant%20Pipe.meta.conn.px_pz.Full.png "texture") Coolant Pipe|meta|conn|px_pz|Full (block): **8506**
+- ![Coolant Pipe|meta|conn|nx_px_pz|Full](textures/08507_Coolant%20Pipe.meta.conn.nx_px_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_px_pz|Full (block): **8507**
+- ![Coolant Pipe|meta|conn|ny_px_pz|Full](textures/08508_Coolant%20Pipe.meta.conn.ny_px_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_px_pz|Full (block): **8508**
+- ![Coolant Pipe|meta|conn|nx_ny_px_pz|Full](textures/08509_Coolant%20Pipe.meta.conn.nx_ny_px_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_px_pz|Full (block): **8509**
+- ![Coolant Pipe|meta|conn|nz_px_pz|Full](textures/08510_Coolant%20Pipe.meta.conn.nz_px_pz.Full.png "texture") Coolant Pipe|meta|conn|nz_px_pz|Full (block): **8510**
+- ![Coolant Pipe|meta|conn|nx_nz_px_pz|Full](textures/08511_Coolant%20Pipe.meta.conn.nx_nz_px_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_px_pz|Full (block): **8511**
+- ![Coolant Pipe|meta|conn|ny_nz_px_pz|Full](textures/08512_Coolant%20Pipe.meta.conn.ny_nz_px_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_px_pz|Full (block): **8512**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_pz|Full](textures/08513_Coolant%20Pipe.meta.conn.nx_ny_nz_px_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8513**
+- ![Coolant Pipe|meta|conn|py_pz|Full](textures/08514_Coolant%20Pipe.meta.conn.py_pz.Full.png "texture") Coolant Pipe|meta|conn|py_pz|Full (block): **8514**
+- ![Coolant Pipe|meta|conn|nx_py_pz|Full](textures/08515_Coolant%20Pipe.meta.conn.nx_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_py_pz|Full (block): **8515**
+- ![Coolant Pipe|meta|conn|ny_py_pz|Full](textures/08516_Coolant%20Pipe.meta.conn.ny_py_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_py_pz|Full (block): **8516**
+- ![Coolant Pipe|meta|conn|nx_ny_py_pz|Full](textures/08517_Coolant%20Pipe.meta.conn.nx_ny_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_py_pz|Full (block): **8517**
+- ![Coolant Pipe|meta|conn|nz_py_pz|Full](textures/08518_Coolant%20Pipe.meta.conn.nz_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nz_py_pz|Full (block): **8518**
+- ![Coolant Pipe|meta|conn|nx_nz_py_pz|Full](textures/08519_Coolant%20Pipe.meta.conn.nx_nz_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_py_pz|Full (block): **8519**
+- ![Coolant Pipe|meta|conn|ny_nz_py_pz|Full](textures/08520_Coolant%20Pipe.meta.conn.ny_nz_py_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_py_pz|Full (block): **8520**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full](textures/08521_Coolant%20Pipe.meta.conn.nx_ny_nz_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8521**
+- ![Coolant Pipe|meta|conn|px_py_pz|Full](textures/08522_Coolant%20Pipe.meta.conn.px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|px_py_pz|Full (block): **8522**
+- ![Coolant Pipe|meta|conn|nx_px_py_pz|Full](textures/08523_Coolant%20Pipe.meta.conn.nx_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_px_py_pz|Full (block): **8523**
+- ![Coolant Pipe|meta|conn|ny_px_py_pz|Full](textures/08524_Coolant%20Pipe.meta.conn.ny_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_px_py_pz|Full (block): **8524**
+- ![Coolant Pipe|meta|conn|nx_ny_px_py_pz|Full](textures/08525_Coolant%20Pipe.meta.conn.nx_ny_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8525**
+- ![Coolant Pipe|meta|conn|nz_px_py_pz|Full](textures/08526_Coolant%20Pipe.meta.conn.nz_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nz_px_py_pz|Full (block): **8526**
+- ![Coolant Pipe|meta|conn|nx_nz_px_py_pz|Full](textures/08527_Coolant%20Pipe.meta.conn.nx_nz_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8527**
+- ![Coolant Pipe|meta|conn|ny_nz_px_py_pz|Full](textures/08528_Coolant%20Pipe.meta.conn.ny_nz_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8528**
+- ![Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz|Full](textures/08529_Coolant%20Pipe.meta.conn.nx_ny_nz_px_py_pz.Full.png "texture") Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8529**
 - ![Reactor Frame|meta|rot1|Formed](textures/08530_Reactor%20Frame.meta.rot1.Formed.png "texture") Reactor Frame|meta|rot1|Formed (block): **8530**
 - ![Reactor Glass|meta|rot1|Formed](textures/08531_Reactor%20Glass.meta.rot1.Formed.png "texture") Reactor Glass|meta|rot1|Formed (block): **8531**
 - ![Reactor Port|meta|rot1|Formed](textures/08532_Reactor%20Port.meta.rot1.Formed.png "texture") Reactor Port|meta|rot1|Formed (block): **8532**
@@ -445,10 +445,10 @@
 - ![Collider|meta|rot3|Running](textures/08537_Collider.meta.rot3.Running.png "texture") Collider|meta|rot3|Running (block): **8537**
 - ![Collider|meta|rot4|Running](textures/08538_Collider.meta.rot4.Running.png "texture") Collider|meta|rot4|Running (block): **8538**
 - ![Scaffolding](textures/08539_Scaffolding.png "texture") Scaffolding (block): **8539**
-- Nova Trophy (block): **8540**
-- Nova Trophy|meta|rot2 (block): **8541**
-- Nova Trophy|meta|rot3 (block): **8542**
-- Nova Trophy|meta|rot4 (block): **8543**
+- ![Nova Trophy](textures/08540_Nova%20Trophy.png "texture") Nova Trophy (block): **8540**
+- ![Nova Trophy|meta|rot2](textures/08541_Nova%20Trophy.meta.rot2.png "texture") Nova Trophy|meta|rot2 (block): **8541**
+- ![Nova Trophy|meta|rot3](textures/08542_Nova%20Trophy.meta.rot3.png "texture") Nova Trophy|meta|rot3 (block): **8542**
+- ![Nova Trophy|meta|rot4](textures/08543_Nova%20Trophy.meta.rot4.png "texture") Nova Trophy|meta|rot4 (block): **8543**
 - ![Uranium Block](textures/08544_Uranium%20Block.png "texture") Uranium Block (block): **8544**
 - ![Pure Uranium Ore](textures/08545_Pure%20Uranium%20Ore.png "texture") Pure Uranium Ore (block): **8545**
 - ![Copper Block](textures/08546_Copper%20Block.png "texture") Copper Block (block): **8546**
@@ -470,10 +470,10 @@
 - ![Wrench](textures/10054_Wrench.png "texture") Wrench (item): **10054**
 - ![Advanced Coupler](textures/10055_Advanced%20Coupler.png "texture") Advanced Coupler (item): **10055**
 - ![Nova Coupler](textures/10056_Nova%20Coupler.png "texture") Nova Coupler (item): **10056**
-- Core Tier 11 (item): **10057**
-- Core Tier 12 (item): **10058**
-- Core Tier 13 (item): **10059**
-- Core Tier 14 (item): **10060**
+- ![Core Tier 11](textures/10057_Core%20Tier%2011.png "texture") Core Tier 11 (item): **10057**
+- ![Core Tier 12](textures/10058_Core%20Tier%2012.png "texture") Core Tier 12 (item): **10058**
+- ![Core Tier 13](textures/10059_Core%20Tier%2013.png "texture") Core Tier 13 (item): **10059**
+- ![Core Tier 14](textures/10060_Core%20Tier%2014.png "texture") Core Tier 14 (item): **10060**
 - ![Core Tier 15](textures/10061_Core%20Tier%2015.png "texture") Core Tier 15 (item): **10061**
 - ![Jet Chestplate](textures/10062_Jet%20Chestplate.png "texture") Jet Chestplate (item): **10062**
 - ![Nova Jet Chestplate](textures/10063_Nova%20Jet%20Chestplate.png "texture") Nova Jet Chestplate (item): **10063**
@@ -484,10 +484,10 @@
 - ![Nova Boots](textures/10068_Nova%20Boots.png "texture") Nova Boots (item): **10068**
 - ![Nova Blade](textures/10069_Nova%20Blade.png "texture") Nova Blade (item): **10069**
 - ![Mob Cage](textures/10070_Mob%20Cage.png "texture") Mob Cage (item): **10070**
-- Caged Pig (item): **10071**
-- Caged Cow (item): **10072**
-- Caged Sheep (item): **10073**
-- Caged Deer (item): **10074**
+- ![Caged Pig](textures/10071_Caged%20Pig.png "texture") Caged Pig (item): **10071**
+- ![Caged Cow](textures/10072_Caged%20Cow.png "texture") Caged Cow (item): **10072**
+- ![Caged Sheep](textures/10073_Caged%20Sheep.png "texture") Caged Sheep (item): **10073**
+- ![Caged Deer](textures/10074_Caged%20Deer.png "texture") Caged Deer (item): **10074**
 - ![Caged Stag](textures/10075_Caged%20Stag.png "texture") Caged Stag (item): **10075**
 - ![Nova Multitool](textures/10076_Nova%20Multitool.png "texture") Nova Multitool (item): **10076**
 - ![Pocket Terminal](textures/10077_Pocket%20Terminal.png "texture") Pocket Terminal (item): **10077**
@@ -531,25 +531,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8139 -> **8577**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8140 -> **8578**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8141 -> **8579**
-- Wood Helmet (item): 8142 -> **8580**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8142 -> **8580**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8143 -> **8581**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8144 -> **8582**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8145 -> **8583**
-- Wood Chestplate (item): 8146 -> **8584**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8146 -> **8584**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8147 -> **8585**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8148 -> **8586**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8149 -> **8587**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8150 -> **8588**
-- Wood Leggings (item): 8151 -> **8589**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8151 -> **8589**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8152 -> **8590**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8153 -> **8591**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8154 -> **8592**
-- Wood Boots (item): 8155 -> **8593**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8155 -> **8593**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8156 -> **8594**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8157 -> **8595**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8158 -> **8596**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8159 -> **8597**
-- Wood Gauntlets (item): 8160 -> **8598**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8160 -> **8598**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8161 -> **8599**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8162 -> **8600**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8163 -> **8601**
@@ -558,81 +558,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8166 -> **8604**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8167 -> **8605**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8168 -> **8606**
-- White Wood Helmet (item): 8169 -> **8607**
-- White Wood Chestplate (item): 8170 -> **8608**
-- White Wood Leggings (item): 8171 -> **8609**
-- White Wood Boots (item): 8172 -> **8610**
-- White Wood Gauntlets (item): 8173 -> **8611**
-- Orange Wood Helmet (item): 8174 -> **8612**
-- Orange Wood Chestplate (item): 8175 -> **8613**
-- Orange Wood Leggings (item): 8176 -> **8614**
-- Orange Wood Boots (item): 8177 -> **8615**
-- Orange Wood Gauntlets (item): 8178 -> **8616**
-- Magenta Wood Helmet (item): 8179 -> **8617**
-- Magenta Wood Chestplate (item): 8180 -> **8618**
-- Magenta Wood Leggings (item): 8181 -> **8619**
-- Magenta Wood Boots (item): 8182 -> **8620**
-- Magenta Wood Gauntlets (item): 8183 -> **8621**
-- Light Blue Wood Helmet (item): 8184 -> **8622**
-- Light Blue Wood Chestplate (item): 8185 -> **8623**
-- Light Blue Wood Leggings (item): 8186 -> **8624**
-- Light Blue Wood Boots (item): 8187 -> **8625**
-- Light Blue Wood Gauntlets (item): 8188 -> **8626**
-- Yellow Wood Helmet (item): 8189 -> **8627**
-- Yellow Wood Chestplate (item): 8190 -> **8628**
-- Yellow Wood Leggings (item): 8191 -> **8629**
-- Yellow Wood Boots (item): 8192 -> **8630**
-- Yellow Wood Gauntlets (item): 8193 -> **8631**
-- Lime Wood Helmet (item): 8194 -> **8632**
-- Lime Wood Chestplate (item): 8195 -> **8633**
-- Lime Wood Leggings (item): 8196 -> **8634**
-- Lime Wood Boots (item): 8197 -> **8635**
-- Lime Wood Gauntlets (item): 8198 -> **8636**
-- Pink Wood Helmet (item): 8199 -> **8637**
-- Pink Wood Chestplate (item): 8200 -> **8638**
-- Pink Wood Leggings (item): 8201 -> **8639**
-- Pink Wood Boots (item): 8202 -> **8640**
-- Pink Wood Gauntlets (item): 8203 -> **8641**
-- Gray Wood Helmet (item): 8204 -> **8642**
-- Gray Wood Chestplate (item): 8205 -> **8643**
-- Gray Wood Leggings (item): 8206 -> **8644**
-- Gray Wood Boots (item): 8207 -> **8645**
-- Gray Wood Gauntlets (item): 8208 -> **8646**
-- Light Gray Wood Helmet (item): 8209 -> **8647**
-- Light Gray Wood Chestplate (item): 8210 -> **8648**
-- Light Gray Wood Leggings (item): 8211 -> **8649**
-- Light Gray Wood Boots (item): 8212 -> **8650**
-- Light Gray Wood Gauntlets (item): 8213 -> **8651**
-- Cyan Wood Helmet (item): 8214 -> **8652**
-- Cyan Wood Chestplate (item): 8215 -> **8653**
-- Cyan Wood Leggings (item): 8216 -> **8654**
-- Cyan Wood Boots (item): 8217 -> **8655**
-- Cyan Wood Gauntlets (item): 8218 -> **8656**
-- Purple Wood Helmet (item): 8219 -> **8657**
-- Purple Wood Chestplate (item): 8220 -> **8658**
-- Purple Wood Leggings (item): 8221 -> **8659**
-- Purple Wood Boots (item): 8222 -> **8660**
-- Purple Wood Gauntlets (item): 8223 -> **8661**
-- Blue Wood Helmet (item): 8224 -> **8662**
-- Blue Wood Chestplate (item): 8225 -> **8663**
-- Blue Wood Leggings (item): 8226 -> **8664**
-- Blue Wood Boots (item): 8227 -> **8665**
-- Blue Wood Gauntlets (item): 8228 -> **8666**
-- Brown Wood Helmet (item): 8229 -> **8667**
-- Brown Wood Chestplate (item): 8230 -> **8668**
-- Brown Wood Leggings (item): 8231 -> **8669**
-- Brown Wood Boots (item): 8232 -> **8670**
-- Brown Wood Gauntlets (item): 8233 -> **8671**
-- Green Wood Helmet (item): 8234 -> **8672**
-- Green Wood Chestplate (item): 8235 -> **8673**
-- Green Wood Leggings (item): 8236 -> **8674**
-- Green Wood Boots (item): 8237 -> **8675**
-- Green Wood Gauntlets (item): 8238 -> **8676**
-- Red Wood Helmet (item): 8239 -> **8677**
-- Red Wood Chestplate (item): 8240 -> **8678**
-- Red Wood Leggings (item): 8241 -> **8679**
-- Red Wood Boots (item): 8242 -> **8680**
-- Red Wood Gauntlets (item): 8243 -> **8681**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8169 -> **8607**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8170 -> **8608**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8171 -> **8609**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8172 -> **8610**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8173 -> **8611**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8174 -> **8612**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8175 -> **8613**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8176 -> **8614**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8177 -> **8615**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8178 -> **8616**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8179 -> **8617**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8180 -> **8618**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8181 -> **8619**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8182 -> **8620**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8183 -> **8621**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8184 -> **8622**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8185 -> **8623**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8186 -> **8624**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8187 -> **8625**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8188 -> **8626**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8189 -> **8627**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8190 -> **8628**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8191 -> **8629**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8192 -> **8630**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8193 -> **8631**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8194 -> **8632**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8195 -> **8633**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8196 -> **8634**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8197 -> **8635**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8198 -> **8636**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8199 -> **8637**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8200 -> **8638**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8201 -> **8639**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8202 -> **8640**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8203 -> **8641**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8204 -> **8642**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8205 -> **8643**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8206 -> **8644**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8207 -> **8645**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8208 -> **8646**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8209 -> **8647**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8210 -> **8648**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8211 -> **8649**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8212 -> **8650**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8213 -> **8651**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8214 -> **8652**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8215 -> **8653**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8216 -> **8654**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8217 -> **8655**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8218 -> **8656**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8219 -> **8657**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8220 -> **8658**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8221 -> **8659**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8222 -> **8660**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8223 -> **8661**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8224 -> **8662**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8225 -> **8663**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8226 -> **8664**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8227 -> **8665**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8228 -> **8666**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8229 -> **8667**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8230 -> **8668**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8231 -> **8669**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8232 -> **8670**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8233 -> **8671**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8234 -> **8672**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8235 -> **8673**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8236 -> **8674**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8237 -> **8675**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8238 -> **8676**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8239 -> **8677**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8240 -> **8678**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8241 -> **8679**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8242 -> **8680**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8243 -> **8681**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8244 -> **8682**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8245 -> **8683**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8246 -> **8684**
@@ -666,38 +666,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8274 -> **8712**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8275 -> **8713**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8276 -> **8714**
-- Boat (item): 8277 -> **8715**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8277 -> **8715**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8278 -> **8716**
-- Obsidian Boat (item): 8279 -> **8717**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8279 -> **8717**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8280 -> **8718**
-- Speedboat (item): 8281 -> **8719**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8281 -> **8719**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8282 -> **8720**
-- Wood Hang Glider (item): 8283 -> **8721**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8283 -> **8721**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8284 -> **8722**
-- Iron Hang Glider (item): 8285 -> **8723**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8285 -> **8723**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8286 -> **8724**
-- Gold Hang Glider (item): 8287 -> **8725**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8287 -> **8725**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8288 -> **8726**
-- Diamond Hang Glider (item): 8289 -> **8727**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8289 -> **8727**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8290 -> **8728**
-- Hovercraft (item): 8291 -> **8729**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8291 -> **8729**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8292 -> **8730**
-- Yellow Kart (item): 8293 -> **8731**
-- White Kart (item): 8294 -> **8732**
-- Red Kart (item): 8295 -> **8733**
-- Purple Kart (item): 8296 -> **8734**
-- Pink Kart (item): 8297 -> **8735**
-- Orange Kart (item): 8298 -> **8736**
-- Magenta Kart (item): 8299 -> **8737**
-- Lime Kart (item): 8300 -> **8738**
-- Light Gray Kart (item): 8301 -> **8739**
-- Light Blue Kart (item): 8302 -> **8740**
-- Green Kart (item): 8303 -> **8741**
-- Gray Kart (item): 8304 -> **8742**
-- Cyan Kart (item): 8305 -> **8743**
-- Brown Kart (item): 8306 -> **8744**
-- Blue Kart (item): 8307 -> **8745**
-- Black Kart (item): 8308 -> **8746**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8293 -> **8731**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8294 -> **8732**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8295 -> **8733**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8296 -> **8734**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8297 -> **8735**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8298 -> **8736**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8299 -> **8737**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8300 -> **8738**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8301 -> **8739**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8302 -> **8740**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8303 -> **8741**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8304 -> **8742**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8305 -> **8743**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8306 -> **8744**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8307 -> **8745**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8308 -> **8746**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8309 -> **8747**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8310 -> **8748**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8311 -> **8749**
@@ -714,25 +714,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8322 -> **8760**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8323 -> **8761**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8324 -> **8762**
-- Off Roader (item): 8325 -> **8763**
-- INTERNAL_MESH_Off Roader (item): 8326 -> **8764**
-- Gold Mining Drill (item): 8327 -> **8765**
-- Iron Mining Drill (item): 8328 -> **8766**
-- Diamond Mining Drill (item): 8329 -> **8767**
-- Moonstone Mining Drill (item): 8330 -> **8768**
-- Armored Car (item): 8331 -> **8769**
-- INTERNAL_MESH_Gold Mining Drill (item): 8332 -> **8770**
-- INTERNAL_MESH_Iron Mining Drill (item): 8333 -> **8771**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8334 -> **8772**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8325 -> **8763**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8326 -> **8764**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8327 -> **8765**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8328 -> **8766**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8329 -> **8767**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8330 -> **8768**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8331 -> **8769**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8332 -> **8770**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8333 -> **8771**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8334 -> **8772**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8335 -> **8773**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8336 -> **8774**
-- Light Blue Car (item): 8337 -> **8775**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8337 -> **8775**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8338 -> **8776**
-- Snowball (item): 8339 -> **8777**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8339 -> **8777**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8340 -> **8778**
-- Pebble (item): 8341 -> **8779**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8341 -> **8779**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8342 -> **8780**
-- Bullet (item): 8343 -> **8781**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8343 -> **8781**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8344 -> **8782**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8345 -> **8783**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8346 -> **8784**
@@ -741,14 +741,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8349 -> **8787**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8350 -> **8788**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8351 -> **8789**
-- RPG (item): 8352 -> **8790**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8352 -> **8790**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8353 -> **8791**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8354 -> **8792**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8355 -> **8793**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8356 -> **8794**
-- 67 Base Projectile (item): 8357 -> **8795**
-- 67 Boosted Projectile (item): 8358 -> **8796**
-- Capitano Grenade (item): 8359 -> **8797**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8357 -> **8795**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8358 -> **8796**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8359 -> **8797**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8360 -> **8798**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8361 -> **8799**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8362 -> **8800**
@@ -860,77 +860,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8468 -> **8906**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8469 -> **8907**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8470 -> **8908**
-- Book (item): 8471 -> **8909**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8471 -> **8909**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8472 -> **8910**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8473 -> **8911**
-- Slowness Potion (item): 8474 -> **8912**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8474 -> **8912**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8475 -> **8913**
-- Splash Slowness Potion (item): 8476 -> **8914**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8476 -> **8914**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8477 -> **8915**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8478 -> **8916**
-- Poison Potion (item): 8479 -> **8917**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8479 -> **8917**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8480 -> **8918**
-- Splash Poison Potion (item): 8481 -> **8919**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8481 -> **8919**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8482 -> **8920**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8483 -> **8921**
-- Weakness Potion (item): 8484 -> **8922**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8484 -> **8922**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8485 -> **8923**
-- Splash Weakness Potion (item): 8486 -> **8924**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8486 -> **8924**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8487 -> **8925**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8488 -> **8926**
-- Instant Damage Potion (item): 8489 -> **8927**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8489 -> **8927**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8490 -> **8928**
-- Splash Instant Damage Potion (item): 8491 -> **8929**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8491 -> **8929**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8492 -> **8930**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8493 -> **8931**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8494 -> **8932**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8495 -> **8933**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8496 -> **8934**
-- Speed Potion (item): 8497 -> **8935**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8497 -> **8935**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8498 -> **8936**
-- Splash Speed Potion (item): 8499 -> **8937**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8499 -> **8937**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8500 -> **8938**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8501 -> **8939**
-- Defense Potion (item): 8502 -> **8940**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8502 -> **8940**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8503 -> **8941**
-- Splash Defense Potion (item): 8504 -> **8942**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8504 -> **8942**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8505 -> **8943**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8506 -> **8944**
-- Strength Potion (item): 8507 -> **8945**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8507 -> **8945**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8508 -> **8946**
-- Splash Strength Potion (item): 8509 -> **8947**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8509 -> **8947**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8510 -> **8948**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8511 -> **8949**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8512 -> **8950**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8513 -> **8951**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8514 -> **8952**
-- Jump Potion (item): 8515 -> **8953**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8515 -> **8953**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8516 -> **8954**
-- Splash Jump Potion (item): 8517 -> **8955**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8517 -> **8955**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8518 -> **8956**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8519 -> **8957**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8520 -> **8958**
-- Splash Knockback Potion (item): 8521 -> **8959**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8521 -> **8959**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8522 -> **8960**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8523 -> **8961**
-- Regeneration Potion (item): 8524 -> **8962**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8524 -> **8962**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8525 -> **8963**
-- Splash Regeneration Potion (item): 8526 -> **8964**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8526 -> **8964**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8527 -> **8965**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8528 -> **8966**
-- Instant Healing Potion (item): 8529 -> **8967**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8529 -> **8967**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8530 -> **8968**
-- Splash Instant Healing Potion (item): 8531 -> **8969**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8531 -> **8969**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8532 -> **8970**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8533 -> **8971**
-- Haste Potion (item): 8534 -> **8972**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8534 -> **8972**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8535 -> **8973**
-- Splash Haste Potion (item): 8536 -> **8974**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8536 -> **8974**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8537 -> **8975**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8538 -> **8976**
-- Shield Potion (item): 8539 -> **8977**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8539 -> **8977**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8540 -> **8978**
-- Splash Shield Potion (item): 8541 -> **8979**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8541 -> **8979**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8542 -> **8980**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8543 -> **8981**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8544 -> **8982**
@@ -942,9 +942,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8550 -> **8988**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8551 -> **8989**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8552 -> **8990**
-- Mining Yield Potion (item): 8553 -> **8991**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8553 -> **8991**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8554 -> **8992**
-- Splash Mining Yield Potion (item): 8555 -> **8993**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8555 -> **8993**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8556 -> **8994**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8557 -> **8995**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8558 -> **8996**
@@ -953,41 +953,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8561 -> **8999**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8562 -> **9000**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8563 -> **9001**
-- AK-47 (item): 8564 -> **9002**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8564 -> **9002**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8565 -> **9003**
-- M16 (item): 8566 -> **9004**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8566 -> **9004**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8567 -> **9005**
-- MP40 (item): 8568 -> **9006**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8568 -> **9006**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8569 -> **9007**
-- TAR-21 (item): 8570 -> **9008**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8570 -> **9008**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8571 -> **9009**
-- M1911 (item): 8572 -> **9010**
-- M1911|RequiresAmmo (item): 8573 -> **9011**
-- One Shot Pistol (item): 8574 -> **9012**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8572 -> **9010**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8573 -> **9011**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8574 -> **9012**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8575 -> **9013**
-- Double Barrel (item): 8576 -> **9014**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8576 -> **9014**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8577 -> **9015**
-- AWP (item): 8578 -> **9016**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8578 -> **9016**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8579 -> **9017**
-- Deagle (item): 8580 -> **9018**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8580 -> **9018**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8581 -> **9019**
-- Striker-12 (item): 8582 -> **9020**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8582 -> **9020**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8583 -> **9021**
-- VSR (item): 8584 -> **9022**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8584 -> **9022**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8585 -> **9023**
-- DMR (item): 8586 -> **9024**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8586 -> **9024**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8587 -> **9025**
-- Minigun (item): 8588 -> **9026**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8588 -> **9026**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8589 -> **9027**
-- FMR (item): 8590 -> **9028**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8590 -> **9028**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8591 -> **9029**
-- SKAR (item): 8592 -> **9030**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8592 -> **9030**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8593 -> **9031**
-- Block-19 (item): 8594 -> **9032**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8594 -> **9032**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8595 -> **9033**
-- Mini Izu (item): 8596 -> **9034**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8596 -> **9034**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8597 -> **9035**
-- GPMG (item): 8598 -> **9036**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8598 -> **9036**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8599 -> **9037**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8600 -> **9038**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8601 -> **9039**
@@ -998,22 +998,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8606 -> **9044**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8607 -> **9045**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8608 -> **9046**
-- Yellow Balloon (item): 8609 -> **9047**
-- White Balloon (item): 8610 -> **9048**
-- Red Balloon (item): 8611 -> **9049**
-- Purple Balloon (item): 8612 -> **9050**
-- Pink Balloon (item): 8613 -> **9051**
-- Orange Balloon (item): 8614 -> **9052**
-- Magenta Balloon (item): 8615 -> **9053**
-- Lime Balloon (item): 8616 -> **9054**
-- Light Gray Balloon (item): 8617 -> **9055**
-- Light Blue Balloon (item): 8618 -> **9056**
-- Green Balloon (item): 8619 -> **9057**
-- Gray Balloon (item): 8620 -> **9058**
-- Cyan Balloon (item): 8621 -> **9059**
-- Brown Balloon (item): 8622 -> **9060**
-- Blue Balloon (item): 8623 -> **9061**
-- Black Balloon (item): 8624 -> **9062**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8609 -> **9047**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8610 -> **9048**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8611 -> **9049**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8612 -> **9050**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8613 -> **9051**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8614 -> **9052**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8615 -> **9053**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8616 -> **9054**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8617 -> **9055**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8618 -> **9056**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8619 -> **9057**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8620 -> **9058**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8621 -> **9059**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8622 -> **9060**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8623 -> **9061**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8624 -> **9062**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8625 -> **9063**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8626 -> **9064**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8627 -> **9065**
@@ -1267,21 +1267,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8875 -> **9313**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8876 -> **9314**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8877 -> **9315**
-- Caught Mob Sheep Default (item): 8878 -> **9316**
-- Caught Mob Sheep Black (item): 8879 -> **9317**
-- Caught Mob Sheep Red (item): 8880 -> **9318**
-- Caught Mob Sheep Orange (item): 8881 -> **9319**
-- Caught Mob Sheep Pink (item): 8882 -> **9320**
-- Caught Mob Sheep Purple (item): 8883 -> **9321**
-- Caught Mob Sheep Yellow (item): 8884 -> **9322**
-- Caught Mob Sheep Blue (item): 8885 -> **9323**
-- Caught Mob Sheep Brown (item): 8886 -> **9324**
-- Caught Mob Sheep Cyan (item): 8887 -> **9325**
-- Caught Mob Sheep Gray (item): 8888 -> **9326**
-- Caught Mob Sheep Green (item): 8889 -> **9327**
-- Caught Mob Sheep Lightblue (item): 8890 -> **9328**
-- Caught Mob Sheep Lightgray (item): 8891 -> **9329**
-- Caught Mob Sheep Lime (item): 8892 -> **9330**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8878 -> **9316**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8879 -> **9317**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8880 -> **9318**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8881 -> **9319**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8882 -> **9320**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8883 -> **9321**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8884 -> **9322**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8885 -> **9323**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8886 -> **9324**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8887 -> **9325**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8888 -> **9326**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8889 -> **9327**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8890 -> **9328**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8891 -> **9329**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8892 -> **9330**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8893 -> **9331**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8894 -> **9332**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8895 -> **9333**
@@ -1336,19 +1336,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8944 -> **9382**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8945 -> **9383**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8946 -> **9384**
-- Caught Mob Cave_Golem Default (item): 8947 -> **9385**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8947 -> **9385**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8948 -> **9386**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8949 -> **9387**
-- Caught Mob Draugr_Zombie Default (item): 8950 -> **9388**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8950 -> **9388**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8951 -> **9389**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8952 -> **9390**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8953 -> **9391**
-- Caught Mob Draugr_Zombie Flower (item): 8954 -> **9392**
-- Caught Mob Draugr_Zombie Flower2 (item): 8955 -> **9393**
-- Caught Mob Draugr_Zombie Mushroom (item): 8956 -> **9394**
-- Caught Mob Draugr_Zombie Vine (item): 8957 -> **9395**
-- Caught Mob Draugr_Zombie Vine2 (item): 8958 -> **9396**
-- Caught Mob Draugr_Zombie Corrupted (item): 8959 -> **9397**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8954 -> **9392**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8955 -> **9393**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8956 -> **9394**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8957 -> **9395**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8958 -> **9396**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8959 -> **9397**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8960 -> **9398**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8961 -> **9399**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8962 -> **9400**
@@ -1357,13 +1357,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8965 -> **9403**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8966 -> **9404**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8967 -> **9405**
-- Caught Mob Draugr_Huntress Default (item): 8968 -> **9406**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8968 -> **9406**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8969 -> **9407**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8970 -> **9408**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8971 -> **9409**
-- Caught Mob Frost_Wraith Default (item): 8972 -> **9410**
-- Caught Mob Frost_Wraith Tattered (item): 8973 -> **9411**
-- Caught Mob Frost_Wraith Frostking (item): 8974 -> **9412**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8972 -> **9410**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8973 -> **9411**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8974 -> **9412**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8975 -> **9413**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8976 -> **9414**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8977 -> **9415**
@@ -1389,23 +1389,23 @@
 - Caught Mob NPC Sara (item): 8997 -> **9435**
 - Caught Mob NPC Carmen (item): 8998 -> **9436**
 - Caught Mob NPC Chef (item): 8999 -> **9437**
-- Caught Mob 67 Default (item): 9000 -> **9438**
-- Caught Mob Bobino_Musculino Default (item): 9001 -> **9439**
-- Caught Mob Capitano_Explovissimo Default (item): 9002 -> **9440**
-- Caught Mob Desert_Fennec Default (item): 9003 -> **9441**
-- Caught Mob Armour_Collector Default (item): 9004 -> **9442**
-- Caught Mob Furnace_Knight Default (item): 9005 -> **9443**
-- Caught Mob Lil_Knight Default (item): 9006 -> **9444**
-- Caught Mob Glass_Gremlin Default (item): 9007 -> **9445**
-- Caught Mob Glass_Bro Default (item): 9008 -> **9446**
-- Caught Mob Lord_Vulcan Default (item): 9009 -> **9447**
-- Caught Mob Zombie Default (item): 9010 -> **9448**
-- Caught Mob Skeleton Default (item): 9011 -> **9449**
-- Caught Mob Mummy Default (item): 9012 -> **9450**
-- Caught Mob Scorpion Default (item): 9013 -> **9451**
-- Caught Mob Vulcanite Default (item): 9014 -> **9452**
-- Caught Mob Evil_Tome Default (item): 9015 -> **9453**
-- Caught Mob Magma_Toad Default (item): 9016 -> **9454**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 9000 -> **9438**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 9001 -> **9439**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 9002 -> **9440**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): 9003 -> **9441**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): 9004 -> **9442**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): 9005 -> **9443**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): 9006 -> **9444**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): 9007 -> **9445**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): 9008 -> **9446**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): 9009 -> **9447**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): 9010 -> **9448**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): 9011 -> **9449**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): 9012 -> **9450**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): 9013 -> **9451**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): 9014 -> **9452**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): 9015 -> **9453**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): 9016 -> **9454**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 9017 -> **9455**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 9018 -> **9456**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 9019 -> **9457**
@@ -1413,9 +1413,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 9021 -> **9459**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 9022 -> **9460**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 9023 -> **9461**
-- Aura XP Potion (item): 9024 -> **9462**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 9024 -> **9462**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 9025 -> **9463**
-- Splash Aura XP Potion (item): 9026 -> **9464**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 9026 -> **9464**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 9027 -> **9465**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 9028 -> **9466**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 9029 -> **9467**
@@ -1656,10 +1656,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9264 -> **9702**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9265 -> **9703**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9266 -> **9704**
-- Common Lottery Ticket (item): 9267 -> **9705**
-- Uncommon Lottery Ticket (item): 9268 -> **9706**
-- Rare Lottery Ticket (item): 9269 -> **9707**
-- Epic Lottery Ticket (item): 9270 -> **9708**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9267 -> **9705**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9268 -> **9706**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9269 -> **9707**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9270 -> **9708**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9271 -> **9709**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9272 -> **9710**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9273 -> **9711**
@@ -1742,7 +1742,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9350 -> **9788**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9351 -> **9789**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9352 -> **9790**
-- Rubellite Pickaxe (item): 9353 -> **9791**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9353 -> **9791**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9354 -> **9792**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9355 -> **9793**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9356 -> **9794**
@@ -1950,12 +1950,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9558 -> **9996**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9559 -> **9997**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9560 -> **9998**
-- Core Tier 5 (item): 9561 -> **9999**
-- Core Tier 6 (item): 9562 -> **10000**
-- Core Tier 7 (item): 9563 -> **10001**
-- Core Tier 8 (item): 9564 -> **10002**
-- Core Tier 9 (item): 9565 -> **10003**
-- Core Tier 10 (item): 9566 -> **10004**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9561 -> **9999**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9562 -> **10000**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9563 -> **10001**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9564 -> **10002**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9565 -> **10003**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9566 -> **10004**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9567 -> **10005**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9568 -> **10006**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9569 -> **10007**
@@ -2009,16 +2009,16 @@
 
 ## Added (10)
 
-- Pine Item Pedestal (block): **8100**
-- Plum Item Pedestal (block): **8101**
-- Cedar Item Pedestal (block): **8102**
-- Aspen Item Pedestal (block): **8103**
-- Jungle Item Pedestal (block): **8104**
-- Palm Item Pedestal (block): **8105**
-- Pear Item Pedestal (block): **8106**
-- Cherry Item Pedestal (block): **8107**
-- Spectral Item Pedestal (block): **8108**
-- Mango Item Pedestal (block): **8109**
+- ![Pine Item Pedestal](textures/08100_Pine%20Item%20Pedestal.png "texture") Pine Item Pedestal (block): **8100**
+- ![Plum Item Pedestal](textures/08101_Plum%20Item%20Pedestal.png "texture") Plum Item Pedestal (block): **8101**
+- ![Cedar Item Pedestal](textures/08102_Cedar%20Item%20Pedestal.png "texture") Cedar Item Pedestal (block): **8102**
+- ![Aspen Item Pedestal](textures/08103_Aspen%20Item%20Pedestal.png "texture") Aspen Item Pedestal (block): **8103**
+- ![Jungle Item Pedestal](textures/08104_Jungle%20Item%20Pedestal.png "texture") Jungle Item Pedestal (block): **8104**
+- ![Palm Item Pedestal](textures/08105_Palm%20Item%20Pedestal.png "texture") Palm Item Pedestal (block): **8105**
+- ![Pear Item Pedestal](textures/08106_Pear%20Item%20Pedestal.png "texture") Pear Item Pedestal (block): **8106**
+- ![Cherry Item Pedestal](textures/08107_Cherry%20Item%20Pedestal.png "texture") Cherry Item Pedestal (block): **8107**
+- ![Spectral Item Pedestal](textures/08108_Spectral%20Item%20Pedestal.png "texture") Spectral Item Pedestal (block): **8108**
+- ![Mango Item Pedestal](textures/08109_Mango%20Item%20Pedestal.png "texture") Mango Item Pedestal (block): **8109**
 
 <details>
 <summary>ID changed (1492)</summary>
@@ -2055,25 +2055,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8129 -> **8139**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8130 -> **8140**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8131 -> **8141**
-- Wood Helmet (item): 8132 -> **8142**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8132 -> **8142**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8133 -> **8143**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8134 -> **8144**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8135 -> **8145**
-- Wood Chestplate (item): 8136 -> **8146**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8136 -> **8146**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8137 -> **8147**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8138 -> **8148**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8139 -> **8149**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8140 -> **8150**
-- Wood Leggings (item): 8141 -> **8151**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8141 -> **8151**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8142 -> **8152**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8143 -> **8153**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8144 -> **8154**
-- Wood Boots (item): 8145 -> **8155**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8145 -> **8155**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8146 -> **8156**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8147 -> **8157**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8148 -> **8158**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8149 -> **8159**
-- Wood Gauntlets (item): 8150 -> **8160**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8150 -> **8160**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8151 -> **8161**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8152 -> **8162**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8153 -> **8163**
@@ -2082,81 +2082,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8156 -> **8166**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8157 -> **8167**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8158 -> **8168**
-- White Wood Helmet (item): 8159 -> **8169**
-- White Wood Chestplate (item): 8160 -> **8170**
-- White Wood Leggings (item): 8161 -> **8171**
-- White Wood Boots (item): 8162 -> **8172**
-- White Wood Gauntlets (item): 8163 -> **8173**
-- Orange Wood Helmet (item): 8164 -> **8174**
-- Orange Wood Chestplate (item): 8165 -> **8175**
-- Orange Wood Leggings (item): 8166 -> **8176**
-- Orange Wood Boots (item): 8167 -> **8177**
-- Orange Wood Gauntlets (item): 8168 -> **8178**
-- Magenta Wood Helmet (item): 8169 -> **8179**
-- Magenta Wood Chestplate (item): 8170 -> **8180**
-- Magenta Wood Leggings (item): 8171 -> **8181**
-- Magenta Wood Boots (item): 8172 -> **8182**
-- Magenta Wood Gauntlets (item): 8173 -> **8183**
-- Light Blue Wood Helmet (item): 8174 -> **8184**
-- Light Blue Wood Chestplate (item): 8175 -> **8185**
-- Light Blue Wood Leggings (item): 8176 -> **8186**
-- Light Blue Wood Boots (item): 8177 -> **8187**
-- Light Blue Wood Gauntlets (item): 8178 -> **8188**
-- Yellow Wood Helmet (item): 8179 -> **8189**
-- Yellow Wood Chestplate (item): 8180 -> **8190**
-- Yellow Wood Leggings (item): 8181 -> **8191**
-- Yellow Wood Boots (item): 8182 -> **8192**
-- Yellow Wood Gauntlets (item): 8183 -> **8193**
-- Lime Wood Helmet (item): 8184 -> **8194**
-- Lime Wood Chestplate (item): 8185 -> **8195**
-- Lime Wood Leggings (item): 8186 -> **8196**
-- Lime Wood Boots (item): 8187 -> **8197**
-- Lime Wood Gauntlets (item): 8188 -> **8198**
-- Pink Wood Helmet (item): 8189 -> **8199**
-- Pink Wood Chestplate (item): 8190 -> **8200**
-- Pink Wood Leggings (item): 8191 -> **8201**
-- Pink Wood Boots (item): 8192 -> **8202**
-- Pink Wood Gauntlets (item): 8193 -> **8203**
-- Gray Wood Helmet (item): 8194 -> **8204**
-- Gray Wood Chestplate (item): 8195 -> **8205**
-- Gray Wood Leggings (item): 8196 -> **8206**
-- Gray Wood Boots (item): 8197 -> **8207**
-- Gray Wood Gauntlets (item): 8198 -> **8208**
-- Light Gray Wood Helmet (item): 8199 -> **8209**
-- Light Gray Wood Chestplate (item): 8200 -> **8210**
-- Light Gray Wood Leggings (item): 8201 -> **8211**
-- Light Gray Wood Boots (item): 8202 -> **8212**
-- Light Gray Wood Gauntlets (item): 8203 -> **8213**
-- Cyan Wood Helmet (item): 8204 -> **8214**
-- Cyan Wood Chestplate (item): 8205 -> **8215**
-- Cyan Wood Leggings (item): 8206 -> **8216**
-- Cyan Wood Boots (item): 8207 -> **8217**
-- Cyan Wood Gauntlets (item): 8208 -> **8218**
-- Purple Wood Helmet (item): 8209 -> **8219**
-- Purple Wood Chestplate (item): 8210 -> **8220**
-- Purple Wood Leggings (item): 8211 -> **8221**
-- Purple Wood Boots (item): 8212 -> **8222**
-- Purple Wood Gauntlets (item): 8213 -> **8223**
-- Blue Wood Helmet (item): 8214 -> **8224**
-- Blue Wood Chestplate (item): 8215 -> **8225**
-- Blue Wood Leggings (item): 8216 -> **8226**
-- Blue Wood Boots (item): 8217 -> **8227**
-- Blue Wood Gauntlets (item): 8218 -> **8228**
-- Brown Wood Helmet (item): 8219 -> **8229**
-- Brown Wood Chestplate (item): 8220 -> **8230**
-- Brown Wood Leggings (item): 8221 -> **8231**
-- Brown Wood Boots (item): 8222 -> **8232**
-- Brown Wood Gauntlets (item): 8223 -> **8233**
-- Green Wood Helmet (item): 8224 -> **8234**
-- Green Wood Chestplate (item): 8225 -> **8235**
-- Green Wood Leggings (item): 8226 -> **8236**
-- Green Wood Boots (item): 8227 -> **8237**
-- Green Wood Gauntlets (item): 8228 -> **8238**
-- Red Wood Helmet (item): 8229 -> **8239**
-- Red Wood Chestplate (item): 8230 -> **8240**
-- Red Wood Leggings (item): 8231 -> **8241**
-- Red Wood Boots (item): 8232 -> **8242**
-- Red Wood Gauntlets (item): 8233 -> **8243**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8159 -> **8169**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8160 -> **8170**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8161 -> **8171**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8162 -> **8172**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8163 -> **8173**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8164 -> **8174**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8165 -> **8175**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8166 -> **8176**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8167 -> **8177**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8168 -> **8178**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8169 -> **8179**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8170 -> **8180**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8171 -> **8181**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8172 -> **8182**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8173 -> **8183**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8174 -> **8184**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8175 -> **8185**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8176 -> **8186**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8177 -> **8187**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8178 -> **8188**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8179 -> **8189**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8180 -> **8190**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8181 -> **8191**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8182 -> **8192**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8183 -> **8193**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8184 -> **8194**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8185 -> **8195**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8186 -> **8196**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8187 -> **8197**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8188 -> **8198**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8189 -> **8199**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8190 -> **8200**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8191 -> **8201**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8192 -> **8202**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8193 -> **8203**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8194 -> **8204**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8195 -> **8205**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8196 -> **8206**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8197 -> **8207**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8198 -> **8208**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8199 -> **8209**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8200 -> **8210**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8201 -> **8211**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8202 -> **8212**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8203 -> **8213**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8204 -> **8214**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8205 -> **8215**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8206 -> **8216**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8207 -> **8217**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8208 -> **8218**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8209 -> **8219**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8210 -> **8220**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8211 -> **8221**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8212 -> **8222**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8213 -> **8223**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8214 -> **8224**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8215 -> **8225**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8216 -> **8226**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8217 -> **8227**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8218 -> **8228**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8219 -> **8229**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8220 -> **8230**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8221 -> **8231**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8222 -> **8232**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8223 -> **8233**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8224 -> **8234**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8225 -> **8235**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8226 -> **8236**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8227 -> **8237**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8228 -> **8238**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8229 -> **8239**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8230 -> **8240**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8231 -> **8241**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8232 -> **8242**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8233 -> **8243**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8234 -> **8244**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8235 -> **8245**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8236 -> **8246**
@@ -2190,38 +2190,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8264 -> **8274**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8265 -> **8275**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8266 -> **8276**
-- Boat (item): 8267 -> **8277**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8267 -> **8277**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8268 -> **8278**
-- Obsidian Boat (item): 8269 -> **8279**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8269 -> **8279**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8270 -> **8280**
-- Speedboat (item): 8271 -> **8281**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8271 -> **8281**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8272 -> **8282**
-- Wood Hang Glider (item): 8273 -> **8283**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8273 -> **8283**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8274 -> **8284**
-- Iron Hang Glider (item): 8275 -> **8285**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8275 -> **8285**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8276 -> **8286**
-- Gold Hang Glider (item): 8277 -> **8287**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8277 -> **8287**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8278 -> **8288**
-- Diamond Hang Glider (item): 8279 -> **8289**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8279 -> **8289**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8280 -> **8290**
-- Hovercraft (item): 8281 -> **8291**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8281 -> **8291**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8282 -> **8292**
-- Yellow Kart (item): 8283 -> **8293**
-- White Kart (item): 8284 -> **8294**
-- Red Kart (item): 8285 -> **8295**
-- Purple Kart (item): 8286 -> **8296**
-- Pink Kart (item): 8287 -> **8297**
-- Orange Kart (item): 8288 -> **8298**
-- Magenta Kart (item): 8289 -> **8299**
-- Lime Kart (item): 8290 -> **8300**
-- Light Gray Kart (item): 8291 -> **8301**
-- Light Blue Kart (item): 8292 -> **8302**
-- Green Kart (item): 8293 -> **8303**
-- Gray Kart (item): 8294 -> **8304**
-- Cyan Kart (item): 8295 -> **8305**
-- Brown Kart (item): 8296 -> **8306**
-- Blue Kart (item): 8297 -> **8307**
-- Black Kart (item): 8298 -> **8308**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8283 -> **8293**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8284 -> **8294**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8285 -> **8295**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8286 -> **8296**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8287 -> **8297**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8288 -> **8298**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8289 -> **8299**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8290 -> **8300**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8291 -> **8301**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8292 -> **8302**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8293 -> **8303**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8294 -> **8304**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8295 -> **8305**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8296 -> **8306**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8297 -> **8307**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8298 -> **8308**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8299 -> **8309**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8300 -> **8310**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8301 -> **8311**
@@ -2238,25 +2238,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8312 -> **8322**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8313 -> **8323**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8314 -> **8324**
-- Off Roader (item): 8315 -> **8325**
-- INTERNAL_MESH_Off Roader (item): 8316 -> **8326**
-- Gold Mining Drill (item): 8317 -> **8327**
-- Iron Mining Drill (item): 8318 -> **8328**
-- Diamond Mining Drill (item): 8319 -> **8329**
-- Moonstone Mining Drill (item): 8320 -> **8330**
-- Armored Car (item): 8321 -> **8331**
-- INTERNAL_MESH_Gold Mining Drill (item): 8322 -> **8332**
-- INTERNAL_MESH_Iron Mining Drill (item): 8323 -> **8333**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8324 -> **8334**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8315 -> **8325**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8316 -> **8326**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8317 -> **8327**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8318 -> **8328**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8319 -> **8329**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8320 -> **8330**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8321 -> **8331**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8322 -> **8332**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8323 -> **8333**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8324 -> **8334**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8325 -> **8335**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8326 -> **8336**
-- Light Blue Car (item): 8327 -> **8337**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8327 -> **8337**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8328 -> **8338**
-- Snowball (item): 8329 -> **8339**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8329 -> **8339**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8330 -> **8340**
-- Pebble (item): 8331 -> **8341**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8331 -> **8341**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8332 -> **8342**
-- Bullet (item): 8333 -> **8343**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8333 -> **8343**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8334 -> **8344**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8335 -> **8345**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8336 -> **8346**
@@ -2265,14 +2265,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8339 -> **8349**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8340 -> **8350**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8341 -> **8351**
-- RPG (item): 8342 -> **8352**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8342 -> **8352**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8343 -> **8353**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8344 -> **8354**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8345 -> **8355**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8346 -> **8356**
-- 67 Base Projectile (item): 8347 -> **8357**
-- 67 Boosted Projectile (item): 8348 -> **8358**
-- Capitano Grenade (item): 8349 -> **8359**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8347 -> **8357**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8348 -> **8358**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8349 -> **8359**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8350 -> **8360**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8351 -> **8361**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8352 -> **8362**
@@ -2384,77 +2384,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8458 -> **8468**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8459 -> **8469**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8460 -> **8470**
-- Book (item): 8461 -> **8471**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8461 -> **8471**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8462 -> **8472**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8463 -> **8473**
-- Slowness Potion (item): 8464 -> **8474**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8464 -> **8474**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8465 -> **8475**
-- Splash Slowness Potion (item): 8466 -> **8476**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8466 -> **8476**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8467 -> **8477**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8468 -> **8478**
-- Poison Potion (item): 8469 -> **8479**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8469 -> **8479**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8470 -> **8480**
-- Splash Poison Potion (item): 8471 -> **8481**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8471 -> **8481**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8472 -> **8482**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8473 -> **8483**
-- Weakness Potion (item): 8474 -> **8484**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8474 -> **8484**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8475 -> **8485**
-- Splash Weakness Potion (item): 8476 -> **8486**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8476 -> **8486**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8477 -> **8487**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8478 -> **8488**
-- Instant Damage Potion (item): 8479 -> **8489**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8479 -> **8489**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8480 -> **8490**
-- Splash Instant Damage Potion (item): 8481 -> **8491**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8481 -> **8491**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8482 -> **8492**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8483 -> **8493**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8484 -> **8494**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8485 -> **8495**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8486 -> **8496**
-- Speed Potion (item): 8487 -> **8497**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8487 -> **8497**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8488 -> **8498**
-- Splash Speed Potion (item): 8489 -> **8499**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8489 -> **8499**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8490 -> **8500**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8491 -> **8501**
-- Defense Potion (item): 8492 -> **8502**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8492 -> **8502**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8493 -> **8503**
-- Splash Defense Potion (item): 8494 -> **8504**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8494 -> **8504**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8495 -> **8505**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8496 -> **8506**
-- Strength Potion (item): 8497 -> **8507**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8497 -> **8507**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8498 -> **8508**
-- Splash Strength Potion (item): 8499 -> **8509**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8499 -> **8509**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8500 -> **8510**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8501 -> **8511**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8502 -> **8512**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8503 -> **8513**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8504 -> **8514**
-- Jump Potion (item): 8505 -> **8515**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8505 -> **8515**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8506 -> **8516**
-- Splash Jump Potion (item): 8507 -> **8517**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8507 -> **8517**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8508 -> **8518**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8509 -> **8519**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8510 -> **8520**
-- Splash Knockback Potion (item): 8511 -> **8521**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8511 -> **8521**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8512 -> **8522**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8513 -> **8523**
-- Regeneration Potion (item): 8514 -> **8524**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8514 -> **8524**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8515 -> **8525**
-- Splash Regeneration Potion (item): 8516 -> **8526**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8516 -> **8526**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8517 -> **8527**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8518 -> **8528**
-- Instant Healing Potion (item): 8519 -> **8529**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8519 -> **8529**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8520 -> **8530**
-- Splash Instant Healing Potion (item): 8521 -> **8531**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8521 -> **8531**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8522 -> **8532**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8523 -> **8533**
-- Haste Potion (item): 8524 -> **8534**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8524 -> **8534**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8525 -> **8535**
-- Splash Haste Potion (item): 8526 -> **8536**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8526 -> **8536**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8527 -> **8537**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8528 -> **8538**
-- Shield Potion (item): 8529 -> **8539**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8529 -> **8539**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8530 -> **8540**
-- Splash Shield Potion (item): 8531 -> **8541**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8531 -> **8541**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8532 -> **8542**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8533 -> **8543**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8534 -> **8544**
@@ -2466,9 +2466,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8540 -> **8550**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8541 -> **8551**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8542 -> **8552**
-- Mining Yield Potion (item): 8543 -> **8553**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8543 -> **8553**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8544 -> **8554**
-- Splash Mining Yield Potion (item): 8545 -> **8555**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8545 -> **8555**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8546 -> **8556**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8547 -> **8557**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8548 -> **8558**
@@ -2477,41 +2477,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8551 -> **8561**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8552 -> **8562**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8553 -> **8563**
-- AK-47 (item): 8554 -> **8564**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8554 -> **8564**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8555 -> **8565**
-- M16 (item): 8556 -> **8566**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8556 -> **8566**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8557 -> **8567**
-- MP40 (item): 8558 -> **8568**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8558 -> **8568**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8559 -> **8569**
-- TAR-21 (item): 8560 -> **8570**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8560 -> **8570**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8561 -> **8571**
-- M1911 (item): 8562 -> **8572**
-- M1911|RequiresAmmo (item): 8563 -> **8573**
-- One Shot Pistol (item): 8564 -> **8574**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8562 -> **8572**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8563 -> **8573**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8564 -> **8574**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8565 -> **8575**
-- Double Barrel (item): 8566 -> **8576**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8566 -> **8576**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8567 -> **8577**
-- AWP (item): 8568 -> **8578**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8568 -> **8578**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8569 -> **8579**
-- Deagle (item): 8570 -> **8580**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8570 -> **8580**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8571 -> **8581**
-- Striker-12 (item): 8572 -> **8582**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8572 -> **8582**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8573 -> **8583**
-- VSR (item): 8574 -> **8584**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8574 -> **8584**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8575 -> **8585**
-- DMR (item): 8576 -> **8586**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8576 -> **8586**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8577 -> **8587**
-- Minigun (item): 8578 -> **8588**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8578 -> **8588**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8579 -> **8589**
-- FMR (item): 8580 -> **8590**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8580 -> **8590**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8581 -> **8591**
-- SKAR (item): 8582 -> **8592**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8582 -> **8592**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8583 -> **8593**
-- Block-19 (item): 8584 -> **8594**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8584 -> **8594**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8585 -> **8595**
-- Mini Izu (item): 8586 -> **8596**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8586 -> **8596**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8587 -> **8597**
-- GPMG (item): 8588 -> **8598**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8588 -> **8598**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8589 -> **8599**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8590 -> **8600**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8591 -> **8601**
@@ -2522,22 +2522,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8596 -> **8606**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8597 -> **8607**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8598 -> **8608**
-- Yellow Balloon (item): 8599 -> **8609**
-- White Balloon (item): 8600 -> **8610**
-- Red Balloon (item): 8601 -> **8611**
-- Purple Balloon (item): 8602 -> **8612**
-- Pink Balloon (item): 8603 -> **8613**
-- Orange Balloon (item): 8604 -> **8614**
-- Magenta Balloon (item): 8605 -> **8615**
-- Lime Balloon (item): 8606 -> **8616**
-- Light Gray Balloon (item): 8607 -> **8617**
-- Light Blue Balloon (item): 8608 -> **8618**
-- Green Balloon (item): 8609 -> **8619**
-- Gray Balloon (item): 8610 -> **8620**
-- Cyan Balloon (item): 8611 -> **8621**
-- Brown Balloon (item): 8612 -> **8622**
-- Blue Balloon (item): 8613 -> **8623**
-- Black Balloon (item): 8614 -> **8624**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8599 -> **8609**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8600 -> **8610**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8601 -> **8611**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8602 -> **8612**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8603 -> **8613**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8604 -> **8614**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8605 -> **8615**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8606 -> **8616**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8607 -> **8617**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8608 -> **8618**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8609 -> **8619**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8610 -> **8620**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8611 -> **8621**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8612 -> **8622**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8613 -> **8623**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8614 -> **8624**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8615 -> **8625**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8616 -> **8626**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8617 -> **8627**
@@ -2791,21 +2791,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8865 -> **8875**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8866 -> **8876**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8867 -> **8877**
-- Caught Mob Sheep Default (item): 8868 -> **8878**
-- Caught Mob Sheep Black (item): 8869 -> **8879**
-- Caught Mob Sheep Red (item): 8870 -> **8880**
-- Caught Mob Sheep Orange (item): 8871 -> **8881**
-- Caught Mob Sheep Pink (item): 8872 -> **8882**
-- Caught Mob Sheep Purple (item): 8873 -> **8883**
-- Caught Mob Sheep Yellow (item): 8874 -> **8884**
-- Caught Mob Sheep Blue (item): 8875 -> **8885**
-- Caught Mob Sheep Brown (item): 8876 -> **8886**
-- Caught Mob Sheep Cyan (item): 8877 -> **8887**
-- Caught Mob Sheep Gray (item): 8878 -> **8888**
-- Caught Mob Sheep Green (item): 8879 -> **8889**
-- Caught Mob Sheep Lightblue (item): 8880 -> **8890**
-- Caught Mob Sheep Lightgray (item): 8881 -> **8891**
-- Caught Mob Sheep Lime (item): 8882 -> **8892**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8868 -> **8878**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8869 -> **8879**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8870 -> **8880**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8871 -> **8881**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8872 -> **8882**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8873 -> **8883**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8874 -> **8884**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8875 -> **8885**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8876 -> **8886**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8877 -> **8887**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8878 -> **8888**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8879 -> **8889**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8880 -> **8890**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8881 -> **8891**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8882 -> **8892**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8883 -> **8893**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8884 -> **8894**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8885 -> **8895**
@@ -2860,19 +2860,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8934 -> **8944**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8935 -> **8945**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8936 -> **8946**
-- Caught Mob Cave_Golem Default (item): 8937 -> **8947**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8937 -> **8947**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8938 -> **8948**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8939 -> **8949**
-- Caught Mob Draugr_Zombie Default (item): 8940 -> **8950**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8940 -> **8950**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8941 -> **8951**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8942 -> **8952**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8943 -> **8953**
-- Caught Mob Draugr_Zombie Flower (item): 8944 -> **8954**
-- Caught Mob Draugr_Zombie Flower2 (item): 8945 -> **8955**
-- Caught Mob Draugr_Zombie Mushroom (item): 8946 -> **8956**
-- Caught Mob Draugr_Zombie Vine (item): 8947 -> **8957**
-- Caught Mob Draugr_Zombie Vine2 (item): 8948 -> **8958**
-- Caught Mob Draugr_Zombie Corrupted (item): 8949 -> **8959**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8944 -> **8954**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8945 -> **8955**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8946 -> **8956**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8947 -> **8957**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8948 -> **8958**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8949 -> **8959**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8950 -> **8960**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8951 -> **8961**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8952 -> **8962**
@@ -2881,13 +2881,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8955 -> **8965**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8956 -> **8966**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8957 -> **8967**
-- Caught Mob Draugr_Huntress Default (item): 8958 -> **8968**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8958 -> **8968**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8959 -> **8969**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8960 -> **8970**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8961 -> **8971**
-- Caught Mob Frost_Wraith Default (item): 8962 -> **8972**
-- Caught Mob Frost_Wraith Tattered (item): 8963 -> **8973**
-- Caught Mob Frost_Wraith Frostking (item): 8964 -> **8974**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8962 -> **8972**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8963 -> **8973**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8964 -> **8974**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8965 -> **8975**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8966 -> **8976**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8967 -> **8977**
@@ -2913,23 +2913,23 @@
 - Caught Mob NPC Sara (item): 8987 -> **8997**
 - Caught Mob NPC Carmen (item): 8988 -> **8998**
 - Caught Mob NPC Chef (item): 8989 -> **8999**
-- Caught Mob 67 Default (item): 8990 -> **9000**
-- Caught Mob Bobino_Musculino Default (item): 8991 -> **9001**
-- Caught Mob Capitano_Explovissimo Default (item): 8992 -> **9002**
-- Caught Mob Desert_Fennec Default (item): 8993 -> **9003**
-- Caught Mob Armour_Collector Default (item): 8994 -> **9004**
-- Caught Mob Furnace_Knight Default (item): 8995 -> **9005**
-- Caught Mob Lil_Knight Default (item): 8996 -> **9006**
-- Caught Mob Glass_Gremlin Default (item): 8997 -> **9007**
-- Caught Mob Glass_Bro Default (item): 8998 -> **9008**
-- Caught Mob Lord_Vulcan Default (item): 8999 -> **9009**
-- Caught Mob Zombie Default (item): 9000 -> **9010**
-- Caught Mob Skeleton Default (item): 9001 -> **9011**
-- Caught Mob Mummy Default (item): 9002 -> **9012**
-- Caught Mob Scorpion Default (item): 9003 -> **9013**
-- Caught Mob Vulcanite Default (item): 9004 -> **9014**
-- Caught Mob Evil_Tome Default (item): 9005 -> **9015**
-- Caught Mob Magma_Toad Default (item): 9006 -> **9016**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 8990 -> **9000**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 8991 -> **9001**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 8992 -> **9002**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): 8993 -> **9003**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): 8994 -> **9004**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): 8995 -> **9005**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): 8996 -> **9006**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): 8997 -> **9007**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): 8998 -> **9008**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): 8999 -> **9009**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): 9000 -> **9010**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): 9001 -> **9011**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): 9002 -> **9012**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): 9003 -> **9013**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): 9004 -> **9014**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): 9005 -> **9015**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): 9006 -> **9016**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 9007 -> **9017**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 9008 -> **9018**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 9009 -> **9019**
@@ -2937,9 +2937,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 9011 -> **9021**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 9012 -> **9022**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 9013 -> **9023**
-- Aura XP Potion (item): 9014 -> **9024**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 9014 -> **9024**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 9015 -> **9025**
-- Splash Aura XP Potion (item): 9016 -> **9026**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 9016 -> **9026**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 9017 -> **9027**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 9018 -> **9028**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 9019 -> **9029**
@@ -3180,10 +3180,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9254 -> **9264**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9255 -> **9265**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9256 -> **9266**
-- Common Lottery Ticket (item): 9257 -> **9267**
-- Uncommon Lottery Ticket (item): 9258 -> **9268**
-- Rare Lottery Ticket (item): 9259 -> **9269**
-- Epic Lottery Ticket (item): 9260 -> **9270**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9257 -> **9267**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9258 -> **9268**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9259 -> **9269**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9260 -> **9270**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9261 -> **9271**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9262 -> **9272**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9263 -> **9273**
@@ -3266,7 +3266,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9340 -> **9350**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9341 -> **9351**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9342 -> **9352**
-- Rubellite Pickaxe (item): 9343 -> **9353**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9343 -> **9353**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9344 -> **9354**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9345 -> **9355**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9346 -> **9356**
@@ -3474,12 +3474,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9548 -> **9558**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9549 -> **9559**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9550 -> **9560**
-- Core Tier 5 (item): 9551 -> **9561**
-- Core Tier 6 (item): 9552 -> **9562**
-- Core Tier 7 (item): 9553 -> **9563**
-- Core Tier 8 (item): 9554 -> **9564**
-- Core Tier 9 (item): 9555 -> **9565**
-- Core Tier 10 (item): 9556 -> **9566**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9551 -> **9561**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9552 -> **9562**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9553 -> **9563**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9554 -> **9564**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9555 -> **9565**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9556 -> **9566**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9557 -> **9567**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9558 -> **9568**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9559 -> **9569**
@@ -3534,7 +3534,7 @@
 ## Added (2)
 
 - ![Melon Helper](textures/08098_Melon%20Helper.png "texture") Melon Helper (block): **8098**
-- Showcase (block): **8099**
+- ![Showcase](textures/08099_Showcase.png "texture") Showcase (block): **8099**
 
 <details>
 <summary>ID changed (1492)</summary>
@@ -3571,25 +3571,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8127 -> **8129**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8128 -> **8130**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8129 -> **8131**
-- Wood Helmet (item): 8130 -> **8132**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8130 -> **8132**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8131 -> **8133**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8132 -> **8134**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8133 -> **8135**
-- Wood Chestplate (item): 8134 -> **8136**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8134 -> **8136**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8135 -> **8137**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8136 -> **8138**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8137 -> **8139**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8138 -> **8140**
-- Wood Leggings (item): 8139 -> **8141**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8139 -> **8141**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8140 -> **8142**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8141 -> **8143**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8142 -> **8144**
-- Wood Boots (item): 8143 -> **8145**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8143 -> **8145**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8144 -> **8146**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8145 -> **8147**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8146 -> **8148**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8147 -> **8149**
-- Wood Gauntlets (item): 8148 -> **8150**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8148 -> **8150**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8149 -> **8151**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8150 -> **8152**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8151 -> **8153**
@@ -3598,81 +3598,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8154 -> **8156**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8155 -> **8157**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8156 -> **8158**
-- White Wood Helmet (item): 8157 -> **8159**
-- White Wood Chestplate (item): 8158 -> **8160**
-- White Wood Leggings (item): 8159 -> **8161**
-- White Wood Boots (item): 8160 -> **8162**
-- White Wood Gauntlets (item): 8161 -> **8163**
-- Orange Wood Helmet (item): 8162 -> **8164**
-- Orange Wood Chestplate (item): 8163 -> **8165**
-- Orange Wood Leggings (item): 8164 -> **8166**
-- Orange Wood Boots (item): 8165 -> **8167**
-- Orange Wood Gauntlets (item): 8166 -> **8168**
-- Magenta Wood Helmet (item): 8167 -> **8169**
-- Magenta Wood Chestplate (item): 8168 -> **8170**
-- Magenta Wood Leggings (item): 8169 -> **8171**
-- Magenta Wood Boots (item): 8170 -> **8172**
-- Magenta Wood Gauntlets (item): 8171 -> **8173**
-- Light Blue Wood Helmet (item): 8172 -> **8174**
-- Light Blue Wood Chestplate (item): 8173 -> **8175**
-- Light Blue Wood Leggings (item): 8174 -> **8176**
-- Light Blue Wood Boots (item): 8175 -> **8177**
-- Light Blue Wood Gauntlets (item): 8176 -> **8178**
-- Yellow Wood Helmet (item): 8177 -> **8179**
-- Yellow Wood Chestplate (item): 8178 -> **8180**
-- Yellow Wood Leggings (item): 8179 -> **8181**
-- Yellow Wood Boots (item): 8180 -> **8182**
-- Yellow Wood Gauntlets (item): 8181 -> **8183**
-- Lime Wood Helmet (item): 8182 -> **8184**
-- Lime Wood Chestplate (item): 8183 -> **8185**
-- Lime Wood Leggings (item): 8184 -> **8186**
-- Lime Wood Boots (item): 8185 -> **8187**
-- Lime Wood Gauntlets (item): 8186 -> **8188**
-- Pink Wood Helmet (item): 8187 -> **8189**
-- Pink Wood Chestplate (item): 8188 -> **8190**
-- Pink Wood Leggings (item): 8189 -> **8191**
-- Pink Wood Boots (item): 8190 -> **8192**
-- Pink Wood Gauntlets (item): 8191 -> **8193**
-- Gray Wood Helmet (item): 8192 -> **8194**
-- Gray Wood Chestplate (item): 8193 -> **8195**
-- Gray Wood Leggings (item): 8194 -> **8196**
-- Gray Wood Boots (item): 8195 -> **8197**
-- Gray Wood Gauntlets (item): 8196 -> **8198**
-- Light Gray Wood Helmet (item): 8197 -> **8199**
-- Light Gray Wood Chestplate (item): 8198 -> **8200**
-- Light Gray Wood Leggings (item): 8199 -> **8201**
-- Light Gray Wood Boots (item): 8200 -> **8202**
-- Light Gray Wood Gauntlets (item): 8201 -> **8203**
-- Cyan Wood Helmet (item): 8202 -> **8204**
-- Cyan Wood Chestplate (item): 8203 -> **8205**
-- Cyan Wood Leggings (item): 8204 -> **8206**
-- Cyan Wood Boots (item): 8205 -> **8207**
-- Cyan Wood Gauntlets (item): 8206 -> **8208**
-- Purple Wood Helmet (item): 8207 -> **8209**
-- Purple Wood Chestplate (item): 8208 -> **8210**
-- Purple Wood Leggings (item): 8209 -> **8211**
-- Purple Wood Boots (item): 8210 -> **8212**
-- Purple Wood Gauntlets (item): 8211 -> **8213**
-- Blue Wood Helmet (item): 8212 -> **8214**
-- Blue Wood Chestplate (item): 8213 -> **8215**
-- Blue Wood Leggings (item): 8214 -> **8216**
-- Blue Wood Boots (item): 8215 -> **8217**
-- Blue Wood Gauntlets (item): 8216 -> **8218**
-- Brown Wood Helmet (item): 8217 -> **8219**
-- Brown Wood Chestplate (item): 8218 -> **8220**
-- Brown Wood Leggings (item): 8219 -> **8221**
-- Brown Wood Boots (item): 8220 -> **8222**
-- Brown Wood Gauntlets (item): 8221 -> **8223**
-- Green Wood Helmet (item): 8222 -> **8224**
-- Green Wood Chestplate (item): 8223 -> **8225**
-- Green Wood Leggings (item): 8224 -> **8226**
-- Green Wood Boots (item): 8225 -> **8227**
-- Green Wood Gauntlets (item): 8226 -> **8228**
-- Red Wood Helmet (item): 8227 -> **8229**
-- Red Wood Chestplate (item): 8228 -> **8230**
-- Red Wood Leggings (item): 8229 -> **8231**
-- Red Wood Boots (item): 8230 -> **8232**
-- Red Wood Gauntlets (item): 8231 -> **8233**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8157 -> **8159**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8158 -> **8160**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8159 -> **8161**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8160 -> **8162**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8161 -> **8163**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8162 -> **8164**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8163 -> **8165**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8164 -> **8166**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8165 -> **8167**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8166 -> **8168**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8167 -> **8169**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8168 -> **8170**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8169 -> **8171**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8170 -> **8172**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8171 -> **8173**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8172 -> **8174**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8173 -> **8175**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8174 -> **8176**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8175 -> **8177**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8176 -> **8178**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8177 -> **8179**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8178 -> **8180**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8179 -> **8181**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8180 -> **8182**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8181 -> **8183**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8182 -> **8184**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8183 -> **8185**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8184 -> **8186**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8185 -> **8187**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8186 -> **8188**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8187 -> **8189**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8188 -> **8190**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8189 -> **8191**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8190 -> **8192**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8191 -> **8193**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8192 -> **8194**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8193 -> **8195**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8194 -> **8196**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8195 -> **8197**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8196 -> **8198**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8197 -> **8199**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8198 -> **8200**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8199 -> **8201**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8200 -> **8202**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8201 -> **8203**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8202 -> **8204**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8203 -> **8205**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8204 -> **8206**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8205 -> **8207**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8206 -> **8208**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8207 -> **8209**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8208 -> **8210**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8209 -> **8211**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8210 -> **8212**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8211 -> **8213**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8212 -> **8214**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8213 -> **8215**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8214 -> **8216**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8215 -> **8217**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8216 -> **8218**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8217 -> **8219**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8218 -> **8220**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8219 -> **8221**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8220 -> **8222**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8221 -> **8223**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8222 -> **8224**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8223 -> **8225**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8224 -> **8226**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8225 -> **8227**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8226 -> **8228**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8227 -> **8229**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8228 -> **8230**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8229 -> **8231**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8230 -> **8232**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8231 -> **8233**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8232 -> **8234**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8233 -> **8235**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8234 -> **8236**
@@ -3706,38 +3706,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8262 -> **8264**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8263 -> **8265**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8264 -> **8266**
-- Boat (item): 8265 -> **8267**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8265 -> **8267**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8266 -> **8268**
-- Obsidian Boat (item): 8267 -> **8269**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8267 -> **8269**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8268 -> **8270**
-- Speedboat (item): 8269 -> **8271**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8269 -> **8271**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8270 -> **8272**
-- Wood Hang Glider (item): 8271 -> **8273**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8271 -> **8273**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8272 -> **8274**
-- Iron Hang Glider (item): 8273 -> **8275**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8273 -> **8275**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8274 -> **8276**
-- Gold Hang Glider (item): 8275 -> **8277**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8275 -> **8277**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8276 -> **8278**
-- Diamond Hang Glider (item): 8277 -> **8279**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8277 -> **8279**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8278 -> **8280**
-- Hovercraft (item): 8279 -> **8281**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8279 -> **8281**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8280 -> **8282**
-- Yellow Kart (item): 8281 -> **8283**
-- White Kart (item): 8282 -> **8284**
-- Red Kart (item): 8283 -> **8285**
-- Purple Kart (item): 8284 -> **8286**
-- Pink Kart (item): 8285 -> **8287**
-- Orange Kart (item): 8286 -> **8288**
-- Magenta Kart (item): 8287 -> **8289**
-- Lime Kart (item): 8288 -> **8290**
-- Light Gray Kart (item): 8289 -> **8291**
-- Light Blue Kart (item): 8290 -> **8292**
-- Green Kart (item): 8291 -> **8293**
-- Gray Kart (item): 8292 -> **8294**
-- Cyan Kart (item): 8293 -> **8295**
-- Brown Kart (item): 8294 -> **8296**
-- Blue Kart (item): 8295 -> **8297**
-- Black Kart (item): 8296 -> **8298**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8281 -> **8283**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8282 -> **8284**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8283 -> **8285**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8284 -> **8286**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8285 -> **8287**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8286 -> **8288**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8287 -> **8289**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8288 -> **8290**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8289 -> **8291**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8290 -> **8292**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8291 -> **8293**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8292 -> **8294**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8293 -> **8295**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8294 -> **8296**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8295 -> **8297**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8296 -> **8298**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8297 -> **8299**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8298 -> **8300**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8299 -> **8301**
@@ -3754,25 +3754,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8310 -> **8312**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8311 -> **8313**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8312 -> **8314**
-- Off Roader (item): 8313 -> **8315**
-- INTERNAL_MESH_Off Roader (item): 8314 -> **8316**
-- Gold Mining Drill (item): 8315 -> **8317**
-- Iron Mining Drill (item): 8316 -> **8318**
-- Diamond Mining Drill (item): 8317 -> **8319**
-- Moonstone Mining Drill (item): 8318 -> **8320**
-- Armored Car (item): 8319 -> **8321**
-- INTERNAL_MESH_Gold Mining Drill (item): 8320 -> **8322**
-- INTERNAL_MESH_Iron Mining Drill (item): 8321 -> **8323**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8322 -> **8324**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8313 -> **8315**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8314 -> **8316**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8315 -> **8317**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8316 -> **8318**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8317 -> **8319**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8318 -> **8320**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8319 -> **8321**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8320 -> **8322**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8321 -> **8323**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8322 -> **8324**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8323 -> **8325**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8324 -> **8326**
-- Light Blue Car (item): 8325 -> **8327**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8325 -> **8327**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8326 -> **8328**
-- Snowball (item): 8327 -> **8329**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8327 -> **8329**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8328 -> **8330**
-- Pebble (item): 8329 -> **8331**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8329 -> **8331**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8330 -> **8332**
-- Bullet (item): 8331 -> **8333**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8331 -> **8333**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8332 -> **8334**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8333 -> **8335**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8334 -> **8336**
@@ -3781,14 +3781,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8337 -> **8339**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8338 -> **8340**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8339 -> **8341**
-- RPG (item): 8340 -> **8342**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8340 -> **8342**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8341 -> **8343**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8342 -> **8344**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8343 -> **8345**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8344 -> **8346**
-- 67 Base Projectile (item): 8345 -> **8347**
-- 67 Boosted Projectile (item): 8346 -> **8348**
-- Capitano Grenade (item): 8347 -> **8349**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8345 -> **8347**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8346 -> **8348**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8347 -> **8349**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8348 -> **8350**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8349 -> **8351**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8350 -> **8352**
@@ -3900,77 +3900,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8456 -> **8458**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8457 -> **8459**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8458 -> **8460**
-- Book (item): 8459 -> **8461**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8459 -> **8461**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8460 -> **8462**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8461 -> **8463**
-- Slowness Potion (item): 8462 -> **8464**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8462 -> **8464**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8463 -> **8465**
-- Splash Slowness Potion (item): 8464 -> **8466**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8464 -> **8466**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8465 -> **8467**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8466 -> **8468**
-- Poison Potion (item): 8467 -> **8469**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8467 -> **8469**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8468 -> **8470**
-- Splash Poison Potion (item): 8469 -> **8471**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8469 -> **8471**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8470 -> **8472**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8471 -> **8473**
-- Weakness Potion (item): 8472 -> **8474**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8472 -> **8474**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8473 -> **8475**
-- Splash Weakness Potion (item): 8474 -> **8476**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8474 -> **8476**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8475 -> **8477**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8476 -> **8478**
-- Instant Damage Potion (item): 8477 -> **8479**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8477 -> **8479**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8478 -> **8480**
-- Splash Instant Damage Potion (item): 8479 -> **8481**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8479 -> **8481**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8480 -> **8482**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8481 -> **8483**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8482 -> **8484**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8483 -> **8485**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8484 -> **8486**
-- Speed Potion (item): 8485 -> **8487**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8485 -> **8487**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8486 -> **8488**
-- Splash Speed Potion (item): 8487 -> **8489**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8487 -> **8489**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8488 -> **8490**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8489 -> **8491**
-- Defense Potion (item): 8490 -> **8492**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8490 -> **8492**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8491 -> **8493**
-- Splash Defense Potion (item): 8492 -> **8494**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8492 -> **8494**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8493 -> **8495**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8494 -> **8496**
-- Strength Potion (item): 8495 -> **8497**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8495 -> **8497**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8496 -> **8498**
-- Splash Strength Potion (item): 8497 -> **8499**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8497 -> **8499**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8498 -> **8500**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8499 -> **8501**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8500 -> **8502**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8501 -> **8503**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8502 -> **8504**
-- Jump Potion (item): 8503 -> **8505**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8503 -> **8505**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8504 -> **8506**
-- Splash Jump Potion (item): 8505 -> **8507**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8505 -> **8507**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8506 -> **8508**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8507 -> **8509**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8508 -> **8510**
-- Splash Knockback Potion (item): 8509 -> **8511**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8509 -> **8511**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8510 -> **8512**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8511 -> **8513**
-- Regeneration Potion (item): 8512 -> **8514**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8512 -> **8514**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8513 -> **8515**
-- Splash Regeneration Potion (item): 8514 -> **8516**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8514 -> **8516**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8515 -> **8517**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8516 -> **8518**
-- Instant Healing Potion (item): 8517 -> **8519**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8517 -> **8519**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8518 -> **8520**
-- Splash Instant Healing Potion (item): 8519 -> **8521**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8519 -> **8521**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8520 -> **8522**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8521 -> **8523**
-- Haste Potion (item): 8522 -> **8524**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8522 -> **8524**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8523 -> **8525**
-- Splash Haste Potion (item): 8524 -> **8526**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8524 -> **8526**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8525 -> **8527**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8526 -> **8528**
-- Shield Potion (item): 8527 -> **8529**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8527 -> **8529**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8528 -> **8530**
-- Splash Shield Potion (item): 8529 -> **8531**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8529 -> **8531**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8530 -> **8532**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8531 -> **8533**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8532 -> **8534**
@@ -3982,9 +3982,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8538 -> **8540**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8539 -> **8541**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8540 -> **8542**
-- Mining Yield Potion (item): 8541 -> **8543**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8541 -> **8543**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8542 -> **8544**
-- Splash Mining Yield Potion (item): 8543 -> **8545**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8543 -> **8545**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8544 -> **8546**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8545 -> **8547**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8546 -> **8548**
@@ -3993,41 +3993,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8549 -> **8551**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8550 -> **8552**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8551 -> **8553**
-- AK-47 (item): 8552 -> **8554**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8552 -> **8554**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8553 -> **8555**
-- M16 (item): 8554 -> **8556**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8554 -> **8556**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8555 -> **8557**
-- MP40 (item): 8556 -> **8558**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8556 -> **8558**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8557 -> **8559**
-- TAR-21 (item): 8558 -> **8560**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8558 -> **8560**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8559 -> **8561**
-- M1911 (item): 8560 -> **8562**
-- M1911|RequiresAmmo (item): 8561 -> **8563**
-- One Shot Pistol (item): 8562 -> **8564**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8560 -> **8562**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8561 -> **8563**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8562 -> **8564**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8563 -> **8565**
-- Double Barrel (item): 8564 -> **8566**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8564 -> **8566**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8565 -> **8567**
-- AWP (item): 8566 -> **8568**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8566 -> **8568**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8567 -> **8569**
-- Deagle (item): 8568 -> **8570**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8568 -> **8570**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8569 -> **8571**
-- Striker-12 (item): 8570 -> **8572**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8570 -> **8572**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8571 -> **8573**
-- VSR (item): 8572 -> **8574**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8572 -> **8574**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8573 -> **8575**
-- DMR (item): 8574 -> **8576**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8574 -> **8576**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8575 -> **8577**
-- Minigun (item): 8576 -> **8578**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8576 -> **8578**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8577 -> **8579**
-- FMR (item): 8578 -> **8580**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8578 -> **8580**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8579 -> **8581**
-- SKAR (item): 8580 -> **8582**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8580 -> **8582**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8581 -> **8583**
-- Block-19 (item): 8582 -> **8584**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8582 -> **8584**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8583 -> **8585**
-- Mini Izu (item): 8584 -> **8586**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8584 -> **8586**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8585 -> **8587**
-- GPMG (item): 8586 -> **8588**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8586 -> **8588**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8587 -> **8589**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8588 -> **8590**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8589 -> **8591**
@@ -4038,22 +4038,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8594 -> **8596**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8595 -> **8597**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8596 -> **8598**
-- Yellow Balloon (item): 8597 -> **8599**
-- White Balloon (item): 8598 -> **8600**
-- Red Balloon (item): 8599 -> **8601**
-- Purple Balloon (item): 8600 -> **8602**
-- Pink Balloon (item): 8601 -> **8603**
-- Orange Balloon (item): 8602 -> **8604**
-- Magenta Balloon (item): 8603 -> **8605**
-- Lime Balloon (item): 8604 -> **8606**
-- Light Gray Balloon (item): 8605 -> **8607**
-- Light Blue Balloon (item): 8606 -> **8608**
-- Green Balloon (item): 8607 -> **8609**
-- Gray Balloon (item): 8608 -> **8610**
-- Cyan Balloon (item): 8609 -> **8611**
-- Brown Balloon (item): 8610 -> **8612**
-- Blue Balloon (item): 8611 -> **8613**
-- Black Balloon (item): 8612 -> **8614**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8597 -> **8599**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8598 -> **8600**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8599 -> **8601**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8600 -> **8602**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8601 -> **8603**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8602 -> **8604**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8603 -> **8605**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8604 -> **8606**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8605 -> **8607**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8606 -> **8608**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8607 -> **8609**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8608 -> **8610**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8609 -> **8611**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8610 -> **8612**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8611 -> **8613**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8612 -> **8614**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8613 -> **8615**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8614 -> **8616**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8615 -> **8617**
@@ -4307,21 +4307,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8863 -> **8865**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8864 -> **8866**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8865 -> **8867**
-- Caught Mob Sheep Default (item): 8866 -> **8868**
-- Caught Mob Sheep Black (item): 8867 -> **8869**
-- Caught Mob Sheep Red (item): 8868 -> **8870**
-- Caught Mob Sheep Orange (item): 8869 -> **8871**
-- Caught Mob Sheep Pink (item): 8870 -> **8872**
-- Caught Mob Sheep Purple (item): 8871 -> **8873**
-- Caught Mob Sheep Yellow (item): 8872 -> **8874**
-- Caught Mob Sheep Blue (item): 8873 -> **8875**
-- Caught Mob Sheep Brown (item): 8874 -> **8876**
-- Caught Mob Sheep Cyan (item): 8875 -> **8877**
-- Caught Mob Sheep Gray (item): 8876 -> **8878**
-- Caught Mob Sheep Green (item): 8877 -> **8879**
-- Caught Mob Sheep Lightblue (item): 8878 -> **8880**
-- Caught Mob Sheep Lightgray (item): 8879 -> **8881**
-- Caught Mob Sheep Lime (item): 8880 -> **8882**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8866 -> **8868**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8867 -> **8869**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8868 -> **8870**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8869 -> **8871**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8870 -> **8872**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8871 -> **8873**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8872 -> **8874**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8873 -> **8875**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8874 -> **8876**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8875 -> **8877**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8876 -> **8878**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8877 -> **8879**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8878 -> **8880**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8879 -> **8881**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8880 -> **8882**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8881 -> **8883**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8882 -> **8884**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8883 -> **8885**
@@ -4376,19 +4376,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8932 -> **8934**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8933 -> **8935**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8934 -> **8936**
-- Caught Mob Cave_Golem Default (item): 8935 -> **8937**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8935 -> **8937**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8936 -> **8938**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8937 -> **8939**
-- Caught Mob Draugr_Zombie Default (item): 8938 -> **8940**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8938 -> **8940**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8939 -> **8941**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8940 -> **8942**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8941 -> **8943**
-- Caught Mob Draugr_Zombie Flower (item): 8942 -> **8944**
-- Caught Mob Draugr_Zombie Flower2 (item): 8943 -> **8945**
-- Caught Mob Draugr_Zombie Mushroom (item): 8944 -> **8946**
-- Caught Mob Draugr_Zombie Vine (item): 8945 -> **8947**
-- Caught Mob Draugr_Zombie Vine2 (item): 8946 -> **8948**
-- Caught Mob Draugr_Zombie Corrupted (item): 8947 -> **8949**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8942 -> **8944**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8943 -> **8945**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8944 -> **8946**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8945 -> **8947**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8946 -> **8948**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8947 -> **8949**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8948 -> **8950**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8949 -> **8951**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8950 -> **8952**
@@ -4397,13 +4397,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8953 -> **8955**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8954 -> **8956**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8955 -> **8957**
-- Caught Mob Draugr_Huntress Default (item): 8956 -> **8958**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8956 -> **8958**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8957 -> **8959**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8958 -> **8960**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8959 -> **8961**
-- Caught Mob Frost_Wraith Default (item): 8960 -> **8962**
-- Caught Mob Frost_Wraith Tattered (item): 8961 -> **8963**
-- Caught Mob Frost_Wraith Frostking (item): 8962 -> **8964**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8960 -> **8962**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8961 -> **8963**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8962 -> **8964**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8963 -> **8965**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8964 -> **8966**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8965 -> **8967**
@@ -4429,23 +4429,23 @@
 - Caught Mob NPC Sara (item): 8985 -> **8987**
 - Caught Mob NPC Carmen (item): 8986 -> **8988**
 - Caught Mob NPC Chef (item): 8987 -> **8989**
-- Caught Mob 67 Default (item): 8988 -> **8990**
-- Caught Mob Bobino_Musculino Default (item): 8989 -> **8991**
-- Caught Mob Capitano_Explovissimo Default (item): 8990 -> **8992**
-- Caught Mob Desert_Fennec Default (item): 8991 -> **8993**
-- Caught Mob Armour_Collector Default (item): 8992 -> **8994**
-- Caught Mob Furnace_Knight Default (item): 8993 -> **8995**
-- Caught Mob Lil_Knight Default (item): 8994 -> **8996**
-- Caught Mob Glass_Gremlin Default (item): 8995 -> **8997**
-- Caught Mob Glass_Bro Default (item): 8996 -> **8998**
-- Caught Mob Lord_Vulcan Default (item): 8997 -> **8999**
-- Caught Mob Zombie Default (item): 8998 -> **9000**
-- Caught Mob Skeleton Default (item): 8999 -> **9001**
-- Caught Mob Mummy Default (item): 9000 -> **9002**
-- Caught Mob Scorpion Default (item): 9001 -> **9003**
-- Caught Mob Vulcanite Default (item): 9002 -> **9004**
-- Caught Mob Evil_Tome Default (item): 9003 -> **9005**
-- Caught Mob Magma_Toad Default (item): 9004 -> **9006**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 8988 -> **8990**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 8989 -> **8991**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 8990 -> **8992**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): 8991 -> **8993**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): 8992 -> **8994**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): 8993 -> **8995**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): 8994 -> **8996**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): 8995 -> **8997**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): 8996 -> **8998**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): 8997 -> **8999**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): 8998 -> **9000**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): 8999 -> **9001**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): 9000 -> **9002**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): 9001 -> **9003**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): 9002 -> **9004**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): 9003 -> **9005**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): 9004 -> **9006**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 9005 -> **9007**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 9006 -> **9008**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 9007 -> **9009**
@@ -4453,9 +4453,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 9009 -> **9011**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 9010 -> **9012**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 9011 -> **9013**
-- Aura XP Potion (item): 9012 -> **9014**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 9012 -> **9014**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 9013 -> **9015**
-- Splash Aura XP Potion (item): 9014 -> **9016**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 9014 -> **9016**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 9015 -> **9017**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 9016 -> **9018**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 9017 -> **9019**
@@ -4696,10 +4696,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9252 -> **9254**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9253 -> **9255**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9254 -> **9256**
-- Common Lottery Ticket (item): 9255 -> **9257**
-- Uncommon Lottery Ticket (item): 9256 -> **9258**
-- Rare Lottery Ticket (item): 9257 -> **9259**
-- Epic Lottery Ticket (item): 9258 -> **9260**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9255 -> **9257**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9256 -> **9258**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9257 -> **9259**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9258 -> **9260**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9259 -> **9261**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9260 -> **9262**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9261 -> **9263**
@@ -4782,7 +4782,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9338 -> **9340**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9339 -> **9341**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9340 -> **9342**
-- Rubellite Pickaxe (item): 9341 -> **9343**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9341 -> **9343**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9342 -> **9344**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9343 -> **9345**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9344 -> **9346**
@@ -4990,12 +4990,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9546 -> **9548**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9547 -> **9549**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9548 -> **9550**
-- Core Tier 5 (item): 9549 -> **9551**
-- Core Tier 6 (item): 9550 -> **9552**
-- Core Tier 7 (item): 9551 -> **9553**
-- Core Tier 8 (item): 9552 -> **9554**
-- Core Tier 9 (item): 9553 -> **9555**
-- Core Tier 10 (item): 9554 -> **9556**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9549 -> **9551**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9550 -> **9552**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9551 -> **9553**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9552 -> **9554**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9553 -> **9555**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9554 -> **9556**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9555 -> **9557**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9556 -> **9558**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9557 -> **9559**
@@ -5087,25 +5087,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8125 -> **8127**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8126 -> **8128**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8127 -> **8129**
-- Wood Helmet (item): 8128 -> **8130**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8128 -> **8130**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8129 -> **8131**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8130 -> **8132**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8131 -> **8133**
-- Wood Chestplate (item): 8132 -> **8134**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8132 -> **8134**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8133 -> **8135**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8134 -> **8136**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8135 -> **8137**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8136 -> **8138**
-- Wood Leggings (item): 8137 -> **8139**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8137 -> **8139**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8138 -> **8140**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8139 -> **8141**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8140 -> **8142**
-- Wood Boots (item): 8141 -> **8143**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8141 -> **8143**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8142 -> **8144**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8143 -> **8145**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8144 -> **8146**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8145 -> **8147**
-- Wood Gauntlets (item): 8146 -> **8148**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8146 -> **8148**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8147 -> **8149**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8148 -> **8150**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8149 -> **8151**
@@ -5114,81 +5114,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8152 -> **8154**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8153 -> **8155**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8154 -> **8156**
-- White Wood Helmet (item): 8155 -> **8157**
-- White Wood Chestplate (item): 8156 -> **8158**
-- White Wood Leggings (item): 8157 -> **8159**
-- White Wood Boots (item): 8158 -> **8160**
-- White Wood Gauntlets (item): 8159 -> **8161**
-- Orange Wood Helmet (item): 8160 -> **8162**
-- Orange Wood Chestplate (item): 8161 -> **8163**
-- Orange Wood Leggings (item): 8162 -> **8164**
-- Orange Wood Boots (item): 8163 -> **8165**
-- Orange Wood Gauntlets (item): 8164 -> **8166**
-- Magenta Wood Helmet (item): 8165 -> **8167**
-- Magenta Wood Chestplate (item): 8166 -> **8168**
-- Magenta Wood Leggings (item): 8167 -> **8169**
-- Magenta Wood Boots (item): 8168 -> **8170**
-- Magenta Wood Gauntlets (item): 8169 -> **8171**
-- Light Blue Wood Helmet (item): 8170 -> **8172**
-- Light Blue Wood Chestplate (item): 8171 -> **8173**
-- Light Blue Wood Leggings (item): 8172 -> **8174**
-- Light Blue Wood Boots (item): 8173 -> **8175**
-- Light Blue Wood Gauntlets (item): 8174 -> **8176**
-- Yellow Wood Helmet (item): 8175 -> **8177**
-- Yellow Wood Chestplate (item): 8176 -> **8178**
-- Yellow Wood Leggings (item): 8177 -> **8179**
-- Yellow Wood Boots (item): 8178 -> **8180**
-- Yellow Wood Gauntlets (item): 8179 -> **8181**
-- Lime Wood Helmet (item): 8180 -> **8182**
-- Lime Wood Chestplate (item): 8181 -> **8183**
-- Lime Wood Leggings (item): 8182 -> **8184**
-- Lime Wood Boots (item): 8183 -> **8185**
-- Lime Wood Gauntlets (item): 8184 -> **8186**
-- Pink Wood Helmet (item): 8185 -> **8187**
-- Pink Wood Chestplate (item): 8186 -> **8188**
-- Pink Wood Leggings (item): 8187 -> **8189**
-- Pink Wood Boots (item): 8188 -> **8190**
-- Pink Wood Gauntlets (item): 8189 -> **8191**
-- Gray Wood Helmet (item): 8190 -> **8192**
-- Gray Wood Chestplate (item): 8191 -> **8193**
-- Gray Wood Leggings (item): 8192 -> **8194**
-- Gray Wood Boots (item): 8193 -> **8195**
-- Gray Wood Gauntlets (item): 8194 -> **8196**
-- Light Gray Wood Helmet (item): 8195 -> **8197**
-- Light Gray Wood Chestplate (item): 8196 -> **8198**
-- Light Gray Wood Leggings (item): 8197 -> **8199**
-- Light Gray Wood Boots (item): 8198 -> **8200**
-- Light Gray Wood Gauntlets (item): 8199 -> **8201**
-- Cyan Wood Helmet (item): 8200 -> **8202**
-- Cyan Wood Chestplate (item): 8201 -> **8203**
-- Cyan Wood Leggings (item): 8202 -> **8204**
-- Cyan Wood Boots (item): 8203 -> **8205**
-- Cyan Wood Gauntlets (item): 8204 -> **8206**
-- Purple Wood Helmet (item): 8205 -> **8207**
-- Purple Wood Chestplate (item): 8206 -> **8208**
-- Purple Wood Leggings (item): 8207 -> **8209**
-- Purple Wood Boots (item): 8208 -> **8210**
-- Purple Wood Gauntlets (item): 8209 -> **8211**
-- Blue Wood Helmet (item): 8210 -> **8212**
-- Blue Wood Chestplate (item): 8211 -> **8213**
-- Blue Wood Leggings (item): 8212 -> **8214**
-- Blue Wood Boots (item): 8213 -> **8215**
-- Blue Wood Gauntlets (item): 8214 -> **8216**
-- Brown Wood Helmet (item): 8215 -> **8217**
-- Brown Wood Chestplate (item): 8216 -> **8218**
-- Brown Wood Leggings (item): 8217 -> **8219**
-- Brown Wood Boots (item): 8218 -> **8220**
-- Brown Wood Gauntlets (item): 8219 -> **8221**
-- Green Wood Helmet (item): 8220 -> **8222**
-- Green Wood Chestplate (item): 8221 -> **8223**
-- Green Wood Leggings (item): 8222 -> **8224**
-- Green Wood Boots (item): 8223 -> **8225**
-- Green Wood Gauntlets (item): 8224 -> **8226**
-- Red Wood Helmet (item): 8225 -> **8227**
-- Red Wood Chestplate (item): 8226 -> **8228**
-- Red Wood Leggings (item): 8227 -> **8229**
-- Red Wood Boots (item): 8228 -> **8230**
-- Red Wood Gauntlets (item): 8229 -> **8231**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8155 -> **8157**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8156 -> **8158**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8157 -> **8159**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8158 -> **8160**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8159 -> **8161**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8160 -> **8162**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8161 -> **8163**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8162 -> **8164**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8163 -> **8165**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8164 -> **8166**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8165 -> **8167**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8166 -> **8168**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8167 -> **8169**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8168 -> **8170**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8169 -> **8171**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8170 -> **8172**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8171 -> **8173**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8172 -> **8174**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8173 -> **8175**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8174 -> **8176**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8175 -> **8177**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8176 -> **8178**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8177 -> **8179**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8178 -> **8180**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8179 -> **8181**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8180 -> **8182**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8181 -> **8183**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8182 -> **8184**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8183 -> **8185**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8184 -> **8186**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8185 -> **8187**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8186 -> **8188**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8187 -> **8189**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8188 -> **8190**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8189 -> **8191**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8190 -> **8192**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8191 -> **8193**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8192 -> **8194**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8193 -> **8195**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8194 -> **8196**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8195 -> **8197**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8196 -> **8198**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8197 -> **8199**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8198 -> **8200**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8199 -> **8201**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8200 -> **8202**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8201 -> **8203**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8202 -> **8204**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8203 -> **8205**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8204 -> **8206**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8205 -> **8207**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8206 -> **8208**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8207 -> **8209**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8208 -> **8210**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8209 -> **8211**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8210 -> **8212**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8211 -> **8213**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8212 -> **8214**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8213 -> **8215**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8214 -> **8216**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8215 -> **8217**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8216 -> **8218**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8217 -> **8219**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8218 -> **8220**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8219 -> **8221**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8220 -> **8222**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8221 -> **8223**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8222 -> **8224**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8223 -> **8225**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8224 -> **8226**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8225 -> **8227**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8226 -> **8228**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8227 -> **8229**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8228 -> **8230**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8229 -> **8231**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8230 -> **8232**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8231 -> **8233**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8232 -> **8234**
@@ -5222,38 +5222,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8260 -> **8262**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8261 -> **8263**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8262 -> **8264**
-- Boat (item): 8263 -> **8265**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8263 -> **8265**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8264 -> **8266**
-- Obsidian Boat (item): 8265 -> **8267**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8265 -> **8267**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8266 -> **8268**
-- Speedboat (item): 8267 -> **8269**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8267 -> **8269**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8268 -> **8270**
-- Wood Hang Glider (item): 8269 -> **8271**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8269 -> **8271**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8270 -> **8272**
-- Iron Hang Glider (item): 8271 -> **8273**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8271 -> **8273**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8272 -> **8274**
-- Gold Hang Glider (item): 8273 -> **8275**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8273 -> **8275**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8274 -> **8276**
-- Diamond Hang Glider (item): 8275 -> **8277**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8275 -> **8277**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8276 -> **8278**
-- Hovercraft (item): 8277 -> **8279**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8277 -> **8279**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8278 -> **8280**
-- Yellow Kart (item): 8279 -> **8281**
-- White Kart (item): 8280 -> **8282**
-- Red Kart (item): 8281 -> **8283**
-- Purple Kart (item): 8282 -> **8284**
-- Pink Kart (item): 8283 -> **8285**
-- Orange Kart (item): 8284 -> **8286**
-- Magenta Kart (item): 8285 -> **8287**
-- Lime Kart (item): 8286 -> **8288**
-- Light Gray Kart (item): 8287 -> **8289**
-- Light Blue Kart (item): 8288 -> **8290**
-- Green Kart (item): 8289 -> **8291**
-- Gray Kart (item): 8290 -> **8292**
-- Cyan Kart (item): 8291 -> **8293**
-- Brown Kart (item): 8292 -> **8294**
-- Blue Kart (item): 8293 -> **8295**
-- Black Kart (item): 8294 -> **8296**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8279 -> **8281**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8280 -> **8282**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8281 -> **8283**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8282 -> **8284**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8283 -> **8285**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8284 -> **8286**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8285 -> **8287**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8286 -> **8288**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8287 -> **8289**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8288 -> **8290**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8289 -> **8291**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8290 -> **8292**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8291 -> **8293**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8292 -> **8294**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8293 -> **8295**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8294 -> **8296**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8295 -> **8297**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8296 -> **8298**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8297 -> **8299**
@@ -5270,25 +5270,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8308 -> **8310**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8309 -> **8311**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8310 -> **8312**
-- Off Roader (item): 8311 -> **8313**
-- INTERNAL_MESH_Off Roader (item): 8312 -> **8314**
-- Gold Mining Drill (item): 8313 -> **8315**
-- Iron Mining Drill (item): 8314 -> **8316**
-- Diamond Mining Drill (item): 8315 -> **8317**
-- Moonstone Mining Drill (item): 8316 -> **8318**
-- Armored Car (item): 8317 -> **8319**
-- INTERNAL_MESH_Gold Mining Drill (item): 8318 -> **8320**
-- INTERNAL_MESH_Iron Mining Drill (item): 8319 -> **8321**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8320 -> **8322**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8311 -> **8313**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8312 -> **8314**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8313 -> **8315**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8314 -> **8316**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8315 -> **8317**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8316 -> **8318**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8317 -> **8319**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8318 -> **8320**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8319 -> **8321**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8320 -> **8322**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8321 -> **8323**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8322 -> **8324**
-- Light Blue Car (item): 8323 -> **8325**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8323 -> **8325**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8324 -> **8326**
-- Snowball (item): 8325 -> **8327**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8325 -> **8327**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8326 -> **8328**
-- Pebble (item): 8327 -> **8329**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8327 -> **8329**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8328 -> **8330**
-- Bullet (item): 8329 -> **8331**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8329 -> **8331**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8330 -> **8332**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8331 -> **8333**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8332 -> **8334**
@@ -5297,14 +5297,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8335 -> **8337**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8336 -> **8338**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8337 -> **8339**
-- RPG (item): 8338 -> **8340**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8338 -> **8340**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8339 -> **8341**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8340 -> **8342**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8341 -> **8343**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8342 -> **8344**
-- 67 Base Projectile (item): 8343 -> **8345**
-- 67 Boosted Projectile (item): 8344 -> **8346**
-- Capitano Grenade (item): 8345 -> **8347**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8343 -> **8345**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8344 -> **8346**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8345 -> **8347**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8346 -> **8348**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8347 -> **8349**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8348 -> **8350**
@@ -5416,77 +5416,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8454 -> **8456**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8455 -> **8457**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8456 -> **8458**
-- Book (item): 8457 -> **8459**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8457 -> **8459**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8458 -> **8460**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8459 -> **8461**
-- Slowness Potion (item): 8460 -> **8462**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8460 -> **8462**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8461 -> **8463**
-- Splash Slowness Potion (item): 8462 -> **8464**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8462 -> **8464**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8463 -> **8465**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8464 -> **8466**
-- Poison Potion (item): 8465 -> **8467**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8465 -> **8467**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8466 -> **8468**
-- Splash Poison Potion (item): 8467 -> **8469**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8467 -> **8469**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8468 -> **8470**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8469 -> **8471**
-- Weakness Potion (item): 8470 -> **8472**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8470 -> **8472**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8471 -> **8473**
-- Splash Weakness Potion (item): 8472 -> **8474**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8472 -> **8474**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8473 -> **8475**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8474 -> **8476**
-- Instant Damage Potion (item): 8475 -> **8477**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8475 -> **8477**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8476 -> **8478**
-- Splash Instant Damage Potion (item): 8477 -> **8479**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8477 -> **8479**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8478 -> **8480**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8479 -> **8481**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8480 -> **8482**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8481 -> **8483**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8482 -> **8484**
-- Speed Potion (item): 8483 -> **8485**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8483 -> **8485**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8484 -> **8486**
-- Splash Speed Potion (item): 8485 -> **8487**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8485 -> **8487**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8486 -> **8488**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8487 -> **8489**
-- Defense Potion (item): 8488 -> **8490**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8488 -> **8490**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8489 -> **8491**
-- Splash Defense Potion (item): 8490 -> **8492**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8490 -> **8492**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8491 -> **8493**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8492 -> **8494**
-- Strength Potion (item): 8493 -> **8495**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8493 -> **8495**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8494 -> **8496**
-- Splash Strength Potion (item): 8495 -> **8497**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8495 -> **8497**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8496 -> **8498**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8497 -> **8499**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8498 -> **8500**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8499 -> **8501**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8500 -> **8502**
-- Jump Potion (item): 8501 -> **8503**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8501 -> **8503**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8502 -> **8504**
-- Splash Jump Potion (item): 8503 -> **8505**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8503 -> **8505**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8504 -> **8506**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8505 -> **8507**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8506 -> **8508**
-- Splash Knockback Potion (item): 8507 -> **8509**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8507 -> **8509**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8508 -> **8510**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8509 -> **8511**
-- Regeneration Potion (item): 8510 -> **8512**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8510 -> **8512**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8511 -> **8513**
-- Splash Regeneration Potion (item): 8512 -> **8514**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8512 -> **8514**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8513 -> **8515**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8514 -> **8516**
-- Instant Healing Potion (item): 8515 -> **8517**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8515 -> **8517**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8516 -> **8518**
-- Splash Instant Healing Potion (item): 8517 -> **8519**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8517 -> **8519**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8518 -> **8520**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8519 -> **8521**
-- Haste Potion (item): 8520 -> **8522**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8520 -> **8522**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8521 -> **8523**
-- Splash Haste Potion (item): 8522 -> **8524**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8522 -> **8524**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8523 -> **8525**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8524 -> **8526**
-- Shield Potion (item): 8525 -> **8527**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8525 -> **8527**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8526 -> **8528**
-- Splash Shield Potion (item): 8527 -> **8529**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8527 -> **8529**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8528 -> **8530**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8529 -> **8531**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8530 -> **8532**
@@ -5498,9 +5498,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8536 -> **8538**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8537 -> **8539**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8538 -> **8540**
-- Mining Yield Potion (item): 8539 -> **8541**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8539 -> **8541**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8540 -> **8542**
-- Splash Mining Yield Potion (item): 8541 -> **8543**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8541 -> **8543**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8542 -> **8544**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8543 -> **8545**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8544 -> **8546**
@@ -5509,41 +5509,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8547 -> **8549**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8548 -> **8550**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8549 -> **8551**
-- AK-47 (item): 8550 -> **8552**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8550 -> **8552**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8551 -> **8553**
-- M16 (item): 8552 -> **8554**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8552 -> **8554**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8553 -> **8555**
-- MP40 (item): 8554 -> **8556**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8554 -> **8556**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8555 -> **8557**
-- TAR-21 (item): 8556 -> **8558**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8556 -> **8558**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8557 -> **8559**
-- M1911 (item): 8558 -> **8560**
-- M1911|RequiresAmmo (item): 8559 -> **8561**
-- One Shot Pistol (item): 8560 -> **8562**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8558 -> **8560**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8559 -> **8561**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8560 -> **8562**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8561 -> **8563**
-- Double Barrel (item): 8562 -> **8564**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8562 -> **8564**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8563 -> **8565**
-- AWP (item): 8564 -> **8566**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8564 -> **8566**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8565 -> **8567**
-- Deagle (item): 8566 -> **8568**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8566 -> **8568**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8567 -> **8569**
-- Striker-12 (item): 8568 -> **8570**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8568 -> **8570**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8569 -> **8571**
-- VSR (item): 8570 -> **8572**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8570 -> **8572**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8571 -> **8573**
-- DMR (item): 8572 -> **8574**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8572 -> **8574**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8573 -> **8575**
-- Minigun (item): 8574 -> **8576**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8574 -> **8576**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8575 -> **8577**
-- FMR (item): 8576 -> **8578**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8576 -> **8578**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8577 -> **8579**
-- SKAR (item): 8578 -> **8580**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8578 -> **8580**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8579 -> **8581**
-- Block-19 (item): 8580 -> **8582**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8580 -> **8582**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8581 -> **8583**
-- Mini Izu (item): 8582 -> **8584**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8582 -> **8584**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8583 -> **8585**
-- GPMG (item): 8584 -> **8586**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8584 -> **8586**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8585 -> **8587**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8586 -> **8588**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8587 -> **8589**
@@ -5554,22 +5554,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8592 -> **8594**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8593 -> **8595**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8594 -> **8596**
-- Yellow Balloon (item): 8595 -> **8597**
-- White Balloon (item): 8596 -> **8598**
-- Red Balloon (item): 8597 -> **8599**
-- Purple Balloon (item): 8598 -> **8600**
-- Pink Balloon (item): 8599 -> **8601**
-- Orange Balloon (item): 8600 -> **8602**
-- Magenta Balloon (item): 8601 -> **8603**
-- Lime Balloon (item): 8602 -> **8604**
-- Light Gray Balloon (item): 8603 -> **8605**
-- Light Blue Balloon (item): 8604 -> **8606**
-- Green Balloon (item): 8605 -> **8607**
-- Gray Balloon (item): 8606 -> **8608**
-- Cyan Balloon (item): 8607 -> **8609**
-- Brown Balloon (item): 8608 -> **8610**
-- Blue Balloon (item): 8609 -> **8611**
-- Black Balloon (item): 8610 -> **8612**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8595 -> **8597**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8596 -> **8598**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8597 -> **8599**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8598 -> **8600**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8599 -> **8601**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8600 -> **8602**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8601 -> **8603**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8602 -> **8604**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8603 -> **8605**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8604 -> **8606**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8605 -> **8607**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8606 -> **8608**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8607 -> **8609**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8608 -> **8610**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8609 -> **8611**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8610 -> **8612**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8611 -> **8613**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8612 -> **8614**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8613 -> **8615**
@@ -5823,21 +5823,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8861 -> **8863**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8862 -> **8864**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8863 -> **8865**
-- Caught Mob Sheep Default (item): 8864 -> **8866**
-- Caught Mob Sheep Black (item): 8865 -> **8867**
-- Caught Mob Sheep Red (item): 8866 -> **8868**
-- Caught Mob Sheep Orange (item): 8867 -> **8869**
-- Caught Mob Sheep Pink (item): 8868 -> **8870**
-- Caught Mob Sheep Purple (item): 8869 -> **8871**
-- Caught Mob Sheep Yellow (item): 8870 -> **8872**
-- Caught Mob Sheep Blue (item): 8871 -> **8873**
-- Caught Mob Sheep Brown (item): 8872 -> **8874**
-- Caught Mob Sheep Cyan (item): 8873 -> **8875**
-- Caught Mob Sheep Gray (item): 8874 -> **8876**
-- Caught Mob Sheep Green (item): 8875 -> **8877**
-- Caught Mob Sheep Lightblue (item): 8876 -> **8878**
-- Caught Mob Sheep Lightgray (item): 8877 -> **8879**
-- Caught Mob Sheep Lime (item): 8878 -> **8880**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8864 -> **8866**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8865 -> **8867**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8866 -> **8868**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8867 -> **8869**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8868 -> **8870**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8869 -> **8871**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8870 -> **8872**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8871 -> **8873**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8872 -> **8874**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8873 -> **8875**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8874 -> **8876**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8875 -> **8877**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8876 -> **8878**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8877 -> **8879**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8878 -> **8880**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8879 -> **8881**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8880 -> **8882**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8881 -> **8883**
@@ -5892,19 +5892,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8930 -> **8932**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8931 -> **8933**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8932 -> **8934**
-- Caught Mob Cave_Golem Default (item): 8933 -> **8935**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8933 -> **8935**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8934 -> **8936**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8935 -> **8937**
-- Caught Mob Draugr_Zombie Default (item): 8936 -> **8938**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8936 -> **8938**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8937 -> **8939**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8938 -> **8940**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8939 -> **8941**
-- Caught Mob Draugr_Zombie Flower (item): 8940 -> **8942**
-- Caught Mob Draugr_Zombie Flower2 (item): 8941 -> **8943**
-- Caught Mob Draugr_Zombie Mushroom (item): 8942 -> **8944**
-- Caught Mob Draugr_Zombie Vine (item): 8943 -> **8945**
-- Caught Mob Draugr_Zombie Vine2 (item): 8944 -> **8946**
-- Caught Mob Draugr_Zombie Corrupted (item): 8945 -> **8947**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8940 -> **8942**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8941 -> **8943**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8942 -> **8944**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8943 -> **8945**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8944 -> **8946**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8945 -> **8947**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8946 -> **8948**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8947 -> **8949**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8948 -> **8950**
@@ -5913,13 +5913,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8951 -> **8953**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8952 -> **8954**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8953 -> **8955**
-- Caught Mob Draugr_Huntress Default (item): 8954 -> **8956**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8954 -> **8956**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8955 -> **8957**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8956 -> **8958**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8957 -> **8959**
-- Caught Mob Frost_Wraith Default (item): 8958 -> **8960**
-- Caught Mob Frost_Wraith Tattered (item): 8959 -> **8961**
-- Caught Mob Frost_Wraith Frostking (item): 8960 -> **8962**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8958 -> **8960**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8959 -> **8961**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8960 -> **8962**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8961 -> **8963**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8962 -> **8964**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8963 -> **8965**
@@ -5945,23 +5945,23 @@
 - Caught Mob NPC Sara (item): 8983 -> **8985**
 - Caught Mob NPC Carmen (item): 8984 -> **8986**
 - Caught Mob NPC Chef (item): 8985 -> **8987**
-- Caught Mob 67 Default (item): 8986 -> **8988**
-- Caught Mob Bobino_Musculino Default (item): 8987 -> **8989**
-- Caught Mob Capitano_Explovissimo Default (item): 8988 -> **8990**
-- Caught Mob Desert_Fennec Default (item): 8989 -> **8991**
-- Caught Mob Armour_Collector Default (item): 8990 -> **8992**
-- Caught Mob Furnace_Knight Default (item): 8991 -> **8993**
-- Caught Mob Lil_Knight Default (item): 8992 -> **8994**
-- Caught Mob Glass_Gremlin Default (item): 8993 -> **8995**
-- Caught Mob Glass_Bro Default (item): 8994 -> **8996**
-- Caught Mob Lord_Vulcan Default (item): 8995 -> **8997**
-- Caught Mob Zombie Default (item): 8996 -> **8998**
-- Caught Mob Skeleton Default (item): 8997 -> **8999**
-- Caught Mob Mummy Default (item): 8998 -> **9000**
-- Caught Mob Scorpion Default (item): 8999 -> **9001**
-- Caught Mob Vulcanite Default (item): 9000 -> **9002**
-- Caught Mob Evil_Tome Default (item): 9001 -> **9003**
-- Caught Mob Magma_Toad Default (item): 9002 -> **9004**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 8986 -> **8988**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 8987 -> **8989**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 8988 -> **8990**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): 8989 -> **8991**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): 8990 -> **8992**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): 8991 -> **8993**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): 8992 -> **8994**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): 8993 -> **8995**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): 8994 -> **8996**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): 8995 -> **8997**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): 8996 -> **8998**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): 8997 -> **8999**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): 8998 -> **9000**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): 8999 -> **9001**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): 9000 -> **9002**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): 9001 -> **9003**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): 9002 -> **9004**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 9003 -> **9005**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 9004 -> **9006**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 9005 -> **9007**
@@ -5969,9 +5969,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 9007 -> **9009**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 9008 -> **9010**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 9009 -> **9011**
-- Aura XP Potion (item): 9010 -> **9012**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 9010 -> **9012**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 9011 -> **9013**
-- Splash Aura XP Potion (item): 9012 -> **9014**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 9012 -> **9014**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 9013 -> **9015**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 9014 -> **9016**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 9015 -> **9017**
@@ -6212,10 +6212,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9250 -> **9252**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9251 -> **9253**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9252 -> **9254**
-- Common Lottery Ticket (item): 9253 -> **9255**
-- Uncommon Lottery Ticket (item): 9254 -> **9256**
-- Rare Lottery Ticket (item): 9255 -> **9257**
-- Epic Lottery Ticket (item): 9256 -> **9258**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9253 -> **9255**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9254 -> **9256**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9255 -> **9257**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9256 -> **9258**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9257 -> **9259**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9258 -> **9260**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9259 -> **9261**
@@ -6298,7 +6298,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9336 -> **9338**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9337 -> **9339**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9338 -> **9340**
-- Rubellite Pickaxe (item): 9339 -> **9341**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9339 -> **9341**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9340 -> **9342**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9341 -> **9343**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9342 -> **9344**
@@ -6506,12 +6506,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9544 -> **9546**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9545 -> **9547**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9546 -> **9548**
-- Core Tier 5 (item): 9547 -> **9549**
-- Core Tier 6 (item): 9548 -> **9550**
-- Core Tier 7 (item): 9549 -> **9551**
-- Core Tier 8 (item): 9550 -> **9552**
-- Core Tier 9 (item): 9551 -> **9553**
-- Core Tier 10 (item): 9552 -> **9554**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9547 -> **9549**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9548 -> **9550**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9549 -> **9551**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9550 -> **9552**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9551 -> **9553**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9552 -> **9554**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9553 -> **9555**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9554 -> **9556**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9555 -> **9557**
@@ -6606,25 +6606,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8120 -> **8125**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8121 -> **8126**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8122 -> **8127**
-- Wood Helmet (item): 8123 -> **8128**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8123 -> **8128**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8124 -> **8129**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8125 -> **8130**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8126 -> **8131**
-- Wood Chestplate (item): 8127 -> **8132**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8127 -> **8132**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8128 -> **8133**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8129 -> **8134**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8130 -> **8135**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8131 -> **8136**
-- Wood Leggings (item): 8132 -> **8137**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8132 -> **8137**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8133 -> **8138**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8134 -> **8139**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8135 -> **8140**
-- Wood Boots (item): 8136 -> **8141**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8136 -> **8141**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8137 -> **8142**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8138 -> **8143**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8139 -> **8144**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8140 -> **8145**
-- Wood Gauntlets (item): 8141 -> **8146**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8141 -> **8146**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8142 -> **8147**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8143 -> **8148**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8144 -> **8149**
@@ -6633,81 +6633,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8147 -> **8152**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8148 -> **8153**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8149 -> **8154**
-- White Wood Helmet (item): 8150 -> **8155**
-- White Wood Chestplate (item): 8151 -> **8156**
-- White Wood Leggings (item): 8152 -> **8157**
-- White Wood Boots (item): 8153 -> **8158**
-- White Wood Gauntlets (item): 8154 -> **8159**
-- Orange Wood Helmet (item): 8155 -> **8160**
-- Orange Wood Chestplate (item): 8156 -> **8161**
-- Orange Wood Leggings (item): 8157 -> **8162**
-- Orange Wood Boots (item): 8158 -> **8163**
-- Orange Wood Gauntlets (item): 8159 -> **8164**
-- Magenta Wood Helmet (item): 8160 -> **8165**
-- Magenta Wood Chestplate (item): 8161 -> **8166**
-- Magenta Wood Leggings (item): 8162 -> **8167**
-- Magenta Wood Boots (item): 8163 -> **8168**
-- Magenta Wood Gauntlets (item): 8164 -> **8169**
-- Light Blue Wood Helmet (item): 8165 -> **8170**
-- Light Blue Wood Chestplate (item): 8166 -> **8171**
-- Light Blue Wood Leggings (item): 8167 -> **8172**
-- Light Blue Wood Boots (item): 8168 -> **8173**
-- Light Blue Wood Gauntlets (item): 8169 -> **8174**
-- Yellow Wood Helmet (item): 8170 -> **8175**
-- Yellow Wood Chestplate (item): 8171 -> **8176**
-- Yellow Wood Leggings (item): 8172 -> **8177**
-- Yellow Wood Boots (item): 8173 -> **8178**
-- Yellow Wood Gauntlets (item): 8174 -> **8179**
-- Lime Wood Helmet (item): 8175 -> **8180**
-- Lime Wood Chestplate (item): 8176 -> **8181**
-- Lime Wood Leggings (item): 8177 -> **8182**
-- Lime Wood Boots (item): 8178 -> **8183**
-- Lime Wood Gauntlets (item): 8179 -> **8184**
-- Pink Wood Helmet (item): 8180 -> **8185**
-- Pink Wood Chestplate (item): 8181 -> **8186**
-- Pink Wood Leggings (item): 8182 -> **8187**
-- Pink Wood Boots (item): 8183 -> **8188**
-- Pink Wood Gauntlets (item): 8184 -> **8189**
-- Gray Wood Helmet (item): 8185 -> **8190**
-- Gray Wood Chestplate (item): 8186 -> **8191**
-- Gray Wood Leggings (item): 8187 -> **8192**
-- Gray Wood Boots (item): 8188 -> **8193**
-- Gray Wood Gauntlets (item): 8189 -> **8194**
-- Light Gray Wood Helmet (item): 8190 -> **8195**
-- Light Gray Wood Chestplate (item): 8191 -> **8196**
-- Light Gray Wood Leggings (item): 8192 -> **8197**
-- Light Gray Wood Boots (item): 8193 -> **8198**
-- Light Gray Wood Gauntlets (item): 8194 -> **8199**
-- Cyan Wood Helmet (item): 8195 -> **8200**
-- Cyan Wood Chestplate (item): 8196 -> **8201**
-- Cyan Wood Leggings (item): 8197 -> **8202**
-- Cyan Wood Boots (item): 8198 -> **8203**
-- Cyan Wood Gauntlets (item): 8199 -> **8204**
-- Purple Wood Helmet (item): 8200 -> **8205**
-- Purple Wood Chestplate (item): 8201 -> **8206**
-- Purple Wood Leggings (item): 8202 -> **8207**
-- Purple Wood Boots (item): 8203 -> **8208**
-- Purple Wood Gauntlets (item): 8204 -> **8209**
-- Blue Wood Helmet (item): 8205 -> **8210**
-- Blue Wood Chestplate (item): 8206 -> **8211**
-- Blue Wood Leggings (item): 8207 -> **8212**
-- Blue Wood Boots (item): 8208 -> **8213**
-- Blue Wood Gauntlets (item): 8209 -> **8214**
-- Brown Wood Helmet (item): 8210 -> **8215**
-- Brown Wood Chestplate (item): 8211 -> **8216**
-- Brown Wood Leggings (item): 8212 -> **8217**
-- Brown Wood Boots (item): 8213 -> **8218**
-- Brown Wood Gauntlets (item): 8214 -> **8219**
-- Green Wood Helmet (item): 8215 -> **8220**
-- Green Wood Chestplate (item): 8216 -> **8221**
-- Green Wood Leggings (item): 8217 -> **8222**
-- Green Wood Boots (item): 8218 -> **8223**
-- Green Wood Gauntlets (item): 8219 -> **8224**
-- Red Wood Helmet (item): 8220 -> **8225**
-- Red Wood Chestplate (item): 8221 -> **8226**
-- Red Wood Leggings (item): 8222 -> **8227**
-- Red Wood Boots (item): 8223 -> **8228**
-- Red Wood Gauntlets (item): 8224 -> **8229**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8150 -> **8155**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8151 -> **8156**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8152 -> **8157**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8153 -> **8158**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8154 -> **8159**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8155 -> **8160**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8156 -> **8161**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8157 -> **8162**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8158 -> **8163**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8159 -> **8164**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8160 -> **8165**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8161 -> **8166**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8162 -> **8167**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8163 -> **8168**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8164 -> **8169**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8165 -> **8170**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8166 -> **8171**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8167 -> **8172**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8168 -> **8173**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8169 -> **8174**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8170 -> **8175**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8171 -> **8176**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8172 -> **8177**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8173 -> **8178**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8174 -> **8179**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8175 -> **8180**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8176 -> **8181**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8177 -> **8182**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8178 -> **8183**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8179 -> **8184**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8180 -> **8185**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8181 -> **8186**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8182 -> **8187**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8183 -> **8188**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8184 -> **8189**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8185 -> **8190**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8186 -> **8191**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8187 -> **8192**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8188 -> **8193**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8189 -> **8194**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8190 -> **8195**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8191 -> **8196**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8192 -> **8197**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8193 -> **8198**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8194 -> **8199**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8195 -> **8200**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8196 -> **8201**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8197 -> **8202**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8198 -> **8203**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8199 -> **8204**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8200 -> **8205**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8201 -> **8206**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8202 -> **8207**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8203 -> **8208**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8204 -> **8209**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8205 -> **8210**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8206 -> **8211**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8207 -> **8212**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8208 -> **8213**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8209 -> **8214**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8210 -> **8215**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8211 -> **8216**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8212 -> **8217**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8213 -> **8218**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8214 -> **8219**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8215 -> **8220**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8216 -> **8221**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8217 -> **8222**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8218 -> **8223**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8219 -> **8224**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8220 -> **8225**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8221 -> **8226**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8222 -> **8227**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8223 -> **8228**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8224 -> **8229**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8225 -> **8230**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8226 -> **8231**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8227 -> **8232**
@@ -6741,38 +6741,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8255 -> **8260**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8256 -> **8261**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8257 -> **8262**
-- Boat (item): 8258 -> **8263**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8258 -> **8263**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8259 -> **8264**
-- Obsidian Boat (item): 8260 -> **8265**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8260 -> **8265**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8261 -> **8266**
-- Speedboat (item): 8262 -> **8267**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8262 -> **8267**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8263 -> **8268**
-- Wood Hang Glider (item): 8264 -> **8269**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8264 -> **8269**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8265 -> **8270**
-- Iron Hang Glider (item): 8266 -> **8271**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8266 -> **8271**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8267 -> **8272**
-- Gold Hang Glider (item): 8268 -> **8273**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8268 -> **8273**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8269 -> **8274**
-- Diamond Hang Glider (item): 8270 -> **8275**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8270 -> **8275**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8271 -> **8276**
-- Hovercraft (item): 8272 -> **8277**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8272 -> **8277**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8273 -> **8278**
-- Yellow Kart (item): 8274 -> **8279**
-- White Kart (item): 8275 -> **8280**
-- Red Kart (item): 8276 -> **8281**
-- Purple Kart (item): 8277 -> **8282**
-- Pink Kart (item): 8278 -> **8283**
-- Orange Kart (item): 8279 -> **8284**
-- Magenta Kart (item): 8280 -> **8285**
-- Lime Kart (item): 8281 -> **8286**
-- Light Gray Kart (item): 8282 -> **8287**
-- Light Blue Kart (item): 8283 -> **8288**
-- Green Kart (item): 8284 -> **8289**
-- Gray Kart (item): 8285 -> **8290**
-- Cyan Kart (item): 8286 -> **8291**
-- Brown Kart (item): 8287 -> **8292**
-- Blue Kart (item): 8288 -> **8293**
-- Black Kart (item): 8289 -> **8294**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8274 -> **8279**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8275 -> **8280**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8276 -> **8281**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8277 -> **8282**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8278 -> **8283**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8279 -> **8284**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8280 -> **8285**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8281 -> **8286**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8282 -> **8287**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8283 -> **8288**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8284 -> **8289**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8285 -> **8290**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8286 -> **8291**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8287 -> **8292**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8288 -> **8293**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8289 -> **8294**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8290 -> **8295**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8291 -> **8296**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8292 -> **8297**
@@ -6789,25 +6789,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8303 -> **8308**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8304 -> **8309**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8305 -> **8310**
-- Off Roader (item): 8306 -> **8311**
-- INTERNAL_MESH_Off Roader (item): 8307 -> **8312**
-- Gold Mining Drill (item): 8308 -> **8313**
-- Iron Mining Drill (item): 8309 -> **8314**
-- Diamond Mining Drill (item): 8310 -> **8315**
-- Moonstone Mining Drill (item): 8311 -> **8316**
-- Armored Car (item): 8312 -> **8317**
-- INTERNAL_MESH_Gold Mining Drill (item): 8313 -> **8318**
-- INTERNAL_MESH_Iron Mining Drill (item): 8314 -> **8319**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8315 -> **8320**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8306 -> **8311**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8307 -> **8312**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8308 -> **8313**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8309 -> **8314**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8310 -> **8315**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8311 -> **8316**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8312 -> **8317**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8313 -> **8318**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8314 -> **8319**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8315 -> **8320**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8316 -> **8321**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8317 -> **8322**
-- Light Blue Car (item): 8318 -> **8323**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8318 -> **8323**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8319 -> **8324**
-- Snowball (item): 8320 -> **8325**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8320 -> **8325**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8321 -> **8326**
-- Pebble (item): 8322 -> **8327**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8322 -> **8327**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8323 -> **8328**
-- Bullet (item): 8324 -> **8329**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8324 -> **8329**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8325 -> **8330**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8326 -> **8331**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8327 -> **8332**
@@ -6816,14 +6816,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8330 -> **8335**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8331 -> **8336**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8332 -> **8337**
-- RPG (item): 8333 -> **8338**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8333 -> **8338**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8334 -> **8339**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8335 -> **8340**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8336 -> **8341**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8337 -> **8342**
-- 67 Base Projectile (item): 8338 -> **8343**
-- 67 Boosted Projectile (item): 8339 -> **8344**
-- Capitano Grenade (item): 8340 -> **8345**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8338 -> **8343**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8339 -> **8344**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8340 -> **8345**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8341 -> **8346**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8342 -> **8347**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8343 -> **8348**
@@ -6935,77 +6935,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8449 -> **8454**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8450 -> **8455**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8451 -> **8456**
-- Book (item): 8452 -> **8457**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8452 -> **8457**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8453 -> **8458**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8454 -> **8459**
-- Slowness Potion (item): 8455 -> **8460**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8455 -> **8460**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8456 -> **8461**
-- Splash Slowness Potion (item): 8457 -> **8462**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8457 -> **8462**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8458 -> **8463**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8459 -> **8464**
-- Poison Potion (item): 8460 -> **8465**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8460 -> **8465**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8461 -> **8466**
-- Splash Poison Potion (item): 8462 -> **8467**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8462 -> **8467**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8463 -> **8468**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8464 -> **8469**
-- Weakness Potion (item): 8465 -> **8470**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8465 -> **8470**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8466 -> **8471**
-- Splash Weakness Potion (item): 8467 -> **8472**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8467 -> **8472**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8468 -> **8473**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8469 -> **8474**
-- Instant Damage Potion (item): 8470 -> **8475**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8470 -> **8475**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8471 -> **8476**
-- Splash Instant Damage Potion (item): 8472 -> **8477**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8472 -> **8477**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8473 -> **8478**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8474 -> **8479**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8475 -> **8480**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8476 -> **8481**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8477 -> **8482**
-- Speed Potion (item): 8478 -> **8483**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8478 -> **8483**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8479 -> **8484**
-- Splash Speed Potion (item): 8480 -> **8485**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8480 -> **8485**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8481 -> **8486**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8482 -> **8487**
-- Defense Potion (item): 8483 -> **8488**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8483 -> **8488**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8484 -> **8489**
-- Splash Defense Potion (item): 8485 -> **8490**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8485 -> **8490**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8486 -> **8491**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8487 -> **8492**
-- Strength Potion (item): 8488 -> **8493**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8488 -> **8493**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8489 -> **8494**
-- Splash Strength Potion (item): 8490 -> **8495**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8490 -> **8495**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8491 -> **8496**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8492 -> **8497**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8493 -> **8498**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8494 -> **8499**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8495 -> **8500**
-- Jump Potion (item): 8496 -> **8501**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8496 -> **8501**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8497 -> **8502**
-- Splash Jump Potion (item): 8498 -> **8503**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8498 -> **8503**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8499 -> **8504**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8500 -> **8505**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8501 -> **8506**
-- Splash Knockback Potion (item): 8502 -> **8507**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8502 -> **8507**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8503 -> **8508**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8504 -> **8509**
-- Regeneration Potion (item): 8505 -> **8510**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8505 -> **8510**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8506 -> **8511**
-- Splash Regeneration Potion (item): 8507 -> **8512**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8507 -> **8512**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8508 -> **8513**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8509 -> **8514**
-- Instant Healing Potion (item): 8510 -> **8515**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8510 -> **8515**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8511 -> **8516**
-- Splash Instant Healing Potion (item): 8512 -> **8517**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8512 -> **8517**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8513 -> **8518**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8514 -> **8519**
-- Haste Potion (item): 8515 -> **8520**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8515 -> **8520**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8516 -> **8521**
-- Splash Haste Potion (item): 8517 -> **8522**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8517 -> **8522**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8518 -> **8523**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8519 -> **8524**
-- Shield Potion (item): 8520 -> **8525**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8520 -> **8525**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8521 -> **8526**
-- Splash Shield Potion (item): 8522 -> **8527**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8522 -> **8527**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8523 -> **8528**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8524 -> **8529**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8525 -> **8530**
@@ -7017,9 +7017,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8531 -> **8536**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8532 -> **8537**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8533 -> **8538**
-- Mining Yield Potion (item): 8534 -> **8539**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8534 -> **8539**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8535 -> **8540**
-- Splash Mining Yield Potion (item): 8536 -> **8541**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8536 -> **8541**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8537 -> **8542**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8538 -> **8543**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8539 -> **8544**
@@ -7028,41 +7028,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8542 -> **8547**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8543 -> **8548**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8544 -> **8549**
-- AK-47 (item): 8545 -> **8550**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8545 -> **8550**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8546 -> **8551**
-- M16 (item): 8547 -> **8552**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8547 -> **8552**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8548 -> **8553**
-- MP40 (item): 8549 -> **8554**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8549 -> **8554**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8550 -> **8555**
-- TAR-21 (item): 8551 -> **8556**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8551 -> **8556**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8552 -> **8557**
-- M1911 (item): 8553 -> **8558**
-- M1911|RequiresAmmo (item): 8554 -> **8559**
-- One Shot Pistol (item): 8555 -> **8560**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8553 -> **8558**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8554 -> **8559**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8555 -> **8560**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8556 -> **8561**
-- Double Barrel (item): 8557 -> **8562**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8557 -> **8562**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8558 -> **8563**
-- AWP (item): 8559 -> **8564**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8559 -> **8564**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8560 -> **8565**
-- Deagle (item): 8561 -> **8566**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8561 -> **8566**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8562 -> **8567**
-- Striker-12 (item): 8563 -> **8568**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8563 -> **8568**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8564 -> **8569**
-- VSR (item): 8565 -> **8570**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8565 -> **8570**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8566 -> **8571**
-- DMR (item): 8567 -> **8572**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8567 -> **8572**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8568 -> **8573**
-- Minigun (item): 8569 -> **8574**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8569 -> **8574**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8570 -> **8575**
-- FMR (item): 8571 -> **8576**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8571 -> **8576**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8572 -> **8577**
-- SKAR (item): 8573 -> **8578**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8573 -> **8578**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8574 -> **8579**
-- Block-19 (item): 8575 -> **8580**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8575 -> **8580**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8576 -> **8581**
-- Mini Izu (item): 8577 -> **8582**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8577 -> **8582**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8578 -> **8583**
-- GPMG (item): 8579 -> **8584**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8579 -> **8584**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8580 -> **8585**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8581 -> **8586**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8582 -> **8587**
@@ -7073,22 +7073,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8587 -> **8592**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8588 -> **8593**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8589 -> **8594**
-- Yellow Balloon (item): 8590 -> **8595**
-- White Balloon (item): 8591 -> **8596**
-- Red Balloon (item): 8592 -> **8597**
-- Purple Balloon (item): 8593 -> **8598**
-- Pink Balloon (item): 8594 -> **8599**
-- Orange Balloon (item): 8595 -> **8600**
-- Magenta Balloon (item): 8596 -> **8601**
-- Lime Balloon (item): 8597 -> **8602**
-- Light Gray Balloon (item): 8598 -> **8603**
-- Light Blue Balloon (item): 8599 -> **8604**
-- Green Balloon (item): 8600 -> **8605**
-- Gray Balloon (item): 8601 -> **8606**
-- Cyan Balloon (item): 8602 -> **8607**
-- Brown Balloon (item): 8603 -> **8608**
-- Blue Balloon (item): 8604 -> **8609**
-- Black Balloon (item): 8605 -> **8610**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8590 -> **8595**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8591 -> **8596**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8592 -> **8597**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8593 -> **8598**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8594 -> **8599**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8595 -> **8600**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8596 -> **8601**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8597 -> **8602**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8598 -> **8603**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8599 -> **8604**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8600 -> **8605**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8601 -> **8606**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8602 -> **8607**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8603 -> **8608**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8604 -> **8609**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8605 -> **8610**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8606 -> **8611**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8607 -> **8612**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8608 -> **8613**
@@ -7342,21 +7342,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8856 -> **8861**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8857 -> **8862**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8858 -> **8863**
-- Caught Mob Sheep Default (item): 8859 -> **8864**
-- Caught Mob Sheep Black (item): 8860 -> **8865**
-- Caught Mob Sheep Red (item): 8861 -> **8866**
-- Caught Mob Sheep Orange (item): 8862 -> **8867**
-- Caught Mob Sheep Pink (item): 8863 -> **8868**
-- Caught Mob Sheep Purple (item): 8864 -> **8869**
-- Caught Mob Sheep Yellow (item): 8865 -> **8870**
-- Caught Mob Sheep Blue (item): 8866 -> **8871**
-- Caught Mob Sheep Brown (item): 8867 -> **8872**
-- Caught Mob Sheep Cyan (item): 8868 -> **8873**
-- Caught Mob Sheep Gray (item): 8869 -> **8874**
-- Caught Mob Sheep Green (item): 8870 -> **8875**
-- Caught Mob Sheep Lightblue (item): 8871 -> **8876**
-- Caught Mob Sheep Lightgray (item): 8872 -> **8877**
-- Caught Mob Sheep Lime (item): 8873 -> **8878**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8859 -> **8864**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8860 -> **8865**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8861 -> **8866**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8862 -> **8867**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8863 -> **8868**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8864 -> **8869**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8865 -> **8870**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8866 -> **8871**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8867 -> **8872**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8868 -> **8873**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8869 -> **8874**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8870 -> **8875**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8871 -> **8876**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8872 -> **8877**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8873 -> **8878**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8874 -> **8879**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8875 -> **8880**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8876 -> **8881**
@@ -7411,19 +7411,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8925 -> **8930**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8926 -> **8931**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8927 -> **8932**
-- Caught Mob Cave_Golem Default (item): 8928 -> **8933**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8928 -> **8933**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8929 -> **8934**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8930 -> **8935**
-- Caught Mob Draugr_Zombie Default (item): 8931 -> **8936**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8931 -> **8936**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8932 -> **8937**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8933 -> **8938**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8934 -> **8939**
-- Caught Mob Draugr_Zombie Flower (item): 8935 -> **8940**
-- Caught Mob Draugr_Zombie Flower2 (item): 8936 -> **8941**
-- Caught Mob Draugr_Zombie Mushroom (item): 8937 -> **8942**
-- Caught Mob Draugr_Zombie Vine (item): 8938 -> **8943**
-- Caught Mob Draugr_Zombie Vine2 (item): 8939 -> **8944**
-- Caught Mob Draugr_Zombie Corrupted (item): 8940 -> **8945**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8935 -> **8940**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8936 -> **8941**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8937 -> **8942**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8938 -> **8943**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8939 -> **8944**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8940 -> **8945**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8941 -> **8946**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8942 -> **8947**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8943 -> **8948**
@@ -7432,13 +7432,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8946 -> **8951**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8947 -> **8952**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8948 -> **8953**
-- Caught Mob Draugr_Huntress Default (item): 8949 -> **8954**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8949 -> **8954**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8950 -> **8955**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8951 -> **8956**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8952 -> **8957**
-- Caught Mob Frost_Wraith Default (item): 8953 -> **8958**
-- Caught Mob Frost_Wraith Tattered (item): 8954 -> **8959**
-- Caught Mob Frost_Wraith Frostking (item): 8955 -> **8960**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8953 -> **8958**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8954 -> **8959**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8955 -> **8960**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8956 -> **8961**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8957 -> **8962**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8958 -> **8963**
@@ -7464,23 +7464,23 @@
 - Caught Mob NPC Sara (item): 8978 -> **8983**
 - Caught Mob NPC Carmen (item): 8979 -> **8984**
 - Caught Mob NPC Chef (item): 8980 -> **8985**
-- Caught Mob 67 Default (item): 8981 -> **8986**
-- Caught Mob Bobino_Musculino Default (item): 8982 -> **8987**
-- Caught Mob Capitano_Explovissimo Default (item): 8983 -> **8988**
-- Caught Mob Desert_Fennec Default (item): 8984 -> **8989**
-- Caught Mob Armour_Collector Default (item): 8985 -> **8990**
-- Caught Mob Furnace_Knight Default (item): 8986 -> **8991**
-- Caught Mob Lil_Knight Default (item): 8987 -> **8992**
-- Caught Mob Glass_Gremlin Default (item): 8988 -> **8993**
-- Caught Mob Glass_Bro Default (item): 8989 -> **8994**
-- Caught Mob Lord_Vulcan Default (item): 8990 -> **8995**
-- Caught Mob Zombie Default (item): 8991 -> **8996**
-- Caught Mob Skeleton Default (item): 8992 -> **8997**
-- Caught Mob Mummy Default (item): 8993 -> **8998**
-- Caught Mob Scorpion Default (item): 8994 -> **8999**
-- Caught Mob Vulcanite Default (item): 8995 -> **9000**
-- Caught Mob Evil_Tome Default (item): 8996 -> **9001**
-- Caught Mob Magma_Toad Default (item): 8997 -> **9002**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 8981 -> **8986**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 8982 -> **8987**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 8983 -> **8988**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): 8984 -> **8989**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): 8985 -> **8990**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): 8986 -> **8991**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): 8987 -> **8992**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): 8988 -> **8993**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): 8989 -> **8994**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): 8990 -> **8995**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): 8991 -> **8996**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): 8992 -> **8997**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): 8993 -> **8998**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): 8994 -> **8999**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): 8995 -> **9000**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): 8996 -> **9001**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): 8997 -> **9002**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 8998 -> **9003**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 8999 -> **9004**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 9000 -> **9005**
@@ -7488,9 +7488,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 9002 -> **9007**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 9003 -> **9008**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 9004 -> **9009**
-- Aura XP Potion (item): 9005 -> **9010**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 9005 -> **9010**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 9006 -> **9011**
-- Splash Aura XP Potion (item): 9007 -> **9012**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 9007 -> **9012**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 9008 -> **9013**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 9009 -> **9014**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 9010 -> **9015**
@@ -7731,10 +7731,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9245 -> **9250**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9246 -> **9251**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9247 -> **9252**
-- Common Lottery Ticket (item): 9248 -> **9253**
-- Uncommon Lottery Ticket (item): 9249 -> **9254**
-- Rare Lottery Ticket (item): 9250 -> **9255**
-- Epic Lottery Ticket (item): 9251 -> **9256**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9248 -> **9253**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9249 -> **9254**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9250 -> **9255**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9251 -> **9256**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9252 -> **9257**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9253 -> **9258**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9254 -> **9259**
@@ -7817,7 +7817,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9331 -> **9336**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9332 -> **9337**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9333 -> **9338**
-- Rubellite Pickaxe (item): 9334 -> **9339**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9334 -> **9339**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9335 -> **9340**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9336 -> **9341**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9337 -> **9342**
@@ -8025,12 +8025,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9539 -> **9544**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9540 -> **9545**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9541 -> **9546**
-- Core Tier 5 (item): 9542 -> **9547**
-- Core Tier 6 (item): 9543 -> **9548**
-- Core Tier 7 (item): 9544 -> **9549**
-- Core Tier 8 (item): 9545 -> **9550**
-- Core Tier 9 (item): 9546 -> **9551**
-- Core Tier 10 (item): 9547 -> **9552**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9542 -> **9547**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9543 -> **9548**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9544 -> **9549**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9545 -> **9550**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9546 -> **9551**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9547 -> **9552**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9548 -> **9553**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9549 -> **9554**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9550 -> **9555**
@@ -8085,28 +8085,28 @@
 <details>
 <summary>Added (53)</summary>
 
-- INTERNAL_MESH_Floor Quarters (block): **8083**
+- ![INTERNAL_MESH_Floor Quarters](textures/08083_INTERNAL_MESH_Floor%20Quarters.png "texture") INTERNAL_MESH_Floor Quarters (block): **8083**
 - ![Scorpion Eggs Block](textures/08084_Scorpion%20Eggs%20Block.png "texture") Scorpion Eggs Block (block): **8084**
-- INTERNAL_MESH_Boss Target (block): **8085**
-- INTERNAL_MESH_Rune Sigil (block): **8086**
-- INTERNAL_MESH_Eclipse Dial (block): **8087**
-- INTERNAL_MESH_Beam Arm (block): **8088**
-- INTERNAL_MESH_Beam Arm Mirrored (block): **8089**
-- INTERNAL_MESH_Mortar (block): **8090**
-- Caught Mob Desert_Fennec Default (item): **8984**
-- Caught Mob Armour_Collector Default (item): **8985**
-- Caught Mob Furnace_Knight Default (item): **8986**
-- Caught Mob Lil_Knight Default (item): **8987**
-- Caught Mob Glass_Gremlin Default (item): **8988**
-- Caught Mob Glass_Bro Default (item): **8989**
-- Caught Mob Lord_Vulcan Default (item): **8990**
-- Caught Mob Zombie Default (item): **8991**
-- Caught Mob Skeleton Default (item): **8992**
-- Caught Mob Mummy Default (item): **8993**
-- Caught Mob Scorpion Default (item): **8994**
-- Caught Mob Vulcanite Default (item): **8995**
-- Caught Mob Evil_Tome Default (item): **8996**
-- Caught Mob Magma_Toad Default (item): **8997**
+- ![INTERNAL_MESH_Boss Target](textures/08085_INTERNAL_MESH_Boss%20Target.png "texture") INTERNAL_MESH_Boss Target (block): **8085**
+- ![INTERNAL_MESH_Rune Sigil](textures/08086_INTERNAL_MESH_Rune%20Sigil.png "texture") INTERNAL_MESH_Rune Sigil (block): **8086**
+- ![INTERNAL_MESH_Eclipse Dial](textures/08087_INTERNAL_MESH_Eclipse%20Dial.png "texture") INTERNAL_MESH_Eclipse Dial (block): **8087**
+- ![INTERNAL_MESH_Beam Arm](textures/08088_INTERNAL_MESH_Beam%20Arm.png "texture") INTERNAL_MESH_Beam Arm (block): **8088**
+- ![INTERNAL_MESH_Beam Arm Mirrored](textures/08089_INTERNAL_MESH_Beam%20Arm%20Mirrored.png "texture") INTERNAL_MESH_Beam Arm Mirrored (block): **8089**
+- ![INTERNAL_MESH_Mortar](textures/08090_INTERNAL_MESH_Mortar.png "texture") INTERNAL_MESH_Mortar (block): **8090**
+- ![Caught Mob Desert_Fennec Default](textures/09441_Caught%20Mob%20Desert_Fennec%20Default.png "texture") Caught Mob Desert_Fennec Default (item): **8984**
+- ![Caught Mob Armour_Collector Default](textures/09442_Caught%20Mob%20Armour_Collector%20Default.png "texture") Caught Mob Armour_Collector Default (item): **8985**
+- ![Caught Mob Furnace_Knight Default](textures/09443_Caught%20Mob%20Furnace_Knight%20Default.png "texture") Caught Mob Furnace_Knight Default (item): **8986**
+- ![Caught Mob Lil_Knight Default](textures/09444_Caught%20Mob%20Lil_Knight%20Default.png "texture") Caught Mob Lil_Knight Default (item): **8987**
+- ![Caught Mob Glass_Gremlin Default](textures/09445_Caught%20Mob%20Glass_Gremlin%20Default.png "texture") Caught Mob Glass_Gremlin Default (item): **8988**
+- ![Caught Mob Glass_Bro Default](textures/09446_Caught%20Mob%20Glass_Bro%20Default.png "texture") Caught Mob Glass_Bro Default (item): **8989**
+- ![Caught Mob Lord_Vulcan Default](textures/09447_Caught%20Mob%20Lord_Vulcan%20Default.png "texture") Caught Mob Lord_Vulcan Default (item): **8990**
+- ![Caught Mob Zombie Default](textures/09448_Caught%20Mob%20Zombie%20Default.png "texture") Caught Mob Zombie Default (item): **8991**
+- ![Caught Mob Skeleton Default](textures/09449_Caught%20Mob%20Skeleton%20Default.png "texture") Caught Mob Skeleton Default (item): **8992**
+- ![Caught Mob Mummy Default](textures/09450_Caught%20Mob%20Mummy%20Default.png "texture") Caught Mob Mummy Default (item): **8993**
+- ![Caught Mob Scorpion Default](textures/09451_Caught%20Mob%20Scorpion%20Default.png "texture") Caught Mob Scorpion Default (item): **8994**
+- ![Caught Mob Vulcanite Default](textures/09452_Caught%20Mob%20Vulcanite%20Default.png "texture") Caught Mob Vulcanite Default (item): **8995**
+- ![Caught Mob Evil_Tome Default](textures/09453_Caught%20Mob%20Evil_Tome%20Default.png "texture") Caught Mob Evil_Tome Default (item): **8996**
+- ![Caught Mob Magma_Toad Default](textures/09454_Caught%20Mob%20Magma_Toad%20Default.png "texture") Caught Mob Magma_Toad Default (item): **8997**
 - ![Doom Rivet](textures/09956_Doom%20Rivet.png "texture") Doom Rivet (item): **9499**
 - ![Doom Crest](textures/09957_Doom%20Crest.png "texture") Doom Crest (item): **9500**
 - ![Wood Blade](textures/10011_Wood%20Blade.png "texture") Wood Blade (item): **9554**
@@ -8176,25 +8176,25 @@
 - ![Diamond Hoe](textures/08577_Diamond%20Hoe.png "texture") Diamond Hoe (item): 8112 -> **8120**
 - ![Flashlight](textures/08578_Flashlight.png "texture") Flashlight (item): 8113 -> **8121**
 - ![Mining Helmet](textures/08579_Mining%20Helmet.png "texture") Mining Helmet (item): 8114 -> **8122**
-- Wood Helmet (item): 8115 -> **8123**
+- ![Wood Helmet](textures/08580_Wood%20Helmet.png "texture") Wood Helmet (item): 8115 -> **8123**
 - ![Iron Helmet](textures/08581_Iron%20Helmet.png "texture") Iron Helmet (item): 8116 -> **8124**
 - ![Gold Helmet](textures/08582_Gold%20Helmet.png "texture") Gold Helmet (item): 8117 -> **8125**
 - ![Diamond Helmet](textures/08583_Diamond%20Helmet.png "texture") Diamond Helmet (item): 8118 -> **8126**
-- Wood Chestplate (item): 8119 -> **8127**
+- ![Wood Chestplate](textures/08584_Wood%20Chestplate.png "texture") Wood Chestplate (item): 8119 -> **8127**
 - ![Iron Chestplate](textures/08585_Iron%20Chestplate.png "texture") Iron Chestplate (item): 8120 -> **8128**
 - ![Gold Chestplate](textures/08586_Gold%20Chestplate.png "texture") Gold Chestplate (item): 8121 -> **8129**
 - ![Diamond Chestplate](textures/08587_Diamond%20Chestplate.png "texture") Diamond Chestplate (item): 8122 -> **8130**
 - ![Fur Chestplate](textures/08588_Fur%20Chestplate.png "texture") Fur Chestplate (item): 8123 -> **8131**
-- Wood Leggings (item): 8124 -> **8132**
+- ![Wood Leggings](textures/08589_Wood%20Leggings.png "texture") Wood Leggings (item): 8124 -> **8132**
 - ![Iron Leggings](textures/08590_Iron%20Leggings.png "texture") Iron Leggings (item): 8125 -> **8133**
 - ![Gold Leggings](textures/08591_Gold%20Leggings.png "texture") Gold Leggings (item): 8126 -> **8134**
 - ![Diamond Leggings](textures/08592_Diamond%20Leggings.png "texture") Diamond Leggings (item): 8127 -> **8135**
-- Wood Boots (item): 8128 -> **8136**
+- ![Wood Boots](textures/08593_Wood%20Boots.png "texture") Wood Boots (item): 8128 -> **8136**
 - ![Iron Boots](textures/08594_Iron%20Boots.png "texture") Iron Boots (item): 8129 -> **8137**
 - ![Gold Boots](textures/08595_Gold%20Boots.png "texture") Gold Boots (item): 8130 -> **8138**
 - ![Diamond Boots](textures/08596_Diamond%20Boots.png "texture") Diamond Boots (item): 8131 -> **8139**
 - ![Spiked Boots](textures/08597_Spiked%20Boots.png "texture") Spiked Boots (item): 8132 -> **8140**
-- Wood Gauntlets (item): 8133 -> **8141**
+- ![Wood Gauntlets](textures/08598_Wood%20Gauntlets.png "texture") Wood Gauntlets (item): 8133 -> **8141**
 - ![Iron Gauntlets](textures/08599_Iron%20Gauntlets.png "texture") Iron Gauntlets (item): 8134 -> **8142**
 - ![Gold Gauntlets](textures/08600_Gold%20Gauntlets.png "texture") Gold Gauntlets (item): 8135 -> **8143**
 - ![Diamond Gauntlets](textures/08601_Diamond%20Gauntlets.png "texture") Diamond Gauntlets (item): 8136 -> **8144**
@@ -8203,81 +8203,81 @@
 - ![Military Gauntlets](textures/08604_Military%20Gauntlets.png "texture") Military Gauntlets (item): 8139 -> **8147**
 - ![Military Leggings](textures/08605_Military%20Leggings.png "texture") Military Leggings (item): 8140 -> **8148**
 - ![Military Boots](textures/08606_Military%20Boots.png "texture") Military Boots (item): 8141 -> **8149**
-- White Wood Helmet (item): 8142 -> **8150**
-- White Wood Chestplate (item): 8143 -> **8151**
-- White Wood Leggings (item): 8144 -> **8152**
-- White Wood Boots (item): 8145 -> **8153**
-- White Wood Gauntlets (item): 8146 -> **8154**
-- Orange Wood Helmet (item): 8147 -> **8155**
-- Orange Wood Chestplate (item): 8148 -> **8156**
-- Orange Wood Leggings (item): 8149 -> **8157**
-- Orange Wood Boots (item): 8150 -> **8158**
-- Orange Wood Gauntlets (item): 8151 -> **8159**
-- Magenta Wood Helmet (item): 8152 -> **8160**
-- Magenta Wood Chestplate (item): 8153 -> **8161**
-- Magenta Wood Leggings (item): 8154 -> **8162**
-- Magenta Wood Boots (item): 8155 -> **8163**
-- Magenta Wood Gauntlets (item): 8156 -> **8164**
-- Light Blue Wood Helmet (item): 8157 -> **8165**
-- Light Blue Wood Chestplate (item): 8158 -> **8166**
-- Light Blue Wood Leggings (item): 8159 -> **8167**
-- Light Blue Wood Boots (item): 8160 -> **8168**
-- Light Blue Wood Gauntlets (item): 8161 -> **8169**
-- Yellow Wood Helmet (item): 8162 -> **8170**
-- Yellow Wood Chestplate (item): 8163 -> **8171**
-- Yellow Wood Leggings (item): 8164 -> **8172**
-- Yellow Wood Boots (item): 8165 -> **8173**
-- Yellow Wood Gauntlets (item): 8166 -> **8174**
-- Lime Wood Helmet (item): 8167 -> **8175**
-- Lime Wood Chestplate (item): 8168 -> **8176**
-- Lime Wood Leggings (item): 8169 -> **8177**
-- Lime Wood Boots (item): 8170 -> **8178**
-- Lime Wood Gauntlets (item): 8171 -> **8179**
-- Pink Wood Helmet (item): 8172 -> **8180**
-- Pink Wood Chestplate (item): 8173 -> **8181**
-- Pink Wood Leggings (item): 8174 -> **8182**
-- Pink Wood Boots (item): 8175 -> **8183**
-- Pink Wood Gauntlets (item): 8176 -> **8184**
-- Gray Wood Helmet (item): 8177 -> **8185**
-- Gray Wood Chestplate (item): 8178 -> **8186**
-- Gray Wood Leggings (item): 8179 -> **8187**
-- Gray Wood Boots (item): 8180 -> **8188**
-- Gray Wood Gauntlets (item): 8181 -> **8189**
-- Light Gray Wood Helmet (item): 8182 -> **8190**
-- Light Gray Wood Chestplate (item): 8183 -> **8191**
-- Light Gray Wood Leggings (item): 8184 -> **8192**
-- Light Gray Wood Boots (item): 8185 -> **8193**
-- Light Gray Wood Gauntlets (item): 8186 -> **8194**
-- Cyan Wood Helmet (item): 8187 -> **8195**
-- Cyan Wood Chestplate (item): 8188 -> **8196**
-- Cyan Wood Leggings (item): 8189 -> **8197**
-- Cyan Wood Boots (item): 8190 -> **8198**
-- Cyan Wood Gauntlets (item): 8191 -> **8199**
-- Purple Wood Helmet (item): 8192 -> **8200**
-- Purple Wood Chestplate (item): 8193 -> **8201**
-- Purple Wood Leggings (item): 8194 -> **8202**
-- Purple Wood Boots (item): 8195 -> **8203**
-- Purple Wood Gauntlets (item): 8196 -> **8204**
-- Blue Wood Helmet (item): 8197 -> **8205**
-- Blue Wood Chestplate (item): 8198 -> **8206**
-- Blue Wood Leggings (item): 8199 -> **8207**
-- Blue Wood Boots (item): 8200 -> **8208**
-- Blue Wood Gauntlets (item): 8201 -> **8209**
-- Brown Wood Helmet (item): 8202 -> **8210**
-- Brown Wood Chestplate (item): 8203 -> **8211**
-- Brown Wood Leggings (item): 8204 -> **8212**
-- Brown Wood Boots (item): 8205 -> **8213**
-- Brown Wood Gauntlets (item): 8206 -> **8214**
-- Green Wood Helmet (item): 8207 -> **8215**
-- Green Wood Chestplate (item): 8208 -> **8216**
-- Green Wood Leggings (item): 8209 -> **8217**
-- Green Wood Boots (item): 8210 -> **8218**
-- Green Wood Gauntlets (item): 8211 -> **8219**
-- Red Wood Helmet (item): 8212 -> **8220**
-- Red Wood Chestplate (item): 8213 -> **8221**
-- Red Wood Leggings (item): 8214 -> **8222**
-- Red Wood Boots (item): 8215 -> **8223**
-- Red Wood Gauntlets (item): 8216 -> **8224**
+- ![White Wood Helmet](textures/08607_White%20Wood%20Helmet.png "texture") White Wood Helmet (item): 8142 -> **8150**
+- ![White Wood Chestplate](textures/08608_White%20Wood%20Chestplate.png "texture") White Wood Chestplate (item): 8143 -> **8151**
+- ![White Wood Leggings](textures/08609_White%20Wood%20Leggings.png "texture") White Wood Leggings (item): 8144 -> **8152**
+- ![White Wood Boots](textures/08610_White%20Wood%20Boots.png "texture") White Wood Boots (item): 8145 -> **8153**
+- ![White Wood Gauntlets](textures/08611_White%20Wood%20Gauntlets.png "texture") White Wood Gauntlets (item): 8146 -> **8154**
+- ![Orange Wood Helmet](textures/08612_Orange%20Wood%20Helmet.png "texture") Orange Wood Helmet (item): 8147 -> **8155**
+- ![Orange Wood Chestplate](textures/08613_Orange%20Wood%20Chestplate.png "texture") Orange Wood Chestplate (item): 8148 -> **8156**
+- ![Orange Wood Leggings](textures/08614_Orange%20Wood%20Leggings.png "texture") Orange Wood Leggings (item): 8149 -> **8157**
+- ![Orange Wood Boots](textures/08615_Orange%20Wood%20Boots.png "texture") Orange Wood Boots (item): 8150 -> **8158**
+- ![Orange Wood Gauntlets](textures/08616_Orange%20Wood%20Gauntlets.png "texture") Orange Wood Gauntlets (item): 8151 -> **8159**
+- ![Magenta Wood Helmet](textures/08617_Magenta%20Wood%20Helmet.png "texture") Magenta Wood Helmet (item): 8152 -> **8160**
+- ![Magenta Wood Chestplate](textures/08618_Magenta%20Wood%20Chestplate.png "texture") Magenta Wood Chestplate (item): 8153 -> **8161**
+- ![Magenta Wood Leggings](textures/08619_Magenta%20Wood%20Leggings.png "texture") Magenta Wood Leggings (item): 8154 -> **8162**
+- ![Magenta Wood Boots](textures/08620_Magenta%20Wood%20Boots.png "texture") Magenta Wood Boots (item): 8155 -> **8163**
+- ![Magenta Wood Gauntlets](textures/08621_Magenta%20Wood%20Gauntlets.png "texture") Magenta Wood Gauntlets (item): 8156 -> **8164**
+- ![Light Blue Wood Helmet](textures/08622_Light%20Blue%20Wood%20Helmet.png "texture") Light Blue Wood Helmet (item): 8157 -> **8165**
+- ![Light Blue Wood Chestplate](textures/08623_Light%20Blue%20Wood%20Chestplate.png "texture") Light Blue Wood Chestplate (item): 8158 -> **8166**
+- ![Light Blue Wood Leggings](textures/08624_Light%20Blue%20Wood%20Leggings.png "texture") Light Blue Wood Leggings (item): 8159 -> **8167**
+- ![Light Blue Wood Boots](textures/08625_Light%20Blue%20Wood%20Boots.png "texture") Light Blue Wood Boots (item): 8160 -> **8168**
+- ![Light Blue Wood Gauntlets](textures/08626_Light%20Blue%20Wood%20Gauntlets.png "texture") Light Blue Wood Gauntlets (item): 8161 -> **8169**
+- ![Yellow Wood Helmet](textures/08627_Yellow%20Wood%20Helmet.png "texture") Yellow Wood Helmet (item): 8162 -> **8170**
+- ![Yellow Wood Chestplate](textures/08628_Yellow%20Wood%20Chestplate.png "texture") Yellow Wood Chestplate (item): 8163 -> **8171**
+- ![Yellow Wood Leggings](textures/08629_Yellow%20Wood%20Leggings.png "texture") Yellow Wood Leggings (item): 8164 -> **8172**
+- ![Yellow Wood Boots](textures/08630_Yellow%20Wood%20Boots.png "texture") Yellow Wood Boots (item): 8165 -> **8173**
+- ![Yellow Wood Gauntlets](textures/08631_Yellow%20Wood%20Gauntlets.png "texture") Yellow Wood Gauntlets (item): 8166 -> **8174**
+- ![Lime Wood Helmet](textures/08632_Lime%20Wood%20Helmet.png "texture") Lime Wood Helmet (item): 8167 -> **8175**
+- ![Lime Wood Chestplate](textures/08633_Lime%20Wood%20Chestplate.png "texture") Lime Wood Chestplate (item): 8168 -> **8176**
+- ![Lime Wood Leggings](textures/08634_Lime%20Wood%20Leggings.png "texture") Lime Wood Leggings (item): 8169 -> **8177**
+- ![Lime Wood Boots](textures/08635_Lime%20Wood%20Boots.png "texture") Lime Wood Boots (item): 8170 -> **8178**
+- ![Lime Wood Gauntlets](textures/08636_Lime%20Wood%20Gauntlets.png "texture") Lime Wood Gauntlets (item): 8171 -> **8179**
+- ![Pink Wood Helmet](textures/08637_Pink%20Wood%20Helmet.png "texture") Pink Wood Helmet (item): 8172 -> **8180**
+- ![Pink Wood Chestplate](textures/08638_Pink%20Wood%20Chestplate.png "texture") Pink Wood Chestplate (item): 8173 -> **8181**
+- ![Pink Wood Leggings](textures/08639_Pink%20Wood%20Leggings.png "texture") Pink Wood Leggings (item): 8174 -> **8182**
+- ![Pink Wood Boots](textures/08640_Pink%20Wood%20Boots.png "texture") Pink Wood Boots (item): 8175 -> **8183**
+- ![Pink Wood Gauntlets](textures/08641_Pink%20Wood%20Gauntlets.png "texture") Pink Wood Gauntlets (item): 8176 -> **8184**
+- ![Gray Wood Helmet](textures/08642_Gray%20Wood%20Helmet.png "texture") Gray Wood Helmet (item): 8177 -> **8185**
+- ![Gray Wood Chestplate](textures/08643_Gray%20Wood%20Chestplate.png "texture") Gray Wood Chestplate (item): 8178 -> **8186**
+- ![Gray Wood Leggings](textures/08644_Gray%20Wood%20Leggings.png "texture") Gray Wood Leggings (item): 8179 -> **8187**
+- ![Gray Wood Boots](textures/08645_Gray%20Wood%20Boots.png "texture") Gray Wood Boots (item): 8180 -> **8188**
+- ![Gray Wood Gauntlets](textures/08646_Gray%20Wood%20Gauntlets.png "texture") Gray Wood Gauntlets (item): 8181 -> **8189**
+- ![Light Gray Wood Helmet](textures/08647_Light%20Gray%20Wood%20Helmet.png "texture") Light Gray Wood Helmet (item): 8182 -> **8190**
+- ![Light Gray Wood Chestplate](textures/08648_Light%20Gray%20Wood%20Chestplate.png "texture") Light Gray Wood Chestplate (item): 8183 -> **8191**
+- ![Light Gray Wood Leggings](textures/08649_Light%20Gray%20Wood%20Leggings.png "texture") Light Gray Wood Leggings (item): 8184 -> **8192**
+- ![Light Gray Wood Boots](textures/08650_Light%20Gray%20Wood%20Boots.png "texture") Light Gray Wood Boots (item): 8185 -> **8193**
+- ![Light Gray Wood Gauntlets](textures/08651_Light%20Gray%20Wood%20Gauntlets.png "texture") Light Gray Wood Gauntlets (item): 8186 -> **8194**
+- ![Cyan Wood Helmet](textures/08652_Cyan%20Wood%20Helmet.png "texture") Cyan Wood Helmet (item): 8187 -> **8195**
+- ![Cyan Wood Chestplate](textures/08653_Cyan%20Wood%20Chestplate.png "texture") Cyan Wood Chestplate (item): 8188 -> **8196**
+- ![Cyan Wood Leggings](textures/08654_Cyan%20Wood%20Leggings.png "texture") Cyan Wood Leggings (item): 8189 -> **8197**
+- ![Cyan Wood Boots](textures/08655_Cyan%20Wood%20Boots.png "texture") Cyan Wood Boots (item): 8190 -> **8198**
+- ![Cyan Wood Gauntlets](textures/08656_Cyan%20Wood%20Gauntlets.png "texture") Cyan Wood Gauntlets (item): 8191 -> **8199**
+- ![Purple Wood Helmet](textures/08657_Purple%20Wood%20Helmet.png "texture") Purple Wood Helmet (item): 8192 -> **8200**
+- ![Purple Wood Chestplate](textures/08658_Purple%20Wood%20Chestplate.png "texture") Purple Wood Chestplate (item): 8193 -> **8201**
+- ![Purple Wood Leggings](textures/08659_Purple%20Wood%20Leggings.png "texture") Purple Wood Leggings (item): 8194 -> **8202**
+- ![Purple Wood Boots](textures/08660_Purple%20Wood%20Boots.png "texture") Purple Wood Boots (item): 8195 -> **8203**
+- ![Purple Wood Gauntlets](textures/08661_Purple%20Wood%20Gauntlets.png "texture") Purple Wood Gauntlets (item): 8196 -> **8204**
+- ![Blue Wood Helmet](textures/08662_Blue%20Wood%20Helmet.png "texture") Blue Wood Helmet (item): 8197 -> **8205**
+- ![Blue Wood Chestplate](textures/08663_Blue%20Wood%20Chestplate.png "texture") Blue Wood Chestplate (item): 8198 -> **8206**
+- ![Blue Wood Leggings](textures/08664_Blue%20Wood%20Leggings.png "texture") Blue Wood Leggings (item): 8199 -> **8207**
+- ![Blue Wood Boots](textures/08665_Blue%20Wood%20Boots.png "texture") Blue Wood Boots (item): 8200 -> **8208**
+- ![Blue Wood Gauntlets](textures/08666_Blue%20Wood%20Gauntlets.png "texture") Blue Wood Gauntlets (item): 8201 -> **8209**
+- ![Brown Wood Helmet](textures/08667_Brown%20Wood%20Helmet.png "texture") Brown Wood Helmet (item): 8202 -> **8210**
+- ![Brown Wood Chestplate](textures/08668_Brown%20Wood%20Chestplate.png "texture") Brown Wood Chestplate (item): 8203 -> **8211**
+- ![Brown Wood Leggings](textures/08669_Brown%20Wood%20Leggings.png "texture") Brown Wood Leggings (item): 8204 -> **8212**
+- ![Brown Wood Boots](textures/08670_Brown%20Wood%20Boots.png "texture") Brown Wood Boots (item): 8205 -> **8213**
+- ![Brown Wood Gauntlets](textures/08671_Brown%20Wood%20Gauntlets.png "texture") Brown Wood Gauntlets (item): 8206 -> **8214**
+- ![Green Wood Helmet](textures/08672_Green%20Wood%20Helmet.png "texture") Green Wood Helmet (item): 8207 -> **8215**
+- ![Green Wood Chestplate](textures/08673_Green%20Wood%20Chestplate.png "texture") Green Wood Chestplate (item): 8208 -> **8216**
+- ![Green Wood Leggings](textures/08674_Green%20Wood%20Leggings.png "texture") Green Wood Leggings (item): 8209 -> **8217**
+- ![Green Wood Boots](textures/08675_Green%20Wood%20Boots.png "texture") Green Wood Boots (item): 8210 -> **8218**
+- ![Green Wood Gauntlets](textures/08676_Green%20Wood%20Gauntlets.png "texture") Green Wood Gauntlets (item): 8211 -> **8219**
+- ![Red Wood Helmet](textures/08677_Red%20Wood%20Helmet.png "texture") Red Wood Helmet (item): 8212 -> **8220**
+- ![Red Wood Chestplate](textures/08678_Red%20Wood%20Chestplate.png "texture") Red Wood Chestplate (item): 8213 -> **8221**
+- ![Red Wood Leggings](textures/08679_Red%20Wood%20Leggings.png "texture") Red Wood Leggings (item): 8214 -> **8222**
+- ![Red Wood Boots](textures/08680_Red%20Wood%20Boots.png "texture") Red Wood Boots (item): 8215 -> **8223**
+- ![Red Wood Gauntlets](textures/08681_Red%20Wood%20Gauntlets.png "texture") Red Wood Gauntlets (item): 8216 -> **8224**
 - ![Black Wood Helmet](textures/08682_Black%20Wood%20Helmet.png "texture") Black Wood Helmet (item): 8217 -> **8225**
 - ![Black Wood Chestplate](textures/08683_Black%20Wood%20Chestplate.png "texture") Black Wood Chestplate (item): 8218 -> **8226**
 - ![Black Wood Leggings](textures/08684_Black%20Wood%20Leggings.png "texture") Black Wood Leggings (item): 8219 -> **8227**
@@ -8311,38 +8311,38 @@
 - ![Bucket](textures/08712_Bucket.png "texture") Bucket (item): 8247 -> **8255**
 - ![Water Bucket](textures/08713_Water%20Bucket.png "texture") Water Bucket (item): 8248 -> **8256**
 - ![Lava Bucket](textures/08714_Lava%20Bucket.png "texture") Lava Bucket (item): 8249 -> **8257**
-- Boat (item): 8250 -> **8258**
+- ![Boat](textures/08715_Boat.png "texture") Boat (item): 8250 -> **8258**
 - ![INTERNAL_MESH_Boat](textures/08716_INTERNAL_MESH_Boat.png "texture") INTERNAL_MESH_Boat (item): 8251 -> **8259**
-- Obsidian Boat (item): 8252 -> **8260**
+- ![Obsidian Boat](textures/08717_Obsidian%20Boat.png "texture") Obsidian Boat (item): 8252 -> **8260**
 - ![INTERNAL_MESH_Obsidian Boat](textures/08718_INTERNAL_MESH_Obsidian%20Boat.png "texture") INTERNAL_MESH_Obsidian Boat (item): 8253 -> **8261**
-- Speedboat (item): 8254 -> **8262**
+- ![Speedboat](textures/08719_Speedboat.png "texture") Speedboat (item): 8254 -> **8262**
 - ![INTERNAL_MESH_Speedboat](textures/08720_INTERNAL_MESH_Speedboat.png "texture") INTERNAL_MESH_Speedboat (item): 8255 -> **8263**
-- Wood Hang Glider (item): 8256 -> **8264**
+- ![Wood Hang Glider](textures/08721_Wood%20Hang%20Glider.png "texture") Wood Hang Glider (item): 8256 -> **8264**
 - ![INTERNAL_MESH_Wood Hang Glider](textures/08722_INTERNAL_MESH_Wood%20Hang%20Glider.png "texture") INTERNAL_MESH_Wood Hang Glider (item): 8257 -> **8265**
-- Iron Hang Glider (item): 8258 -> **8266**
+- ![Iron Hang Glider](textures/08723_Iron%20Hang%20Glider.png "texture") Iron Hang Glider (item): 8258 -> **8266**
 - ![INTERNAL_MESH_Iron Hang Glider](textures/08724_INTERNAL_MESH_Iron%20Hang%20Glider.png "texture") INTERNAL_MESH_Iron Hang Glider (item): 8259 -> **8267**
-- Gold Hang Glider (item): 8260 -> **8268**
+- ![Gold Hang Glider](textures/08725_Gold%20Hang%20Glider.png "texture") Gold Hang Glider (item): 8260 -> **8268**
 - ![INTERNAL_MESH_Gold Hang Glider](textures/08726_INTERNAL_MESH_Gold%20Hang%20Glider.png "texture") INTERNAL_MESH_Gold Hang Glider (item): 8261 -> **8269**
-- Diamond Hang Glider (item): 8262 -> **8270**
+- ![Diamond Hang Glider](textures/08727_Diamond%20Hang%20Glider.png "texture") Diamond Hang Glider (item): 8262 -> **8270**
 - ![INTERNAL_MESH_Diamond Hang Glider](textures/08728_INTERNAL_MESH_Diamond%20Hang%20Glider.png "texture") INTERNAL_MESH_Diamond Hang Glider (item): 8263 -> **8271**
-- Hovercraft (item): 8264 -> **8272**
+- ![Hovercraft](textures/08729_Hovercraft.png "texture") Hovercraft (item): 8264 -> **8272**
 - ![INTERNAL_MESH_Hovercraft](textures/08730_INTERNAL_MESH_Hovercraft.png "texture") INTERNAL_MESH_Hovercraft (item): 8265 -> **8273**
-- Yellow Kart (item): 8266 -> **8274**
-- White Kart (item): 8267 -> **8275**
-- Red Kart (item): 8268 -> **8276**
-- Purple Kart (item): 8269 -> **8277**
-- Pink Kart (item): 8270 -> **8278**
-- Orange Kart (item): 8271 -> **8279**
-- Magenta Kart (item): 8272 -> **8280**
-- Lime Kart (item): 8273 -> **8281**
-- Light Gray Kart (item): 8274 -> **8282**
-- Light Blue Kart (item): 8275 -> **8283**
-- Green Kart (item): 8276 -> **8284**
-- Gray Kart (item): 8277 -> **8285**
-- Cyan Kart (item): 8278 -> **8286**
-- Brown Kart (item): 8279 -> **8287**
-- Blue Kart (item): 8280 -> **8288**
-- Black Kart (item): 8281 -> **8289**
+- ![Yellow Kart](textures/08731_Yellow%20Kart.png "texture") Yellow Kart (item): 8266 -> **8274**
+- ![White Kart](textures/08732_White%20Kart.png "texture") White Kart (item): 8267 -> **8275**
+- ![Red Kart](textures/08733_Red%20Kart.png "texture") Red Kart (item): 8268 -> **8276**
+- ![Purple Kart](textures/08734_Purple%20Kart.png "texture") Purple Kart (item): 8269 -> **8277**
+- ![Pink Kart](textures/08735_Pink%20Kart.png "texture") Pink Kart (item): 8270 -> **8278**
+- ![Orange Kart](textures/08736_Orange%20Kart.png "texture") Orange Kart (item): 8271 -> **8279**
+- ![Magenta Kart](textures/08737_Magenta%20Kart.png "texture") Magenta Kart (item): 8272 -> **8280**
+- ![Lime Kart](textures/08738_Lime%20Kart.png "texture") Lime Kart (item): 8273 -> **8281**
+- ![Light Gray Kart](textures/08739_Light%20Gray%20Kart.png "texture") Light Gray Kart (item): 8274 -> **8282**
+- ![Light Blue Kart](textures/08740_Light%20Blue%20Kart.png "texture") Light Blue Kart (item): 8275 -> **8283**
+- ![Green Kart](textures/08741_Green%20Kart.png "texture") Green Kart (item): 8276 -> **8284**
+- ![Gray Kart](textures/08742_Gray%20Kart.png "texture") Gray Kart (item): 8277 -> **8285**
+- ![Cyan Kart](textures/08743_Cyan%20Kart.png "texture") Cyan Kart (item): 8278 -> **8286**
+- ![Brown Kart](textures/08744_Brown%20Kart.png "texture") Brown Kart (item): 8279 -> **8287**
+- ![Blue Kart](textures/08745_Blue%20Kart.png "texture") Blue Kart (item): 8280 -> **8288**
+- ![Black Kart](textures/08746_Black%20Kart.png "texture") Black Kart (item): 8281 -> **8289**
 - ![INTERNAL_MESH_Yellow Kart](textures/08747_INTERNAL_MESH_Yellow%20Kart.png "texture") INTERNAL_MESH_Yellow Kart (item): 8282 -> **8290**
 - ![INTERNAL_MESH_White Kart](textures/08748_INTERNAL_MESH_White%20Kart.png "texture") INTERNAL_MESH_White Kart (item): 8283 -> **8291**
 - ![INTERNAL_MESH_Red Kart](textures/08749_INTERNAL_MESH_Red%20Kart.png "texture") INTERNAL_MESH_Red Kart (item): 8284 -> **8292**
@@ -8359,25 +8359,25 @@
 - ![INTERNAL_MESH_Brown Kart](textures/08760_INTERNAL_MESH_Brown%20Kart.png "texture") INTERNAL_MESH_Brown Kart (item): 8295 -> **8303**
 - ![INTERNAL_MESH_Blue Kart](textures/08761_INTERNAL_MESH_Blue%20Kart.png "texture") INTERNAL_MESH_Blue Kart (item): 8296 -> **8304**
 - ![INTERNAL_MESH_Black Kart](textures/08762_INTERNAL_MESH_Black%20Kart.png "texture") INTERNAL_MESH_Black Kart (item): 8297 -> **8305**
-- Off Roader (item): 8298 -> **8306**
-- INTERNAL_MESH_Off Roader (item): 8299 -> **8307**
-- Gold Mining Drill (item): 8300 -> **8308**
-- Iron Mining Drill (item): 8301 -> **8309**
-- Diamond Mining Drill (item): 8302 -> **8310**
-- Moonstone Mining Drill (item): 8303 -> **8311**
-- Armored Car (item): 8304 -> **8312**
-- INTERNAL_MESH_Gold Mining Drill (item): 8305 -> **8313**
-- INTERNAL_MESH_Iron Mining Drill (item): 8306 -> **8314**
-- INTERNAL_MESH_Diamond Mining Drill (item): 8307 -> **8315**
+- ![Off Roader](textures/08763_Off%20Roader.png "texture") Off Roader (item): 8298 -> **8306**
+- ![INTERNAL_MESH_Off Roader](textures/08764_INTERNAL_MESH_Off%20Roader.png "texture") INTERNAL_MESH_Off Roader (item): 8299 -> **8307**
+- ![Gold Mining Drill](textures/08765_Gold%20Mining%20Drill.png "texture") Gold Mining Drill (item): 8300 -> **8308**
+- ![Iron Mining Drill](textures/08766_Iron%20Mining%20Drill.png "texture") Iron Mining Drill (item): 8301 -> **8309**
+- ![Diamond Mining Drill](textures/08767_Diamond%20Mining%20Drill.png "texture") Diamond Mining Drill (item): 8302 -> **8310**
+- ![Moonstone Mining Drill](textures/08768_Moonstone%20Mining%20Drill.png "texture") Moonstone Mining Drill (item): 8303 -> **8311**
+- ![Armored Car](textures/08769_Armored%20Car.png "texture") Armored Car (item): 8304 -> **8312**
+- ![INTERNAL_MESH_Gold Mining Drill](textures/08770_INTERNAL_MESH_Gold%20Mining%20Drill.png "texture") INTERNAL_MESH_Gold Mining Drill (item): 8305 -> **8313**
+- ![INTERNAL_MESH_Iron Mining Drill](textures/08771_INTERNAL_MESH_Iron%20Mining%20Drill.png "texture") INTERNAL_MESH_Iron Mining Drill (item): 8306 -> **8314**
+- ![INTERNAL_MESH_Diamond Mining Drill](textures/08772_INTERNAL_MESH_Diamond%20Mining%20Drill.png "texture") INTERNAL_MESH_Diamond Mining Drill (item): 8307 -> **8315**
 - ![INTERNAL_MESH_Moonstone Mining Drill](textures/08773_INTERNAL_MESH_Moonstone%20Mining%20Drill.png "texture") INTERNAL_MESH_Moonstone Mining Drill (item): 8308 -> **8316**
 - ![INTERNAL_MESH_Armored Car](textures/08774_INTERNAL_MESH_Armored%20Car.png "texture") INTERNAL_MESH_Armored Car (item): 8309 -> **8317**
-- Light Blue Car (item): 8310 -> **8318**
+- ![Light Blue Car](textures/08775_Light%20Blue%20Car.png "texture") Light Blue Car (item): 8310 -> **8318**
 - ![INTERNAL_MESH_Car](textures/08776_INTERNAL_MESH_Car.png "texture") INTERNAL_MESH_Car (item): 8311 -> **8319**
-- Snowball (item): 8312 -> **8320**
+- ![Snowball](textures/08777_Snowball.png "texture") Snowball (item): 8312 -> **8320**
 - ![Snowball Launcher](textures/08778_Snowball%20Launcher.png "texture") Snowball Launcher (item): 8313 -> **8321**
-- Pebble (item): 8314 -> **8322**
+- ![Pebble](textures/08779_Pebble.png "texture") Pebble (item): 8314 -> **8322**
 - ![Reinforced Pebble](textures/08780_Reinforced%20Pebble.png "texture") Reinforced Pebble (item): 8315 -> **8323**
-- Bullet (item): 8316 -> **8324**
+- ![Bullet](textures/08781_Bullet.png "texture") Bullet (item): 8316 -> **8324**
 - ![Ball](textures/08782_Ball.png "texture") Ball (item): 8317 -> **8325**
 - ![Reinforced Ball](textures/08783_Reinforced%20Ball.png "texture") Reinforced Ball (item): 8318 -> **8326**
 - ![Frag Grenade](textures/08784_Frag%20Grenade.png "texture") Frag Grenade (item): 8319 -> **8327**
@@ -8386,14 +8386,14 @@
 - ![Moonstone Orb](textures/08787_Moonstone%20Orb.png "texture") Moonstone Orb (item): 8322 -> **8330**
 - ![Fireball](textures/08788_Fireball.png "texture") Fireball (item): 8323 -> **8331**
 - ![Bouncy Bomb](textures/08789_Bouncy%20Bomb.png "texture") Bouncy Bomb (item): 8324 -> **8332**
-- RPG (item): 8325 -> **8333**
+- ![RPG](textures/08790_RPG.png "texture") RPG (item): 8325 -> **8333**
 - ![Obby RPG](textures/08791_Obby%20RPG.png "texture") Obby RPG (item): 8326 -> **8334**
 - ![Super RPG](textures/08792_Super%20RPG.png "texture") Super RPG (item): 8327 -> **8335**
 - ![Grenade Launcher](textures/08793_Grenade%20Launcher.png "texture") Grenade Launcher (item): 8328 -> **8336**
 - ![Iceball](textures/08794_Iceball.png "texture") Iceball (item): 8329 -> **8337**
-- 67 Base Projectile (item): 8330 -> **8338**
-- 67 Boosted Projectile (item): 8331 -> **8339**
-- Capitano Grenade (item): 8332 -> **8340**
+- ![67 Base Projectile](textures/08795_67%20Base%20Projectile.png "texture") 67 Base Projectile (item): 8330 -> **8338**
+- ![67 Boosted Projectile](textures/08796_67%20Boosted%20Projectile.png "texture") 67 Boosted Projectile (item): 8331 -> **8339**
+- ![Capitano Grenade](textures/08797_Capitano%20Grenade.png "texture") Capitano Grenade (item): 8332 -> **8340**
 - ![Scatter Pellet](textures/08798_Scatter%20Pellet.png "texture") Scatter Pellet (item): 8333 -> **8341**
 - ![Wood Bow](textures/08799_Wood%20Bow.png "texture") Wood Bow (item): 8334 -> **8342**
 - ![Wood Bow|meta|charging2](textures/08800_Wood%20Bow.meta.charging2.png "texture") Wood Bow|meta|charging2 (item): 8335 -> **8343**
@@ -8505,77 +8505,77 @@
 - ![Brood Sac](textures/08906_Brood%20Sac.png "texture") Brood Sac (item): 8441 -> **8449**
 - ![Bandolier](textures/08907_Bandolier.png "texture") Bandolier (item): 8442 -> **8450**
 - ![Name Tag](textures/08908_Name%20Tag.png "texture") Name Tag (item): 8443 -> **8451**
-- Book (item): 8444 -> **8452**
+- ![Book](textures/08909_Book.png "texture") Book (item): 8444 -> **8452**
 - ![Empty Bottle](textures/08910_Empty%20Bottle.png "texture") Empty Bottle (item): 8445 -> **8453**
 - ![Water Bottle](textures/08911_Water%20Bottle.png "texture") Water Bottle (item): 8446 -> **8454**
-- Slowness Potion (item): 8447 -> **8455**
+- ![Slowness Potion](textures/08912_Slowness%20Potion.png "texture") Slowness Potion (item): 8447 -> **8455**
 - ![Slowness Potion II](textures/08913_Slowness%20Potion%20II.png "texture") Slowness Potion II (item): 8448 -> **8456**
-- Splash Slowness Potion (item): 8449 -> **8457**
+- ![Splash Slowness Potion](textures/08914_Splash%20Slowness%20Potion.png "texture") Splash Slowness Potion (item): 8449 -> **8457**
 - ![Splash Slowness Potion II](textures/08915_Splash%20Slowness%20Potion%20II.png "texture") Splash Slowness Potion II (item): 8450 -> **8458**
 - ![Arrow of Slowness](textures/08916_Arrow%20of%20Slowness.png "texture") Arrow of Slowness (item): 8451 -> **8459**
-- Poison Potion (item): 8452 -> **8460**
+- ![Poison Potion](textures/08917_Poison%20Potion.png "texture") Poison Potion (item): 8452 -> **8460**
 - ![Poison Potion II](textures/08918_Poison%20Potion%20II.png "texture") Poison Potion II (item): 8453 -> **8461**
-- Splash Poison Potion (item): 8454 -> **8462**
+- ![Splash Poison Potion](textures/08919_Splash%20Poison%20Potion.png "texture") Splash Poison Potion (item): 8454 -> **8462**
 - ![Splash Poison Potion II](textures/08920_Splash%20Poison%20Potion%20II.png "texture") Splash Poison Potion II (item): 8455 -> **8463**
 - ![Arrow of Poison](textures/08921_Arrow%20of%20Poison.png "texture") Arrow of Poison (item): 8456 -> **8464**
-- Weakness Potion (item): 8457 -> **8465**
+- ![Weakness Potion](textures/08922_Weakness%20Potion.png "texture") Weakness Potion (item): 8457 -> **8465**
 - ![Weakness Potion II](textures/08923_Weakness%20Potion%20II.png "texture") Weakness Potion II (item): 8458 -> **8466**
-- Splash Weakness Potion (item): 8459 -> **8467**
+- ![Splash Weakness Potion](textures/08924_Splash%20Weakness%20Potion.png "texture") Splash Weakness Potion (item): 8459 -> **8467**
 - ![Splash Weakness Potion II](textures/08925_Splash%20Weakness%20Potion%20II.png "texture") Splash Weakness Potion II (item): 8460 -> **8468**
 - ![Arrow of Weakness](textures/08926_Arrow%20of%20Weakness.png "texture") Arrow of Weakness (item): 8461 -> **8469**
-- Instant Damage Potion (item): 8462 -> **8470**
+- ![Instant Damage Potion](textures/08927_Instant%20Damage%20Potion.png "texture") Instant Damage Potion (item): 8462 -> **8470**
 - ![Instant Damage Potion II](textures/08928_Instant%20Damage%20Potion%20II.png "texture") Instant Damage Potion II (item): 8463 -> **8471**
-- Splash Instant Damage Potion (item): 8464 -> **8472**
+- ![Splash Instant Damage Potion](textures/08929_Splash%20Instant%20Damage%20Potion.png "texture") Splash Instant Damage Potion (item): 8464 -> **8472**
 - ![Splash Instant Damage Potion II](textures/08930_Splash%20Instant%20Damage%20Potion%20II.png "texture") Splash Instant Damage Potion II (item): 8465 -> **8473**
 - ![Arrow of Instant Damage](textures/08931_Arrow%20of%20Instant%20Damage.png "texture") Arrow of Instant Damage (item): 8466 -> **8474**
 - ![Milk Potion](textures/08932_Milk%20Potion.png "texture") Milk Potion (item): 8467 -> **8475**
 - ![Splash Milk Potion](textures/08933_Splash%20Milk%20Potion.png "texture") Splash Milk Potion (item): 8468 -> **8476**
 - ![Arrow of Milk](textures/08934_Arrow%20of%20Milk.png "texture") Arrow of Milk (item): 8469 -> **8477**
-- Speed Potion (item): 8470 -> **8478**
+- ![Speed Potion](textures/08935_Speed%20Potion.png "texture") Speed Potion (item): 8470 -> **8478**
 - ![Speed Potion II](textures/08936_Speed%20Potion%20II.png "texture") Speed Potion II (item): 8471 -> **8479**
-- Splash Speed Potion (item): 8472 -> **8480**
+- ![Splash Speed Potion](textures/08937_Splash%20Speed%20Potion.png "texture") Splash Speed Potion (item): 8472 -> **8480**
 - ![Splash Speed Potion II](textures/08938_Splash%20Speed%20Potion%20II.png "texture") Splash Speed Potion II (item): 8473 -> **8481**
 - ![Arrow of Speed](textures/08939_Arrow%20of%20Speed.png "texture") Arrow of Speed (item): 8474 -> **8482**
-- Defense Potion (item): 8475 -> **8483**
+- ![Defense Potion](textures/08940_Defense%20Potion.png "texture") Defense Potion (item): 8475 -> **8483**
 - ![Defense Potion II](textures/08941_Defense%20Potion%20II.png "texture") Defense Potion II (item): 8476 -> **8484**
-- Splash Defense Potion (item): 8477 -> **8485**
+- ![Splash Defense Potion](textures/08942_Splash%20Defense%20Potion.png "texture") Splash Defense Potion (item): 8477 -> **8485**
 - ![Splash Defense Potion II](textures/08943_Splash%20Defense%20Potion%20II.png "texture") Splash Defense Potion II (item): 8478 -> **8486**
 - ![Arrow of Defense](textures/08944_Arrow%20of%20Defense.png "texture") Arrow of Defense (item): 8479 -> **8487**
-- Strength Potion (item): 8480 -> **8488**
+- ![Strength Potion](textures/08945_Strength%20Potion.png "texture") Strength Potion (item): 8480 -> **8488**
 - ![Strength Potion II](textures/08946_Strength%20Potion%20II.png "texture") Strength Potion II (item): 8481 -> **8489**
-- Splash Strength Potion (item): 8482 -> **8490**
+- ![Splash Strength Potion](textures/08947_Splash%20Strength%20Potion.png "texture") Splash Strength Potion (item): 8482 -> **8490**
 - ![Splash Strength Potion II](textures/08948_Splash%20Strength%20Potion%20II.png "texture") Splash Strength Potion II (item): 8483 -> **8491**
 - ![Arrow of Strength](textures/08949_Arrow%20of%20Strength.png "texture") Arrow of Strength (item): 8484 -> **8492**
 - ![Invisibility Potion](textures/08950_Invisibility%20Potion.png "texture") Invisibility Potion (item): 8485 -> **8493**
 - ![Splash Invisibility Potion](textures/08951_Splash%20Invisibility%20Potion.png "texture") Splash Invisibility Potion (item): 8486 -> **8494**
 - ![Arrow of Invisibility](textures/08952_Arrow%20of%20Invisibility.png "texture") Arrow of Invisibility (item): 8487 -> **8495**
-- Jump Potion (item): 8488 -> **8496**
+- ![Jump Potion](textures/08953_Jump%20Potion.png "texture") Jump Potion (item): 8488 -> **8496**
 - ![Jump Potion II](textures/08954_Jump%20Potion%20II.png "texture") Jump Potion II (item): 8489 -> **8497**
-- Splash Jump Potion (item): 8490 -> **8498**
+- ![Splash Jump Potion](textures/08955_Splash%20Jump%20Potion.png "texture") Splash Jump Potion (item): 8490 -> **8498**
 - ![Splash Jump Potion II](textures/08956_Splash%20Jump%20Potion%20II.png "texture") Splash Jump Potion II (item): 8491 -> **8499**
 - ![Arrow of Jumping](textures/08957_Arrow%20of%20Jumping.png "texture") Arrow of Jumping (item): 8492 -> **8500**
 - ![Knockback Potion](textures/08958_Knockback%20Potion.png "texture") Knockback Potion (item): 8493 -> **8501**
-- Splash Knockback Potion (item): 8494 -> **8502**
+- ![Splash Knockback Potion](textures/08959_Splash%20Knockback%20Potion.png "texture") Splash Knockback Potion (item): 8494 -> **8502**
 - ![Splash Knockback Potion II](textures/08960_Splash%20Knockback%20Potion%20II.png "texture") Splash Knockback Potion II (item): 8495 -> **8503**
 - ![Arrow of Knockback](textures/08961_Arrow%20of%20Knockback.png "texture") Arrow of Knockback (item): 8496 -> **8504**
-- Regeneration Potion (item): 8497 -> **8505**
+- ![Regeneration Potion](textures/08962_Regeneration%20Potion.png "texture") Regeneration Potion (item): 8497 -> **8505**
 - ![Regeneration Potion II](textures/08963_Regeneration%20Potion%20II.png "texture") Regeneration Potion II (item): 8498 -> **8506**
-- Splash Regeneration Potion (item): 8499 -> **8507**
+- ![Splash Regeneration Potion](textures/08964_Splash%20Regeneration%20Potion.png "texture") Splash Regeneration Potion (item): 8499 -> **8507**
 - ![Splash Regeneration Potion II](textures/08965_Splash%20Regeneration%20Potion%20II.png "texture") Splash Regeneration Potion II (item): 8500 -> **8508**
 - ![Arrow of Regeneration](textures/08966_Arrow%20of%20Regeneration.png "texture") Arrow of Regeneration (item): 8501 -> **8509**
-- Instant Healing Potion (item): 8502 -> **8510**
+- ![Instant Healing Potion](textures/08967_Instant%20Healing%20Potion.png "texture") Instant Healing Potion (item): 8502 -> **8510**
 - ![Instant Healing Potion II](textures/08968_Instant%20Healing%20Potion%20II.png "texture") Instant Healing Potion II (item): 8503 -> **8511**
-- Splash Instant Healing Potion (item): 8504 -> **8512**
+- ![Splash Instant Healing Potion](textures/08969_Splash%20Instant%20Healing%20Potion.png "texture") Splash Instant Healing Potion (item): 8504 -> **8512**
 - ![Splash Instant Healing Potion II](textures/08970_Splash%20Instant%20Healing%20Potion%20II.png "texture") Splash Instant Healing Potion II (item): 8505 -> **8513**
 - ![Arrow of Instant Healing](textures/08971_Arrow%20of%20Instant%20Healing.png "texture") Arrow of Instant Healing (item): 8506 -> **8514**
-- Haste Potion (item): 8507 -> **8515**
+- ![Haste Potion](textures/08972_Haste%20Potion.png "texture") Haste Potion (item): 8507 -> **8515**
 - ![Haste Potion II](textures/08973_Haste%20Potion%20II.png "texture") Haste Potion II (item): 8508 -> **8516**
-- Splash Haste Potion (item): 8509 -> **8517**
+- ![Splash Haste Potion](textures/08974_Splash%20Haste%20Potion.png "texture") Splash Haste Potion (item): 8509 -> **8517**
 - ![Splash Haste Potion II](textures/08975_Splash%20Haste%20Potion%20II.png "texture") Splash Haste Potion II (item): 8510 -> **8518**
 - ![Arrow of Haste](textures/08976_Arrow%20of%20Haste.png "texture") Arrow of Haste (item): 8511 -> **8519**
-- Shield Potion (item): 8512 -> **8520**
+- ![Shield Potion](textures/08977_Shield%20Potion.png "texture") Shield Potion (item): 8512 -> **8520**
 - ![Shield Potion II](textures/08978_Shield%20Potion%20II.png "texture") Shield Potion II (item): 8513 -> **8521**
-- Splash Shield Potion (item): 8514 -> **8522**
+- ![Splash Shield Potion](textures/08979_Splash%20Shield%20Potion.png "texture") Splash Shield Potion (item): 8514 -> **8522**
 - ![Splash Shield Potion II](textures/08980_Splash%20Shield%20Potion%20II.png "texture") Splash Shield Potion II (item): 8515 -> **8523**
 - ![Arrow of Shield](textures/08981_Arrow%20of%20Shield.png "texture") Arrow of Shield (item): 8516 -> **8524**
 - ![Double Jump Potion](textures/08982_Double%20Jump%20Potion.png "texture") Double Jump Potion (item): 8517 -> **8525**
@@ -8587,9 +8587,9 @@
 - ![X-Ray Vision Potion](textures/08988_X-Ray%20Vision%20Potion.png "texture") X-Ray Vision Potion (item): 8523 -> **8531**
 - ![Splash X-Ray Vision Potion](textures/08989_Splash%20X-Ray%20Vision%20Potion.png "texture") Splash X-Ray Vision Potion (item): 8524 -> **8532**
 - ![Arrow of X-Ray Vision](textures/08990_Arrow%20of%20X-Ray%20Vision.png "texture") Arrow of X-Ray Vision (item): 8525 -> **8533**
-- Mining Yield Potion (item): 8526 -> **8534**
+- ![Mining Yield Potion](textures/08991_Mining%20Yield%20Potion.png "texture") Mining Yield Potion (item): 8526 -> **8534**
 - ![Mining Yield Potion II](textures/08992_Mining%20Yield%20Potion%20II.png "texture") Mining Yield Potion II (item): 8527 -> **8535**
-- Splash Mining Yield Potion (item): 8528 -> **8536**
+- ![Splash Mining Yield Potion](textures/08993_Splash%20Mining%20Yield%20Potion.png "texture") Splash Mining Yield Potion (item): 8528 -> **8536**
 - ![Splash Mining Yield Potion II](textures/08994_Splash%20Mining%20Yield%20Potion%20II.png "texture") Splash Mining Yield Potion II (item): 8529 -> **8537**
 - ![Arrow of Mining Yield](textures/08995_Arrow%20of%20Mining%20Yield.png "texture") Arrow of Mining Yield (item): 8530 -> **8538**
 - ![Brain Rot Potion](textures/08996_Brain%20Rot%20Potion.png "texture") Brain Rot Potion (item): 8531 -> **8539**
@@ -8598,41 +8598,41 @@
 - ![Chaos Potion](textures/08999_Chaos%20Potion.png "texture") Chaos Potion (item): 8534 -> **8542**
 - ![Teleportation Potion](textures/09000_Teleportation%20Potion.png "texture") Teleportation Potion (item): 8535 -> **8543**
 - ![Ammo](textures/09001_Ammo.png "texture") Ammo (item): 8536 -> **8544**
-- AK-47 (item): 8537 -> **8545**
+- ![AK-47](textures/09002_AK-47.png "texture") AK-47 (item): 8537 -> **8545**
 - ![AK-47|RequiresAmmo](textures/09003_AK-47.RequiresAmmo.png "texture") AK-47|RequiresAmmo (item): 8538 -> **8546**
-- M16 (item): 8539 -> **8547**
+- ![M16](textures/09004_M16.png "texture") M16 (item): 8539 -> **8547**
 - ![M16|RequiresAmmo](textures/09005_M16.RequiresAmmo.png "texture") M16|RequiresAmmo (item): 8540 -> **8548**
-- MP40 (item): 8541 -> **8549**
+- ![MP40](textures/09006_MP40.png "texture") MP40 (item): 8541 -> **8549**
 - ![MP40|RequiresAmmo](textures/09007_MP40.RequiresAmmo.png "texture") MP40|RequiresAmmo (item): 8542 -> **8550**
-- TAR-21 (item): 8543 -> **8551**
+- ![TAR-21](textures/09008_TAR-21.png "texture") TAR-21 (item): 8543 -> **8551**
 - ![TAR-21|RequiresAmmo](textures/09009_TAR-21.RequiresAmmo.png "texture") TAR-21|RequiresAmmo (item): 8544 -> **8552**
-- M1911 (item): 8545 -> **8553**
-- M1911|RequiresAmmo (item): 8546 -> **8554**
-- One Shot Pistol (item): 8547 -> **8555**
+- ![M1911](textures/09010_M1911.png "texture") M1911 (item): 8545 -> **8553**
+- ![M1911|RequiresAmmo](textures/09011_M1911.RequiresAmmo.png "texture") M1911|RequiresAmmo (item): 8546 -> **8554**
+- ![One Shot Pistol](textures/09012_One%20Shot%20Pistol.png "texture") One Shot Pistol (item): 8547 -> **8555**
 - ![One Shot Pistol|RequiresAmmo](textures/09013_One%20Shot%20Pistol.RequiresAmmo.png "texture") One Shot Pistol|RequiresAmmo (item): 8548 -> **8556**
-- Double Barrel (item): 8549 -> **8557**
+- ![Double Barrel](textures/09014_Double%20Barrel.png "texture") Double Barrel (item): 8549 -> **8557**
 - ![Double Barrel|RequiresAmmo](textures/09015_Double%20Barrel.RequiresAmmo.png "texture") Double Barrel|RequiresAmmo (item): 8550 -> **8558**
-- AWP (item): 8551 -> **8559**
+- ![AWP](textures/09016_AWP.png "texture") AWP (item): 8551 -> **8559**
 - ![AWP|RequiresAmmo](textures/09017_AWP.RequiresAmmo.png "texture") AWP|RequiresAmmo (item): 8552 -> **8560**
-- Deagle (item): 8553 -> **8561**
+- ![Deagle](textures/09018_Deagle.png "texture") Deagle (item): 8553 -> **8561**
 - ![Deagle|RequiresAmmo](textures/09019_Deagle.RequiresAmmo.png "texture") Deagle|RequiresAmmo (item): 8554 -> **8562**
-- Striker-12 (item): 8555 -> **8563**
+- ![Striker-12](textures/09020_Striker-12.png "texture") Striker-12 (item): 8555 -> **8563**
 - ![Striker-12|RequiresAmmo](textures/09021_Striker-12.RequiresAmmo.png "texture") Striker-12|RequiresAmmo (item): 8556 -> **8564**
-- VSR (item): 8557 -> **8565**
+- ![VSR](textures/09022_VSR.png "texture") VSR (item): 8557 -> **8565**
 - ![VSR|RequiresAmmo](textures/09023_VSR.RequiresAmmo.png "texture") VSR|RequiresAmmo (item): 8558 -> **8566**
-- DMR (item): 8559 -> **8567**
+- ![DMR](textures/09024_DMR.png "texture") DMR (item): 8559 -> **8567**
 - ![DMR|RequiresAmmo](textures/09025_DMR.RequiresAmmo.png "texture") DMR|RequiresAmmo (item): 8560 -> **8568**
-- Minigun (item): 8561 -> **8569**
+- ![Minigun](textures/09026_Minigun.png "texture") Minigun (item): 8561 -> **8569**
 - ![Minigun|RequiresAmmo](textures/09027_Minigun.RequiresAmmo.png "texture") Minigun|RequiresAmmo (item): 8562 -> **8570**
-- FMR (item): 8563 -> **8571**
+- ![FMR](textures/09028_FMR.png "texture") FMR (item): 8563 -> **8571**
 - ![FMR|RequiresAmmo](textures/09029_FMR.RequiresAmmo.png "texture") FMR|RequiresAmmo (item): 8564 -> **8572**
-- SKAR (item): 8565 -> **8573**
+- ![SKAR](textures/09030_SKAR.png "texture") SKAR (item): 8565 -> **8573**
 - ![SKAR|RequiresAmmo](textures/09031_SKAR.RequiresAmmo.png "texture") SKAR|RequiresAmmo (item): 8566 -> **8574**
-- Block-19 (item): 8567 -> **8575**
+- ![Block-19](textures/09032_Block-19.png "texture") Block-19 (item): 8567 -> **8575**
 - ![Block-19|RequiresAmmo](textures/09033_Block-19.RequiresAmmo.png "texture") Block-19|RequiresAmmo (item): 8568 -> **8576**
-- Mini Izu (item): 8569 -> **8577**
+- ![Mini Izu](textures/09034_Mini%20Izu.png "texture") Mini Izu (item): 8569 -> **8577**
 - ![Mini Izu|RequiresAmmo](textures/09035_Mini%20Izu.RequiresAmmo.png "texture") Mini Izu|RequiresAmmo (item): 8570 -> **8578**
-- GPMG (item): 8571 -> **8579**
+- ![GPMG](textures/09036_GPMG.png "texture") GPMG (item): 8571 -> **8579**
 - ![GPMG|RequiresAmmo](textures/09037_GPMG.RequiresAmmo.png "texture") GPMG|RequiresAmmo (item): 8572 -> **8580**
 - ![Gold Coin](textures/09038_Gold%20Coin.png "texture") Gold Coin (item): 8573 -> **8581**
 - ![Updraft](textures/09039_Updraft.png "texture") Updraft (item): 8574 -> **8582**
@@ -8643,22 +8643,22 @@
 - ![Ice Bridge](textures/09044_Ice%20Bridge.png "texture") Ice Bridge (item): 8579 -> **8587**
 - ![Maple Planks Bridge](textures/09045_Maple%20Planks%20Bridge.png "texture") Maple Planks Bridge (item): 8580 -> **8588**
 - ![Messy Stone Bridge](textures/09046_Messy%20Stone%20Bridge.png "texture") Messy Stone Bridge (item): 8581 -> **8589**
-- Yellow Balloon (item): 8582 -> **8590**
-- White Balloon (item): 8583 -> **8591**
-- Red Balloon (item): 8584 -> **8592**
-- Purple Balloon (item): 8585 -> **8593**
-- Pink Balloon (item): 8586 -> **8594**
-- Orange Balloon (item): 8587 -> **8595**
-- Magenta Balloon (item): 8588 -> **8596**
-- Lime Balloon (item): 8589 -> **8597**
-- Light Gray Balloon (item): 8590 -> **8598**
-- Light Blue Balloon (item): 8591 -> **8599**
-- Green Balloon (item): 8592 -> **8600**
-- Gray Balloon (item): 8593 -> **8601**
-- Cyan Balloon (item): 8594 -> **8602**
-- Brown Balloon (item): 8595 -> **8603**
-- Blue Balloon (item): 8596 -> **8604**
-- Black Balloon (item): 8597 -> **8605**
+- ![Yellow Balloon](textures/09047_Yellow%20Balloon.png "texture") Yellow Balloon (item): 8582 -> **8590**
+- ![White Balloon](textures/09048_White%20Balloon.png "texture") White Balloon (item): 8583 -> **8591**
+- ![Red Balloon](textures/09049_Red%20Balloon.png "texture") Red Balloon (item): 8584 -> **8592**
+- ![Purple Balloon](textures/09050_Purple%20Balloon.png "texture") Purple Balloon (item): 8585 -> **8593**
+- ![Pink Balloon](textures/09051_Pink%20Balloon.png "texture") Pink Balloon (item): 8586 -> **8594**
+- ![Orange Balloon](textures/09052_Orange%20Balloon.png "texture") Orange Balloon (item): 8587 -> **8595**
+- ![Magenta Balloon](textures/09053_Magenta%20Balloon.png "texture") Magenta Balloon (item): 8588 -> **8596**
+- ![Lime Balloon](textures/09054_Lime%20Balloon.png "texture") Lime Balloon (item): 8589 -> **8597**
+- ![Light Gray Balloon](textures/09055_Light%20Gray%20Balloon.png "texture") Light Gray Balloon (item): 8590 -> **8598**
+- ![Light Blue Balloon](textures/09056_Light%20Blue%20Balloon.png "texture") Light Blue Balloon (item): 8591 -> **8599**
+- ![Green Balloon](textures/09057_Green%20Balloon.png "texture") Green Balloon (item): 8592 -> **8600**
+- ![Gray Balloon](textures/09058_Gray%20Balloon.png "texture") Gray Balloon (item): 8593 -> **8601**
+- ![Cyan Balloon](textures/09059_Cyan%20Balloon.png "texture") Cyan Balloon (item): 8594 -> **8602**
+- ![Brown Balloon](textures/09060_Brown%20Balloon.png "texture") Brown Balloon (item): 8595 -> **8603**
+- ![Blue Balloon](textures/09061_Blue%20Balloon.png "texture") Blue Balloon (item): 8596 -> **8604**
+- ![Black Balloon](textures/09062_Black%20Balloon.png "texture") Black Balloon (item): 8597 -> **8605**
 - ![INTERNAL_MESH_Yellow Balloon](textures/09063_INTERNAL_MESH_Yellow%20Balloon.png "texture") INTERNAL_MESH_Yellow Balloon (item): 8598 -> **8606**
 - ![INTERNAL_MESH_White Balloon](textures/09064_INTERNAL_MESH_White%20Balloon.png "texture") INTERNAL_MESH_White Balloon (item): 8599 -> **8607**
 - ![INTERNAL_MESH_Red Balloon](textures/09065_INTERNAL_MESH_Red%20Balloon.png "texture") INTERNAL_MESH_Red Balloon (item): 8600 -> **8608**
@@ -8912,21 +8912,21 @@
 - ![Caught Mob Pig Default](textures/09313_Caught%20Mob%20Pig%20Default.png "texture") Caught Mob Pig Default (item): 8848 -> **8856**
 - ![Caught Mob Cow Default](textures/09314_Caught%20Mob%20Cow%20Default.png "texture") Caught Mob Cow Default (item): 8849 -> **8857**
 - ![Caught Mob Cow Cream](textures/09315_Caught%20Mob%20Cow%20Cream.png "texture") Caught Mob Cow Cream (item): 8850 -> **8858**
-- Caught Mob Sheep Default (item): 8851 -> **8859**
-- Caught Mob Sheep Black (item): 8852 -> **8860**
-- Caught Mob Sheep Red (item): 8853 -> **8861**
-- Caught Mob Sheep Orange (item): 8854 -> **8862**
-- Caught Mob Sheep Pink (item): 8855 -> **8863**
-- Caught Mob Sheep Purple (item): 8856 -> **8864**
-- Caught Mob Sheep Yellow (item): 8857 -> **8865**
-- Caught Mob Sheep Blue (item): 8858 -> **8866**
-- Caught Mob Sheep Brown (item): 8859 -> **8867**
-- Caught Mob Sheep Cyan (item): 8860 -> **8868**
-- Caught Mob Sheep Gray (item): 8861 -> **8869**
-- Caught Mob Sheep Green (item): 8862 -> **8870**
-- Caught Mob Sheep Lightblue (item): 8863 -> **8871**
-- Caught Mob Sheep Lightgray (item): 8864 -> **8872**
-- Caught Mob Sheep Lime (item): 8865 -> **8873**
+- ![Caught Mob Sheep Default](textures/09316_Caught%20Mob%20Sheep%20Default.png "texture") Caught Mob Sheep Default (item): 8851 -> **8859**
+- ![Caught Mob Sheep Black](textures/09317_Caught%20Mob%20Sheep%20Black.png "texture") Caught Mob Sheep Black (item): 8852 -> **8860**
+- ![Caught Mob Sheep Red](textures/09318_Caught%20Mob%20Sheep%20Red.png "texture") Caught Mob Sheep Red (item): 8853 -> **8861**
+- ![Caught Mob Sheep Orange](textures/09319_Caught%20Mob%20Sheep%20Orange.png "texture") Caught Mob Sheep Orange (item): 8854 -> **8862**
+- ![Caught Mob Sheep Pink](textures/09320_Caught%20Mob%20Sheep%20Pink.png "texture") Caught Mob Sheep Pink (item): 8855 -> **8863**
+- ![Caught Mob Sheep Purple](textures/09321_Caught%20Mob%20Sheep%20Purple.png "texture") Caught Mob Sheep Purple (item): 8856 -> **8864**
+- ![Caught Mob Sheep Yellow](textures/09322_Caught%20Mob%20Sheep%20Yellow.png "texture") Caught Mob Sheep Yellow (item): 8857 -> **8865**
+- ![Caught Mob Sheep Blue](textures/09323_Caught%20Mob%20Sheep%20Blue.png "texture") Caught Mob Sheep Blue (item): 8858 -> **8866**
+- ![Caught Mob Sheep Brown](textures/09324_Caught%20Mob%20Sheep%20Brown.png "texture") Caught Mob Sheep Brown (item): 8859 -> **8867**
+- ![Caught Mob Sheep Cyan](textures/09325_Caught%20Mob%20Sheep%20Cyan.png "texture") Caught Mob Sheep Cyan (item): 8860 -> **8868**
+- ![Caught Mob Sheep Gray](textures/09326_Caught%20Mob%20Sheep%20Gray.png "texture") Caught Mob Sheep Gray (item): 8861 -> **8869**
+- ![Caught Mob Sheep Green](textures/09327_Caught%20Mob%20Sheep%20Green.png "texture") Caught Mob Sheep Green (item): 8862 -> **8870**
+- ![Caught Mob Sheep Lightblue](textures/09328_Caught%20Mob%20Sheep%20Lightblue.png "texture") Caught Mob Sheep Lightblue (item): 8863 -> **8871**
+- ![Caught Mob Sheep Lightgray](textures/09329_Caught%20Mob%20Sheep%20Lightgray.png "texture") Caught Mob Sheep Lightgray (item): 8864 -> **8872**
+- ![Caught Mob Sheep Lime](textures/09330_Caught%20Mob%20Sheep%20Lime.png "texture") Caught Mob Sheep Lime (item): 8865 -> **8873**
 - ![Caught Mob Sheep Magenta](textures/09331_Caught%20Mob%20Sheep%20Magenta.png "texture") Caught Mob Sheep Magenta (item): 8866 -> **8874**
 - ![Caught Mob Horse Default](textures/09332_Caught%20Mob%20Horse%20Default.png "texture") Caught Mob Horse Default (item): 8867 -> **8875**
 - ![Caught Mob Horse Black](textures/09333_Caught%20Mob%20Horse%20Black.png "texture") Caught Mob Horse Black (item): 8868 -> **8876**
@@ -8981,19 +8981,19 @@
 - ![Caught Mob Stag Default](textures/09382_Caught%20Mob%20Stag%20Default.png "texture") Caught Mob Stag Default (item): 8917 -> **8925**
 - ![Caught Mob Gold_Watermelon_Stag Default](textures/09383_Caught%20Mob%20Gold_Watermelon_Stag%20Default.png "texture") Caught Mob Gold_Watermelon_Stag Default (item): 8918 -> **8926**
 - ![Caught Mob Gorilla Default](textures/09384_Caught%20Mob%20Gorilla%20Default.png "texture") Caught Mob Gorilla Default (item): 8919 -> **8927**
-- Caught Mob Cave_Golem Default (item): 8920 -> **8928**
+- ![Caught Mob Cave_Golem Default](textures/09385_Caught%20Mob%20Cave_Golem%20Default.png "texture") Caught Mob Cave_Golem Default (item): 8920 -> **8928**
 - ![Caught Mob Cave_Golem Iron](textures/09386_Caught%20Mob%20Cave_Golem%20Iron.png "texture") Caught Mob Cave_Golem Iron (item): 8921 -> **8929**
 - ![Caught Mob Cave_Golem Corrupted](textures/09387_Caught%20Mob%20Cave_Golem%20Corrupted.png "texture") Caught Mob Cave_Golem Corrupted (item): 8922 -> **8930**
-- Caught Mob Draugr_Zombie Default (item): 8923 -> **8931**
+- ![Caught Mob Draugr_Zombie Default](textures/09388_Caught%20Mob%20Draugr_Zombie%20Default.png "texture") Caught Mob Draugr_Zombie Default (item): 8923 -> **8931**
 - ![Caught Mob Draugr_Zombie Longhairchestplate](textures/09389_Caught%20Mob%20Draugr_Zombie%20Longhairchestplate.png "texture") Caught Mob Draugr_Zombie Longhairchestplate (item): 8924 -> **8932**
 - ![Caught Mob Draugr_Zombie Longhairclothed](textures/09390_Caught%20Mob%20Draugr_Zombie%20Longhairclothed.png "texture") Caught Mob Draugr_Zombie Longhairclothed (item): 8925 -> **8933**
 - ![Caught Mob Draugr_Zombie Shorthairclothed](textures/09391_Caught%20Mob%20Draugr_Zombie%20Shorthairclothed.png "texture") Caught Mob Draugr_Zombie Shorthairclothed (item): 8926 -> **8934**
-- Caught Mob Draugr_Zombie Flower (item): 8927 -> **8935**
-- Caught Mob Draugr_Zombie Flower2 (item): 8928 -> **8936**
-- Caught Mob Draugr_Zombie Mushroom (item): 8929 -> **8937**
-- Caught Mob Draugr_Zombie Vine (item): 8930 -> **8938**
-- Caught Mob Draugr_Zombie Vine2 (item): 8931 -> **8939**
-- Caught Mob Draugr_Zombie Corrupted (item): 8932 -> **8940**
+- ![Caught Mob Draugr_Zombie Flower](textures/09392_Caught%20Mob%20Draugr_Zombie%20Flower.png "texture") Caught Mob Draugr_Zombie Flower (item): 8927 -> **8935**
+- ![Caught Mob Draugr_Zombie Flower2](textures/09393_Caught%20Mob%20Draugr_Zombie%20Flower2.png "texture") Caught Mob Draugr_Zombie Flower2 (item): 8928 -> **8936**
+- ![Caught Mob Draugr_Zombie Mushroom](textures/09394_Caught%20Mob%20Draugr_Zombie%20Mushroom.png "texture") Caught Mob Draugr_Zombie Mushroom (item): 8929 -> **8937**
+- ![Caught Mob Draugr_Zombie Vine](textures/09395_Caught%20Mob%20Draugr_Zombie%20Vine.png "texture") Caught Mob Draugr_Zombie Vine (item): 8930 -> **8938**
+- ![Caught Mob Draugr_Zombie Vine2](textures/09396_Caught%20Mob%20Draugr_Zombie%20Vine2.png "texture") Caught Mob Draugr_Zombie Vine2 (item): 8931 -> **8939**
+- ![Caught Mob Draugr_Zombie Corrupted](textures/09397_Caught%20Mob%20Draugr_Zombie%20Corrupted.png "texture") Caught Mob Draugr_Zombie Corrupted (item): 8932 -> **8940**
 - ![Caught Mob Draugr_Zombie Corrupted2](textures/09398_Caught%20Mob%20Draugr_Zombie%20Corrupted2.png "texture") Caught Mob Draugr_Zombie Corrupted2 (item): 8933 -> **8941**
 - ![Caught Mob Draugr_Skeleton Default](textures/09399_Caught%20Mob%20Draugr_Skeleton%20Default.png "texture") Caught Mob Draugr_Skeleton Default (item): 8934 -> **8942**
 - ![Caught Mob Frost_Golem Default](textures/09400_Caught%20Mob%20Frost_Golem%20Default.png "texture") Caught Mob Frost_Golem Default (item): 8935 -> **8943**
@@ -9002,13 +9002,13 @@
 - ![Caught Mob Frost_Zombie Shorthairclothed](textures/09403_Caught%20Mob%20Frost_Zombie%20Shorthairclothed.png "texture") Caught Mob Frost_Zombie Shorthairclothed (item): 8938 -> **8946**
 - ![Caught Mob Frost_Skeleton Default](textures/09404_Caught%20Mob%20Frost_Skeleton%20Default.png "texture") Caught Mob Frost_Skeleton Default (item): 8939 -> **8947**
 - ![Caught Mob Draugr_Knight Default](textures/09405_Caught%20Mob%20Draugr_Knight%20Default.png "texture") Caught Mob Draugr_Knight Default (item): 8940 -> **8948**
-- Caught Mob Draugr_Huntress Default (item): 8941 -> **8949**
+- ![Caught Mob Draugr_Huntress Default](textures/09406_Caught%20Mob%20Draugr_Huntress%20Default.png "texture") Caught Mob Draugr_Huntress Default (item): 8941 -> **8949**
 - ![Caught Mob Draugr_Huntress Chainmail](textures/09407_Caught%20Mob%20Draugr_Huntress%20Chainmail.png "texture") Caught Mob Draugr_Huntress Chainmail (item): 8942 -> **8950**
 - ![Caught Mob Magma_Golem Default](textures/09408_Caught%20Mob%20Magma_Golem%20Default.png "texture") Caught Mob Magma_Golem Default (item): 8943 -> **8951**
 - ![Caught Mob Draugr_Warper Default](textures/09409_Caught%20Mob%20Draugr_Warper%20Default.png "texture") Caught Mob Draugr_Warper Default (item): 8944 -> **8952**
-- Caught Mob Frost_Wraith Default (item): 8945 -> **8953**
-- Caught Mob Frost_Wraith Tattered (item): 8946 -> **8954**
-- Caught Mob Frost_Wraith Frostking (item): 8947 -> **8955**
+- ![Caught Mob Frost_Wraith Default](textures/09410_Caught%20Mob%20Frost_Wraith%20Default.png "texture") Caught Mob Frost_Wraith Default (item): 8945 -> **8953**
+- ![Caught Mob Frost_Wraith Tattered](textures/09411_Caught%20Mob%20Frost_Wraith%20Tattered.png "texture") Caught Mob Frost_Wraith Tattered (item): 8946 -> **8954**
+- ![Caught Mob Frost_Wraith Frostking](textures/09412_Caught%20Mob%20Frost_Wraith%20Frostking.png "texture") Caught Mob Frost_Wraith Frostking (item): 8947 -> **8955**
 - ![Caught Mob Frost_Wraith Accursed](textures/09413_Caught%20Mob%20Frost_Wraith%20Accursed.png "texture") Caught Mob Frost_Wraith Accursed (item): 8948 -> **8956**
 - ![Caught Mob Draugr_Reaver Default](textures/09414_Caught%20Mob%20Draugr_Reaver%20Default.png "texture") Caught Mob Draugr_Reaver Default (item): 8949 -> **8957**
 - ![Caught Mob Stalker Default](textures/09415_Caught%20Mob%20Stalker%20Default.png "texture") Caught Mob Stalker Default (item): 8950 -> **8958**
@@ -9034,9 +9034,9 @@
 - Caught Mob NPC Sara (item): 8970 -> **8978**
 - Caught Mob NPC Carmen (item): 8971 -> **8979**
 - Caught Mob NPC Chef (item): 8972 -> **8980**
-- Caught Mob 67 Default (item): 8973 -> **8981**
-- Caught Mob Bobino_Musculino Default (item): 8974 -> **8982**
-- Caught Mob Capitano_Explovissimo Default (item): 8975 -> **8983**
+- ![Caught Mob 67 Default](textures/09438_Caught%20Mob%2067%20Default.png "texture") Caught Mob 67 Default (item): 8973 -> **8981**
+- ![Caught Mob Bobino_Musculino Default](textures/09439_Caught%20Mob%20Bobino_Musculino%20Default.png "texture") Caught Mob Bobino_Musculino Default (item): 8974 -> **8982**
+- ![Caught Mob Capitano_Explovissimo Default](textures/09440_Caught%20Mob%20Capitano_Explovissimo%20Default.png "texture") Caught Mob Capitano_Explovissimo Default (item): 8975 -> **8983**
 - ![Timed Spike Bomb](textures/09455_Timed%20Spike%20Bomb.png "texture") Timed Spike Bomb (item): 8976 -> **8998**
 - ![Timed Spike Bomb|meta|charging2](textures/09456_Timed%20Spike%20Bomb.meta.charging2.png "texture") Timed Spike Bomb|meta|charging2 (item): 8977 -> **8999**
 - ![Timed Spike Bomb|meta|charging3](textures/09457_Timed%20Spike%20Bomb.meta.charging3.png "texture") Timed Spike Bomb|meta|charging3 (item): 8978 -> **9000**
@@ -9044,9 +9044,9 @@
 - ![Toxin Ball](textures/09459_Toxin%20Ball.png "texture") Toxin Ball (item): 8980 -> **9002**
 - ![Aura XP Fragment](textures/09460_Aura%20XP%20Fragment.png "texture") Aura XP Fragment (item): 8981 -> **9003**
 - ![Aura XP Orb](textures/09461_Aura%20XP%20Orb.png "texture") Aura XP Orb (item): 8982 -> **9004**
-- Aura XP Potion (item): 8983 -> **9005**
+- ![Aura XP Potion](textures/09462_Aura%20XP%20Potion.png "texture") Aura XP Potion (item): 8983 -> **9005**
 - ![Aura XP Potion II](textures/09463_Aura%20XP%20Potion%20II.png "texture") Aura XP Potion II (item): 8984 -> **9006**
-- Splash Aura XP Potion (item): 8985 -> **9007**
+- ![Splash Aura XP Potion](textures/09464_Splash%20Aura%20XP%20Potion.png "texture") Splash Aura XP Potion (item): 8985 -> **9007**
 - ![Splash Aura XP Potion II](textures/09465_Splash%20Aura%20XP%20Potion%20II.png "texture") Splash Aura XP Potion II (item): 8986 -> **9008**
 - ![Arrow of Aura XP](textures/09466_Arrow%20of%20Aura%20XP.png "texture") Arrow of Aura XP (item): 8987 -> **9009**
 - ![Firecracker](textures/09467_Firecracker.png "texture") Firecracker (item): 8988 -> **9010**
@@ -9287,10 +9287,10 @@
 - ![Sushi](textures/09702_Sushi.png "texture") Sushi (item): 9223 -> **9245**
 - ![Tomato](textures/09703_Tomato.png "texture") Tomato (item): 9224 -> **9246**
 - ![Vegetable Soup](textures/09704_Vegetable%20Soup.png "texture") Vegetable Soup (item): 9225 -> **9247**
-- Common Lottery Ticket (item): 9226 -> **9248**
-- Uncommon Lottery Ticket (item): 9227 -> **9249**
-- Rare Lottery Ticket (item): 9228 -> **9250**
-- Epic Lottery Ticket (item): 9229 -> **9251**
+- ![Common Lottery Ticket](textures/09705_Common%20Lottery%20Ticket.png "texture") Common Lottery Ticket (item): 9226 -> **9248**
+- ![Uncommon Lottery Ticket](textures/09706_Uncommon%20Lottery%20Ticket.png "texture") Uncommon Lottery Ticket (item): 9227 -> **9249**
+- ![Rare Lottery Ticket](textures/09707_Rare%20Lottery%20Ticket.png "texture") Rare Lottery Ticket (item): 9228 -> **9250**
+- ![Epic Lottery Ticket](textures/09708_Epic%20Lottery%20Ticket.png "texture") Epic Lottery Ticket (item): 9229 -> **9251**
 - ![Legendary Lottery Ticket](textures/09709_Legendary%20Lottery%20Ticket.png "texture") Legendary Lottery Ticket (item): 9230 -> **9252**
 - ![Wood Clock](textures/09710_Wood%20Clock.png "texture") Wood Clock (item): 9231 -> **9253**
 - ![Wood Clock|meta|midnight](textures/09711_Wood%20Clock.meta.midnight.png "texture") Wood Clock|meta|midnight (item): 9232 -> **9254**
@@ -9373,7 +9373,7 @@
 - ![Magmasteel Whip](textures/09788_Magmasteel%20Whip.png "texture") Magmasteel Whip (item): 9309 -> **9331**
 - ![Rubellite](textures/09789_Rubellite.png "texture") Rubellite (item): 9310 -> **9332**
 - ![Rubellite Fragment](textures/09790_Rubellite%20Fragment.png "texture") Rubellite Fragment (item): 9311 -> **9333**
-- Rubellite Pickaxe (item): 9312 -> **9334**
+- ![Rubellite Pickaxe](textures/09791_Rubellite%20Pickaxe.png "texture") Rubellite Pickaxe (item): 9312 -> **9334**
 - ![Rubellite Axe](textures/09792_Rubellite%20Axe.png "texture") Rubellite Axe (item): 9313 -> **9335**
 - ![Rubellite Spade](textures/09793_Rubellite%20Spade.png "texture") Rubellite Spade (item): 9314 -> **9336**
 - ![Rubellite Sword](textures/09794_Rubellite%20Sword.png "texture") Rubellite Sword (item): 9315 -> **9337**
@@ -9579,12 +9579,12 @@
 - ![Core Tier 2](textures/09996_Core%20Tier%202.png "texture") Core Tier 2 (item): 9515 -> **9539**
 - ![Core Tier 3](textures/09997_Core%20Tier%203.png "texture") Core Tier 3 (item): 9516 -> **9540**
 - ![Core Tier 4](textures/09998_Core%20Tier%204.png "texture") Core Tier 4 (item): 9517 -> **9541**
-- Core Tier 5 (item): 9518 -> **9542**
-- Core Tier 6 (item): 9519 -> **9543**
-- Core Tier 7 (item): 9520 -> **9544**
-- Core Tier 8 (item): 9521 -> **9545**
-- Core Tier 9 (item): 9522 -> **9546**
-- Core Tier 10 (item): 9523 -> **9547**
+- ![Core Tier 5](textures/09999_Core%20Tier%205.png "texture") Core Tier 5 (item): 9518 -> **9542**
+- ![Core Tier 6](textures/10000_Core%20Tier%206.png "texture") Core Tier 6 (item): 9519 -> **9543**
+- ![Core Tier 7](textures/10001_Core%20Tier%207.png "texture") Core Tier 7 (item): 9520 -> **9544**
+- ![Core Tier 8](textures/10002_Core%20Tier%208.png "texture") Core Tier 8 (item): 9521 -> **9545**
+- ![Core Tier 9](textures/10003_Core%20Tier%209.png "texture") Core Tier 9 (item): 9522 -> **9546**
+- ![Core Tier 10](textures/10004_Core%20Tier%2010.png "texture") Core Tier 10 (item): 9523 -> **9547**
 - ![Arc Caster](textures/10005_Arc%20Caster.png "texture") Arc Caster (item): 9524 -> **9548**
 - ![Voltplate Helmet](textures/10006_Voltplate%20Helmet.png "texture") Voltplate Helmet (item): 9525 -> **9549**
 - ![Voltplate Chestplate](textures/10007_Voltplate%20Chestplate.png "texture") Voltplate Chestplate (item): 9526 -> **9550**
