@@ -1470,7 +1470,7 @@ function stripHistoryImages(md) {
 function unchangedMarkdown(existing, info = {}) {
   if (!info.bundleHash8 && !info.bundleUrl) return existing; // no bundle info (--skip-fetch) -> keep as is
   const when = new Date().toISOString();
-  const buildName = info.file || (info.bundleUrl ? info.bundleUrl.split('/').pop() : null);
+  const buildName = info.file ? info.file.split('/').pop() : (info.bundleUrl ? info.bundleUrl.split('/').pop() : null);
   const b = buildName && info.bundleUrl
     ? `[\`${buildName}\`](${info.bundleUrl})`
     : buildName ? `\`${buildName}\``
