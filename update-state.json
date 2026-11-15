@@ -1,8 +1,8 @@
 {
   "lastBundle": {
-    "file": "/static/js/8f728.main.20f3f323.js",
-    "url": "https://bloxd.io/static/js/8f728.main.20f3f323.js",
-    "sha256": "1f69faf61e15ac0e67b095811ad1189db2694faa712d014799a440094923e0ad"
+    "file": "/static/js/tykq5g.main.937fd517.js",
+    "url": "https://bloxd.io/static/js/tykq5g.main.937fd517.js",
+    "sha256": "42f4a42a1231a9dfdcc17cddd3a60215edef3be6aadc85cc14665321c8ce78bb"
   },
   "lastDiff": {
     "prevCount": 9602,
@@ -11,5 +11,5 @@
     "removed": 0,
     "idChanged": 1492
   },
-  "lastRunAt": "2026-11-14T20:07:39.910Z"
+  "lastRunAt": "2026-11-15T22:22:09.694Z"
 }
