@@ -1,15 +1,14 @@
 # Keeps the extracted Bloxd.io data in sync with the live game.
-# Runs node update.js every ~5 minutes:
-#   - bundle unchanged (update-state.json) -> exits immediately, no commit
-#   - bundle changed -> re-extracts, updates CHANGES.md / entries / README / update-state.json,
-#     commits with the new bundle hash and (optionally) notifies a Discord webhook.
-# Note: GitHub heavily rate-limits/delays high-frequency crons; manual runs can be
-# triggered from the Actions tab ("Run workflow").
+# Primary trigger: the external Cloudflare Worker polls once per minute and
+# dispatches this workflow only when the live bundle URL differs from update-state.json.
+# GitHub's own schedule is retained as a low-frequency six-hour fallback.
 name: Update Bloxd data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '13 */6 * * *'
+  repository_dispatch:
+    types: [bloxd-build-changed]
   workflow_dispatch:
 
 permissions:
