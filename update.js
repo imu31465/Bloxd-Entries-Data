@@ -1470,10 +1470,12 @@ function stripHistoryImages(md) {
 function unchangedMarkdown(existing, info = {}) {
   if (!info.bundleHash8 && !info.bundleUrl) return existing; // no bundle info (--skip-fetch) -> keep as is
   const when = new Date().toISOString();
-  const b = info.bundleHash8 && info.bundleUrl
-    ? `[\`${info.bundleHash8}\`](${info.bundleUrl})`
+  const buildName = info.file || (info.bundleUrl ? info.bundleUrl.split('/').pop() : null);
+  const b = buildName && info.bundleUrl
+    ? `[\`${buildName}\`](${info.bundleUrl})`
+    : buildName ? `\`${buildName}\``
     : info.bundleHash8 ? `\`${info.bundleHash8}\`` : '(cached bundle)';
-  let lastCheck = `- Last check: ${when} — bundle ${b}: entries unchanged since the last update below.`;
+  let lastCheck = `- Latest checked build: ${b} — checked at ${when}; entries unchanged since the last update below.`;
   if (info.entryFilesChanged) {
     lastCheck += `\n- ${info.entryFilesChanged} entry file${info.entryFilesChanged === 1 ? '' : 's'} changed (property values only; names and IDs untouched).`;
   }
