@@ -2,6 +2,1012 @@
 
 Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
 
+- Latest checked build: [`tykq5g.main.937fd517.js`](https://bloxd.io/static/js/tykq5g.main.937fd517.js) — checked at 2026-11-16T02:51:27.160Z; entries unchanged since the last update below.
+
+- Latest checked build: [`tykq5g.main.937fd517.js`](https://bloxd.io/static/js/tykq5g.main.937fd517.js) — checked at 2026-11-15T22:22:12.635Z; entries unchanged since the last update below.
+
+- Latest checked build: [`8f728.main.20f3f323.js`](https://bloxd.io/static/js/8f728.main.20f3f323.js) — checked at 2026-11-14T20:07:41.724Z; entries unchanged since the last update below.
+
+- Run at: 2026-11-12T20:24:23.855Z
+- Bundle: https://bloxd.io/static/js/j3ktyq.main.3c8c7aed.js
+- Entries: 9602 -> 10080
+
+| Type | Count |
+|---|---|
+| Added | 478 |
+| Removed | 0 |
+| ID changed | 1492 |
+
+<details>
+<summary>Added (478)</summary>
+
+- Uranium Ore (block): **8110**
+- Uranium Deposit (block): **8111**
+- Sky Spring (block): **8112**
+- Atomic Bench (block): **8113**
+- Pump (block): **8114**
+- Pump|meta|rot2 (block): **8115**
+- Pump|meta|rot3 (block): **8116**
+- Pump|meta|rot4 (block): **8117**
+- Pump|meta|rot1|Running (block): **8118**
+- Pump|meta|rot2|Running (block): **8119**
+- Pump|meta|rot3|Running (block): **8120**
+- Pump|meta|rot4|Running (block): **8121**
+- Condenser (block): **8122**
+- Condenser|meta|rot2 (block): **8123**
+- Condenser|meta|rot3 (block): **8124**
+- Condenser|meta|rot4 (block): **8125**
+- Condenser|meta|rot1|Running (block): **8126**
+- Condenser|meta|rot2|Running (block): **8127**
+- Condenser|meta|rot3|Running (block): **8128**
+- Condenser|meta|rot4|Running (block): **8129**
+- Centrifuge (block): **8130**
+- Centrifuge|meta|rot2 (block): **8131**
+- Centrifuge|meta|rot3 (block): **8132**
+- Centrifuge|meta|rot4 (block): **8133**
+- Centrifuge|meta|rot1|Running (block): **8134**
+- Centrifuge|meta|rot2|Running (block): **8135**
+- Centrifuge|meta|rot3|Running (block): **8136**
+- Centrifuge|meta|rot4|Running (block): **8137**
+- Synthesizer (block): **8138**
+- Synthesizer|meta|rot2 (block): **8139**
+- Synthesizer|meta|rot3 (block): **8140**
+- Synthesizer|meta|rot4 (block): **8141**
+- Synthesizer|meta|rot1|Running (block): **8142**
+- Synthesizer|meta|rot2|Running (block): **8143**
+- Synthesizer|meta|rot3|Running (block): **8144**
+- Synthesizer|meta|rot4|Running (block): **8145**
+- Mob Farm (block): **8146**
+- Mob Farm|meta|rot2 (block): **8147**
+- Mob Farm|meta|rot3 (block): **8148**
+- Mob Farm|meta|rot4 (block): **8149**
+- Mob Farm|meta|rot1|Running (block): **8150**
+- Mob Farm|meta|rot2|Running (block): **8151**
+- Mob Farm|meta|rot3|Running (block): **8152**
+- Mob Farm|meta|rot4|Running (block): **8153**
+- Fluid Tank (block): **8154**
+- Reactor Controller (block): **8155**
+- Reactor Controller|meta|rot2 (block): **8156**
+- Reactor Controller|meta|rot3 (block): **8157**
+- Reactor Controller|meta|rot4 (block): **8158**
+- Reactor Controller|meta|rot1|Calm (block): **8159**
+- Reactor Controller|meta|rot2|Calm (block): **8160**
+- Reactor Controller|meta|rot3|Calm (block): **8161**
+- Reactor Controller|meta|rot4|Calm (block): **8162**
+- Reactor Controller|meta|rot1|Warm (block): **8163**
+- Reactor Controller|meta|rot2|Warm (block): **8164**
+- Reactor Controller|meta|rot3|Warm (block): **8165**
+- Reactor Controller|meta|rot4|Warm (block): **8166**
+- Reactor Controller|meta|rot1|Hot (block): **8167**
+- Reactor Controller|meta|rot2|Hot (block): **8168**
+- Reactor Controller|meta|rot3|Hot (block): **8169**
+- Reactor Controller|meta|rot4|Hot (block): **8170**
+- Reactor Controller|meta|rot1|Alarm (block): **8171**
+- Reactor Controller|meta|rot2|Alarm (block): **8172**
+- Reactor Controller|meta|rot3|Alarm (block): **8173**
+- Reactor Controller|meta|rot4|Alarm (block): **8174**
+- Reactor Frame (block): **8175**
+- Reactor Casing (block): **8176**
+- Reactor Glass (block): **8177**
+- Reactor Port (block): **8178**
+- Reactor Port|meta|rot1|Water (block): **8179**
+- Reactor Port|meta|rot1|Waste (block): **8180**
+- Fuel Rod (block): **8181**
+- Fuel Rod|meta|rot1|Running (block): **8182**
+- Graphite Block (block): **8183**
+- Coolant Channel (block): **8184**
+- Coolant Channel|meta|rot1|Running (block): **8185**
+- Reactor Slag (block): **8186**
+- Atomic Bomb (block): **8187**
+- Battery Controller (block): **8188**
+- Battery Controller|meta|rot2 (block): **8189**
+- Battery Controller|meta|rot3 (block): **8190**
+- Battery Controller|meta|rot4 (block): **8191**
+- Battery Controller|meta|rot1|Running (block): **8192**
+- Battery Controller|meta|rot2|Running (block): **8193**
+- Battery Controller|meta|rot3|Running (block): **8194**
+- Battery Controller|meta|rot4|Running (block): **8195**
+- Battery Casing (block): **8196**
+- Battery Cell (block): **8197**
+- Battery Cell|meta|rot1|Running (block): **8198**
+- Collider (block): **8199**
+- Collider|meta|rot2 (block): **8200**
+- Collider|meta|rot3 (block): **8201**
+- Collider|meta|rot4 (block): **8202**
+- _Collider Focus (block): **8203**
+- _Collider Focus|meta|rot2 (block): **8204**
+- _Collider Focus|meta|rot3 (block): **8205**
+- _Collider Focus|meta|rot4 (block): **8206**
+- _Collider Output (block): **8207**
+- _Collider Output|meta|rot2 (block): **8208**
+- _Collider Output|meta|rot3 (block): **8209**
+- _Collider Output|meta|rot4 (block): **8210**
+- Laser (block): **8211**
+- Laser|meta|rot2 (block): **8212**
+- Laser|meta|rot3 (block): **8213**
+- Laser|meta|rot4 (block): **8214**
+- Wireless Terminal (block): **8215**
+- Wireless Terminal|meta|rot2 (block): **8216**
+- Wireless Terminal|meta|rot3 (block): **8217**
+- Wireless Terminal|meta|rot4 (block): **8218**
+- Dense Silo (block): **8219**
+- Express Belt (block): **8220**
+- Express Belt|meta|rot2 (block): **8221**
+- Express Belt|meta|rot3 (block): **8222**
+- Express Belt|meta|rot4 (block): **8223**
+- Express Belt|meta|rot1|turnLeft (block): **8224**
+- Express Belt|meta|rot2|turnLeft (block): **8225**
+- Express Belt|meta|rot3|turnLeft (block): **8226**
+- Express Belt|meta|rot4|turnLeft (block): **8227**
+- Express Belt|meta|rot1|turnRight (block): **8228**
+- Express Belt|meta|rot2|turnRight (block): **8229**
+- Express Belt|meta|rot3|turnRight (block): **8230**
+- Express Belt|meta|rot4|turnRight (block): **8231**
+- Fast Loader (block): **8232**
+- Fast Loader|meta|rot2 (block): **8233**
+- Fast Loader|meta|rot3 (block): **8234**
+- Fast Loader|meta|rot4 (block): **8235**
+- Splitter|meta|rot1|leftFront (block): **8236**
+- Splitter|meta|rot2|leftFront (block): **8237**
+- Splitter|meta|rot3|leftFront (block): **8238**
+- Splitter|meta|rot4|leftFront (block): **8239**
+- Splitter|meta|rot1|frontRight (block): **8240**
+- Splitter|meta|rot2|frontRight (block): **8241**
+- Splitter|meta|rot3|frontRight (block): **8242**
+- Splitter|meta|rot4|frontRight (block): **8243**
+- Sorting Gate|meta|rot1|right (block): **8244**
+- Sorting Gate|meta|rot2|right (block): **8245**
+- Sorting Gate|meta|rot3|right (block): **8246**
+- Sorting Gate|meta|rot4|right (block): **8247**
+- Uranium Glass (block): **8248**
+- Glow Lamp (block): **8249**
+- _Jetpack Back (block): **8250**
+- _Atomic Spire (block): **8251**
+- Isotope Comet Ore (block): **8252**
+- Isotope Comet Heart (block): **8253**
+- Laser|meta|rot1|Running (block): **8254**
+- Laser|meta|rot2|Running (block): **8255**
+- Laser|meta|rot3|Running (block): **8256**
+- Laser|meta|rot4|Running (block): **8257**
+- _Collider Focus|meta|rot1|Running (block): **8258**
+- _Collider Focus|meta|rot2|Running (block): **8259**
+- _Collider Focus|meta|rot3|Running (block): **8260**
+- _Collider Focus|meta|rot4|Running (block): **8261**
+- Fluid Pipe (block): **8262**
+- Fluid Pipe|meta|conn|nx (block): **8263**
+- Fluid Pipe|meta|conn|ny (block): **8264**
+- Fluid Pipe|meta|conn|nx_ny (block): **8265**
+- Fluid Pipe|meta|conn|nz (block): **8266**
+- Fluid Pipe|meta|conn|nx_nz (block): **8267**
+- Fluid Pipe|meta|conn|ny_nz (block): **8268**
+- Fluid Pipe|meta|conn|nx_ny_nz (block): **8269**
+- Fluid Pipe|meta|conn|px (block): **8270**
+- Fluid Pipe|meta|conn|nx_px (block): **8271**
+- Fluid Pipe|meta|conn|ny_px (block): **8272**
+- Fluid Pipe|meta|conn|nx_ny_px (block): **8273**
+- Fluid Pipe|meta|conn|nz_px (block): **8274**
+- Fluid Pipe|meta|conn|nx_nz_px (block): **8275**
+- Fluid Pipe|meta|conn|ny_nz_px (block): **8276**
+- Fluid Pipe|meta|conn|nx_ny_nz_px (block): **8277**
+- Fluid Pipe|meta|conn|py (block): **8278**
+- Fluid Pipe|meta|conn|nx_py (block): **8279**
+- Fluid Pipe|meta|conn|ny_py (block): **8280**
+- Fluid Pipe|meta|conn|nx_ny_py (block): **8281**
+- Fluid Pipe|meta|conn|nz_py (block): **8282**
+- Fluid Pipe|meta|conn|nx_nz_py (block): **8283**
+- Fluid Pipe|meta|conn|ny_nz_py (block): **8284**
+- Fluid Pipe|meta|conn|nx_ny_nz_py (block): **8285**
+- Fluid Pipe|meta|conn|px_py (block): **8286**
+- Fluid Pipe|meta|conn|nx_px_py (block): **8287**
+- Fluid Pipe|meta|conn|ny_px_py (block): **8288**
+- Fluid Pipe|meta|conn|nx_ny_px_py (block): **8289**
+- Fluid Pipe|meta|conn|nz_px_py (block): **8290**
+- Fluid Pipe|meta|conn|nx_nz_px_py (block): **8291**
+- Fluid Pipe|meta|conn|ny_nz_px_py (block): **8292**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py (block): **8293**
+- Fluid Pipe|meta|conn|pz (block): **8294**
+- Fluid Pipe|meta|conn|nx_pz (block): **8295**
+- Fluid Pipe|meta|conn|ny_pz (block): **8296**
+- Fluid Pipe|meta|conn|nx_ny_pz (block): **8297**
+- Fluid Pipe|meta|conn|nz_pz (block): **8298**
+- Fluid Pipe|meta|conn|nx_nz_pz (block): **8299**
+- Fluid Pipe|meta|conn|ny_nz_pz (block): **8300**
+- Fluid Pipe|meta|conn|nx_ny_nz_pz (block): **8301**
+- Fluid Pipe|meta|conn|px_pz (block): **8302**
+- Fluid Pipe|meta|conn|nx_px_pz (block): **8303**
+- Fluid Pipe|meta|conn|ny_px_pz (block): **8304**
+- Fluid Pipe|meta|conn|nx_ny_px_pz (block): **8305**
+- Fluid Pipe|meta|conn|nz_px_pz (block): **8306**
+- Fluid Pipe|meta|conn|nx_nz_px_pz (block): **8307**
+- Fluid Pipe|meta|conn|ny_nz_px_pz (block): **8308**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_pz (block): **8309**
+- Fluid Pipe|meta|conn|py_pz (block): **8310**
+- Fluid Pipe|meta|conn|nx_py_pz (block): **8311**
+- Fluid Pipe|meta|conn|ny_py_pz (block): **8312**
+- Fluid Pipe|meta|conn|nx_ny_py_pz (block): **8313**
+- Fluid Pipe|meta|conn|nz_py_pz (block): **8314**
+- Fluid Pipe|meta|conn|nx_nz_py_pz (block): **8315**
+- Fluid Pipe|meta|conn|ny_nz_py_pz (block): **8316**
+- Fluid Pipe|meta|conn|nx_ny_nz_py_pz (block): **8317**
+- Fluid Pipe|meta|conn|px_py_pz (block): **8318**
+- Fluid Pipe|meta|conn|nx_px_py_pz (block): **8319**
+- Fluid Pipe|meta|conn|ny_px_py_pz (block): **8320**
+- Fluid Pipe|meta|conn|nx_ny_px_py_pz (block): **8321**
+- Fluid Pipe|meta|conn|nz_px_py_pz (block): **8322**
+- Fluid Pipe|meta|conn|nx_nz_px_py_pz (block): **8323**
+- Fluid Pipe|meta|conn|ny_nz_px_py_pz (block): **8324**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8325**
+- Coolant Mixer (block): **8326**
+- Coolant Mixer|meta|rot2 (block): **8327**
+- Coolant Mixer|meta|rot3 (block): **8328**
+- Coolant Mixer|meta|rot4 (block): **8329**
+- Coolant Mixer|meta|rot1|Running (block): **8330**
+- Coolant Mixer|meta|rot2|Running (block): **8331**
+- Coolant Mixer|meta|rot3|Running (block): **8332**
+- Coolant Mixer|meta|rot4|Running (block): **8333**
+- Coolant Pipe (block): **8334**
+- Coolant Pipe|meta|conn|nx (block): **8335**
+- Coolant Pipe|meta|conn|ny (block): **8336**
+- Coolant Pipe|meta|conn|nx_ny (block): **8337**
+- Coolant Pipe|meta|conn|nz (block): **8338**
+- Coolant Pipe|meta|conn|nx_nz (block): **8339**
+- Coolant Pipe|meta|conn|ny_nz (block): **8340**
+- Coolant Pipe|meta|conn|nx_ny_nz (block): **8341**
+- Coolant Pipe|meta|conn|px (block): **8342**
+- Coolant Pipe|meta|conn|nx_px (block): **8343**
+- Coolant Pipe|meta|conn|ny_px (block): **8344**
+- Coolant Pipe|meta|conn|nx_ny_px (block): **8345**
+- Coolant Pipe|meta|conn|nz_px (block): **8346**
+- Coolant Pipe|meta|conn|nx_nz_px (block): **8347**
+- Coolant Pipe|meta|conn|ny_nz_px (block): **8348**
+- Coolant Pipe|meta|conn|nx_ny_nz_px (block): **8349**
+- Coolant Pipe|meta|conn|py (block): **8350**
+- Coolant Pipe|meta|conn|nx_py (block): **8351**
+- Coolant Pipe|meta|conn|ny_py (block): **8352**
+- Coolant Pipe|meta|conn|nx_ny_py (block): **8353**
+- Coolant Pipe|meta|conn|nz_py (block): **8354**
+- Coolant Pipe|meta|conn|nx_nz_py (block): **8355**
+- Coolant Pipe|meta|conn|ny_nz_py (block): **8356**
+- Coolant Pipe|meta|conn|nx_ny_nz_py (block): **8357**
+- Coolant Pipe|meta|conn|px_py (block): **8358**
+- Coolant Pipe|meta|conn|nx_px_py (block): **8359**
+- Coolant Pipe|meta|conn|ny_px_py (block): **8360**
+- Coolant Pipe|meta|conn|nx_ny_px_py (block): **8361**
+- Coolant Pipe|meta|conn|nz_px_py (block): **8362**
+- Coolant Pipe|meta|conn|nx_nz_px_py (block): **8363**
+- Coolant Pipe|meta|conn|ny_nz_px_py (block): **8364**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py (block): **8365**
+- Coolant Pipe|meta|conn|pz (block): **8366**
+- Coolant Pipe|meta|conn|nx_pz (block): **8367**
+- Coolant Pipe|meta|conn|ny_pz (block): **8368**
+- Coolant Pipe|meta|conn|nx_ny_pz (block): **8369**
+- Coolant Pipe|meta|conn|nz_pz (block): **8370**
+- Coolant Pipe|meta|conn|nx_nz_pz (block): **8371**
+- Coolant Pipe|meta|conn|ny_nz_pz (block): **8372**
+- Coolant Pipe|meta|conn|nx_ny_nz_pz (block): **8373**
+- Coolant Pipe|meta|conn|px_pz (block): **8374**
+- Coolant Pipe|meta|conn|nx_px_pz (block): **8375**
+- Coolant Pipe|meta|conn|ny_px_pz (block): **8376**
+- Coolant Pipe|meta|conn|nx_ny_px_pz (block): **8377**
+- Coolant Pipe|meta|conn|nz_px_pz (block): **8378**
+- Coolant Pipe|meta|conn|nx_nz_px_pz (block): **8379**
+- Coolant Pipe|meta|conn|ny_nz_px_pz (block): **8380**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_pz (block): **8381**
+- Coolant Pipe|meta|conn|py_pz (block): **8382**
+- Coolant Pipe|meta|conn|nx_py_pz (block): **8383**
+- Coolant Pipe|meta|conn|ny_py_pz (block): **8384**
+- Coolant Pipe|meta|conn|nx_ny_py_pz (block): **8385**
+- Coolant Pipe|meta|conn|nz_py_pz (block): **8386**
+- Coolant Pipe|meta|conn|nx_nz_py_pz (block): **8387**
+- Coolant Pipe|meta|conn|ny_nz_py_pz (block): **8388**
+- Coolant Pipe|meta|conn|nx_ny_nz_py_pz (block): **8389**
+- Coolant Pipe|meta|conn|px_py_pz (block): **8390**
+- Coolant Pipe|meta|conn|nx_px_py_pz (block): **8391**
+- Coolant Pipe|meta|conn|ny_px_py_pz (block): **8392**
+- Coolant Pipe|meta|conn|nx_ny_px_py_pz (block): **8393**
+- Coolant Pipe|meta|conn|nz_px_py_pz (block): **8394**
+- Coolant Pipe|meta|conn|nx_nz_px_py_pz (block): **8395**
+- Coolant Pipe|meta|conn|ny_nz_px_py_pz (block): **8396**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8397**
+- Fluid Tank|meta|rot1|Fill1 (block): **8398**
+- Fluid Tank|meta|rot1|Fill2 (block): **8399**
+- Fluid Tank|meta|rot1|Fill3 (block): **8400**
+- Fluid Tank|meta|rot1|Fill4 (block): **8401**
+- Fluid Pipe|meta|conn|none|Full (block): **8402**
+- Fluid Pipe|meta|conn|nx|Full (block): **8403**
+- Fluid Pipe|meta|conn|ny|Full (block): **8404**
+- Fluid Pipe|meta|conn|nx_ny|Full (block): **8405**
+- Fluid Pipe|meta|conn|nz|Full (block): **8406**
+- Fluid Pipe|meta|conn|nx_nz|Full (block): **8407**
+- Fluid Pipe|meta|conn|ny_nz|Full (block): **8408**
+- Fluid Pipe|meta|conn|nx_ny_nz|Full (block): **8409**
+- Fluid Pipe|meta|conn|px|Full (block): **8410**
+- Fluid Pipe|meta|conn|nx_px|Full (block): **8411**
+- Fluid Pipe|meta|conn|ny_px|Full (block): **8412**
+- Fluid Pipe|meta|conn|nx_ny_px|Full (block): **8413**
+- Fluid Pipe|meta|conn|nz_px|Full (block): **8414**
+- Fluid Pipe|meta|conn|nx_nz_px|Full (block): **8415**
+- Fluid Pipe|meta|conn|ny_nz_px|Full (block): **8416**
+- Fluid Pipe|meta|conn|nx_ny_nz_px|Full (block): **8417**
+- Fluid Pipe|meta|conn|py|Full (block): **8418**
+- Fluid Pipe|meta|conn|nx_py|Full (block): **8419**
+- Fluid Pipe|meta|conn|ny_py|Full (block): **8420**
+- Fluid Pipe|meta|conn|nx_ny_py|Full (block): **8421**
+- Fluid Pipe|meta|conn|nz_py|Full (block): **8422**
+- Fluid Pipe|meta|conn|nx_nz_py|Full (block): **8423**
+- Fluid Pipe|meta|conn|ny_nz_py|Full (block): **8424**
+- Fluid Pipe|meta|conn|nx_ny_nz_py|Full (block): **8425**
+- Fluid Pipe|meta|conn|px_py|Full (block): **8426**
+- Fluid Pipe|meta|conn|nx_px_py|Full (block): **8427**
+- Fluid Pipe|meta|conn|ny_px_py|Full (block): **8428**
+- Fluid Pipe|meta|conn|nx_ny_px_py|Full (block): **8429**
+- Fluid Pipe|meta|conn|nz_px_py|Full (block): **8430**
+- Fluid Pipe|meta|conn|nx_nz_px_py|Full (block): **8431**
+- Fluid Pipe|meta|conn|ny_nz_px_py|Full (block): **8432**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8433**
+- Fluid Pipe|meta|conn|pz|Full (block): **8434**
+- Fluid Pipe|meta|conn|nx_pz|Full (block): **8435**
+- Fluid Pipe|meta|conn|ny_pz|Full (block): **8436**
+- Fluid Pipe|meta|conn|nx_ny_pz|Full (block): **8437**
+- Fluid Pipe|meta|conn|nz_pz|Full (block): **8438**
+- Fluid Pipe|meta|conn|nx_nz_pz|Full (block): **8439**
+- Fluid Pipe|meta|conn|ny_nz_pz|Full (block): **8440**
+- Fluid Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8441**
+- Fluid Pipe|meta|conn|px_pz|Full (block): **8442**
+- Fluid Pipe|meta|conn|nx_px_pz|Full (block): **8443**
+- Fluid Pipe|meta|conn|ny_px_pz|Full (block): **8444**
+- Fluid Pipe|meta|conn|nx_ny_px_pz|Full (block): **8445**
+- Fluid Pipe|meta|conn|nz_px_pz|Full (block): **8446**
+- Fluid Pipe|meta|conn|nx_nz_px_pz|Full (block): **8447**
+- Fluid Pipe|meta|conn|ny_nz_px_pz|Full (block): **8448**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8449**
+- Fluid Pipe|meta|conn|py_pz|Full (block): **8450**
+- Fluid Pipe|meta|conn|nx_py_pz|Full (block): **8451**
+- Fluid Pipe|meta|conn|ny_py_pz|Full (block): **8452**
+- Fluid Pipe|meta|conn|nx_ny_py_pz|Full (block): **8453**
+- Fluid Pipe|meta|conn|nz_py_pz|Full (block): **8454**
+- Fluid Pipe|meta|conn|nx_nz_py_pz|Full (block): **8455**
+- Fluid Pipe|meta|conn|ny_nz_py_pz|Full (block): **8456**
+- Fluid Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8457**
+- Fluid Pipe|meta|conn|px_py_pz|Full (block): **8458**
+- Fluid Pipe|meta|conn|nx_px_py_pz|Full (block): **8459**
+- Fluid Pipe|meta|conn|ny_px_py_pz|Full (block): **8460**
+- Fluid Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8461**
+- Fluid Pipe|meta|conn|nz_px_py_pz|Full (block): **8462**
+- Fluid Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8463**
+- Fluid Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8464**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8465**
+- Coolant Pipe|meta|conn|none|Full (block): **8466**
+- Coolant Pipe|meta|conn|nx|Full (block): **8467**
+- Coolant Pipe|meta|conn|ny|Full (block): **8468**
+- Coolant Pipe|meta|conn|nx_ny|Full (block): **8469**
+- Coolant Pipe|meta|conn|nz|Full (block): **8470**
+- Coolant Pipe|meta|conn|nx_nz|Full (block): **8471**
+- Coolant Pipe|meta|conn|ny_nz|Full (block): **8472**
+- Coolant Pipe|meta|conn|nx_ny_nz|Full (block): **8473**
+- Coolant Pipe|meta|conn|px|Full (block): **8474**
+- Coolant Pipe|meta|conn|nx_px|Full (block): **8475**
+- Coolant Pipe|meta|conn|ny_px|Full (block): **8476**
+- Coolant Pipe|meta|conn|nx_ny_px|Full (block): **8477**
+- Coolant Pipe|meta|conn|nz_px|Full (block): **8478**
+- Coolant Pipe|meta|conn|nx_nz_px|Full (block): **8479**
+- Coolant Pipe|meta|conn|ny_nz_px|Full (block): **8480**
+- Coolant Pipe|meta|conn|nx_ny_nz_px|Full (block): **8481**
+- Coolant Pipe|meta|conn|py|Full (block): **8482**
+- Coolant Pipe|meta|conn|nx_py|Full (block): **8483**
+- Coolant Pipe|meta|conn|ny_py|Full (block): **8484**
+- Coolant Pipe|meta|conn|nx_ny_py|Full (block): **8485**
+- Coolant Pipe|meta|conn|nz_py|Full (block): **8486**
+- Coolant Pipe|meta|conn|nx_nz_py|Full (block): **8487**
+- Coolant Pipe|meta|conn|ny_nz_py|Full (block): **8488**
+- Coolant Pipe|meta|conn|nx_ny_nz_py|Full (block): **8489**
+- Coolant Pipe|meta|conn|px_py|Full (block): **8490**
+- Coolant Pipe|meta|conn|nx_px_py|Full (block): **8491**
+- Coolant Pipe|meta|conn|ny_px_py|Full (block): **8492**
+- Coolant Pipe|meta|conn|nx_ny_px_py|Full (block): **8493**
+- Coolant Pipe|meta|conn|nz_px_py|Full (block): **8494**
+- Coolant Pipe|meta|conn|nx_nz_px_py|Full (block): **8495**
+- Coolant Pipe|meta|conn|ny_nz_px_py|Full (block): **8496**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8497**
+- Coolant Pipe|meta|conn|pz|Full (block): **8498**
+- Coolant Pipe|meta|conn|nx_pz|Full (block): **8499**
+- Coolant Pipe|meta|conn|ny_pz|Full (block): **8500**
+- Coolant Pipe|meta|conn|nx_ny_pz|Full (block): **8501**
+- Coolant Pipe|meta|conn|nz_pz|Full (block): **8502**
+- Coolant Pipe|meta|conn|nx_nz_pz|Full (block): **8503**
+- Coolant Pipe|meta|conn|ny_nz_pz|Full (block): **8504**
+- Coolant Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8505**
+- Coolant Pipe|meta|conn|px_pz|Full (block): **8506**
+- Coolant Pipe|meta|conn|nx_px_pz|Full (block): **8507**
+- Coolant Pipe|meta|conn|ny_px_pz|Full (block): **8508**
+- Coolant Pipe|meta|conn|nx_ny_px_pz|Full (block): **8509**
+- Coolant Pipe|meta|conn|nz_px_pz|Full (block): **8510**
+- Coolant Pipe|meta|conn|nx_nz_px_pz|Full (block): **8511**
+- Coolant Pipe|meta|conn|ny_nz_px_pz|Full (block): **8512**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8513**
+- Coolant Pipe|meta|conn|py_pz|Full (block): **8514**
+- Coolant Pipe|meta|conn|nx_py_pz|Full (block): **8515**
+- Coolant Pipe|meta|conn|ny_py_pz|Full (block): **8516**
+- Coolant Pipe|meta|conn|nx_ny_py_pz|Full (block): **8517**
+- Coolant Pipe|meta|conn|nz_py_pz|Full (block): **8518**
+- Coolant Pipe|meta|conn|nx_nz_py_pz|Full (block): **8519**
+- Coolant Pipe|meta|conn|ny_nz_py_pz|Full (block): **8520**
+- Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8521**
+- Coolant Pipe|meta|conn|px_py_pz|Full (block): **8522**
+- Coolant Pipe|meta|conn|nx_px_py_pz|Full (block): **8523**
+- Coolant Pipe|meta|conn|ny_px_py_pz|Full (block): **8524**
+- Coolant Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8525**
+- Coolant Pipe|meta|conn|nz_px_py_pz|Full (block): **8526**
+- Coolant Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8527**
+- Coolant Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8528**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8529**
+- Reactor Frame|meta|rot1|Formed (block): **8530**
+- Reactor Glass|meta|rot1|Formed (block): **8531**
+- Reactor Port|meta|rot1|Formed (block): **8532**
+- Reactor Port|meta|rot1|Formed|Water (block): **8533**
+- Reactor Port|meta|rot1|Formed|Waste (block): **8534**
+- Collider|meta|rot1|Running (block): **8535**
+- Collider|meta|rot2|Running (block): **8536**
+- Collider|meta|rot3|Running (block): **8537**
+- Collider|meta|rot4|Running (block): **8538**
+- Scaffolding (block): **8539**
+- Nova Trophy (block): **8540**
+- Nova Trophy|meta|rot2 (block): **8541**
+- Nova Trophy|meta|rot3 (block): **8542**
+- Nova Trophy|meta|rot4 (block): **8543**
+- Uranium Block (block): **8544**
+- Pure Uranium Ore (block): **8545**
+- Copper Block (block): **8546**
+- Voltite Block (block): **8547**
+- Raw Uranium (item): **10040**
+- Uranium Grit (item): **10041**
+- Uranium Pellet (item): **10042**
+- Plutonium Pellet (item): **10043**
+- Spent Pellet (item): **10044**
+- Glow Dust (item): **10045**
+- Biomass (item): **10046**
+- Graphite (item): **10047**
+- Containment Plate (item): **10048**
+- Heat Exchanger (item): **10049**
+- Focus Lens (item): **10050**
+- Nova Matter (item): **10051**
+- Deposit Seed (Uranium) (item): **10052**
+- Reactor Blueprint (item): **10053**
+- Wrench (item): **10054**
+- Advanced Coupler (item): **10055**
+- Nova Coupler (item): **10056**
+- Core Tier 11 (item): **10057**
+- Core Tier 12 (item): **10058**
+- Core Tier 13 (item): **10059**
+- Core Tier 14 (item): **10060**
+- Core Tier 15 (item): **10061**
+- Jet Chestplate (item): **10062**
+- Nova Jet Chestplate (item): **10063**
+- Nova Helmet (item): **10064**
+- Nova Chestplate (item): **10065**
+- Nova Gauntlets (item): **10066**
+- Nova Leggings (item): **10067**
+- Nova Boots (item): **10068**
+- Nova Blade (item): **10069**
+- Mob Cage (item): **10070**
+- Caged Pig (item): **10071**
+- Caged Cow (item): **10072**
+- Caged Sheep (item): **10073**
+- Caged Deer (item): **10074**
+- Caged Stag (item): **10075**
+- Nova Multitool (item): **10076**
+- Pocket Terminal (item): **10077**
+- Comet Beacon (item): **10078**
+- Nova Wrench (item): **10079**
+
+</details>
+
+---
+
+Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
+
+- Latest checked build: [`tykq5g.main.937fd517.js`](https://bloxd.io/static/js/tykq5g.main.937fd517.js) — checked at 2026-11-15T22:22:12.635Z; entries unchanged since the last update below.
+
+- Latest checked build: [`8f728.main.20f3f323.js`](https://bloxd.io/static/js/8f728.main.20f3f323.js) — checked at 2026-11-14T20:07:41.724Z; entries unchanged since the last update below.
+
+- Run at: 2026-11-12T20:24:23.855Z
+- Bundle: https://bloxd.io/static/js/j3ktyq.main.3c8c7aed.js
+- Entries: 9602 -> 10080
+
+| Type | Count |
+|---|---|
+| Added | 478 |
+| Removed | 0 |
+| ID changed | 1492 |
+
+<details>
+<summary>Added (478)</summary>
+
+- Uranium Ore (block): **8110**
+- Uranium Deposit (block): **8111**
+- Sky Spring (block): **8112**
+- Atomic Bench (block): **8113**
+- Pump (block): **8114**
+- Pump|meta|rot2 (block): **8115**
+- Pump|meta|rot3 (block): **8116**
+- Pump|meta|rot4 (block): **8117**
+- Pump|meta|rot1|Running (block): **8118**
+- Pump|meta|rot2|Running (block): **8119**
+- Pump|meta|rot3|Running (block): **8120**
+- Pump|meta|rot4|Running (block): **8121**
+- Condenser (block): **8122**
+- Condenser|meta|rot2 (block): **8123**
+- Condenser|meta|rot3 (block): **8124**
+- Condenser|meta|rot4 (block): **8125**
+- Condenser|meta|rot1|Running (block): **8126**
+- Condenser|meta|rot2|Running (block): **8127**
+- Condenser|meta|rot3|Running (block): **8128**
+- Condenser|meta|rot4|Running (block): **8129**
+- Centrifuge (block): **8130**
+- Centrifuge|meta|rot2 (block): **8131**
+- Centrifuge|meta|rot3 (block): **8132**
+- Centrifuge|meta|rot4 (block): **8133**
+- Centrifuge|meta|rot1|Running (block): **8134**
+- Centrifuge|meta|rot2|Running (block): **8135**
+- Centrifuge|meta|rot3|Running (block): **8136**
+- Centrifuge|meta|rot4|Running (block): **8137**
+- Synthesizer (block): **8138**
+- Synthesizer|meta|rot2 (block): **8139**
+- Synthesizer|meta|rot3 (block): **8140**
+- Synthesizer|meta|rot4 (block): **8141**
+- Synthesizer|meta|rot1|Running (block): **8142**
+- Synthesizer|meta|rot2|Running (block): **8143**
+- Synthesizer|meta|rot3|Running (block): **8144**
+- Synthesizer|meta|rot4|Running (block): **8145**
+- Mob Farm (block): **8146**
+- Mob Farm|meta|rot2 (block): **8147**
+- Mob Farm|meta|rot3 (block): **8148**
+- Mob Farm|meta|rot4 (block): **8149**
+- Mob Farm|meta|rot1|Running (block): **8150**
+- Mob Farm|meta|rot2|Running (block): **8151**
+- Mob Farm|meta|rot3|Running (block): **8152**
+- Mob Farm|meta|rot4|Running (block): **8153**
+- Fluid Tank (block): **8154**
+- Reactor Controller (block): **8155**
+- Reactor Controller|meta|rot2 (block): **8156**
+- Reactor Controller|meta|rot3 (block): **8157**
+- Reactor Controller|meta|rot4 (block): **8158**
+- Reactor Controller|meta|rot1|Calm (block): **8159**
+- Reactor Controller|meta|rot2|Calm (block): **8160**
+- Reactor Controller|meta|rot3|Calm (block): **8161**
+- Reactor Controller|meta|rot4|Calm (block): **8162**
+- Reactor Controller|meta|rot1|Warm (block): **8163**
+- Reactor Controller|meta|rot2|Warm (block): **8164**
+- Reactor Controller|meta|rot3|Warm (block): **8165**
+- Reactor Controller|meta|rot4|Warm (block): **8166**
+- Reactor Controller|meta|rot1|Hot (block): **8167**
+- Reactor Controller|meta|rot2|Hot (block): **8168**
+- Reactor Controller|meta|rot3|Hot (block): **8169**
+- Reactor Controller|meta|rot4|Hot (block): **8170**
+- Reactor Controller|meta|rot1|Alarm (block): **8171**
+- Reactor Controller|meta|rot2|Alarm (block): **8172**
+- Reactor Controller|meta|rot3|Alarm (block): **8173**
+- Reactor Controller|meta|rot4|Alarm (block): **8174**
+- Reactor Frame (block): **8175**
+- Reactor Casing (block): **8176**
+- Reactor Glass (block): **8177**
+- Reactor Port (block): **8178**
+- Reactor Port|meta|rot1|Water (block): **8179**
+- Reactor Port|meta|rot1|Waste (block): **8180**
+- Fuel Rod (block): **8181**
+- Fuel Rod|meta|rot1|Running (block): **8182**
+- Graphite Block (block): **8183**
+- Coolant Channel (block): **8184**
+- Coolant Channel|meta|rot1|Running (block): **8185**
+- Reactor Slag (block): **8186**
+- Atomic Bomb (block): **8187**
+- Battery Controller (block): **8188**
+- Battery Controller|meta|rot2 (block): **8189**
+- Battery Controller|meta|rot3 (block): **8190**
+- Battery Controller|meta|rot4 (block): **8191**
+- Battery Controller|meta|rot1|Running (block): **8192**
+- Battery Controller|meta|rot2|Running (block): **8193**
+- Battery Controller|meta|rot3|Running (block): **8194**
+- Battery Controller|meta|rot4|Running (block): **8195**
+- Battery Casing (block): **8196**
+- Battery Cell (block): **8197**
+- Battery Cell|meta|rot1|Running (block): **8198**
+- Collider (block): **8199**
+- Collider|meta|rot2 (block): **8200**
+- Collider|meta|rot3 (block): **8201**
+- Collider|meta|rot4 (block): **8202**
+- _Collider Focus (block): **8203**
+- _Collider Focus|meta|rot2 (block): **8204**
+- _Collider Focus|meta|rot3 (block): **8205**
+- _Collider Focus|meta|rot4 (block): **8206**
+- _Collider Output (block): **8207**
+- _Collider Output|meta|rot2 (block): **8208**
+- _Collider Output|meta|rot3 (block): **8209**
+- _Collider Output|meta|rot4 (block): **8210**
+- Laser (block): **8211**
+- Laser|meta|rot2 (block): **8212**
+- Laser|meta|rot3 (block): **8213**
+- Laser|meta|rot4 (block): **8214**
+- Wireless Terminal (block): **8215**
+- Wireless Terminal|meta|rot2 (block): **8216**
+- Wireless Terminal|meta|rot3 (block): **8217**
+- Wireless Terminal|meta|rot4 (block): **8218**
+- Dense Silo (block): **8219**
+- Express Belt (block): **8220**
+- Express Belt|meta|rot2 (block): **8221**
+- Express Belt|meta|rot3 (block): **8222**
+- Express Belt|meta|rot4 (block): **8223**
+- Express Belt|meta|rot1|turnLeft (block): **8224**
+- Express Belt|meta|rot2|turnLeft (block): **8225**
+- Express Belt|meta|rot3|turnLeft (block): **8226**
+- Express Belt|meta|rot4|turnLeft (block): **8227**
+- Express Belt|meta|rot1|turnRight (block): **8228**
+- Express Belt|meta|rot2|turnRight (block): **8229**
+- Express Belt|meta|rot3|turnRight (block): **8230**
+- Express Belt|meta|rot4|turnRight (block): **8231**
+- Fast Loader (block): **8232**
+- Fast Loader|meta|rot2 (block): **8233**
+- Fast Loader|meta|rot3 (block): **8234**
+- Fast Loader|meta|rot4 (block): **8235**
+- Splitter|meta|rot1|leftFront (block): **8236**
+- Splitter|meta|rot2|leftFront (block): **8237**
+- Splitter|meta|rot3|leftFront (block): **8238**
+- Splitter|meta|rot4|leftFront (block): **8239**
+- Splitter|meta|rot1|frontRight (block): **8240**
+- Splitter|meta|rot2|frontRight (block): **8241**
+- Splitter|meta|rot3|frontRight (block): **8242**
+- Splitter|meta|rot4|frontRight (block): **8243**
+- Sorting Gate|meta|rot1|right (block): **8244**
+- Sorting Gate|meta|rot2|right (block): **8245**
+- Sorting Gate|meta|rot3|right (block): **8246**
+- Sorting Gate|meta|rot4|right (block): **8247**
+- Uranium Glass (block): **8248**
+- Glow Lamp (block): **8249**
+- _Jetpack Back (block): **8250**
+- _Atomic Spire (block): **8251**
+- Isotope Comet Ore (block): **8252**
+- Isotope Comet Heart (block): **8253**
+- Laser|meta|rot1|Running (block): **8254**
+- Laser|meta|rot2|Running (block): **8255**
+- Laser|meta|rot3|Running (block): **8256**
+- Laser|meta|rot4|Running (block): **8257**
+- _Collider Focus|meta|rot1|Running (block): **8258**
+- _Collider Focus|meta|rot2|Running (block): **8259**
+- _Collider Focus|meta|rot3|Running (block): **8260**
+- _Collider Focus|meta|rot4|Running (block): **8261**
+- Fluid Pipe (block): **8262**
+- Fluid Pipe|meta|conn|nx (block): **8263**
+- Fluid Pipe|meta|conn|ny (block): **8264**
+- Fluid Pipe|meta|conn|nx_ny (block): **8265**
+- Fluid Pipe|meta|conn|nz (block): **8266**
+- Fluid Pipe|meta|conn|nx_nz (block): **8267**
+- Fluid Pipe|meta|conn|ny_nz (block): **8268**
+- Fluid Pipe|meta|conn|nx_ny_nz (block): **8269**
+- Fluid Pipe|meta|conn|px (block): **8270**
+- Fluid Pipe|meta|conn|nx_px (block): **8271**
+- Fluid Pipe|meta|conn|ny_px (block): **8272**
+- Fluid Pipe|meta|conn|nx_ny_px (block): **8273**
+- Fluid Pipe|meta|conn|nz_px (block): **8274**
+- Fluid Pipe|meta|conn|nx_nz_px (block): **8275**
+- Fluid Pipe|meta|conn|ny_nz_px (block): **8276**
+- Fluid Pipe|meta|conn|nx_ny_nz_px (block): **8277**
+- Fluid Pipe|meta|conn|py (block): **8278**
+- Fluid Pipe|meta|conn|nx_py (block): **8279**
+- Fluid Pipe|meta|conn|ny_py (block): **8280**
+- Fluid Pipe|meta|conn|nx_ny_py (block): **8281**
+- Fluid Pipe|meta|conn|nz_py (block): **8282**
+- Fluid Pipe|meta|conn|nx_nz_py (block): **8283**
+- Fluid Pipe|meta|conn|ny_nz_py (block): **8284**
+- Fluid Pipe|meta|conn|nx_ny_nz_py (block): **8285**
+- Fluid Pipe|meta|conn|px_py (block): **8286**
+- Fluid Pipe|meta|conn|nx_px_py (block): **8287**
+- Fluid Pipe|meta|conn|ny_px_py (block): **8288**
+- Fluid Pipe|meta|conn|nx_ny_px_py (block): **8289**
+- Fluid Pipe|meta|conn|nz_px_py (block): **8290**
+- Fluid Pipe|meta|conn|nx_nz_px_py (block): **8291**
+- Fluid Pipe|meta|conn|ny_nz_px_py (block): **8292**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py (block): **8293**
+- Fluid Pipe|meta|conn|pz (block): **8294**
+- Fluid Pipe|meta|conn|nx_pz (block): **8295**
+- Fluid Pipe|meta|conn|ny_pz (block): **8296**
+- Fluid Pipe|meta|conn|nx_ny_pz (block): **8297**
+- Fluid Pipe|meta|conn|nz_pz (block): **8298**
+- Fluid Pipe|meta|conn|nx_nz_pz (block): **8299**
+- Fluid Pipe|meta|conn|ny_nz_pz (block): **8300**
+- Fluid Pipe|meta|conn|nx_ny_nz_pz (block): **8301**
+- Fluid Pipe|meta|conn|px_pz (block): **8302**
+- Fluid Pipe|meta|conn|nx_px_pz (block): **8303**
+- Fluid Pipe|meta|conn|ny_px_pz (block): **8304**
+- Fluid Pipe|meta|conn|nx_ny_px_pz (block): **8305**
+- Fluid Pipe|meta|conn|nz_px_pz (block): **8306**
+- Fluid Pipe|meta|conn|nx_nz_px_pz (block): **8307**
+- Fluid Pipe|meta|conn|ny_nz_px_pz (block): **8308**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_pz (block): **8309**
+- Fluid Pipe|meta|conn|py_pz (block): **8310**
+- Fluid Pipe|meta|conn|nx_py_pz (block): **8311**
+- Fluid Pipe|meta|conn|ny_py_pz (block): **8312**
+- Fluid Pipe|meta|conn|nx_ny_py_pz (block): **8313**
+- Fluid Pipe|meta|conn|nz_py_pz (block): **8314**
+- Fluid Pipe|meta|conn|nx_nz_py_pz (block): **8315**
+- Fluid Pipe|meta|conn|ny_nz_py_pz (block): **8316**
+- Fluid Pipe|meta|conn|nx_ny_nz_py_pz (block): **8317**
+- Fluid Pipe|meta|conn|px_py_pz (block): **8318**
+- Fluid Pipe|meta|conn|nx_px_py_pz (block): **8319**
+- Fluid Pipe|meta|conn|ny_px_py_pz (block): **8320**
+- Fluid Pipe|meta|conn|nx_ny_px_py_pz (block): **8321**
+- Fluid Pipe|meta|conn|nz_px_py_pz (block): **8322**
+- Fluid Pipe|meta|conn|nx_nz_px_py_pz (block): **8323**
+- Fluid Pipe|meta|conn|ny_nz_px_py_pz (block): **8324**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8325**
+- Coolant Mixer (block): **8326**
+- Coolant Mixer|meta|rot2 (block): **8327**
+- Coolant Mixer|meta|rot3 (block): **8328**
+- Coolant Mixer|meta|rot4 (block): **8329**
+- Coolant Mixer|meta|rot1|Running (block): **8330**
+- Coolant Mixer|meta|rot2|Running (block): **8331**
+- Coolant Mixer|meta|rot3|Running (block): **8332**
+- Coolant Mixer|meta|rot4|Running (block): **8333**
+- Coolant Pipe (block): **8334**
+- Coolant Pipe|meta|conn|nx (block): **8335**
+- Coolant Pipe|meta|conn|ny (block): **8336**
+- Coolant Pipe|meta|conn|nx_ny (block): **8337**
+- Coolant Pipe|meta|conn|nz (block): **8338**
+- Coolant Pipe|meta|conn|nx_nz (block): **8339**
+- Coolant Pipe|meta|conn|ny_nz (block): **8340**
+- Coolant Pipe|meta|conn|nx_ny_nz (block): **8341**
+- Coolant Pipe|meta|conn|px (block): **8342**
+- Coolant Pipe|meta|conn|nx_px (block): **8343**
+- Coolant Pipe|meta|conn|ny_px (block): **8344**
+- Coolant Pipe|meta|conn|nx_ny_px (block): **8345**
+- Coolant Pipe|meta|conn|nz_px (block): **8346**
+- Coolant Pipe|meta|conn|nx_nz_px (block): **8347**
+- Coolant Pipe|meta|conn|ny_nz_px (block): **8348**
+- Coolant Pipe|meta|conn|nx_ny_nz_px (block): **8349**
+- Coolant Pipe|meta|conn|py (block): **8350**
+- Coolant Pipe|meta|conn|nx_py (block): **8351**
+- Coolant Pipe|meta|conn|ny_py (block): **8352**
+- Coolant Pipe|meta|conn|nx_ny_py (block): **8353**
+- Coolant Pipe|meta|conn|nz_py (block): **8354**
+- Coolant Pipe|meta|conn|nx_nz_py (block): **8355**
+- Coolant Pipe|meta|conn|ny_nz_py (block): **8356**
+- Coolant Pipe|meta|conn|nx_ny_nz_py (block): **8357**
+- Coolant Pipe|meta|conn|px_py (block): **8358**
+- Coolant Pipe|meta|conn|nx_px_py (block): **8359**
+- Coolant Pipe|meta|conn|ny_px_py (block): **8360**
+- Coolant Pipe|meta|conn|nx_ny_px_py (block): **8361**
+- Coolant Pipe|meta|conn|nz_px_py (block): **8362**
+- Coolant Pipe|meta|conn|nx_nz_px_py (block): **8363**
+- Coolant Pipe|meta|conn|ny_nz_px_py (block): **8364**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py (block): **8365**
+- Coolant Pipe|meta|conn|pz (block): **8366**
+- Coolant Pipe|meta|conn|nx_pz (block): **8367**
+- Coolant Pipe|meta|conn|ny_pz (block): **8368**
+- Coolant Pipe|meta|conn|nx_ny_pz (block): **8369**
+- Coolant Pipe|meta|conn|nz_pz (block): **8370**
+- Coolant Pipe|meta|conn|nx_nz_pz (block): **8371**
+- Coolant Pipe|meta|conn|ny_nz_pz (block): **8372**
+- Coolant Pipe|meta|conn|nx_ny_nz_pz (block): **8373**
+- Coolant Pipe|meta|conn|px_pz (block): **8374**
+- Coolant Pipe|meta|conn|nx_px_pz (block): **8375**
+- Coolant Pipe|meta|conn|ny_px_pz (block): **8376**
+- Coolant Pipe|meta|conn|nx_ny_px_pz (block): **8377**
+- Coolant Pipe|meta|conn|nz_px_pz (block): **8378**
+- Coolant Pipe|meta|conn|nx_nz_px_pz (block): **8379**
+- Coolant Pipe|meta|conn|ny_nz_px_pz (block): **8380**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_pz (block): **8381**
+- Coolant Pipe|meta|conn|py_pz (block): **8382**
+- Coolant Pipe|meta|conn|nx_py_pz (block): **8383**
+- Coolant Pipe|meta|conn|ny_py_pz (block): **8384**
+- Coolant Pipe|meta|conn|nx_ny_py_pz (block): **8385**
+- Coolant Pipe|meta|conn|nz_py_pz (block): **8386**
+- Coolant Pipe|meta|conn|nx_nz_py_pz (block): **8387**
+- Coolant Pipe|meta|conn|ny_nz_py_pz (block): **8388**
+- Coolant Pipe|meta|conn|nx_ny_nz_py_pz (block): **8389**
+- Coolant Pipe|meta|conn|px_py_pz (block): **8390**
+- Coolant Pipe|meta|conn|nx_px_py_pz (block): **8391**
+- Coolant Pipe|meta|conn|ny_px_py_pz (block): **8392**
+- Coolant Pipe|meta|conn|nx_ny_px_py_pz (block): **8393**
+- Coolant Pipe|meta|conn|nz_px_py_pz (block): **8394**
+- Coolant Pipe|meta|conn|nx_nz_px_py_pz (block): **8395**
+- Coolant Pipe|meta|conn|ny_nz_px_py_pz (block): **8396**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz (block): **8397**
+- Fluid Tank|meta|rot1|Fill1 (block): **8398**
+- Fluid Tank|meta|rot1|Fill2 (block): **8399**
+- Fluid Tank|meta|rot1|Fill3 (block): **8400**
+- Fluid Tank|meta|rot1|Fill4 (block): **8401**
+- Fluid Pipe|meta|conn|none|Full (block): **8402**
+- Fluid Pipe|meta|conn|nx|Full (block): **8403**
+- Fluid Pipe|meta|conn|ny|Full (block): **8404**
+- Fluid Pipe|meta|conn|nx_ny|Full (block): **8405**
+- Fluid Pipe|meta|conn|nz|Full (block): **8406**
+- Fluid Pipe|meta|conn|nx_nz|Full (block): **8407**
+- Fluid Pipe|meta|conn|ny_nz|Full (block): **8408**
+- Fluid Pipe|meta|conn|nx_ny_nz|Full (block): **8409**
+- Fluid Pipe|meta|conn|px|Full (block): **8410**
+- Fluid Pipe|meta|conn|nx_px|Full (block): **8411**
+- Fluid Pipe|meta|conn|ny_px|Full (block): **8412**
+- Fluid Pipe|meta|conn|nx_ny_px|Full (block): **8413**
+- Fluid Pipe|meta|conn|nz_px|Full (block): **8414**
+- Fluid Pipe|meta|conn|nx_nz_px|Full (block): **8415**
+- Fluid Pipe|meta|conn|ny_nz_px|Full (block): **8416**
+- Fluid Pipe|meta|conn|nx_ny_nz_px|Full (block): **8417**
+- Fluid Pipe|meta|conn|py|Full (block): **8418**
+- Fluid Pipe|meta|conn|nx_py|Full (block): **8419**
+- Fluid Pipe|meta|conn|ny_py|Full (block): **8420**
+- Fluid Pipe|meta|conn|nx_ny_py|Full (block): **8421**
+- Fluid Pipe|meta|conn|nz_py|Full (block): **8422**
+- Fluid Pipe|meta|conn|nx_nz_py|Full (block): **8423**
+- Fluid Pipe|meta|conn|ny_nz_py|Full (block): **8424**
+- Fluid Pipe|meta|conn|nx_ny_nz_py|Full (block): **8425**
+- Fluid Pipe|meta|conn|px_py|Full (block): **8426**
+- Fluid Pipe|meta|conn|nx_px_py|Full (block): **8427**
+- Fluid Pipe|meta|conn|ny_px_py|Full (block): **8428**
+- Fluid Pipe|meta|conn|nx_ny_px_py|Full (block): **8429**
+- Fluid Pipe|meta|conn|nz_px_py|Full (block): **8430**
+- Fluid Pipe|meta|conn|nx_nz_px_py|Full (block): **8431**
+- Fluid Pipe|meta|conn|ny_nz_px_py|Full (block): **8432**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8433**
+- Fluid Pipe|meta|conn|pz|Full (block): **8434**
+- Fluid Pipe|meta|conn|nx_pz|Full (block): **8435**
+- Fluid Pipe|meta|conn|ny_pz|Full (block): **8436**
+- Fluid Pipe|meta|conn|nx_ny_pz|Full (block): **8437**
+- Fluid Pipe|meta|conn|nz_pz|Full (block): **8438**
+- Fluid Pipe|meta|conn|nx_nz_pz|Full (block): **8439**
+- Fluid Pipe|meta|conn|ny_nz_pz|Full (block): **8440**
+- Fluid Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8441**
+- Fluid Pipe|meta|conn|px_pz|Full (block): **8442**
+- Fluid Pipe|meta|conn|nx_px_pz|Full (block): **8443**
+- Fluid Pipe|meta|conn|ny_px_pz|Full (block): **8444**
+- Fluid Pipe|meta|conn|nx_ny_px_pz|Full (block): **8445**
+- Fluid Pipe|meta|conn|nz_px_pz|Full (block): **8446**
+- Fluid Pipe|meta|conn|nx_nz_px_pz|Full (block): **8447**
+- Fluid Pipe|meta|conn|ny_nz_px_pz|Full (block): **8448**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8449**
+- Fluid Pipe|meta|conn|py_pz|Full (block): **8450**
+- Fluid Pipe|meta|conn|nx_py_pz|Full (block): **8451**
+- Fluid Pipe|meta|conn|ny_py_pz|Full (block): **8452**
+- Fluid Pipe|meta|conn|nx_ny_py_pz|Full (block): **8453**
+- Fluid Pipe|meta|conn|nz_py_pz|Full (block): **8454**
+- Fluid Pipe|meta|conn|nx_nz_py_pz|Full (block): **8455**
+- Fluid Pipe|meta|conn|ny_nz_py_pz|Full (block): **8456**
+- Fluid Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8457**
+- Fluid Pipe|meta|conn|px_py_pz|Full (block): **8458**
+- Fluid Pipe|meta|conn|nx_px_py_pz|Full (block): **8459**
+- Fluid Pipe|meta|conn|ny_px_py_pz|Full (block): **8460**
+- Fluid Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8461**
+- Fluid Pipe|meta|conn|nz_px_py_pz|Full (block): **8462**
+- Fluid Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8463**
+- Fluid Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8464**
+- Fluid Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8465**
+- Coolant Pipe|meta|conn|none|Full (block): **8466**
+- Coolant Pipe|meta|conn|nx|Full (block): **8467**
+- Coolant Pipe|meta|conn|ny|Full (block): **8468**
+- Coolant Pipe|meta|conn|nx_ny|Full (block): **8469**
+- Coolant Pipe|meta|conn|nz|Full (block): **8470**
+- Coolant Pipe|meta|conn|nx_nz|Full (block): **8471**
+- Coolant Pipe|meta|conn|ny_nz|Full (block): **8472**
+- Coolant Pipe|meta|conn|nx_ny_nz|Full (block): **8473**
+- Coolant Pipe|meta|conn|px|Full (block): **8474**
+- Coolant Pipe|meta|conn|nx_px|Full (block): **8475**
+- Coolant Pipe|meta|conn|ny_px|Full (block): **8476**
+- Coolant Pipe|meta|conn|nx_ny_px|Full (block): **8477**
+- Coolant Pipe|meta|conn|nz_px|Full (block): **8478**
+- Coolant Pipe|meta|conn|nx_nz_px|Full (block): **8479**
+- Coolant Pipe|meta|conn|ny_nz_px|Full (block): **8480**
+- Coolant Pipe|meta|conn|nx_ny_nz_px|Full (block): **8481**
+- Coolant Pipe|meta|conn|py|Full (block): **8482**
+- Coolant Pipe|meta|conn|nx_py|Full (block): **8483**
+- Coolant Pipe|meta|conn|ny_py|Full (block): **8484**
+- Coolant Pipe|meta|conn|nx_ny_py|Full (block): **8485**
+- Coolant Pipe|meta|conn|nz_py|Full (block): **8486**
+- Coolant Pipe|meta|conn|nx_nz_py|Full (block): **8487**
+- Coolant Pipe|meta|conn|ny_nz_py|Full (block): **8488**
+- Coolant Pipe|meta|conn|nx_ny_nz_py|Full (block): **8489**
+- Coolant Pipe|meta|conn|px_py|Full (block): **8490**
+- Coolant Pipe|meta|conn|nx_px_py|Full (block): **8491**
+- Coolant Pipe|meta|conn|ny_px_py|Full (block): **8492**
+- Coolant Pipe|meta|conn|nx_ny_px_py|Full (block): **8493**
+- Coolant Pipe|meta|conn|nz_px_py|Full (block): **8494**
+- Coolant Pipe|meta|conn|nx_nz_px_py|Full (block): **8495**
+- Coolant Pipe|meta|conn|ny_nz_px_py|Full (block): **8496**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py|Full (block): **8497**
+- Coolant Pipe|meta|conn|pz|Full (block): **8498**
+- Coolant Pipe|meta|conn|nx_pz|Full (block): **8499**
+- Coolant Pipe|meta|conn|ny_pz|Full (block): **8500**
+- Coolant Pipe|meta|conn|nx_ny_pz|Full (block): **8501**
+- Coolant Pipe|meta|conn|nz_pz|Full (block): **8502**
+- Coolant Pipe|meta|conn|nx_nz_pz|Full (block): **8503**
+- Coolant Pipe|meta|conn|ny_nz_pz|Full (block): **8504**
+- Coolant Pipe|meta|conn|nx_ny_nz_pz|Full (block): **8505**
+- Coolant Pipe|meta|conn|px_pz|Full (block): **8506**
+- Coolant Pipe|meta|conn|nx_px_pz|Full (block): **8507**
+- Coolant Pipe|meta|conn|ny_px_pz|Full (block): **8508**
+- Coolant Pipe|meta|conn|nx_ny_px_pz|Full (block): **8509**
+- Coolant Pipe|meta|conn|nz_px_pz|Full (block): **8510**
+- Coolant Pipe|meta|conn|nx_nz_px_pz|Full (block): **8511**
+- Coolant Pipe|meta|conn|ny_nz_px_pz|Full (block): **8512**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_pz|Full (block): **8513**
+- Coolant Pipe|meta|conn|py_pz|Full (block): **8514**
+- Coolant Pipe|meta|conn|nx_py_pz|Full (block): **8515**
+- Coolant Pipe|meta|conn|ny_py_pz|Full (block): **8516**
+- Coolant Pipe|meta|conn|nx_ny_py_pz|Full (block): **8517**
+- Coolant Pipe|meta|conn|nz_py_pz|Full (block): **8518**
+- Coolant Pipe|meta|conn|nx_nz_py_pz|Full (block): **8519**
+- Coolant Pipe|meta|conn|ny_nz_py_pz|Full (block): **8520**
+- Coolant Pipe|meta|conn|nx_ny_nz_py_pz|Full (block): **8521**
+- Coolant Pipe|meta|conn|px_py_pz|Full (block): **8522**
+- Coolant Pipe|meta|conn|nx_px_py_pz|Full (block): **8523**
+- Coolant Pipe|meta|conn|ny_px_py_pz|Full (block): **8524**
+- Coolant Pipe|meta|conn|nx_ny_px_py_pz|Full (block): **8525**
+- Coolant Pipe|meta|conn|nz_px_py_pz|Full (block): **8526**
+- Coolant Pipe|meta|conn|nx_nz_px_py_pz|Full (block): **8527**
+- Coolant Pipe|meta|conn|ny_nz_px_py_pz|Full (block): **8528**
+- Coolant Pipe|meta|conn|nx_ny_nz_px_py_pz|Full (block): **8529**
+- Reactor Frame|meta|rot1|Formed (block): **8530**
+- Reactor Glass|meta|rot1|Formed (block): **8531**
+- Reactor Port|meta|rot1|Formed (block): **8532**
+- Reactor Port|meta|rot1|Formed|Water (block): **8533**
+- Reactor Port|meta|rot1|Formed|Waste (block): **8534**
+- Collider|meta|rot1|Running (block): **8535**
+- Collider|meta|rot2|Running (block): **8536**
+- Collider|meta|rot3|Running (block): **8537**
+- Collider|meta|rot4|Running (block): **8538**
+- Scaffolding (block): **8539**
+- Nova Trophy (block): **8540**
+- Nova Trophy|meta|rot2 (block): **8541**
+- Nova Trophy|meta|rot3 (block): **8542**
+- Nova Trophy|meta|rot4 (block): **8543**
+- Uranium Block (block): **8544**
+- Pure Uranium Ore (block): **8545**
+- Copper Block (block): **8546**
+- Voltite Block (block): **8547**
+- Raw Uranium (item): **10040**
+- Uranium Grit (item): **10041**
+- Uranium Pellet (item): **10042**
+- Plutonium Pellet (item): **10043**
+- Spent Pellet (item): **10044**
+- Glow Dust (item): **10045**
+- Biomass (item): **10046**
+- Graphite (item): **10047**
+- Containment Plate (item): **10048**
+- Heat Exchanger (item): **10049**
+- Focus Lens (item): **10050**
+- Nova Matter (item): **10051**
+- Deposit Seed (Uranium) (item): **10052**
+- Reactor Blueprint (item): **10053**
+- Wrench (item): **10054**
+- Advanced Coupler (item): **10055**
+- Nova Coupler (item): **10056**
+- Core Tier 11 (item): **10057**
+- Core Tier 12 (item): **10058**
+- Core Tier 13 (item): **10059**
+- Core Tier 14 (item): **10060**
+- Core Tier 15 (item): **10061**
+- Jet Chestplate (item): **10062**
+- Nova Jet Chestplate (item): **10063**
+- Nova Helmet (item): **10064**
+- Nova Chestplate (item): **10065**
+- Nova Gauntlets (item): **10066**
+- Nova Leggings (item): **10067**
+- Nova Boots (item): **10068**
+- Nova Blade (item): **10069**
+- Mob Cage (item): **10070**
+- Caged Pig (item): **10071**
+- Caged Cow (item): **10072**
+- Caged Sheep (item): **10073**
+- Caged Deer (item): **10074**
+- Caged Stag (item): **10075**
+- Nova Multitool (item): **10076**
+- Pocket Terminal (item): **10077**
+- Comet Beacon (item): **10078**
+- Nova Wrench (item): **10079**
+
+</details>
+
+---
+
+Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
+
 - Latest checked build: [`tykq5g.main.937fd517.js`](https://bloxd.io/static/js/tykq5g.main.937fd517.js) — checked at 2026-11-15T22:22:12.635Z; entries unchanged since the last update below.
 
 - Latest checked build: [`8f728.main.20f3f323.js`](https://bloxd.io/static/js/8f728.main.20f3f323.js) — checked at 2026-11-14T20:07:41.724Z; entries unchanged since the last update below.

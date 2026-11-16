@@ -1,14 +1,14 @@
 # Bloxd.io Block/Item Data
 
 Source: bloxd.io main bundle (/static/js/tykq5g.main.937fd517.js)
-Extracted: 2026-11-15T22:22:09.694Z
+Extracted: 2026-11-16T02:51:54.181Z
 
 Extraction executes the registry-building code inside the bundle on the same JavaScript engine (V8) the game uses.
 IDs and properties therefore match the live game (verified against the hardcoded ID table in the bundle).
 
 ## Updating
 
-bloxd.io's main bundle is polled by the external Cloudflare Worker in [the scheduler setup](https://github.com/imu31465/Bloxd-Build-Monitor/tree/main/cloudflare) once per minute. It dispatches this workflow only when the bundle URL differs from `update-state.json`. A GitHub Actions schedule runs every 6 hours as a fallback because GitHub scheduled events are best-effort and may be delayed.
+bloxd.io's main bundle is polled by the external Cloudflare Worker at https://github.com/imu31465/Bloxd-Build-Monitor/tree/main/cloudflare once per minute. It dispatches this workflow only when the bundle URL differs from `update-state.json`. A GitHub Actions schedule runs every 6 hours as a fallback because GitHub scheduled events are best-effort and may be delayed.
 A dispatched run compares the bundle URL (its file name embeds a content hash) with `update-state.json`; if it changed, the data is
 re-extracted and the diff is written to CHANGES.md (added/removed) and ID-CHANGES.md (ID changes). A run notes it in CHANGES.md even when the bundle changed but no entries did. README.md and the current ID-CHANGES.md are also refreshed for every successful bundle extraction, even when the extracted entries are unchanged; the previous detailed diff is kept in HISTORY.md.
 The extraction script `update.js` is included at the repository root (single file, zero dependencies, Node >= 18).
@@ -21,6 +21,7 @@ Run it manually with `node update.js`, `--force` (re-extract even if unchanged),
 - HISTORY.md : diffs from older updates, text-only (thumbnails would exceed GitHub's 512 KB render limit)
 - entries.json : id↔name map for all entries (block+item) as [{id, name}] (sorted by id, contiguous 0..N)
 - entries/     : one JSON per entry (file name starts with the 5-digit zero-padded ID, so name order = ID order; `kind` distinguishes block/item)
+- textures/    : one PNG per entry where a texture is available (blocks = atlas tile upscaled 2x, items = the game's sprite; CHANGES.md and ID-CHANGES.md embed these next to entry names)
 - update-state.json : internal state for the automatic update (bundle URL/hash of the last extraction)
 
 State variants (orientation, open/closed, growth, charge, etc.) live in the same folder.
