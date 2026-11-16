@@ -515,83 +515,132 @@ function pngEncode(width, height, bpp, pixels) {
 
 // Extract the atlas sheets (data URIs) and the item sprite URL map from the chunk sources.
 // Returns { sheets, width, perAtlas, itemUrls, inlineSprites, glbUrls, mobAtlas } or null.
+//
+// Update-resilience: the game's bundler rotates its minified 1-3 character identifiers on
+// every release (one build ships WW/RW/MW, the next my/yy/lm) — exactly what broke texture
+// extraction before. No pattern below may depend on concrete minified names: everything
+// anchors on stable string literals (blockAtlasUrls, static/media/, data:image/png) and
+// captures the minified identifiers with backreferences instead. Several chunks carry
+// look-alike tables (HUD icons, capes, wasm-client icons, player models), so candidate
+// tables are collected from every chunk and the largest one wins — readdir order is
+// arbitrary and must not decide which table we use.
 function findTextureSources(chunkSrcs) {
-  let sheets = null, width = 8, perAtlas = 256, itemUrls = null, inlineSprites = null, glbUrls = null, mobAtlas = null;
+  let sheets = null, width = 8, perAtlas = 256;
+  let itemUrls = null, inlineSprites = null, glbUrls = null, mobAtlas = null;
+  // module id -> static/media URL, e.g. `49320:(my,yy,lm)=>{my.exports=lm.p+"static/media/67.<hash>.png"}`.
+  // The module var (arg 1) and the require fn carrying `.p` (always the LAST arg) are
+  // backreferenced, so this matches any minifier naming as well as the legacy (WW,RW,MW) shape.
+  const URL_MODULE_RE = /(?<!\d)(\d+):\((\w+),(?:\w+,)*(\w+)\)=>\{\2\.exports=\3\.p\+"([^"]+)"\}/g;
+  // {name:"allium",url:()=>lm(47937)} — require fn name is minified, match it structurally
+  const NAMED_URL_RE = /\{name:"([^"]+)",url:\(\)=>\w+\((\d+)\)\}/g;
+  // 34447:my=>{my.exports="data:image/png;base64,..."} (any minified arg name)
+  const INLINE_PNG_RE = /(?<!\d)(\d+):\w+=>\{\w+\.exports="data:image\/png;base64,([A-Za-z0-9+/=]+)"\}/g;
+  const spriteCandidates = []; // require.context './name.png' -> static/media URL tables
+  const glbCandidates = []; // { glb, mob, size } model catalogues
   for (const src of chunkSrcs) {
-    // --- block atlas chunk: exports blockAtlasUrls = [MW(id), ...] with data:image/png modules ---
+    // --- block atlas chunk: blockAtlasUrls:()=>Pm with Pm=[lm(32992),...] data:image/png modules ---
     if (!sheets && src.includes('blockAtlasUrls')) {
-      const mW = src.match(/(\w+)=\[MW\((\d+)\)((?:,MW\(\d+\))*)\]/); // e.g. zR=[MW(32679),MW(32684),...]
-      if (mW) {
-        const ids = [mW[2], ...(mW[3] || '').matchAll(/MW\((\d+)\)/g).map((x) => x[1])];
+      // the export getter names the array variable; the array names the require fn and module ids
+      const getter = src.match(/blockAtlasUrls:\(\)=>(\w+)/);
+      const arr = getter
+        ? src.match(new RegExp(getter[1] + '=\\[(\\w+)\\((\\d+)\\)((?:,\\1\\(\\d+\\))*)\\]'))
+        : src.match(/\[(\w+)\((\d+)\)((?:,\1\(\d+\))*)\]/); // legacy inlined shape: [MW(32679),...]
+      if (arr) {
+        const ids = [arr[2], ...(arr[3] || '').matchAll(/(\d+)/g).map((x) => x[0])];
         const bufs = [];
         let ok = true;
         for (const id of ids) {
-          const dm = src.match(new RegExp(id + ':(?:\\(WW,RW,MW\\)|WW)=>\\{WW\\.exports=\\"(data:image/png;base64,[^\\"]+)\\"\\}'));
+          // any arg count, any names: 32992:my=>{my.exports="data:image/png;base64,..."}
+          const dm = src.match(new RegExp('(?<!\\d)' + id + ':(?:\\(\\w+(?:,\\w+)*\\)|\\w+)=>\\{(\\w+)\\.exports=\\"data:image/png;base64,([A-Za-z0-9+/=]+)\\"\\}'));
           if (!dm) { ok = false; break; }
-          bufs.push(Buffer.from(dm[1].slice('data:image/png;base64,'.length), 'base64'));
+          bufs.push(Buffer.from(dm[2], 'base64'));
         }
         if (ok && bufs.length) {
           sheets = bufs;
-          const wM = src.match(/const (\w+)=(\d+),(\w+)=\[([\d,]+)\]/); // const wW=8,CW=[256,...]
+          // const pm=8,Im=[256,...] (tile width + images per atlas sheet)
+          const wM = src.match(/(?:const|let|var) (\w+)=(\d+),(\w+)=\[([\d,]+)\]/);
           if (wM) { width = Number(wM[2]); perAtlas = Number(wM[4].split(',')[0]); }
         }
       }
     }
-    // --- item sprite chunk: require.context map './name.png' -> id -> static/media URL ---
-    if (!itemUrls) {
-      const ctx = src.match(/var \w+=\{("\.\/[^"]+\.png":\d+[,\s\S]*?)\};/);
-      if (ctx && src.includes('static/media/')) {
-        const urlById = new Map();
-        for (const m of src.matchAll(/(\d+):\((?:WW|RW|MW),(?:WW|RW|MW),(?:WW|RW|MW)\)=>\{WW\.exports=MW\.p\+"([^"]+)"\}/g)) {
-          urlById.set(m[1], m[2]);
-        }
-        if (urlById.size > 100) {
-          const urls = {};
-          for (const [, name, id] of ctx[1].matchAll(/"\.\/([^"]+)\.png":(\d+)/g)) {
-            const u = urlById.get(id);
-            if (u) urls[name] = u;
-          }
-          if (Object.keys(urls).length > 100) itemUrls = urls;
-        }
-      }
-    }
-    // --- sprite chunk with INLINE base64 PNGs (id:WW=>{WW.exports="data:image/png;base64,..."}) ---
-    if (!inlineSprites) {
-      const ctx = src.match(/\{("\.\/[^"]+\.png":\d+(?:,\s*"[^"]+\.png":\d+)*)\}/);
-      if (ctx && src.includes('data:image/png;base64,')) {
-        const nameById = {};
-        for (const m of ctx[1].matchAll(/"\.\/([^"]+)\.png":(\d+)/g)) nameById[m[2]] = m[1];
-        const dataById = {};
-        for (const m of src.matchAll(/(\d+):\w+=>\{\w+\.exports="data:image\/png;base64,([A-Za-z0-9+/=]+)"\}/g)) dataById[m[1]] = m[2];
-        const found = {};
-        for (const [id, name] of Object.entries(nameById)) {
-          if (dataById[id]) found[name] = 'data:image/png;base64,' + dataById[id];
-        }
-        if (Object.keys(found).length > 100) inlineSprites = found;
-      }
-    }
-    // --- model catalogue chunk: './name.png'/'./name.glb'/'./Mob/Mob_Atlas.png' -> static/media URL ---
-    if (!glbUrls) {
+    // --- require.context sprite tables: './name.png' -> id -> static/media URL ---
+    {
       const urlById = new Map();
-      for (const m of src.matchAll(/(\d+):\((?:WW|RW|MW),(?:WW|RW|MW),(?:WW|RW|MW)\)=>\{WW\.exports=MW\.p\+"([^"]+)"\}/g)) urlById.set(m[1], m[2]);
-      const glbCtx = src.match(/\{("\.\/[^"]+?\.glb":\d+(?:,\s*"[^"]+?\.glb":\d+)*)\}/);
-      const pngCtx = src.match(/\{("\.\/[^"/]+\/[^"]+?_Atlas\.png":\d+(?:,\s*"[^"]+?_Atlas\.png":\d+)*)\}/);
-      if (glbCtx || pngCtx) {
-        glbUrls = {};
-        if (glbCtx) for (const [, name, id] of glbCtx[1].matchAll(/"\.\/([^"]+?)\.glb":(\d+)/g)) {
-          const u = urlById.get(id); if (u) glbUrls[name] = u;
+      for (const m of src.matchAll(URL_MODULE_RE)) urlById.set(m[1], m[4]);
+      if (urlById.size > 100 && src.includes('static/media/')) {
+        const urls = {};
+        for (const m of src.matchAll(/"\.\/([^"]+)\.png":(\d+)/g)) {
+          const u = urlById.get(m[2]);
+          if (u) urls[m[1]] = u;
         }
-        mobAtlas = {};
-        if (pngCtx) for (const m of pngCtx[1].matchAll(/"\.\/([^/"]+)\/[^"]+?_Atlas\.png":(\d+)/g)) {
-          const u = urlById.get(m[2]); if (u) mobAtlas[m[1]] = u;
+        if (Object.keys(urls).length > 100) spriteCandidates.push(urls);
+      }
+    }
+    // --- sprite chunks with INLINE base64 PNGs (id:X=>{X.exports="data:image/png;base64,..."}) ---
+    {
+      if (src.includes('data:image/png;base64,')) {
+        const dataById = new Map();
+        for (const m of src.matchAll(INLINE_PNG_RE)) dataById.set(m[1], m[2]);
+        // chunk-wide pair scan: the refs live in one ctx object per module, so a
+        // single-ctx regex would only ever see the first ~100 entries
+        const found = {};
+        for (const m of src.matchAll(/"\.\/([^"]+)\.png":(\d+)(?=[,}])/g)) {
+          const b64 = dataById.get(m[2]);
+          if (b64 && !found[m[1]]) found[m[1]] = 'data:image/png;base64,' + b64;
         }
-        // extra: catalogue also exports named texture urls {name:"x",url:()=>MW(id)}
-        for (const m of src.matchAll(/\{name:"([^"]+)",url:\(\)=>MW\((\d+)\)\}/g)) {
-          const u = urlById.get(m[2]); if (u) (itemUrls ??= {})[m[1]] ??= u;
+        // merge every qualifying chunk instead of keeping an arbitrary first match
+        if (Object.keys(found).length > 100) {
+          inlineSprites ??= {};
+          for (const [k, v] of Object.entries(found)) inlineSprites[k] ??= v;
+        }
+      }
+    }
+    // --- model catalogue chunk: './name.glb'/'./Mob/Mob_Atlas.png' -> static/media URL ---
+    {
+      const urlById = new Map();
+      for (const m of src.matchAll(URL_MODULE_RE)) urlById.set(m[1], m[4]);
+      if (urlById.size > 100) {
+        // chunk-wide pair scan: the catalogue spreads its refs over one ctx object per
+        // module, so a single-ctx regex would only ever see the first ~100 entries
+        const glb = {}, mob = {};
+        for (const m of src.matchAll(/"\.\/([^"]+?)\.glb":(\d+)(?=[,}])/g)) {
+          const u = urlById.get(m[2]);
+          if (!u) continue;
+          // './Armour Collector/Armour Collector_Model.glb' -> also key by the plain name
+          // entries use in blockModel ('Armour Collector'), not just the full path
+          const stem = m[1].split('/').pop();
+          const base = stem.replace(/_(?:Model|Reconstructed)$/, '');
+          if (!glb[base]) glb[base] = u;
+          if (!glb[m[1]]) glb[m[1]] = u;
+        }
+        for (const m of src.matchAll(/"\.\/([^"/"]+)\/[^"]+?_Atlas\.png":(\d+)(?=[,}])/g)) {
+          const u = urlById.get(m[2]);
+          if (u && !mob[m[1]]) mob[m[1]] = u;
+        }
+        const size = Object.keys(glb).length + Object.keys(mob).length;
+        if (size > 20) glbCandidates.push({ glb, mob, size });
+        // the catalogue also exports named texture urls ({name:"x",url:()=>require(id)});
+        // these are real block textures (cross-model plants...), keep them for lookups
+        for (const m of src.matchAll(NAMED_URL_RE)) {
+          const u = urlById.get(m[2]);
+          if (u) (itemUrls ??= {})[m[1]] ??= u;
         }
       }
     }
   }
+  // Largest sprite table wins: the real item sprite table is by far the biggest, the
+  // smaller look-alikes are HUD icons / capes / wasm-client icons.
+  let bestSprites = null;
+  for (const urls of spriteCandidates) {
+    if (!bestSprites || Object.keys(urls).length > Object.keys(bestSprites).length) bestSprites = urls;
+  }
+  if (bestSprites) {
+    itemUrls ??= {};
+    for (const [k, v] of Object.entries(bestSprites)) itemUrls[k] ??= v;
+  }
+  let bestGlb = null;
+  for (const c of glbCandidates) if (!bestGlb || c.size > bestGlb.size) bestGlb = c;
+  if (bestGlb) { glbUrls = bestGlb.glb; mobAtlas = bestGlb.mob; }
   if (!sheets && !itemUrls && !inlineSprites && !glbUrls) return null;
   return { sheets, width, perAtlas, itemUrls, inlineSprites, glbUrls, mobAtlas };
 }
@@ -624,11 +673,12 @@ function blockTilePng(sheetsDecoded, width, perAtlas, atlasIdx, scale = 2) {
 // chunk: textureInfo first, then itemTexture — the name the game itself shows in inventory
 // UIs. Every entry gets its own PNG even when several share one sprite (e.g. recolored
 // armour sets: 'Wood Helmet' .. 'Yellow Wood Helmet' all use wood_helmet.png).
-// Returns Map<name, filename> for CHANGES.md image embedding, or null when no textures were found.
-async function writeTextures(staging, chunkSrcs, blockInstances, items) {
-  if (!chunkSrcs || !chunkSrcs.length) return null;
-  const src = findTextureSources(chunkSrcs);
-  if (!src) { logSub('No atlas / sprite chunks found; textures skipped'); return null; }
+// Update-resilience: when this build's sources cannot be parsed (the bundler rotated its
+// minified identifiers again) or an entry simply has no renderable source, the PNG a
+// previous update committed for the SAME ENTRY NAME is reused — names and their textures
+// are stable across game updates, only the numeric ID prefixes rotate.
+// Returns Map<name, filename> for CHANGES.md image embedding, or null when nothing rendered.
+async function writeTextures(staging, chunkSrcs, blockInstances, items, prevTexDir) {
   const texDir = path.join(staging, 'textures');
   fs.mkdirSync(texDir, { recursive: true });
 
@@ -636,8 +686,23 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
   const texIdx = new Map();
   const texName = (inst) => `${String(inst.id).padStart(5, '0')}_${sanitizeFilename(inst.name)}.png`;
 
+  // Previously committed textures keyed by name suffix: 'Dirt.png' -> '00002_Dirt.png'
+  const prevTexByName = new Map();
+  if (prevTexDir && fs.existsSync(prevTexDir)) {
+    for (const f of fs.readdirSync(prevTexDir)) {
+      if (!f.endsWith('.png')) continue;
+      const sfx = f.replace(/^\d+_/, '');
+      if (sfx && sfx !== f && !prevTexByName.has(sfx)) prevTexByName.set(sfx, f);
+    }
+  }
+
+  // src is null when no texture sources could be parsed; the fallback chain below (plus
+  // the name reuse above) still fills textures/ from the previous set in that case.
+  const src = (chunkSrcs && chunkSrcs.length) ? findTextureSources(chunkSrcs) : null;
+  if (!src) logSub('No atlas / sprite chunks found; falling back to the previous textures/ set');
+
   let blocksDone = 0;
-  if (src.sheets) {
+  if (src && src.sheets) {
     const sheetsDecoded = src.sheets.map((b) => { try { return pngDecode(b); } catch (_) { return null; } });
     if (sheetsDecoded.some(Boolean)) {
       for (const inst of blockInstances) {
@@ -657,52 +722,40 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
   // Sprite-based rendering: one job per (entry, sprite) pair, so shared sprites are
   // downloaded once per entry file name rather than once per distinct texture name.
   // Sources per sprite name: static/media URL map, then the inline base64 PNG map.
-  const spriteJobs = [];
-  const queueSprite = (inst, sprite) => {
-    const url = src.itemUrls && src.itemUrls[sprite];
-    const inline = src.inlineSprites && src.inlineSprites[sprite];
-    if (!url && !inline) return false;
-    spriteJobs.push({ inst, url, inline });
-    return true;
-  };
-  // items: textureInfo is a sprite name like 'stone_pickaxe'
-  for (const it of items) {
-    if (typeof it.textureInfo === 'string' && queueSprite(it, it.textureInfo)) continue;
-    if (typeof it.itemTexture === 'string') queueSprite(it, it.itemTexture);
-  }
-  // blocks without a usable atlas tile: textureInfo (cross-model plants) then itemTexture
-  for (const inst of blockInstances) {
-    const idx = Array.isArray(inst.atlasIdx) ? inst.atlasIdx[0] : inst.atlasIdx;
-    if (typeof idx === 'number' && Number.isFinite(idx)) continue; // already atlas-rendered
-    if (typeof inst.textureInfo === 'string' && queueSprite(inst, inst.textureInfo)) continue;
-    if (typeof inst.itemTexture === 'string') queueSprite(inst, inst.itemTexture);
-  }
-
-  // Shared URLs are fetched once and written to every referencing entry's file.
   const byUrl = new Map();
-  for (const j of spriteJobs) {
-    const key = j.inline ? 'inline:' + j.inline.slice(-48) : 'url:' + j.url;
-    if (!byUrl.has(key)) byUrl.set(key, { url: j.url, inline: j.inline, insts: [] });
-    byUrl.get(key).insts.push(j.inst);
-  }
   let itemsDone = 0;
-  const jobs = [...byUrl.entries()].map(async ([, { url, inline, insts }]) => {
-    if (inline) {
-      // embedded data URI: no network needed
-      const buf = Buffer.from(inline.slice('data:image/png;base64,'.length), 'base64');
-      for (const inst of insts) {
-        const fname = texName(inst);
-        fs.writeFileSync(path.join(texDir, fname), buf);
-        if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
-        itemsDone++;
-      }
+  if (src) {
+    const spriteJobs = [];
+    const queueSprite = (inst, sprite) => {
+      const url = src.itemUrls && src.itemUrls[sprite];
+      const inline = src.inlineSprites && src.inlineSprites[sprite];
+      if (!url && !inline) return false;
+      spriteJobs.push({ inst, url, inline });
       return true;
+    };
+    // items: textureInfo is a sprite name like 'stone_pickaxe'
+    for (const it of items) {
+      if (typeof it.textureInfo === 'string' && queueSprite(it, it.textureInfo)) continue;
+      if (typeof it.itemTexture === 'string') queueSprite(it, it.itemTexture);
     }
-    for (let attempt = 0; attempt < 2; attempt++) {
-      try {
-        const res = await rawFetch(`${ORIGIN}/${url}`, { headers: HEADERS, redirect: 'follow' });
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        const buf = Buffer.from(await res.arrayBuffer());
+    // blocks without a usable atlas tile: textureInfo (cross-model plants) then itemTexture
+    for (const inst of blockInstances) {
+      const idx = Array.isArray(inst.atlasIdx) ? inst.atlasIdx[0] : inst.atlasIdx;
+      if (typeof idx === 'number' && Number.isFinite(idx)) continue; // already atlas-rendered
+      if (typeof inst.textureInfo === 'string' && queueSprite(inst, inst.textureInfo)) continue;
+      if (typeof inst.itemTexture === 'string') queueSprite(inst, inst.itemTexture);
+    }
+
+    // Shared URLs are fetched once and written to every referencing entry's file.
+    for (const j of spriteJobs) {
+      const key = j.inline ? 'inline:' + j.inline.slice(-48) : 'url:' + j.url;
+      if (!byUrl.has(key)) byUrl.set(key, { url: j.url, inline: j.inline, insts: [] });
+      byUrl.get(key).insts.push(j.inst);
+    }
+    const jobs = [...byUrl.entries()].map(async ([, { url, inline, insts }]) => {
+      if (inline) {
+        // embedded data URI: no network needed
+        const buf = Buffer.from(inline.slice('data:image/png;base64,'.length), 'base64');
         for (const inst of insts) {
           const fname = texName(inst);
           fs.writeFileSync(path.join(texDir, fname), buf);
@@ -710,20 +763,34 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
           itemsDone++;
         }
         return true;
-      } catch (e) {
-        if (attempt === 1) return false;
-        await new Promise((r) => setTimeout(r, 300));
       }
-    }
-    return false;
-  });
-  await Promise.all(jobs);
+      for (let attempt = 0; attempt < 2; attempt++) {
+        try {
+          const res = await rawFetch(`${ORIGIN}/${url}`, { headers: HEADERS, redirect: 'follow' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const buf = Buffer.from(await res.arrayBuffer());
+          for (const inst of insts) {
+            const fname = texName(inst);
+            fs.writeFileSync(path.join(texDir, fname), buf);
+            if (!texIdx.has(inst.name)) texIdx.set(inst.name, fname);
+            itemsDone++;
+          }
+          return true;
+        } catch (e) {
+          if (attempt === 1) return false;
+          await new Promise((r) => setTimeout(r, 300));
+        }
+      }
+      return false;
+    });
+    await Promise.all(jobs);
+  }
 
   // ---------- fallback chain for entries still without a PNG ----------
   const doneSet = new Set(fs.existsSync(texDir) ? fs.readdirSync(texDir) : []);
   const markDone = (fname) => doneSet.add(fname);
   const glbNorm = new Map();
-  if (src.glbUrls) for (const [k, v] of Object.entries(src.glbUrls)) glbNorm.set(k.toLowerCase().replace(/\s+/g, '_'), v);
+  if (src && src.glbUrls) for (const [k, v] of Object.entries(src.glbUrls)) glbNorm.set(k.toLowerCase().replace(/\s+/g, '_'), v);
 
   // Extract the first embedded PNG from a GLB buffer (binary glTF: json chunk + bin chunk).
   function glbFirstPng(buf) {
@@ -769,7 +836,7 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
 
   const byId = new Map(blockInstances.map((b) => [b.id, b]));
   const byName = new Map(blockInstances.map((b) => [b.name, b]));
-  let extra = 0;
+  let extra = 0, reused = 0;
   const addPng = (inst, png) => {
     const fname = texName(inst);
     fs.writeFileSync(path.join(texDir, fname), png);
@@ -813,7 +880,7 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
     }
 
     // (d) GLB models: embedded texture, else a baseColorFactor swatch
-    if (typeof inst.blockModel === 'string' && src.glbUrls) {
+    if (src && typeof inst.blockModel === 'string' && src.glbUrls) {
       const url = glbNorm.get(inst.blockModel.toLowerCase().replace(/\s+/g, '_'));
       if (!url) continue;
       try {
@@ -830,9 +897,20 @@ async function writeTextures(staging, chunkSrcs, blockInstances, items) {
         addPng(inst, solidSwatchPng(Math.round(c[0] * 255), Math.round(c[1] * 255), Math.round(c[2] * 255), Math.round((c[3] ?? 1) * 255)));
       } catch (_) { /* network/parse failure: leave untextured */ }
     }
+
+    // (e) reuse the PNG a previous update committed for the same entry name: numeric IDs
+    //     rotate between builds but names and their textures stay stable, so the old file
+    //     is the correct image whenever this build has no fresh render for the entry.
+    const prevPng = prevTexByName.get(sanitizeFilename(inst.name) + '.png');
+    if (prevPng) {
+      fs.copyFileSync(path.join(prevTexDir, prevPng), path.join(texDir, texName(inst)));
+      markDone(texName(inst));
+      if (!texIdx.has(inst.name)) texIdx.set(inst.name, texName(inst));
+      reused++;
+    }
   }
 
-  logSub(`Textures: ${blocksDone} blocks (atlas tiles) + ${itemsDone} sprites written (${byUrl.size} sources) + ${extra} via fallbacks (root/drops/GLB/swatch)`);
+  logSub(`Textures: ${blocksDone} blocks (atlas tiles) + ${itemsDone} sprites written (${byUrl.size} sources) + ${extra} via fallbacks (root/drops/GLB/swatch) + ${reused} reused from the previous set`);
   return texIdx.size ? texIdx : null;
 }
 
@@ -1772,9 +1850,36 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
   // ---------- 4b. Textures (block atlas tiles + item sprites -> textures/) ----------
   let texIdx = null;
   try {
-    texIdx = await writeTextures(STAGING, chunkSrcs, blockInstances, items);
+    texIdx = await writeTextures(STAGING, chunkSrcs, blockInstances, items, path.join(OUT, 'textures'));
   } catch (e) {
     logSub(`Warning: texture generation skipped (${String(e.message).split('\n')[0]})`);
+  }
+  // Safety net: a game update that breaks texture extraction must not wipe the committed
+  // set (that is how the CHANGES.md images went 404). When this run rendered almost
+  // nothing while the repo already carries a full set, keep the committed files and index
+  // the change log against them instead of swapping in the broken set.
+  const countPngs = (d) => {
+    try { return fs.readdirSync(d).filter((f) => f.endsWith('.png')).length; } catch (_) { return 0; }
+  };
+  const prevTexDir = path.join(OUT, 'textures');
+  const stagedTexCount = countPngs(path.join(STAGING, 'textures'));
+  const prevTexCount = countPngs(prevTexDir);
+  let keepTextures = false;
+  if (prevTexCount >= 200 && stagedTexCount < prevTexCount * 0.5) {
+    logSub(`Warning: only ${stagedTexCount} textures rendered (committed set: ${prevTexCount}); keeping the committed textures/ folder`);
+    fs.rmSync(path.join(STAGING, 'textures'), { recursive: true, force: true });
+    keepTextures = true;
+    // Re-index the kept files so CHANGES.md / ID-CHANGES.md only reference PNGs that exist.
+    const keptByName = new Map();
+    for (const f of fs.readdirSync(prevTexDir)) {
+      const sfx = f.replace(/^\d+_/, '');
+      if (f.endsWith('.png') && sfx && sfx !== f && !keptByName.has(sfx)) keptByName.set(sfx, f);
+    }
+    texIdx = new Map();
+    for (const inst of [...blocksWithAir, ...items]) {
+      const f = keptByName.get(sanitizeFilename(inst.name) + '.png');
+      if (f) texIdx.set(inst.name, f);
+    }
   }
 
   // ---------- 5. ID/name map + README + CHANGES ----------
@@ -1836,6 +1941,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
     swapTargets.push('HISTORY.md');
   }
   for (const a of swapTargets) {
+    if (keepTextures && a === 'textures') { logSub('Kept: textures (committed set preserved)'); continue; }
     const dst = path.join(OUT, a);
     fs.rmSync(dst, { recursive: true, force: true });
     fs.renameSync(path.join(STAGING, a), dst);
