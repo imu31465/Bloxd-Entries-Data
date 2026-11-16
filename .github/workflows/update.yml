@@ -31,6 +31,9 @@ jobs:
         with:
           node-version: 20
 
+      - name: Validate update script
+        run: node --check update.js
+
       - name: Run update.js
         run: node update.js
         env:
@@ -52,12 +55,15 @@ jobs:
 
           HASH=$(node -p "JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')).bundle.hash8 || 'unknown'")
           CHANGED=$(node -p "const s = JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')); (s.firstRun || s.added || s.removed || s.idChanged || s.entryFilesChanged) ? '1' : '0'")
+          BUNDLE_CHANGED=$(node -p "JSON.parse(require('fs').readFileSync(process.env.BLOXD_SUMMARY, 'utf8')).bundleChanged ? '1' : '0'")
 
           git add -A
           if [ "$CHANGED" = "1" ]; then
             git commit -m "Update Bloxd entries data (bundle $HASH)"
+          elif [ "$BUNDLE_CHANGED" = "1" ]; then
+            git commit -m "Refresh bundle references (bundle $HASH)"
           else
-            git commit -m "Bundle check: entries unchanged (bundle $HASH)"
+            git commit -m "Refresh extracted metadata (bundle $HASH)"
           fi
 
           git push origin main
@@ -97,6 +103,14 @@ jobs:
                 "Entries: **still " + s.nextCount + "** (names and IDs unchanged)",
                 "Entry files with property changes: **" + s.entryFilesChanged + "**",
                 bundleLink,
+              ].join("\n");
+              color = 0xfee75c;
+            } else if (s.bundleChanged) {
+              title = "Bundle updated — entries unchanged (" + hash + ")";
+              desc = [
+                "Entries: **still " + s.nextCount + "** (no added / removed / ID changes)",
+                "README.md and the latest bundle metadata were refreshed.",
+                bundleLink + " · [commit]( " + commitUrl + " )",
               ].join("\n");
               color = 0xfee75c;
             } else {
