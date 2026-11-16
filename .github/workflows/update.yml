@@ -85,27 +85,27 @@ jobs:
             const b = s.bundle || {};
             const hash = b.hash8 || "unknown";
             const commitUrl = "https://github.com/" + process.env.REPO + "/commit/" + process.env.COMMIT_SHA;
-            const links = [b.url ? "[Bundle](" + b.url + ")" : "", "[Commit](" + commitUrl + ")"].filter(Boolean).join(" · ");
+            const links = [b.url ? "[バンドル](" + b.url + ")" : "", "[コミット](" + commitUrl + ")"].filter(Boolean).join(" · ");
             let title;
             let lines;
             let color = 0x57f287;
             if (s.firstRun) {
-              title = "Entries initialized";
-              lines = [s.nextCount + " entries", links];
+              title = "データ初期登録";
+              lines = [s.nextCount + "件", links];
             } else if (s.added || s.removed || s.idChanged) {
-              title = "Entries updated";
-              lines = [s.prevCount + " → " + s.nextCount + " entries", "+" + s.added + " · -" + s.removed + " · ID " + s.idChanged, links];
+              title = "エントリ更新";
+              lines = [s.prevCount + " → " + s.nextCount + "件", "追加 " + s.added + " · 削除 " + s.removed + " · ID変更 " + s.idChanged, links];
             } else if (s.entryFilesChanged) {
-              title = "Entry properties updated";
-              lines = [s.nextCount + " entries · " + s.entryFilesChanged + " files changed", links];
+              title = "プロパティ更新";
+              lines = [s.nextCount + "件 · プロパティ変更 " + s.entryFilesChanged + "ファイル", links];
               color = 0xfee75c;
             } else if (s.bundleChanged) {
-              title = "Bundle updated";
-              lines = [hash + " · " + s.nextCount + " entries unchanged", links];
+              title = "バンドル更新";
+              lines = [hash + " · " + s.nextCount + "件（データ変更なし）", links];
               color = 0xfee75c;
             } else {
-              title = "Entries checked";
-              lines = [s.nextCount + " entries unchanged", links];
+              title = "データ確認";
+              lines = [s.nextCount + "件（変更なし）, links];
               color = 0xfee75c;
             }
             const embed = { title, description: lines.filter(Boolean).join("\n"), color };
@@ -129,8 +129,8 @@ jobs:
             const payload = {
               username: "Bloxd Data Bot",
               embeds: [{
-                title: "Entries update failed",
-                description: "[View run](" + process.env.RUN_URL + ")",
+                title: "更新失敗",
+                description: "[実行ログ](" + process.env.RUN_URL + ")",
                 color: 0xed4245,
                 url: process.env.RUN_URL,
               }],
