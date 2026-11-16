@@ -84,44 +84,31 @@ jobs:
             const s = JSON.parse(fs.readFileSync(process.env.BLOXD_SUMMARY, "utf8"));
             const b = s.bundle || {};
             const hash = b.hash8 || "unknown";
-            const commitUrl = "https://github.com/" + process.env.REPO + "/commit/" + process.env.COMMIT_SHA
-            const bundleLink = b.url ? "[bundle](" + b.url + ")" : "bundle";
-            let title, desc, color = 0x57f287;
+            const commitUrl = "https://github.com/" + process.env.REPO + "/commit/" + process.env.COMMIT_SHA;
+            const links = [b.url ? "[Bundle](" + b.url + ")" : "", "[Commit](" + commitUrl + ")"].filter(Boolean).join(" · ");
+            let title;
+            let lines;
+            let color = 0x57f287;
             if (s.firstRun) {
-              title = "Bloxd data: first extraction (bundle " + hash + ")";
-              desc = "Entries: **" + s.nextCount + "**\n" + bundleLink;
+              title = "Entries initialized";
+              lines = [s.nextCount + " entries", links];
             } else if (s.added || s.removed || s.idChanged) {
-              title = "Bloxd entries updated — bundle " + hash;
-              desc = [
-                "Entries: **" + s.prevCount + " → " + s.nextCount + "**",
-                "Added: **" + s.added + "** / Removed: **" + s.removed + "** / ID changed: **" + s.idChanged + "**",
-                bundleLink + " · [commit](" + commitUrl + ")",
-              ].join("\n");
+              title = "Entries updated";
+              lines = [s.prevCount + " → " + s.nextCount + " entries", "+" + s.added + " · -" + s.removed + " · ID " + s.idChanged, links];
             } else if (s.entryFilesChanged) {
-              title = "Bundle " + hash + " — property updates";
-              desc = [
-                "Entries: **still " + s.nextCount + "** (names and IDs unchanged)",
-                "Entry files with property changes: **" + s.entryFilesChanged + "**",
-                bundleLink,
-              ].join("\n");
+              title = "Entry properties updated";
+              lines = [s.nextCount + " entries · " + s.entryFilesChanged + " files changed", links];
               color = 0xfee75c;
             } else if (s.bundleChanged) {
-              title = "Bundle updated — entries unchanged (" + hash + ")";
-              desc = [
-                "Entries: **still " + s.nextCount + "** (no added / removed / ID changes)",
-                "README.md and the latest bundle metadata were refreshed.",
-                bundleLink + " · [commit](" + commitUrl + ")",
-              ].join("\n");
+              title = "Bundle updated";
+              lines = [hash + " · " + s.nextCount + " entries unchanged", links];
               color = 0xfee75c;
             } else {
-              title = "Bundle " + hash + " — entries unchanged";
-              desc = [
-                "Entries: **still " + s.nextCount + "** (no added / removed / ID changes)",
-                bundleLink,
-              ].join("\n");
+              title = "Entries checked";
+              lines = [s.nextCount + " entries unchanged", links];
               color = 0xfee75c;
             }
-            const embed = { title, description: desc, color, url: commitUrl };
+            const embed = { title, description: lines.filter(Boolean).join("\n"), color };
             fs.writeFileSync(process.env.PAYLOAD, JSON.stringify({ username: "Bloxd Data Bot", embeds: [embed] }));
           '
           if [ -n "$WEBHOOK" ]; then
@@ -129,7 +116,6 @@ jobs:
           else
             echo "DISCORD_WEBHOOK_URL secret is not set; notification skipped"
           fi
-
       - name: Notify Discord (update failed)
         if: failure()
         env:
@@ -143,8 +129,8 @@ jobs:
             const payload = {
               username: "Bloxd Data Bot",
               embeds: [{
-                title: "Bloxd data update FAILED",
-                description: "Last Actions run: [open](" + process.env.RUN_URL + ")",
+                title: "Entries update failed",
+                description: "[View run](" + process.env.RUN_URL + ")",
                 color: 0xed4245,
                 url: process.env.RUN_URL,
               }],
