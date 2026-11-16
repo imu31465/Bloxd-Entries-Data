@@ -1823,9 +1823,14 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
 
   // ---------- 6. Swap in ----------
   logStep('Swapping in the data');
-  // Bundle metadata is part of the current snapshot even when the extracted registry is identical.
-  // Always refresh README.md and ID-CHANGES.md so their bundle URL and run timestamp never go stale.
-  const swapTargets = ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'ID-CHANGES.md', 'textures'];
+  // Keep bundle metadata current even when the extracted registry is identical.
+  // --skip-fetch has no live bundle URL, so it must not overwrite the last known bundle references.
+  const swapTargets = ['entries', 'entries.json', 'CHANGES.md', 'textures'];
+  if (!SKIP_FETCH) {
+    swapTargets.push('README.md', 'ID-CHANGES.md');
+  } else if (!isZeroDiff) {
+    swapTargets.push('ID-CHANGES.md');
+  }
   // Archive the previous latest diff only for a real content change or a new bundle, not for --force alone.
   if (!isZeroDiff || entryFilesChanged || (fetchInfo && fetchInfo.changed)) {
     swapTargets.push('HISTORY.md');
