@@ -1526,11 +1526,14 @@ function sectionBlock(title, rows, snap, texIdx) {
   return ['<details>', `<summary>${label}</summary>`, '', fmtList(rows, snap, texIdx), '', '</details>', ''].join('\n');
 }
 
-// Remove the H1 and previous check-status lines before reusing a body as history
+// Remove the H1 and every check-status line ("Latest checked build" / legacy "Last check" /
+// property-change notes) before reusing a body, so repeated no-change checks cannot pile
+// up status lines in CHANGES.md or leak them into HISTORY.md. Blank runs are collapsed.
 function slimHistory(md) {
   return String(md || '')
     .replace(/^# Extraction Change Log\s*\n/, '')
-    .replace(/^- (?:Last check:|\d+ entry files? changed \(property values only).*?(?:\n|$)/gm, '')
+    .replace(/^- (?:Latest checked build:|Last check:|\d+ entry files? changed \(property values only).*?(?:\n|$)/gm, '')
+    .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 
@@ -1642,18 +1645,67 @@ function idChangesBody(md) {
 
 // HISTORY.md = previous runs, newest first, text-only (no thumbnails; images would exceed
 // GitHub's 512 KB render limit). The previous CHANGES.md body and the ID changed section of
-// the previous ID-CHANGES.md are merged back into one block per run.
+// the previous ID-CHANGES.md are merged back into one block per run. Every block is keyed by
+// its "Run at" timestamp, so re-archiving a run (bundle checks with no entry changes) updates
+// the existing block instead of prepending a second copy.
+const HISTORY_INTRO = 'Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.';
+
+// Split an existing HISTORY.md into run blocks keyed by their "- Run at:" timestamp.
+// The H1, intro copies, check-status lines and separators are dropped; when a run appears
+// more than once (files written before the dedup fix), the longest copy is kept.
+// Legacy files nested every archived run inside another "<details><summary>Older changes
+// </summary>" layer whose "</details>" piled up at the end of the file; unwrap those first.
+function historyBlocks(md) {
+  let text = String(md || '');
+  let wrappers = 0;
+  text = text.replace(/^<details>\n<summary>Older changes<\/summary>\n/gm, () => { wrappers++; return ''; });
+  for (let i = 0; i < wrappers; i++) {
+    if (!/\n<\/details>\s*$/.test(text)) throw new Error('HISTORY.md has an unbalanced "Older changes" wrapper');
+    text = text.replace(/\n<\/details>\s*$/, '\n');
+  }
+  const blocks = [];
+  let cur = null;
+  for (const line of text.split('\n')) {
+    const m = line.match(/^- Run at: (\S+)/);
+    if (m) {
+      if (cur) blocks.push(cur);
+      cur = { runAt: m[1], lines: [line] };
+    } else if (!cur) {
+      continue; // H1 / intro / status lines above the first block
+    } else if (/^- Latest checked build: |^- Last check: |^- \d+ entry files? changed \(property values only|^Diffs from older updates/.test(line)) {
+      continue; // leaked status / intro lines from files written before the fix
+    } else if (/^---\s*$/.test(line)) {
+      blocks.push(cur); // block separator
+      cur = null;
+    } else {
+      cur.lines.push(line);
+    }
+  }
+  if (cur) blocks.push(cur);
+  const byRun = new Map();
+  for (const b of blocks) {
+    const body = b.lines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+    if (!body) continue;
+    const prev = byRun.get(b.runAt);
+    if (!prev || body.length > prev.length) byRun.set(b.runAt, body);
+  }
+  return byRun;
+}
+
 function historyMarkdown(prevChangesMd, prevIdChangesMd, existingHistoryMd) {
   const runBlock = stripHistoryImages(String(slimHistory(prevChangesMd) || '').replace(CHANGELOG_LINK_RE, '').trim());
   const idBody = stripHistoryImages(idChangesBody(prevIdChangesMd));
   const block = runBlock && idBody ? `${runBlock}\n\n${idBody}` : (runBlock || idBody);
-  const oldHistory = String(existingHistoryMd || '')
-    .replace(/^# Update History\s*\n/, '')
-    .trim();
-  const parts = [];
-  if (block) parts.push(block);
-  if (oldHistory) parts.push(oldHistory);
-  return ['# Update History', '', 'Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.', '', parts.join('\n\n---\n\n'), ''].join('\n');
+  const blocks = historyBlocks(existingHistoryMd);
+  const runAt = (String(prevChangesMd || '').match(/^- Run at: (\S+)/m) || [])[1];
+  if (block && runAt) {
+    const prev = blocks.get(runAt);
+    if (!prev || block.length > prev.length) blocks.set(runAt, block);
+  }
+  const parts = [...blocks.entries()]
+    .sort((a, b) => (a[0] < b[0] ? 1 : a[0] > b[0] ? -1 : 0))
+    .map(([, text]) => text);
+  return ['# Update History', '', HISTORY_INTRO, '', parts.join('\n\n---\n\n'), ''].join('\n').replace(/\n{3,}/g, '\n\n');
 }
 
 // ============================================================================
