@@ -1823,8 +1823,13 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
 
   // ---------- 6. Swap in ----------
   logStep('Swapping in the data');
-  // README is identical whenever the entry registry is unchanged -> skip to avoid timestamp churn
-  const swapTargets = isZeroDiff ? ['entries', 'entries.json', 'CHANGES.md', 'textures'] : ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'ID-CHANGES.md', 'HISTORY.md', 'textures'];
+  // Bundle metadata is part of the current snapshot even when the extracted registry is identical.
+  // Always refresh README.md and ID-CHANGES.md so their bundle URL and run timestamp never go stale.
+  const swapTargets = ['entries', 'entries.json', 'README.md', 'CHANGES.md', 'ID-CHANGES.md', 'textures'];
+  // Archive the previous latest diff only for a real content change or a new bundle, not for --force alone.
+  if (!isZeroDiff || entryFilesChanged || (fetchInfo && fetchInfo.changed)) {
+    swapTargets.push('HISTORY.md');
+  }
   for (const a of swapTargets) {
     const dst = path.join(OUT, a);
     fs.rmSync(dst, { recursive: true, force: true });
@@ -1875,6 +1880,7 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
         removed: s.removed,
         idChanged: s.idChanged,
         entryFilesChanged: entryFilesChanged || 0,
+        bundleChanged: !!(fetchInfo && fetchInfo.changed),
         bundle: {
           url: info ? info.url : null,
           file: info ? info.file : null,
