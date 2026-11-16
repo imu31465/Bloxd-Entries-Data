@@ -69,9 +69,10 @@ jobs:
           git push origin main
           echo "did_commit=true" >> "$GITHUB_OUTPUT"
           echo "commit_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "notify_entries=$CHANGED" >> "$GITHUB_OUTPUT"
 
-      - name: Notify Discord (update shipped)
-        if: success() && steps.push.outputs.did_commit == 'true'
+      - name: Notify Discord (entry data changed)
+        if: success() && steps.push.outputs.did_commit == 'true' && steps.push.outputs.notify_entries == '1'
         env:
           BLOXD_SUMMARY: ${{ runner.temp }}/bloxd-update-summary.json
           COMMIT_SHA: ${{ steps.push.outputs.commit_sha }}
@@ -83,7 +84,6 @@ jobs:
             const fs = require("fs");
             const s = JSON.parse(fs.readFileSync(process.env.BLOXD_SUMMARY, "utf8"));
             const b = s.bundle || {};
-            const hash = b.hash8 || "unknown";
             const commitUrl = "https://github.com/" + process.env.REPO + "/commit/" + process.env.COMMIT_SHA;
             const links = [b.url ? "[バンドル](" + b.url + ")" : "", "[コミット](" + commitUrl + ")"].filter(Boolean).join(" · ");
             const count = value => Number(value || 0).toLocaleString("ja-JP");
@@ -100,14 +100,8 @@ jobs:
               title = "プロパティ更新";
               lines = [count(s.nextCount) + "件 · プロパティ変更 " + count(s.entryFilesChanged) + "ファイル", links];
               color = 0xfee75c;
-            } else if (s.bundleChanged) {
-              title = "バンドル更新";
-              lines = [hash + " · " + count(s.nextCount) + "件（データ変更なし）", links];
-              color = 0xfee75c;
             } else {
-              title = "データ確認";
-              lines = [count(s.nextCount) + "件（変更なし）", links];
-              color = 0xfee75c;
+              process.exit(0);
             }
             const embed = { title, description: lines.filter(Boolean).join("\n"), color };
             fs.writeFileSync(process.env.PAYLOAD, JSON.stringify({ username: "Bloxd Data Bot", embeds: [embed] }));
