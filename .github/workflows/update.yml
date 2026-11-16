@@ -105,7 +105,7 @@ jobs:
               color = 0xfee75c;
             } else {
               title = "データ確認";
-              lines = [s.nextCount + "件（変更なし）, links];
+              lines = [s.nextCount + "件（変更なし）", links];
               color = 0xfee75c;
             }
             const embed = { title, description: lines.filter(Boolean).join("\n"), color };
