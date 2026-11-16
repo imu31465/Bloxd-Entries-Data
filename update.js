@@ -1597,7 +1597,7 @@ IDs and properties therefore match the live game (verified against the hardcoded
 
 bloxd.io's main bundle is polled by the external Cloudflare Worker at https://github.com/imu31465/Bloxd-Build-Monitor/tree/main/cloudflare once per minute. It dispatches this workflow only when the bundle URL differs from \`update-state.json\`. A GitHub Actions schedule runs every 6 hours as a fallback because GitHub scheduled events are best-effort and may be delayed.
 A dispatched run compares the bundle URL (its file name embeds a content hash) with \`update-state.json\`; if it changed, the data is
-re-extracted and the diff is written to CHANGES.md (added/removed) and ID-CHANGES.md (ID changes). A run notes it in CHANGES.md even when the bundle changed but no entries did.
+re-extracted and the diff is written to CHANGES.md (added/removed) and ID-CHANGES.md (ID changes). A run notes it in CHANGES.md even when the bundle changed but no entries did. README.md and the current ID-CHANGES.md are also refreshed for every successful bundle extraction, even when the extracted entries are unchanged; the previous detailed diff is kept in HISTORY.md.
 The extraction script \`update.js\` is included at the repository root (single file, zero dependencies, Node >= 18).
 Run it manually with \`node update.js\`, \`--force\` (re-extract even if unchanged), or \`--skip-fetch\` (no network).
 
