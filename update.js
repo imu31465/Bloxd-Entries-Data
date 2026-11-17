@@ -2013,25 +2013,25 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
     writeState(st);
   } catch (_) {}
 
-  try {
-    writeRepoState({
-      lastBundle: {
-        file: info ? info.file : null,
-        url: info ? info.url : null,
-        sha256: info ? info.sha256 : null,
-      },
-      lastDiff: {
-        firstRun: !!diff.firstRun,
-        prevCount: s.prevCount,
-        nextCount: s.nextCount,
-        added: s.added,
-        removed: s.removed,
-        idChanged: s.idChanged,
-        entryFilesChanged: entryFilesChanged || 0,
-      },
-      lastRunAt: extractedAt,
-    });
-  } catch (_) {}
+  // This committed state is the Cloudflare Worker's durable notification signal.
+  // Fail the workflow rather than silently losing an Entries notification.
+  writeRepoState({
+    lastBundle: {
+      file: info ? info.file : null,
+      url: info ? info.url : null,
+      sha256: info ? info.sha256 : null,
+    },
+    lastDiff: {
+      firstRun: !!diff.firstRun,
+      prevCount: s.prevCount,
+      nextCount: s.nextCount,
+      added: s.added,
+      removed: s.removed,
+      idChanged: s.idChanged,
+      entryFilesChanged: entryFilesChanged || 0,
+    },
+    lastRunAt: extractedAt,
+  });
 
   // Optional JSON summary for CI (not written unless the caller sets the env var)
   if (process.env.BLOXD_UPDATE_OUT) {
