@@ -8,7 +8,7 @@
   },
   "description": {
     "key": "item:coolantMixerDescription",
-    "text": "Mixes water and Biomass into Cryo Coolant: pipe water into its sides, belt Biomass in or put it in its slot, and Cryo comes out its front. Made at the Machine Bench."
+    "text": "Mixes water and Biomass into Cryo Coolant: pipe water into its sides, belt Biomass in or tap it holding some, and Cryo comes out its front. Made at the Machine Bench."
   },
   "ttb": 1500,
   "textureInfo": [
