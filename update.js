@@ -2020,12 +2020,14 @@ Files updated: entries.json / entries/ / README.md / CHANGES.md / ID-CHANGES.md 
         url: info ? info.url : null,
         sha256: info ? info.sha256 : null,
       },
-      lastDiff: isZeroDiff && prevRepoState && prevRepoState.lastDiff ? prevRepoState.lastDiff : {
+      lastDiff: {
+        firstRun: !!diff.firstRun,
         prevCount: s.prevCount,
         nextCount: s.nextCount,
         added: s.added,
         removed: s.removed,
         idChanged: s.idChanged,
+        entryFilesChanged: entryFilesChanged || 0,
       },
       lastRunAt: extractedAt,
     });
