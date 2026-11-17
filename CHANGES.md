@@ -12,7 +12,7 @@
 
 ## Added (1)
 
-- Nova Bomb (block): **8548**
+- ![Nova Bomb](textures/08548_Nova%20Bomb.png "texture") Nova Bomb (block): **8548**
 
 ID changes: [ID-CHANGES.md](ID-CHANGES.md)
 Older updates: [HISTORY.md](HISTORY.md)
