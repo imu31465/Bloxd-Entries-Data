@@ -546,7 +546,9 @@ function findTextureSources(chunkSrcs) {
         ? src.match(new RegExp(getter[1] + '=\\[(\\w+)\\((\\d+)\\)((?:,\\1\\(\\d+\\))*)\\]'))
         : src.match(/\[(\w+)\((\d+)\)((?:,\1\(\d+\))*)\]/); // legacy inlined shape: [MW(32679),...]
       if (arr) {
-        const ids = [arr[2], ...(arr[3] || '').matchAll(/(\d+)/g).map((x) => x[0])];
+        // matchAll() returns a plain iterator (no .map until Node 22 iterator helpers),
+        // so materialize it with a spread first — this must keep working on Node 18/20
+        const ids = [arr[2], ...[...(arr[3] || '').matchAll(/(\d+)/g)].map((x) => x[0])];
         const bufs = [];
         let ok = true;
         for (const id of ids) {
