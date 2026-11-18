@@ -2,6 +2,1560 @@
 
 Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
 
+- Run at: 2026-11-17T16:25:27.666Z
+- Bundle: https://bloxd.io/static/js/7jvyee.main.81bfc694.js
+- Entries: 10080 -> 10081
+
+| Type | Count |
+|---|---|
+| Added | 1 |
+| Removed | 0 |
+| ID changed | 1532 |
+
+## Added (1)
+
+- Nova Bomb (block): **8548**
+
+<details>
+<summary>ID changed (1532)</summary>
+
+- Wood Pickaxe: 8548 -> **8549**
+- Stone Pickaxe: 8549 -> **8550**
+- Iron Pickaxe: 8550 -> **8551**
+- Gold Pickaxe: 8551 -> **8552**
+- Diamond Pickaxe: 8552 -> **8553**
+- Moonstone Pickaxe: 8553 -> **8554**
+- Golem Pickaxe: 8554 -> **8555**
+- Wood Axe: 8555 -> **8556**
+- Stone Axe: 8556 -> **8557**
+- Iron Axe: 8557 -> **8558**
+- Gold Axe: 8558 -> **8559**
+- Diamond Axe: 8559 -> **8560**
+- Moonstone Axe: 8560 -> **8561**
+- Artisan Axe: 8561 -> **8562**
+- Wood Spade: 8562 -> **8563**
+- Stone Spade: 8563 -> **8564**
+- Iron Spade: 8564 -> **8565**
+- Gold Spade: 8565 -> **8566**
+- Diamond Spade: 8566 -> **8567**
+- Wood Sword: 8567 -> **8568**
+- Stone Sword: 8568 -> **8569**
+- Iron Sword: 8569 -> **8570**
+- Gold Sword: 8570 -> **8571**
+- Diamond Sword: 8571 -> **8572**
+- Knight Sword: 8572 -> **8573**
+- Wood Hoe: 8573 -> **8574**
+- Stone Hoe: 8574 -> **8575**
+- Iron Hoe: 8575 -> **8576**
+- Gold Hoe: 8576 -> **8577**
+- Diamond Hoe: 8577 -> **8578**
+- Flashlight: 8578 -> **8579**
+- Mining Helmet: 8579 -> **8580**
+- Wood Helmet: 8580 -> **8581**
+- Iron Helmet: 8581 -> **8582**
+- Gold Helmet: 8582 -> **8583**
+- Diamond Helmet: 8583 -> **8584**
+- Wood Chestplate: 8584 -> **8585**
+- Iron Chestplate: 8585 -> **8586**
+- Gold Chestplate: 8586 -> **8587**
+- Diamond Chestplate: 8587 -> **8588**
+- Fur Chestplate: 8588 -> **8589**
+- Wood Leggings: 8589 -> **8590**
+- Iron Leggings: 8590 -> **8591**
+- Gold Leggings: 8591 -> **8592**
+- Diamond Leggings: 8592 -> **8593**
+- Wood Boots: 8593 -> **8594**
+- Iron Boots: 8594 -> **8595**
+- Gold Boots: 8595 -> **8596**
+- Diamond Boots: 8596 -> **8597**
+- Spiked Boots: 8597 -> **8598**
+- Wood Gauntlets: 8598 -> **8599**
+- Iron Gauntlets: 8599 -> **8600**
+- Gold Gauntlets: 8600 -> **8601**
+- Diamond Gauntlets: 8601 -> **8602**
+- Military Helmet: 8602 -> **8603**
+- Military Chestplate: 8603 -> **8604**
+- Military Gauntlets: 8604 -> **8605**
+- Military Leggings: 8605 -> **8606**
+- Military Boots: 8606 -> **8607**
+- White Wood Helmet: 8607 -> **8608**
+- White Wood Chestplate: 8608 -> **8609**
+- White Wood Leggings: 8609 -> **8610**
+- White Wood Boots: 8610 -> **8611**
+- White Wood Gauntlets: 8611 -> **8612**
+- Orange Wood Helmet: 8612 -> **8613**
+- Orange Wood Chestplate: 8613 -> **8614**
+- Orange Wood Leggings: 8614 -> **8615**
+- Orange Wood Boots: 8615 -> **8616**
+- Orange Wood Gauntlets: 8616 -> **8617**
+- Magenta Wood Helmet: 8617 -> **8618**
+- Magenta Wood Chestplate: 8618 -> **8619**
+- Magenta Wood Leggings: 8619 -> **8620**
+- Magenta Wood Boots: 8620 -> **8621**
+- Magenta Wood Gauntlets: 8621 -> **8622**
+- Light Blue Wood Helmet: 8622 -> **8623**
+- Light Blue Wood Chestplate: 8623 -> **8624**
+- Light Blue Wood Leggings: 8624 -> **8625**
+- Light Blue Wood Boots: 8625 -> **8626**
+- Light Blue Wood Gauntlets: 8626 -> **8627**
+- Yellow Wood Helmet: 8627 -> **8628**
+- Yellow Wood Chestplate: 8628 -> **8629**
+- Yellow Wood Leggings: 8629 -> **8630**
+- Yellow Wood Boots: 8630 -> **8631**
+- Yellow Wood Gauntlets: 8631 -> **8632**
+- Lime Wood Helmet: 8632 -> **8633**
+- Lime Wood Chestplate: 8633 -> **8634**
+- Lime Wood Leggings: 8634 -> **8635**
+- Lime Wood Boots: 8635 -> **8636**
+- Lime Wood Gauntlets: 8636 -> **8637**
+- Pink Wood Helmet: 8637 -> **8638**
+- Pink Wood Chestplate: 8638 -> **8639**
+- Pink Wood Leggings: 8639 -> **8640**
+- Pink Wood Boots: 8640 -> **8641**
+- Pink Wood Gauntlets: 8641 -> **8642**
+- Gray Wood Helmet: 8642 -> **8643**
+- Gray Wood Chestplate: 8643 -> **8644**
+- Gray Wood Leggings: 8644 -> **8645**
+- Gray Wood Boots: 8645 -> **8646**
+- Gray Wood Gauntlets: 8646 -> **8647**
+- Light Gray Wood Helmet: 8647 -> **8648**
+- Light Gray Wood Chestplate: 8648 -> **8649**
+- Light Gray Wood Leggings: 8649 -> **8650**
+- Light Gray Wood Boots: 8650 -> **8651**
+- Light Gray Wood Gauntlets: 8651 -> **8652**
+- Cyan Wood Helmet: 8652 -> **8653**
+- Cyan Wood Chestplate: 8653 -> **8654**
+- Cyan Wood Leggings: 8654 -> **8655**
+- Cyan Wood Boots: 8655 -> **8656**
+- Cyan Wood Gauntlets: 8656 -> **8657**
+- Purple Wood Helmet: 8657 -> **8658**
+- Purple Wood Chestplate: 8658 -> **8659**
+- Purple Wood Leggings: 8659 -> **8660**
+- Purple Wood Boots: 8660 -> **8661**
+- Purple Wood Gauntlets: 8661 -> **8662**
+- Blue Wood Helmet: 8662 -> **8663**
+- Blue Wood Chestplate: 8663 -> **8664**
+- Blue Wood Leggings: 8664 -> **8665**
+- Blue Wood Boots: 8665 -> **8666**
+- Blue Wood Gauntlets: 8666 -> **8667**
+- Brown Wood Helmet: 8667 -> **8668**
+- Brown Wood Chestplate: 8668 -> **8669**
+- Brown Wood Leggings: 8669 -> **8670**
+- Brown Wood Boots: 8670 -> **8671**
+- Brown Wood Gauntlets: 8671 -> **8672**
+- Green Wood Helmet: 8672 -> **8673**
+- Green Wood Chestplate: 8673 -> **8674**
+- Green Wood Leggings: 8674 -> **8675**
+- Green Wood Boots: 8675 -> **8676**
+- Green Wood Gauntlets: 8676 -> **8677**
+- Red Wood Helmet: 8677 -> **8678**
+- Red Wood Chestplate: 8678 -> **8679**
+- Red Wood Leggings: 8679 -> **8680**
+- Red Wood Boots: 8680 -> **8681**
+- Red Wood Gauntlets: 8681 -> **8682**
+- Black Wood Helmet: 8682 -> **8683**
+- Black Wood Chestplate: 8683 -> **8684**
+- Black Wood Leggings: 8684 -> **8685**
+- Black Wood Boots: 8685 -> **8686**
+- Black Wood Gauntlets: 8686 -> **8687**
+- Shears: 8687 -> **8688**
+- Artisan Shears: 8688 -> **8689**
+- Stick: 8689 -> **8690**
+- Coal: 8690 -> **8691**
+- Raw Iron: 8691 -> **8692**
+- Iron Bar: 8692 -> **8693**
+- Iron Fragment: 8693 -> **8694**
+- Raw Gold: 8694 -> **8695**
+- Gold Bar: 8695 -> **8696**
+- Gold Fragment: 8696 -> **8697**
+- Diamond: 8697 -> **8698**
+- Diamond Fragment: 8698 -> **8699**
+- Moonstone: 8699 -> **8700**
+- Lunite: 8700 -> **8701**
+- Moonstone Fragment: 8701 -> **8702**
+- Bowl: 8702 -> **8703**
+- Partially Full Bowl of Cranberries: 8703 -> **8704**
+- Half Full Bowl of Cranberries: 8704 -> **8705**
+- Nearly Full Bowl of Cranberries: 8705 -> **8706**
+- Bowl of Cranberries: 8706 -> **8707**
+- Mushroom Soup: 8707 -> **8708**
+- Glowing Soup: 8708 -> **8709**
+- Night Vision Soup: 8709 -> **8710**
+- Cotton: 8710 -> **8711**
+- Gold Crop: 8711 -> **8712**
+- Bucket: 8712 -> **8713**
+- Water Bucket: 8713 -> **8714**
+- Lava Bucket: 8714 -> **8715**
+- Boat: 8715 -> **8716**
+- INTERNAL_MESH_Boat: 8716 -> **8717**
+- Obsidian Boat: 8717 -> **8718**
+- INTERNAL_MESH_Obsidian Boat: 8718 -> **8719**
+- Speedboat: 8719 -> **8720**
+- INTERNAL_MESH_Speedboat: 8720 -> **8721**
+- Wood Hang Glider: 8721 -> **8722**
+- INTERNAL_MESH_Wood Hang Glider: 8722 -> **8723**
+- Iron Hang Glider: 8723 -> **8724**
+- INTERNAL_MESH_Iron Hang Glider: 8724 -> **8725**
+- Gold Hang Glider: 8725 -> **8726**
+- INTERNAL_MESH_Gold Hang Glider: 8726 -> **8727**
+- Diamond Hang Glider: 8727 -> **8728**
+- INTERNAL_MESH_Diamond Hang Glider: 8728 -> **8729**
+- Hovercraft: 8729 -> **8730**
+- INTERNAL_MESH_Hovercraft: 8730 -> **8731**
+- Yellow Kart: 8731 -> **8732**
+- White Kart: 8732 -> **8733**
+- Red Kart: 8733 -> **8734**
+- Purple Kart: 8734 -> **8735**
+- Pink Kart: 8735 -> **8736**
+- Orange Kart: 8736 -> **8737**
+- Magenta Kart: 8737 -> **8738**
+- Lime Kart: 8738 -> **8739**
+- Light Gray Kart: 8739 -> **8740**
+- Light Blue Kart: 8740 -> **8741**
+- Green Kart: 8741 -> **8742**
+- Gray Kart: 8742 -> **8743**
+- Cyan Kart: 8743 -> **8744**
+- Brown Kart: 8744 -> **8745**
+- Blue Kart: 8745 -> **8746**
+- Black Kart: 8746 -> **8747**
+- INTERNAL_MESH_Yellow Kart: 8747 -> **8748**
+- INTERNAL_MESH_White Kart: 8748 -> **8749**
+- INTERNAL_MESH_Red Kart: 8749 -> **8750**
+- INTERNAL_MESH_Purple Kart: 8750 -> **8751**
+- INTERNAL_MESH_Pink Kart: 8751 -> **8752**
+- INTERNAL_MESH_Orange Kart: 8752 -> **8753**
+- INTERNAL_MESH_Magenta Kart: 8753 -> **8754**
+- INTERNAL_MESH_Lime Kart: 8754 -> **8755**
+- INTERNAL_MESH_Light Gray Kart: 8755 -> **8756**
+- INTERNAL_MESH_Light Blue Kart: 8756 -> **8757**
+- INTERNAL_MESH_Green Kart: 8757 -> **8758**
+- INTERNAL_MESH_Gray Kart: 8758 -> **8759**
+- INTERNAL_MESH_Cyan Kart: 8759 -> **8760**
+- INTERNAL_MESH_Brown Kart: 8760 -> **8761**
+- INTERNAL_MESH_Blue Kart: 8761 -> **8762**
+- INTERNAL_MESH_Black Kart: 8762 -> **8763**
+- Off Roader: 8763 -> **8764**
+- INTERNAL_MESH_Off Roader: 8764 -> **8765**
+- Gold Mining Drill: 8765 -> **8766**
+- Iron Mining Drill: 8766 -> **8767**
+- Diamond Mining Drill: 8767 -> **8768**
+- Moonstone Mining Drill: 8768 -> **8769**
+- Armored Car: 8769 -> **8770**
+- INTERNAL_MESH_Gold Mining Drill: 8770 -> **8771**
+- INTERNAL_MESH_Iron Mining Drill: 8771 -> **8772**
+- INTERNAL_MESH_Diamond Mining Drill: 8772 -> **8773**
+- INTERNAL_MESH_Moonstone Mining Drill: 8773 -> **8774**
+- INTERNAL_MESH_Armored Car: 8774 -> **8775**
+- Light Blue Car: 8775 -> **8776**
+- INTERNAL_MESH_Car: 8776 -> **8777**
+- Snowball: 8777 -> **8778**
+- Snowball Launcher: 8778 -> **8779**
+- Pebble: 8779 -> **8780**
+- Reinforced Pebble: 8780 -> **8781**
+- Bullet: 8781 -> **8782**
+- Ball: 8782 -> **8783**
+- Reinforced Ball: 8783 -> **8784**
+- Frag Grenade: 8784 -> **8785**
+- Mining Grenade: 8785 -> **8786**
+- Smoke Grenade: 8786 -> **8787**
+- Moonstone Orb: 8787 -> **8788**
+- Fireball: 8788 -> **8789**
+- Bouncy Bomb: 8789 -> **8790**
+- RPG: 8790 -> **8791**
+- Obby RPG: 8791 -> **8792**
+- Super RPG: 8792 -> **8793**
+- Grenade Launcher: 8793 -> **8794**
+- Iceball: 8794 -> **8795**
+- 67 Base Projectile: 8795 -> **8796**
+- 67 Boosted Projectile: 8796 -> **8797**
+- Capitano Grenade: 8797 -> **8798**
+- Scatter Pellet: 8798 -> **8799**
+- Wood Bow: 8799 -> **8800**
+- Wood Bow|meta|charging2: 8800 -> **8801**
+- Wood Bow|meta|charging3: 8801 -> **8802**
+- Wood Bow|meta|charging4: 8802 -> **8803**
+- Stone Bow: 8803 -> **8804**
+- Stone Bow|meta|charging2: 8804 -> **8805**
+- Stone Bow|meta|charging3: 8805 -> **8806**
+- Stone Bow|meta|charging4: 8806 -> **8807**
+- Iron Bow: 8807 -> **8808**
+- Iron Bow|meta|charging2: 8808 -> **8809**
+- Iron Bow|meta|charging3: 8809 -> **8810**
+- Iron Bow|meta|charging4: 8810 -> **8811**
+- Gold Bow: 8811 -> **8812**
+- Gold Bow|meta|charging2: 8812 -> **8813**
+- Gold Bow|meta|charging3: 8813 -> **8814**
+- Gold Bow|meta|charging4: 8814 -> **8815**
+- Diamond Bow: 8815 -> **8816**
+- Diamond Bow|meta|charging2: 8816 -> **8817**
+- Diamond Bow|meta|charging3: 8817 -> **8818**
+- Diamond Bow|meta|charging4: 8818 -> **8819**
+- Wood Crossbow: 8819 -> **8820**
+- Wood Crossbow|meta|charging2: 8820 -> **8821**
+- Wood Crossbow|meta|charging3: 8821 -> **8822**
+- Wood Crossbow|meta|charging4: 8822 -> **8823**
+- Stone Crossbow: 8823 -> **8824**
+- Stone Crossbow|meta|charging2: 8824 -> **8825**
+- Stone Crossbow|meta|charging3: 8825 -> **8826**
+- Stone Crossbow|meta|charging4: 8826 -> **8827**
+- Iron Crossbow: 8827 -> **8828**
+- Iron Crossbow|meta|charging2: 8828 -> **8829**
+- Iron Crossbow|meta|charging3: 8829 -> **8830**
+- Iron Crossbow|meta|charging4: 8830 -> **8831**
+- Gold Crossbow: 8831 -> **8832**
+- Gold Crossbow|meta|charging2: 8832 -> **8833**
+- Gold Crossbow|meta|charging3: 8833 -> **8834**
+- Gold Crossbow|meta|charging4: 8834 -> **8835**
+- Diamond Crossbow: 8835 -> **8836**
+- Diamond Crossbow|meta|charging2: 8836 -> **8837**
+- Diamond Crossbow|meta|charging3: 8837 -> **8838**
+- Diamond Crossbow|meta|charging4: 8838 -> **8839**
+- Wood Crossbow Charged: 8839 -> **8840**
+- Stone Crossbow Charged: 8840 -> **8841**
+- Iron Crossbow Charged: 8841 -> **8842**
+- Gold Crossbow Charged: 8842 -> **8843**
+- Diamond Crossbow Charged: 8843 -> **8844**
+- Arrow: 8844 -> **8845**
+- Compass: 8845 -> **8846**
+- Compass|meta|dir2: 8846 -> **8847**
+- Compass|meta|dir3: 8847 -> **8848**
+- Compass|meta|dir4: 8848 -> **8849**
+- Compass|meta|dir5: 8849 -> **8850**
+- Compass|meta|dir6: 8850 -> **8851**
+- Compass|meta|dir7: 8851 -> **8852**
+- Compass|meta|dir8: 8852 -> **8853**
+- Compass|meta|dir9: 8853 -> **8854**
+- Compass|meta|dir10: 8854 -> **8855**
+- Compass|meta|dir11: 8855 -> **8856**
+- Compass|meta|dir12: 8856 -> **8857**
+- Chunk Map: 8857 -> **8858**
+- Bread: 8858 -> **8859**
+- Bowl of Rice: 8859 -> **8860**
+- Apple: 8860 -> **8861**
+- Plum: 8861 -> **8862**
+- Coconut: 8862 -> **8863**
+- Cracked Coconut: 8863 -> **8864**
+- Pear: 8864 -> **8865**
+- Cherry: 8865 -> **8866**
+- Banana: 8866 -> **8867**
+- Watermelon Slice: 8867 -> **8868**
+- Gold Watermelon Slice: 8868 -> **8869**
+- Melon Slice: 8869 -> **8870**
+- Gold Melon Slice: 8870 -> **8871**
+- Pumpkin Pie: 8871 -> **8872**
+- Corn: 8872 -> **8873**
+- Cornbread: 8873 -> **8874**
+- Chili Pepper: 8874 -> **8875**
+- Mango: 8875 -> **8876**
+- Carrot: 8876 -> **8877**
+- Gold Carrot: 8877 -> **8878**
+- Raw Potato: 8878 -> **8879**
+- Baked Potato: 8879 -> **8880**
+- Beetroot: 8880 -> **8881**
+- Raw Porkchop: 8881 -> **8882**
+- Cooked Porkchop: 8882 -> **8883**
+- Raw Beef: 8883 -> **8884**
+- Steak: 8884 -> **8885**
+- Raw Mutton: 8885 -> **8886**
+- Cooked Mutton: 8886 -> **8887**
+- Raw Venison: 8887 -> **8888**
+- Cooked Venison: 8888 -> **8889**
+- Rotten Flesh: 8889 -> **8890**
+- Rotten Brain: 8890 -> **8891**
+- Bone: 8891 -> **8892**
+- Bone Meal: 8892 -> **8893**
+- Leather: 8893 -> **8894**
+- Saddle: 8894 -> **8895**
+- Spirit Saddle: 8895 -> **8896**
+- Fur: 8896 -> **8897**
+- Golem Eye: 8897 -> **8898**
+- Knight Heart: 8898 -> **8899**
+- Teleport Heart: 8899 -> **8900**
+- Frost Shard: 8900 -> **8901**
+- Molten Cog: 8901 -> **8902**
+- Choir Bell: 8902 -> **8903**
+- Siege Core: 8903 -> **8904**
+- Flywheel: 8904 -> **8905**
+- Radiant Spark: 8905 -> **8906**
+- Brood Sac: 8906 -> **8907**
+- Bandolier: 8907 -> **8908**
+- Name Tag: 8908 -> **8909**
+- Book: 8909 -> **8910**
+- Empty Bottle: 8910 -> **8911**
+- Water Bottle: 8911 -> **8912**
+- Slowness Potion: 8912 -> **8913**
+- Slowness Potion II: 8913 -> **8914**
+- Splash Slowness Potion: 8914 -> **8915**
+- Splash Slowness Potion II: 8915 -> **8916**
+- Arrow of Slowness: 8916 -> **8917**
+- Poison Potion: 8917 -> **8918**
+- Poison Potion II: 8918 -> **8919**
+- Splash Poison Potion: 8919 -> **8920**
+- Splash Poison Potion II: 8920 -> **8921**
+- Arrow of Poison: 8921 -> **8922**
+- Weakness Potion: 8922 -> **8923**
+- Weakness Potion II: 8923 -> **8924**
+- Splash Weakness Potion: 8924 -> **8925**
+- Splash Weakness Potion II: 8925 -> **8926**
+- Arrow of Weakness: 8926 -> **8927**
+- Instant Damage Potion: 8927 -> **8928**
+- Instant Damage Potion II: 8928 -> **8929**
+- Splash Instant Damage Potion: 8929 -> **8930**
+- Splash Instant Damage Potion II: 8930 -> **8931**
+- Arrow of Instant Damage: 8931 -> **8932**
+- Milk Potion: 8932 -> **8933**
+- Splash Milk Potion: 8933 -> **8934**
+- Arrow of Milk: 8934 -> **8935**
+- Speed Potion: 8935 -> **8936**
+- Speed Potion II: 8936 -> **8937**
+- Splash Speed Potion: 8937 -> **8938**
+- Splash Speed Potion II: 8938 -> **8939**
+- Arrow of Speed: 8939 -> **8940**
+- Defense Potion: 8940 -> **8941**
+- Defense Potion II: 8941 -> **8942**
+- Splash Defense Potion: 8942 -> **8943**
+- Splash Defense Potion II: 8943 -> **8944**
+- Arrow of Defense: 8944 -> **8945**
+- Strength Potion: 8945 -> **8946**
+- Strength Potion II: 8946 -> **8947**
+- Splash Strength Potion: 8947 -> **8948**
+- Splash Strength Potion II: 8948 -> **8949**
+- Arrow of Strength: 8949 -> **8950**
+- Invisibility Potion: 8950 -> **8951**
+- Splash Invisibility Potion: 8951 -> **8952**
+- Arrow of Invisibility: 8952 -> **8953**
+- Jump Potion: 8953 -> **8954**
+- Jump Potion II: 8954 -> **8955**
+- Splash Jump Potion: 8955 -> **8956**
+- Splash Jump Potion II: 8956 -> **8957**
+- Arrow of Jumping: 8957 -> **8958**
+- Knockback Potion: 8958 -> **8959**
+- Splash Knockback Potion: 8959 -> **8960**
+- Splash Knockback Potion II: 8960 -> **8961**
+- Arrow of Knockback: 8961 -> **8962**
+- Regeneration Potion: 8962 -> **8963**
+- Regeneration Potion II: 8963 -> **8964**
+- Splash Regeneration Potion: 8964 -> **8965**
+- Splash Regeneration Potion II: 8965 -> **8966**
+- Arrow of Regeneration: 8966 -> **8967**
+- Instant Healing Potion: 8967 -> **8968**
+- Instant Healing Potion II: 8968 -> **8969**
+- Splash Instant Healing Potion: 8969 -> **8970**
+- Splash Instant Healing Potion II: 8970 -> **8971**
+- Arrow of Instant Healing: 8971 -> **8972**
+- Haste Potion: 8972 -> **8973**
+- Haste Potion II: 8973 -> **8974**
+- Splash Haste Potion: 8974 -> **8975**
+- Splash Haste Potion II: 8975 -> **8976**
+- Arrow of Haste: 8976 -> **8977**
+- Shield Potion: 8977 -> **8978**
+- Shield Potion II: 8978 -> **8979**
+- Splash Shield Potion: 8979 -> **8980**
+- Splash Shield Potion II: 8980 -> **8981**
+- Arrow of Shield: 8981 -> **8982**
+- Double Jump Potion: 8982 -> **8983**
+- Splash Double Jump Potion: 8983 -> **8984**
+- Arrow of Double Jump: 8984 -> **8985**
+- Heat Resistance Potion: 8985 -> **8986**
+- Splash Heat Resistance Potion: 8986 -> **8987**
+- Arrow of Heat Resistance: 8987 -> **8988**
+- X-Ray Vision Potion: 8988 -> **8989**
+- Splash X-Ray Vision Potion: 8989 -> **8990**
+- Arrow of X-Ray Vision: 8990 -> **8991**
+- Mining Yield Potion: 8991 -> **8992**
+- Mining Yield Potion II: 8992 -> **8993**
+- Splash Mining Yield Potion: 8993 -> **8994**
+- Splash Mining Yield Potion II: 8994 -> **8995**
+- Arrow of Mining Yield: 8995 -> **8996**
+- Brain Rot Potion: 8996 -> **8997**
+- Splash Brain Rot Potion: 8997 -> **8998**
+- Arrow of Brain Rot: 8998 -> **8999**
+- Chaos Potion: 8999 -> **9000**
+- Teleportation Potion: 9000 -> **9001**
+- Ammo: 9001 -> **9002**
+- AK-47: 9002 -> **9003**
+- AK-47|RequiresAmmo: 9003 -> **9004**
+- M16: 9004 -> **9005**
+- M16|RequiresAmmo: 9005 -> **9006**
+- MP40: 9006 -> **9007**
+- MP40|RequiresAmmo: 9007 -> **9008**
+- TAR-21: 9008 -> **9009**
+- TAR-21|RequiresAmmo: 9009 -> **9010**
+- M1911: 9010 -> **9011**
+- M1911|RequiresAmmo: 9011 -> **9012**
+- One Shot Pistol: 9012 -> **9013**
+- One Shot Pistol|RequiresAmmo: 9013 -> **9014**
+- Double Barrel: 9014 -> **9015**
+- Double Barrel|RequiresAmmo: 9015 -> **9016**
+- AWP: 9016 -> **9017**
+- AWP|RequiresAmmo: 9017 -> **9018**
+- Deagle: 9018 -> **9019**
+- Deagle|RequiresAmmo: 9019 -> **9020**
+- Striker-12: 9020 -> **9021**
+- Striker-12|RequiresAmmo: 9021 -> **9022**
+- VSR: 9022 -> **9023**
+- VSR|RequiresAmmo: 9023 -> **9024**
+- DMR: 9024 -> **9025**
+- DMR|RequiresAmmo: 9025 -> **9026**
+- Minigun: 9026 -> **9027**
+- Minigun|RequiresAmmo: 9027 -> **9028**
+- FMR: 9028 -> **9029**
+- FMR|RequiresAmmo: 9029 -> **9030**
+- SKAR: 9030 -> **9031**
+- SKAR|RequiresAmmo: 9031 -> **9032**
+- Block-19: 9032 -> **9033**
+- Block-19|RequiresAmmo: 9033 -> **9034**
+- Mini Izu: 9034 -> **9035**
+- Mini Izu|RequiresAmmo: 9035 -> **9036**
+- GPMG: 9036 -> **9037**
+- GPMG|RequiresAmmo: 9037 -> **9038**
+- Gold Coin: 9038 -> **9039**
+- Updraft: 9039 -> **9040**
+- Snowdash: 9040 -> **9041**
+- Floor Creator: 9041 -> **9042**
+- Moonstone Remote Explosive: 9042 -> **9043**
+- Moonstone Remote: 9043 -> **9044**
+- Ice Bridge: 9044 -> **9045**
+- Maple Planks Bridge: 9045 -> **9046**
+- Messy Stone Bridge: 9046 -> **9047**
+- Yellow Balloon: 9047 -> **9048**
+- White Balloon: 9048 -> **9049**
+- Red Balloon: 9049 -> **9050**
+- Purple Balloon: 9050 -> **9051**
+- Pink Balloon: 9051 -> **9052**
+- Orange Balloon: 9052 -> **9053**
+- Magenta Balloon: 9053 -> **9054**
+- Lime Balloon: 9054 -> **9055**
+- Light Gray Balloon: 9055 -> **9056**
+- Light Blue Balloon: 9056 -> **9057**
+- Green Balloon: 9057 -> **9058**
+- Gray Balloon: 9058 -> **9059**
+- Cyan Balloon: 9059 -> **9060**
+- Brown Balloon: 9060 -> **9061**
+- Blue Balloon: 9061 -> **9062**
+- Black Balloon: 9062 -> **9063**
+- INTERNAL_MESH_Yellow Balloon: 9063 -> **9064**
+- INTERNAL_MESH_White Balloon: 9064 -> **9065**
+- INTERNAL_MESH_Red Balloon: 9065 -> **9066**
+- INTERNAL_MESH_Purple Balloon: 9066 -> **9067**
+- INTERNAL_MESH_Pink Balloon: 9067 -> **9068**
+- INTERNAL_MESH_Orange Balloon: 9068 -> **9069**
+- INTERNAL_MESH_Magenta Balloon: 9069 -> **9070**
+- INTERNAL_MESH_Lime Balloon: 9070 -> **9071**
+- INTERNAL_MESH_Light Gray Balloon: 9071 -> **9072**
+- INTERNAL_MESH_Light Blue Balloon: 9072 -> **9073**
+- INTERNAL_MESH_Green Balloon: 9073 -> **9074**
+- INTERNAL_MESH_Gray Balloon: 9074 -> **9075**
+- INTERNAL_MESH_Cyan Balloon: 9075 -> **9076**
+- INTERNAL_MESH_Brown Balloon: 9076 -> **9077**
+- INTERNAL_MESH_Blue Balloon: 9077 -> **9078**
+- INTERNAL_MESH_Black Balloon: 9078 -> **9079**
+- Yellow Popup Tower: 9079 -> **9080**
+- White Popup Tower: 9080 -> **9081**
+- Red Popup Tower: 9081 -> **9082**
+- Purple Popup Tower: 9082 -> **9083**
+- Pink Popup Tower: 9083 -> **9084**
+- Orange Popup Tower: 9084 -> **9085**
+- Magenta Popup Tower: 9085 -> **9086**
+- Lime Popup Tower: 9086 -> **9087**
+- Light Gray Popup Tower: 9087 -> **9088**
+- Light Blue Popup Tower: 9088 -> **9089**
+- Green Popup Tower: 9089 -> **9090**
+- Gray Popup Tower: 9090 -> **9091**
+- Cyan Popup Tower: 9091 -> **9092**
+- Brown Popup Tower: 9092 -> **9093**
+- Blue Popup Tower: 9093 -> **9094**
+- Black Popup Tower: 9094 -> **9095**
+- Yellow Paintball Gun: 9095 -> **9096**
+- White Paintball Gun: 9096 -> **9097**
+- Red Paintball Gun: 9097 -> **9098**
+- Purple Paintball Gun: 9098 -> **9099**
+- Pink Paintball Gun: 9099 -> **9100**
+- Orange Paintball Gun: 9100 -> **9101**
+- Magenta Paintball Gun: 9101 -> **9102**
+- Lime Paintball Gun: 9102 -> **9103**
+- Light Gray Paintball Gun: 9103 -> **9104**
+- Light Blue Paintball Gun: 9104 -> **9105**
+- Green Paintball Gun: 9105 -> **9106**
+- Gray Paintball Gun: 9106 -> **9107**
+- Cyan Paintball Gun: 9107 -> **9108**
+- Brown Paintball Gun: 9108 -> **9109**
+- Blue Paintball Gun: 9109 -> **9110**
+- Black Paintball Gun: 9110 -> **9111**
+- Yellow Paintball: 9111 -> **9112**
+- White Paintball: 9112 -> **9113**
+- Red Paintball: 9113 -> **9114**
+- Purple Paintball: 9114 -> **9115**
+- Pink Paintball: 9115 -> **9116**
+- Orange Paintball: 9116 -> **9117**
+- Magenta Paintball: 9117 -> **9118**
+- Lime Paintball: 9118 -> **9119**
+- Light Gray Paintball: 9119 -> **9120**
+- Light Blue Paintball: 9120 -> **9121**
+- Green Paintball: 9121 -> **9122**
+- Gray Paintball: 9122 -> **9123**
+- Cyan Paintball: 9123 -> **9124**
+- Brown Paintball: 9124 -> **9125**
+- Blue Paintball: 9125 -> **9126**
+- Black Paintball: 9126 -> **9127**
+- Yellow Heavy Paintball Gun: 9127 -> **9128**
+- White Heavy Paintball Gun: 9128 -> **9129**
+- Red Heavy Paintball Gun: 9129 -> **9130**
+- Purple Heavy Paintball Gun: 9130 -> **9131**
+- Pink Heavy Paintball Gun: 9131 -> **9132**
+- Orange Heavy Paintball Gun: 9132 -> **9133**
+- Magenta Heavy Paintball Gun: 9133 -> **9134**
+- Lime Heavy Paintball Gun: 9134 -> **9135**
+- Light Gray Heavy Paintball Gun: 9135 -> **9136**
+- Light Blue Heavy Paintball Gun: 9136 -> **9137**
+- Green Heavy Paintball Gun: 9137 -> **9138**
+- Gray Heavy Paintball Gun: 9138 -> **9139**
+- Cyan Heavy Paintball Gun: 9139 -> **9140**
+- Brown Heavy Paintball Gun: 9140 -> **9141**
+- Blue Heavy Paintball Gun: 9141 -> **9142**
+- Black Heavy Paintball Gun: 9142 -> **9143**
+- Yellow Paintball Explosive Item: 9143 -> **9144**
+- White Paintball Explosive Item: 9144 -> **9145**
+- Red Paintball Explosive Item: 9145 -> **9146**
+- Purple Paintball Explosive Item: 9146 -> **9147**
+- Pink Paintball Explosive Item: 9147 -> **9148**
+- Orange Paintball Explosive Item: 9148 -> **9149**
+- Magenta Paintball Explosive Item: 9149 -> **9150**
+- Lime Paintball Explosive Item: 9150 -> **9151**
+- Light Gray Paintball Explosive Item: 9151 -> **9152**
+- Light Blue Paintball Explosive Item: 9152 -> **9153**
+- Green Paintball Explosive Item: 9153 -> **9154**
+- Gray Paintball Explosive Item: 9154 -> **9155**
+- Cyan Paintball Explosive Item: 9155 -> **9156**
+- Brown Paintball Explosive Item: 9156 -> **9157**
+- Blue Paintball Explosive Item: 9157 -> **9158**
+- Black Paintball Explosive Item: 9158 -> **9159**
+- Yellow Sticky Paintball Explosive Item: 9159 -> **9160**
+- White Sticky Paintball Explosive Item: 9160 -> **9161**
+- Red Sticky Paintball Explosive Item: 9161 -> **9162**
+- Purple Sticky Paintball Explosive Item: 9162 -> **9163**
+- Pink Sticky Paintball Explosive Item: 9163 -> **9164**
+- Orange Sticky Paintball Explosive Item: 9164 -> **9165**
+- Magenta Sticky Paintball Explosive Item: 9165 -> **9166**
+- Lime Sticky Paintball Explosive Item: 9166 -> **9167**
+- Light Gray Sticky Paintball Explosive Item: 9167 -> **9168**
+- Light Blue Sticky Paintball Explosive Item: 9168 -> **9169**
+- Green Sticky Paintball Explosive Item: 9169 -> **9170**
+- Gray Sticky Paintball Explosive Item: 9170 -> **9171**
+- Cyan Sticky Paintball Explosive Item: 9171 -> **9172**
+- Brown Sticky Paintball Explosive Item: 9172 -> **9173**
+- Blue Sticky Paintball Explosive Item: 9173 -> **9174**
+- Black Sticky Paintball Explosive Item: 9174 -> **9175**
+- Yellow Seeking Paintball Explosive Item: 9175 -> **9176**
+- White Seeking Paintball Explosive Item: 9176 -> **9177**
+- Red Seeking Paintball Explosive Item: 9177 -> **9178**
+- Purple Seeking Paintball Explosive Item: 9178 -> **9179**
+- Pink Seeking Paintball Explosive Item: 9179 -> **9180**
+- Orange Seeking Paintball Explosive Item: 9180 -> **9181**
+- Magenta Seeking Paintball Explosive Item: 9181 -> **9182**
+- Lime Seeking Paintball Explosive Item: 9182 -> **9183**
+- Light Gray Seeking Paintball Explosive Item: 9183 -> **9184**
+- Light Blue Seeking Paintball Explosive Item: 9184 -> **9185**
+- Green Seeking Paintball Explosive Item: 9185 -> **9186**
+- Gray Seeking Paintball Explosive Item: 9186 -> **9187**
+- Cyan Seeking Paintball Explosive Item: 9187 -> **9188**
+- Brown Seeking Paintball Explosive Item: 9188 -> **9189**
+- Blue Seeking Paintball Explosive Item: 9189 -> **9190**
+- Black Seeking Paintball Explosive Item: 9190 -> **9191**
+- Yellow Quick Paintball Explosive Item: 9191 -> **9192**
+- White Quick Paintball Explosive Item: 9192 -> **9193**
+- Red Quick Paintball Explosive Item: 9193 -> **9194**
+- Purple Quick Paintball Explosive Item: 9194 -> **9195**
+- Pink Quick Paintball Explosive Item: 9195 -> **9196**
+- Orange Quick Paintball Explosive Item: 9196 -> **9197**
+- Magenta Quick Paintball Explosive Item: 9197 -> **9198**
+- Lime Quick Paintball Explosive Item: 9198 -> **9199**
+- Light Gray Quick Paintball Explosive Item: 9199 -> **9200**
+- Light Blue Quick Paintball Explosive Item: 9200 -> **9201**
+- Green Quick Paintball Explosive Item: 9201 -> **9202**
+- Gray Quick Paintball Explosive Item: 9202 -> **9203**
+- Cyan Quick Paintball Explosive Item: 9203 -> **9204**
+- Brown Quick Paintball Explosive Item: 9204 -> **9205**
+- Blue Quick Paintball Explosive Item: 9205 -> **9206**
+- Black Quick Paintball Explosive Item: 9206 -> **9207**
+- Yellow Paint Bow: 9207 -> **9208**
+- Yellow Paint Bow|meta|charging2: 9208 -> **9209**
+- Yellow Paint Bow|meta|charging3: 9209 -> **9210**
+- Yellow Paint Bow|meta|charging4: 9210 -> **9211**
+- White Paint Bow: 9211 -> **9212**
+- White Paint Bow|meta|charging2: 9212 -> **9213**
+- White Paint Bow|meta|charging3: 9213 -> **9214**
+- White Paint Bow|meta|charging4: 9214 -> **9215**
+- Red Paint Bow: 9215 -> **9216**
+- Red Paint Bow|meta|charging2: 9216 -> **9217**
+- Red Paint Bow|meta|charging3: 9217 -> **9218**
+- Red Paint Bow|meta|charging4: 9218 -> **9219**
+- Purple Paint Bow: 9219 -> **9220**
+- Purple Paint Bow|meta|charging2: 9220 -> **9221**
+- Purple Paint Bow|meta|charging3: 9221 -> **9222**
+- Purple Paint Bow|meta|charging4: 9222 -> **9223**
+- Pink Paint Bow: 9223 -> **9224**
+- Pink Paint Bow|meta|charging2: 9224 -> **9225**
+- Pink Paint Bow|meta|charging3: 9225 -> **9226**
+- Pink Paint Bow|meta|charging4: 9226 -> **9227**
+- Orange Paint Bow: 9227 -> **9228**
+- Orange Paint Bow|meta|charging2: 9228 -> **9229**
+- Orange Paint Bow|meta|charging3: 9229 -> **9230**
+- Orange Paint Bow|meta|charging4: 9230 -> **9231**
+- Magenta Paint Bow: 9231 -> **9232**
+- Magenta Paint Bow|meta|charging2: 9232 -> **9233**
+- Magenta Paint Bow|meta|charging3: 9233 -> **9234**
+- Magenta Paint Bow|meta|charging4: 9234 -> **9235**
+- Lime Paint Bow: 9235 -> **9236**
+- Lime Paint Bow|meta|charging2: 9236 -> **9237**
+- Lime Paint Bow|meta|charging3: 9237 -> **9238**
+- Lime Paint Bow|meta|charging4: 9238 -> **9239**
+- Light Gray Paint Bow: 9239 -> **9240**
+- Light Gray Paint Bow|meta|charging2: 9240 -> **9241**
+- Light Gray Paint Bow|meta|charging3: 9241 -> **9242**
+- Light Gray Paint Bow|meta|charging4: 9242 -> **9243**
+- Light Blue Paint Bow: 9243 -> **9244**
+- Light Blue Paint Bow|meta|charging2: 9244 -> **9245**
+- Light Blue Paint Bow|meta|charging3: 9245 -> **9246**
+- Light Blue Paint Bow|meta|charging4: 9246 -> **9247**
+- Green Paint Bow: 9247 -> **9248**
+- Green Paint Bow|meta|charging2: 9248 -> **9249**
+- Green Paint Bow|meta|charging3: 9249 -> **9250**
+- Green Paint Bow|meta|charging4: 9250 -> **9251**
+- Gray Paint Bow: 9251 -> **9252**
+- Gray Paint Bow|meta|charging2: 9252 -> **9253**
+- Gray Paint Bow|meta|charging3: 9253 -> **9254**
+- Gray Paint Bow|meta|charging4: 9254 -> **9255**
+- Cyan Paint Bow: 9255 -> **9256**
+- Cyan Paint Bow|meta|charging2: 9256 -> **9257**
+- Cyan Paint Bow|meta|charging3: 9257 -> **9258**
+- Cyan Paint Bow|meta|charging4: 9258 -> **9259**
+- Brown Paint Bow: 9259 -> **9260**
+- Brown Paint Bow|meta|charging2: 9260 -> **9261**
+- Brown Paint Bow|meta|charging3: 9261 -> **9262**
+- Brown Paint Bow|meta|charging4: 9262 -> **9263**
+- Blue Paint Bow: 9263 -> **9264**
+- Blue Paint Bow|meta|charging2: 9264 -> **9265**
+- Blue Paint Bow|meta|charging3: 9265 -> **9266**
+- Blue Paint Bow|meta|charging4: 9266 -> **9267**
+- Black Paint Bow: 9267 -> **9268**
+- Black Paint Bow|meta|charging2: 9268 -> **9269**
+- Black Paint Bow|meta|charging3: 9269 -> **9270**
+- Black Paint Bow|meta|charging4: 9270 -> **9271**
+- Pig Spawn Orb: 9271 -> **9272**
+- Cow Spawn Orb: 9272 -> **9273**
+- Sheep Spawn Orb: 9273 -> **9274**
+- Horse Spawn Orb: 9274 -> **9275**
+- Camel Spawn Orb: 9275 -> **9276**
+- Iron Goofy Golem Spawn Orb: 9276 -> **9277**
+- Gold Goofy Golem Spawn Orb: 9277 -> **9278**
+- Diamond Goofy Golem Spawn Orb: 9278 -> **9279**
+- Moonstone Goofy Golem Spawn Orb: 9279 -> **9280**
+- Deer Spawn Orb: 9280 -> **9281**
+- Slime Spawn Orb: 9281 -> **9282**
+- Wolf Spawn Orb: 9282 -> **9283**
+- Wildcat Spawn Orb: 9283 -> **9284**
+- Spirit Golem Spawn Orb: 9284 -> **9285**
+- Spirit Wolf Spawn Orb: 9285 -> **9286**
+- Spirit Bear Spawn Orb: 9286 -> **9287**
+- Spirit Stag Spawn Orb: 9287 -> **9288**
+- Spirit Gorilla Spawn Orb: 9288 -> **9289**
+- Bear Spawn Orb: 9289 -> **9290**
+- Stag Spawn Orb: 9290 -> **9291**
+- Gold Watermelon Stag Spawn Orb: 9291 -> **9292**
+- Gorilla Spawn Orb: 9292 -> **9293**
+- Cave Golem Spawn Orb: 9293 -> **9294**
+- Draugr Zombie Spawn Orb: 9294 -> **9295**
+- Draugr Skeleton Spawn Orb: 9295 -> **9296**
+- Frost Golem Spawn Orb: 9296 -> **9297**
+- Frost Zombie Spawn Orb: 9297 -> **9298**
+- Frost Skeleton Spawn Orb: 9298 -> **9299**
+- Draugr Knight Spawn Orb: 9299 -> **9300**
+- Draugr Huntress Spawn Orb: 9300 -> **9301**
+- Magma Golem Spawn Orb: 9301 -> **9302**
+- Draugr Warper Spawn Orb: 9302 -> **9303**
+- Frost Wraith Spawn Orb: 9303 -> **9304**
+- Draugr Reaver Spawn Orb: 9304 -> **9305**
+- Stalker Spawn Orb: 9305 -> **9306**
+- Crone Spawn Orb: 9306 -> **9307**
+- Iron Guardian Spawn Orb: 9307 -> **9308**
+- Gold Guardian Spawn Orb: 9308 -> **9309**
+- Diamond Guardian Spawn Orb: 9309 -> **9310**
+- Moonstone Guardian Spawn Orb: 9310 -> **9311**
+- Tiki Terror Spawn Orb: 9311 -> **9312**
+- Mob Catcher: 9312 -> **9313**
+- Caught Mob Pig Default: 9313 -> **9314**
+- Caught Mob Cow Default: 9314 -> **9315**
+- Caught Mob Cow Cream: 9315 -> **9316**
+- Caught Mob Sheep Default: 9316 -> **9317**
+- Caught Mob Sheep Black: 9317 -> **9318**
+- Caught Mob Sheep Red: 9318 -> **9319**
+- Caught Mob Sheep Orange: 9319 -> **9320**
+- Caught Mob Sheep Pink: 9320 -> **9321**
+- Caught Mob Sheep Purple: 9321 -> **9322**
+- Caught Mob Sheep Yellow: 9322 -> **9323**
+- Caught Mob Sheep Blue: 9323 -> **9324**
+- Caught Mob Sheep Brown: 9324 -> **9325**
+- Caught Mob Sheep Cyan: 9325 -> **9326**
+- Caught Mob Sheep Gray: 9326 -> **9327**
+- Caught Mob Sheep Green: 9327 -> **9328**
+- Caught Mob Sheep Lightblue: 9328 -> **9329**
+- Caught Mob Sheep Lightgray: 9329 -> **9330**
+- Caught Mob Sheep Lime: 9330 -> **9331**
+- Caught Mob Sheep Magenta: 9331 -> **9332**
+- Caught Mob Horse Default: 9332 -> **9333**
+- Caught Mob Horse Black: 9333 -> **9334**
+- Caught Mob Horse Brown: 9334 -> **9335**
+- Caught Mob Horse Cream: 9335 -> **9336**
+- Caught Mob Camel Default: 9336 -> **9337**
+- Caught Mob Camel Brown: 9337 -> **9338**
+- Caught Mob Iron_Goofy_Golem Default: 9338 -> **9339**
+- Caught Mob Iron_Goofy_Golem Flaking: 9339 -> **9340**
+- Caught Mob Iron_Goofy_Golem Patchy: 9340 -> **9341**
+- Caught Mob Iron_Goofy_Golem Shedding: 9341 -> **9342**
+- Caught Mob Iron_Goofy_Golem Bare: 9342 -> **9343**
+- Caught Mob Iron_Goofy_Golem Stone: 9343 -> **9344**
+- Caught Mob Gold_Goofy_Golem Default: 9344 -> **9345**
+- Caught Mob Gold_Goofy_Golem Flaking: 9345 -> **9346**
+- Caught Mob Gold_Goofy_Golem Patchy: 9346 -> **9347**
+- Caught Mob Gold_Goofy_Golem Shedding: 9347 -> **9348**
+- Caught Mob Gold_Goofy_Golem Bare: 9348 -> **9349**
+- Caught Mob Gold_Goofy_Golem Stone: 9349 -> **9350**
+- Caught Mob Diamond_Goofy_Golem Default: 9350 -> **9351**
+- Caught Mob Diamond_Goofy_Golem Flaking: 9351 -> **9352**
+- Caught Mob Diamond_Goofy_Golem Patchy: 9352 -> **9353**
+- Caught Mob Diamond_Goofy_Golem Shedding: 9353 -> **9354**
+- Caught Mob Diamond_Goofy_Golem Bare: 9354 -> **9355**
+- Caught Mob Diamond_Goofy_Golem Stone: 9355 -> **9356**
+- Caught Mob Moonstone_Goofy_Golem Default: 9356 -> **9357**
+- Caught Mob Moonstone_Goofy_Golem Flaking: 9357 -> **9358**
+- Caught Mob Moonstone_Goofy_Golem Patchy: 9358 -> **9359**
+- Caught Mob Moonstone_Goofy_Golem Shedding: 9359 -> **9360**
+- Caught Mob Moonstone_Goofy_Golem Bare: 9360 -> **9361**
+- Caught Mob Moonstone_Goofy_Golem Stone: 9361 -> **9362**
+- Caught Mob Deer Default: 9362 -> **9363**
+- Caught Mob Slime Default: 9363 -> **9364**
+- Caught Mob Wolf Default: 9364 -> **9365**
+- Caught Mob Wolf White: 9365 -> **9366**
+- Caught Mob Wolf Brown: 9366 -> **9367**
+- Caught Mob Wolf Grey: 9367 -> **9368**
+- Caught Mob Wolf Spectral: 9368 -> **9369**
+- Caught Mob Wildcat Default: 9369 -> **9370**
+- Caught Mob Wildcat Tabby: 9370 -> **9371**
+- Caught Mob Wildcat Grey: 9371 -> **9372**
+- Caught Mob Wildcat Black: 9372 -> **9373**
+- Caught Mob Wildcat Calico: 9373 -> **9374**
+- Caught Mob Wildcat Siamese: 9374 -> **9375**
+- Caught Mob Wildcat Leopard: 9375 -> **9376**
+- Caught Mob Spirit_Golem Default: 9376 -> **9377**
+- Caught Mob Spirit_Wolf Default: 9377 -> **9378**
+- Caught Mob Spirit_Bear Default: 9378 -> **9379**
+- Caught Mob Spirit_Stag Default: 9379 -> **9380**
+- Caught Mob Spirit_Gorilla Default: 9380 -> **9381**
+- Caught Mob Bear Default: 9381 -> **9382**
+- Caught Mob Stag Default: 9382 -> **9383**
+- Caught Mob Gold_Watermelon_Stag Default: 9383 -> **9384**
+- Caught Mob Gorilla Default: 9384 -> **9385**
+- Caught Mob Cave_Golem Default: 9385 -> **9386**
+- Caught Mob Cave_Golem Iron: 9386 -> **9387**
+- Caught Mob Cave_Golem Corrupted: 9387 -> **9388**
+- Caught Mob Draugr_Zombie Default: 9388 -> **9389**
+- Caught Mob Draugr_Zombie Longhairchestplate: 9389 -> **9390**
+- Caught Mob Draugr_Zombie Longhairclothed: 9390 -> **9391**
+- Caught Mob Draugr_Zombie Shorthairclothed: 9391 -> **9392**
+- Caught Mob Draugr_Zombie Flower: 9392 -> **9393**
+- Caught Mob Draugr_Zombie Flower2: 9393 -> **9394**
+- Caught Mob Draugr_Zombie Mushroom: 9394 -> **9395**
+- Caught Mob Draugr_Zombie Vine: 9395 -> **9396**
+- Caught Mob Draugr_Zombie Vine2: 9396 -> **9397**
+- Caught Mob Draugr_Zombie Corrupted: 9397 -> **9398**
+- Caught Mob Draugr_Zombie Corrupted2: 9398 -> **9399**
+- Caught Mob Draugr_Skeleton Default: 9399 -> **9400**
+- Caught Mob Frost_Golem Default: 9400 -> **9401**
+- Caught Mob Frost_Zombie Default: 9401 -> **9402**
+- Caught Mob Frost_Zombie Longhairchestplate: 9402 -> **9403**
+- Caught Mob Frost_Zombie Shorthairclothed: 9403 -> **9404**
+- Caught Mob Frost_Skeleton Default: 9404 -> **9405**
+- Caught Mob Draugr_Knight Default: 9405 -> **9406**
+- Caught Mob Draugr_Huntress Default: 9406 -> **9407**
+- Caught Mob Draugr_Huntress Chainmail: 9407 -> **9408**
+- Caught Mob Magma_Golem Default: 9408 -> **9409**
+- Caught Mob Draugr_Warper Default: 9409 -> **9410**
+- Caught Mob Frost_Wraith Default: 9410 -> **9411**
+- Caught Mob Frost_Wraith Tattered: 9411 -> **9412**
+- Caught Mob Frost_Wraith Frostking: 9412 -> **9413**
+- Caught Mob Frost_Wraith Accursed: 9413 -> **9414**
+- Caught Mob Draugr_Reaver Default: 9414 -> **9415**
+- Caught Mob Stalker Default: 9415 -> **9416**
+- Caught Mob Stalker Crimson: 9416 -> **9417**
+- Caught Mob Stalker Frost: 9417 -> **9418**
+- Caught Mob Stalker Void: 9418 -> **9419**
+- Caught Mob Crone Default: 9419 -> **9420**
+- Caught Mob Iron_Guardian Default: 9420 -> **9421**
+- Caught Mob Gold_Guardian Default: 9421 -> **9422**
+- Caught Mob Diamond_Guardian Default: 9422 -> **9423**
+- Caught Mob Moonstone_Guardian Default: 9423 -> **9424**
+- Caught Mob Tiki_Terror Default: 9424 -> **9425**
+- Caught Mob Tiki_Terror Titan: 9425 -> **9426**
+- Caught Mob Tiki_Terror Tormentor: 9426 -> **9427**
+- Caught Mob Tiki_Terror Tyrant: 9427 -> **9428**
+- Caught Mob NPC Default: 9428 -> **9429**
+- Caught Mob NPC Emma: 9429 -> **9430**
+- Caught Mob NPC Leo: 9430 -> **9431**
+- Caught Mob NPC Isabel: 9431 -> **9432**
+- Caught Mob NPC Sanjay: 9432 -> **9433**
+- Caught Mob NPC Imara: 9433 -> **9434**
+- Caught Mob NPC Enoch: 9434 -> **9435**
+- Caught Mob NPC Sara: 9435 -> **9436**
+- Caught Mob NPC Carmen: 9436 -> **9437**
+- Caught Mob NPC Chef: 9437 -> **9438**
+- Caught Mob 67 Default: 9438 -> **9439**
+- Caught Mob Bobino_Musculino Default: 9439 -> **9440**
+- Caught Mob Capitano_Explovissimo Default: 9440 -> **9441**
+- Caught Mob Desert_Fennec Default: 9441 -> **9442**
+- Caught Mob Armour_Collector Default: 9442 -> **9443**
+- Caught Mob Furnace_Knight Default: 9443 -> **9444**
+- Caught Mob Lil_Knight Default: 9444 -> **9445**
+- Caught Mob Glass_Gremlin Default: 9445 -> **9446**
+- Caught Mob Glass_Bro Default: 9446 -> **9447**
+- Caught Mob Lord_Vulcan Default: 9447 -> **9448**
+- Caught Mob Zombie Default: 9448 -> **9449**
+- Caught Mob Skeleton Default: 9449 -> **9450**
+- Caught Mob Mummy Default: 9450 -> **9451**
+- Caught Mob Scorpion Default: 9451 -> **9452**
+- Caught Mob Vulcanite Default: 9452 -> **9453**
+- Caught Mob Evil_Tome Default: 9453 -> **9454**
+- Caught Mob Magma_Toad Default: 9454 -> **9455**
+- Timed Spike Bomb: 9455 -> **9456**
+- Timed Spike Bomb|meta|charging2: 9456 -> **9457**
+- Timed Spike Bomb|meta|charging3: 9457 -> **9458**
+- Timed Spike Bomb|meta|charging4: 9458 -> **9459**
+- Toxin Ball: 9459 -> **9460**
+- Aura XP Fragment: 9460 -> **9461**
+- Aura XP Orb: 9461 -> **9462**
+- Aura XP Potion: 9462 -> **9463**
+- Aura XP Potion II: 9463 -> **9464**
+- Splash Aura XP Potion: 9464 -> **9465**
+- Splash Aura XP Potion II: 9465 -> **9466**
+- Arrow of Aura XP: 9466 -> **9467**
+- Firecracker: 9467 -> **9468**
+- Rainbow Firecracker: 9468 -> **9469**
+- Yellow Firecracker: 9469 -> **9470**
+- White Firecracker: 9470 -> **9471**
+- Red Firecracker: 9471 -> **9472**
+- Purple Firecracker: 9472 -> **9473**
+- Pink Firecracker: 9473 -> **9474**
+- Orange Firecracker: 9474 -> **9475**
+- Magenta Firecracker: 9475 -> **9476**
+- Lime Firecracker: 9476 -> **9477**
+- Light Gray Firecracker: 9477 -> **9478**
+- Light Blue Firecracker: 9478 -> **9479**
+- Green Firecracker: 9479 -> **9480**
+- Gray Firecracker: 9480 -> **9481**
+- Cyan Firecracker: 9481 -> **9482**
+- Brown Firecracker: 9482 -> **9483**
+- Blue Firecracker: 9483 -> **9484**
+- Black Firecracker: 9484 -> **9485**
+- Firecracker Pebble: 9485 -> **9486**
+- Rainbow Firecracker Pebble: 9486 -> **9487**
+- Yellow Firecracker Pebble: 9487 -> **9488**
+- White Firecracker Pebble: 9488 -> **9489**
+- Red Firecracker Pebble: 9489 -> **9490**
+- Purple Firecracker Pebble: 9490 -> **9491**
+- Pink Firecracker Pebble: 9491 -> **9492**
+- Orange Firecracker Pebble: 9492 -> **9493**
+- Magenta Firecracker Pebble: 9493 -> **9494**
+- Lime Firecracker Pebble: 9494 -> **9495**
+- Light Gray Firecracker Pebble: 9495 -> **9496**
+- Light Blue Firecracker Pebble: 9496 -> **9497**
+- Green Firecracker Pebble: 9497 -> **9498**
+- Gray Firecracker Pebble: 9498 -> **9499**
+- Cyan Firecracker Pebble: 9499 -> **9500**
+- Brown Firecracker Pebble: 9500 -> **9501**
+- Blue Firecracker Pebble: 9501 -> **9502**
+- Black Firecracker Pebble: 9502 -> **9503**
+- WorldBuilder Wand: 9503 -> **9504**
+- Red Strongfish: 9504 -> **9505**
+- Green Strongfish: 9505 -> **9506**
+- Moon Strongfish: 9506 -> **9507**
+- Wheatfish: 9507 -> **9508**
+- Moonfish: 9508 -> **9509**
+- Bombfish: 9509 -> **9510**
+- Boomerang Fish: 9510 -> **9511**
+- Root Flounder: 9511 -> **9512**
+- Abyss Carp: 9512 -> **9513**
+- Boulder Bass: 9513 -> **9514**
+- Barnaclejaw: 9514 -> **9515**
+- Crystalized Wheatfish: 9515 -> **9516**
+- Darter: 9516 -> **9517**
+- Shadow Darter: 9517 -> **9518**
+- Electric Eel: 9518 -> **9519**
+- Grass Snapper: 9519 -> **9520**
+- Jungle Spinefish: 9520 -> **9521**
+- Mangler Catfish: 9521 -> **9522**
+- Mossback Arapaima: 9522 -> **9523**
+- Sandbelly Piranha: 9523 -> **9524**
+- Shadeback Ray: 9524 -> **9525**
+- Mudbelly Tilapia: 9525 -> **9526**
+- Mireback Carp: 9526 -> **9527**
+- Rotslab Eel: 9527 -> **9528**
+- Aether Minnow: 9528 -> **9529**
+- Murkborne Ray: 9529 -> **9530**
+- Eldertide Leviathan: 9530 -> **9531**
+- Oarfish: 9531 -> **9532**
+- Alpha Moon Strongfish: 9532 -> **9533**
+- Bamboo Catfish: 9533 -> **9534**
+- Blackwater Bream: 9534 -> **9535**
+- Blackwater Leviathan: 9535 -> **9536**
+- Boned Sturgeon: 9536 -> **9537**
+- Bull Shark: 9537 -> **9538**
+- Channel Sawfish: 9538 -> **9539**
+- Coastal Mullet: 9539 -> **9540**
+- Coelacanth: 9540 -> **9541**
+- Driftwood Catfish: 9541 -> **9542**
+- Eagle Ray: 9542 -> **9543**
+- Giant Grouper: 9543 -> **9544**
+- Giant Moray: 9544 -> **9545**
+- Giant Stingray: 9545 -> **9546**
+- Golden Mahseer: 9546 -> **9547**
+- Greenfin Loach: 9547 -> **9548**
+- Mangrove Herring: 9548 -> **9549**
+- Moonlit Boomerang Fish: 9549 -> **9550**
+- Moonstone Pupfish: 9550 -> **9551**
+- Mudline Perch: 9551 -> **9552**
+- Murk Stingray: 9552 -> **9553**
+- Needlefish: 9553 -> **9554**
+- Nomai Moray: 9554 -> **9555**
+- Pearlescent Moonfish: 9555 -> **9556**
+- Rainbow Guppy: 9556 -> **9557**
+- Red Snapper: 9557 -> **9558**
+- Reedglass Minnow: 9558 -> **9559**
+- Reef Sardine: 9559 -> **9560**
+- Root Perch: 9560 -> **9561**
+- Rust Scad: 9561 -> **9562**
+- Seahorse: 9562 -> **9563**
+- Snakehead: 9563 -> **9564**
+- Spined Stickleback: 9564 -> **9565**
+- Stone Grouper: 9565 -> **9566**
+- Sumpback Carp: 9566 -> **9567**
+- Sunset Minnow: 9567 -> **9568**
+- Tarpon: 9568 -> **9569**
+- Threadfin Bream: 9569 -> **9570**
+- Tri-Pointed Needlefish: 9570 -> **9571**
+- Game Dev Fish: 9571 -> **9572**
+- Armoured Searobin: 9572 -> **9573**
+- Ash Lionfish: 9573 -> **9574**
+- Barefrost Toothfish: 9574 -> **9575**
+- Blackfin Icefish: 9575 -> **9576**
+- Basalt Pipefish: 9576 -> **9577**
+- Brimstone Spikefish: 9577 -> **9578**
+- Cinder Leviathan: 9578 -> **9579**
+- Crowned Flame Angelfish: 9579 -> **9580**
+- Deepwater Lanternfish: 9580 -> **9581**
+- Driftice Capelin: 9581 -> **9582**
+- Ember Chub: 9582 -> **9583**
+- Embermark Wrasse: 9583 -> **9584**
+- Eviota Vader: 9584 -> **9585**
+- Frost Herring: 9585 -> **9586**
+- Frost Wolf Eel: 9586 -> **9587**
+- Frostpaint Notie: 9587 -> **9588**
+- Frozen Grenadier: 9588 -> **9589**
+- Giant Trevally: 9589 -> **9590**
+- Glacial Lanternfish: 9590 -> **9591**
+- Glacial Silverfish: 9591 -> **9592**
+- Heatwarp Flounder: 9592 -> **9593**
+- Hatchetfish: 9593 -> **9594**
+- Ice Spined Notothenia: 9594 -> **9595**
+- Iceshelf Skate: 9595 -> **9596**
+- Icy Sculpin: 9596 -> **9597**
+- Lavaflow Trout: 9597 -> **9598**
+- Lavawake Slopefish: 9598 -> **9599**
+- Magma Sardinella: 9599 -> **9600**
+- Magma Trout: 9600 -> **9601**
+- Marbled Moray Cod: 9601 -> **9602**
+- Molten Lotella Cod: 9602 -> **9603**
+- Northern Wolffish: 9603 -> **9604**
+- Paleice Rockcod: 9604 -> **9605**
+- Permafrost Halibut: 9605 -> **9606**
+- Pithead: 9606 -> **9607**
+- Polarflash Electron: 9607 -> **9608**
+- Pyroclast Eel: 9608 -> **9609**
+- Pyroscale Grouper: 9609 -> **9610**
+- Red Pyreside: 9610 -> **9611**
+- Rimesnouted Lancetfish: 9611 -> **9612**
+- Scorched Sunfish: 9612 -> **9613**
+- Scored Dace: 9613 -> **9614**
+- Silver Dragonfish: 9614 -> **9615**
+- Snow Haddock: 9615 -> **9616**
+- Volcanic Catfish: 9616 -> **9617**
+- Volcanic Semperi: 9617 -> **9618**
+- Rusty Rod: 9618 -> **9619**
+- Lucky Rod: 9619 -> **9620**
+- Sturdy Rod: 9620 -> **9621**
+- Jungle Rod: 9621 -> **9622**
+- Draugr Rod: 9622 -> **9623**
+- Cursed Rod: 9623 -> **9624**
+- Tangle Resistant Rod: 9624 -> **9625**
+- Speed Rod: 9625 -> **9626**
+- Carbon Rod: 9626 -> **9627**
+- Deep Sea Rod: 9627 -> **9628**
+- Master Rod: 9628 -> **9629**
+- Obsidian Rod: 9629 -> **9630**
+- Molten Magma Rod: 9630 -> **9631**
+- Frost Rod: 9631 -> **9632**
+- Black Ice Rod: 9632 -> **9633**
+- Mythic Rod: 9633 -> **9634**
+- Acorn: 9634 -> **9635**
+- Acorn Jelly: 9635 -> **9636**
+- Cow's Milk: 9636 -> **9637**
+- Cheese: 9637 -> **9638**
+- Caught Fish: 9638 -> **9639**
+- Fish Fillet: 9639 -> **9640**
+- Meaty Bone: 9640 -> **9641**
+- Blinding Pebble: 9641 -> **9642**
+- Sheep's Milk: 9642 -> **9643**
+- Yoghurt Pot: 9643 -> **9644**
+- Truffle: 9644 -> **9645**
+- Truffle Oil: 9645 -> **9646**
+- Oats: 9646 -> **9647**
+- Porridge: 9647 -> **9648**
+- Dates: 9648 -> **9649**
+- Date Pudding: 9649 -> **9650**
+- Poop: 9650 -> **9651**
+- Fertiliser: 9651 -> **9652**
+- Medkit: 9652 -> **9653**
+- Wood Spear: 9653 -> **9654**
+- Stone Spear: 9654 -> **9655**
+- Iron Spear: 9655 -> **9656**
+- Gold Spear: 9656 -> **9657**
+- Diamond Spear: 9657 -> **9658**
+- Moonstone Spear: 9658 -> **9659**
+- Wood Dagger: 9659 -> **9660**
+- Stone Dagger: 9660 -> **9661**
+- Iron Dagger: 9661 -> **9662**
+- Gold Dagger: 9662 -> **9663**
+- Diamond Dagger: 9663 -> **9664**
+- Moonstone Dagger: 9664 -> **9665**
+- Wood Boomerang: 9665 -> **9666**
+- Stone Boomerang: 9666 -> **9667**
+- Iron Boomerang: 9667 -> **9668**
+- Gold Boomerang: 9668 -> **9669**
+- Diamond Boomerang: 9669 -> **9670**
+- Moonstone Boomerang: 9670 -> **9671**
+- Wood Club: 9671 -> **9672**
+- Stone Club: 9672 -> **9673**
+- Iron Club: 9673 -> **9674**
+- Gold Club: 9674 -> **9675**
+- Diamond Club: 9675 -> **9676**
+- Moonstone Club: 9676 -> **9677**
+- Wood Mace: 9677 -> **9678**
+- Stone Mace: 9678 -> **9679**
+- Iron Mace: 9679 -> **9680**
+- Gold Mace: 9680 -> **9681**
+- Diamond Mace: 9681 -> **9682**
+- Moonstone Mace: 9682 -> **9683**
+- Wood Whip: 9683 -> **9684**
+- Stone Whip: 9684 -> **9685**
+- Iron Whip: 9685 -> **9686**
+- Gold Whip: 9686 -> **9687**
+- Diamond Whip: 9687 -> **9688**
+- Moonstone Whip: 9688 -> **9689**
+- Beef Stew: 9689 -> **9690**
+- Chicken: 9690 -> **9691**
+- Coleslaw: 9691 -> **9692**
+- Egg: 9692 -> **9693**
+- Fish N Chips: 9693 -> **9694**
+- Fried Rice: 9694 -> **9695**
+- Lettuce: 9695 -> **9696**
+- Omelette: 9696 -> **9697**
+- Onion: 9697 -> **9698**
+- Red Cabbage: 9698 -> **9699**
+- Roast Dinner: 9699 -> **9700**
+- Salad: 9700 -> **9701**
+- Stuffed Pepper: 9701 -> **9702**
+- Sushi: 9702 -> **9703**
+- Tomato: 9703 -> **9704**
+- Vegetable Soup: 9704 -> **9705**
+- Common Lottery Ticket: 9705 -> **9706**
+- Uncommon Lottery Ticket: 9706 -> **9707**
+- Rare Lottery Ticket: 9707 -> **9708**
+- Epic Lottery Ticket: 9708 -> **9709**
+- Legendary Lottery Ticket: 9709 -> **9710**
+- Wood Clock: 9710 -> **9711**
+- Wood Clock|meta|midnight: 9711 -> **9712**
+- Wood Clock|meta|late_night: 9712 -> **9713**
+- Wood Clock|meta|sunrise: 9713 -> **9714**
+- Wood Clock|meta|early_day: 9714 -> **9715**
+- Wood Clock|meta|late_day: 9715 -> **9716**
+- Wood Clock|meta|sunset: 9716 -> **9717**
+- Wood Clock|meta|early_night: 9717 -> **9718**
+- Gold Clock: 9718 -> **9719**
+- Gold Clock|meta|midnight: 9719 -> **9720**
+- Gold Clock|meta|late_night: 9720 -> **9721**
+- Gold Clock|meta|sunrise: 9721 -> **9722**
+- Gold Clock|meta|early_day: 9722 -> **9723**
+- Gold Clock|meta|late_day: 9723 -> **9724**
+- Gold Clock|meta|sunset: 9724 -> **9725**
+- Gold Clock|meta|early_night: 9725 -> **9726**
+- Lucky Sword Upgrade: 9726 -> **9727**
+- Lucky Armour Upgrade: 9727 -> **9728**
+- Lucky Tools Upgrade: 9728 -> **9729**
+- Lucky Clover: 9729 -> **9730**
+- Void Net: 9730 -> **9731**
+- Lucky Bomb: 9731 -> **9732**
+- Unlucky Bomb: 9732 -> **9733**
+- Swap Orb: 9733 -> **9734**
+- Golden Lucky Clover: 9734 -> **9735**
+- Amethite: 9735 -> **9736**
+- Amethite Fragment: 9736 -> **9737**
+- Amethite Pickaxe: 9737 -> **9738**
+- Amethite Axe: 9738 -> **9739**
+- Amethite Spade: 9739 -> **9740**
+- Amethite Sword: 9740 -> **9741**
+- Amethite Hoe: 9741 -> **9742**
+- Amethite Helmet: 9742 -> **9743**
+- Amethite Chestplate: 9743 -> **9744**
+- Amethite Leggings: 9744 -> **9745**
+- Amethite Boots: 9745 -> **9746**
+- Amethite Gauntlets: 9746 -> **9747**
+- Amethite Bow: 9747 -> **9748**
+- Amethite Bow|meta|charging2: 9748 -> **9749**
+- Amethite Bow|meta|charging3: 9749 -> **9750**
+- Amethite Bow|meta|charging4: 9750 -> **9751**
+- Amethite Crossbow: 9751 -> **9752**
+- Amethite Crossbow|meta|charging2: 9752 -> **9753**
+- Amethite Crossbow|meta|charging3: 9753 -> **9754**
+- Amethite Crossbow|meta|charging4: 9754 -> **9755**
+- Amethite Crossbow Charged: 9755 -> **9756**
+- Amethite Spear: 9756 -> **9757**
+- Amethite Dagger: 9757 -> **9758**
+- Amethite Boomerang: 9758 -> **9759**
+- Amethite Club: 9759 -> **9760**
+- Amethite Mace: 9760 -> **9761**
+- Amethite Whip: 9761 -> **9762**
+- Magmasteel: 9762 -> **9763**
+- Magmasteel Fragment: 9763 -> **9764**
+- Magmasteel Pickaxe: 9764 -> **9765**
+- Magmasteel Axe: 9765 -> **9766**
+- Magmasteel Spade: 9766 -> **9767**
+- Magmasteel Sword: 9767 -> **9768**
+- Magmasteel Hoe: 9768 -> **9769**
+- Magmasteel Helmet: 9769 -> **9770**
+- Magmasteel Chestplate: 9770 -> **9771**
+- Magmasteel Leggings: 9771 -> **9772**
+- Magmasteel Boots: 9772 -> **9773**
+- Magmasteel Gauntlets: 9773 -> **9774**
+- Magmasteel Bow: 9774 -> **9775**
+- Magmasteel Bow|meta|charging2: 9775 -> **9776**
+- Magmasteel Bow|meta|charging3: 9776 -> **9777**
+- Magmasteel Bow|meta|charging4: 9777 -> **9778**
+- Magmasteel Crossbow: 9778 -> **9779**
+- Magmasteel Crossbow|meta|charging2: 9779 -> **9780**
+- Magmasteel Crossbow|meta|charging3: 9780 -> **9781**
+- Magmasteel Crossbow|meta|charging4: 9781 -> **9782**
+- Magmasteel Crossbow Charged: 9782 -> **9783**
+- Magmasteel Spear: 9783 -> **9784**
+- Magmasteel Dagger: 9784 -> **9785**
+- Magmasteel Boomerang: 9785 -> **9786**
+- Magmasteel Club: 9786 -> **9787**
+- Magmasteel Mace: 9787 -> **9788**
+- Magmasteel Whip: 9788 -> **9789**
+- Rubellite: 9789 -> **9790**
+- Rubellite Fragment: 9790 -> **9791**
+- Rubellite Pickaxe: 9791 -> **9792**
+- Rubellite Axe: 9792 -> **9793**
+- Rubellite Spade: 9793 -> **9794**
+- Rubellite Sword: 9794 -> **9795**
+- Rubellite Hoe: 9795 -> **9796**
+- Rubellite Helmet: 9796 -> **9797**
+- Rubellite Chestplate: 9797 -> **9798**
+- Rubellite Leggings: 9798 -> **9799**
+- Rubellite Boots: 9799 -> **9800**
+- Rubellite Gauntlets: 9800 -> **9801**
+- Rubellite Bow: 9801 -> **9802**
+- Rubellite Bow|meta|charging2: 9802 -> **9803**
+- Rubellite Bow|meta|charging3: 9803 -> **9804**
+- Rubellite Bow|meta|charging4: 9804 -> **9805**
+- Rubellite Crossbow: 9805 -> **9806**
+- Rubellite Crossbow|meta|charging2: 9806 -> **9807**
+- Rubellite Crossbow|meta|charging3: 9807 -> **9808**
+- Rubellite Crossbow|meta|charging4: 9808 -> **9809**
+- Rubellite Crossbow Charged: 9809 -> **9810**
+- Rubellite Spear: 9810 -> **9811**
+- Rubellite Dagger: 9811 -> **9812**
+- Rubellite Boomerang: 9812 -> **9813**
+- Rubellite Club: 9813 -> **9814**
+- Rubellite Mace: 9814 -> **9815**
+- Rubellite Whip: 9815 -> **9816**
+- Serpentite: 9816 -> **9817**
+- Serpentite Fragment: 9817 -> **9818**
+- Serpentite Pickaxe: 9818 -> **9819**
+- Serpentite Axe: 9819 -> **9820**
+- Serpentite Spade: 9820 -> **9821**
+- Serpentite Sword: 9821 -> **9822**
+- Serpentite Hoe: 9822 -> **9823**
+- Serpentite Helmet: 9823 -> **9824**
+- Serpentite Chestplate: 9824 -> **9825**
+- Serpentite Leggings: 9825 -> **9826**
+- Serpentite Boots: 9826 -> **9827**
+- Serpentite Gauntlets: 9827 -> **9828**
+- Serpentite Bow: 9828 -> **9829**
+- Serpentite Bow|meta|charging2: 9829 -> **9830**
+- Serpentite Bow|meta|charging3: 9830 -> **9831**
+- Serpentite Bow|meta|charging4: 9831 -> **9832**
+- Serpentite Crossbow: 9832 -> **9833**
+- Serpentite Crossbow|meta|charging2: 9833 -> **9834**
+- Serpentite Crossbow|meta|charging3: 9834 -> **9835**
+- Serpentite Crossbow|meta|charging4: 9835 -> **9836**
+- Serpentite Crossbow Charged: 9836 -> **9837**
+- Serpentite Spear: 9837 -> **9838**
+- Serpentite Dagger: 9838 -> **9839**
+- Serpentite Boomerang: 9839 -> **9840**
+- Serpentite Club: 9840 -> **9841**
+- Serpentite Mace: 9841 -> **9842**
+- Serpentite Whip: 9842 -> **9843**
+- Cursemetal Helmet: 9843 -> **9844**
+- Cursemetal Chestplate: 9844 -> **9845**
+- Cursemetal Gauntlets: 9845 -> **9846**
+- Cursemetal Leggings: 9846 -> **9847**
+- Cursemetal Boots: 9847 -> **9848**
+- Kingly Amethite Helmet: 9848 -> **9849**
+- Kingly Amethite Chestplate: 9849 -> **9850**
+- Kingly Amethite Gauntlets: 9850 -> **9851**
+- Kingly Amethite Leggings: 9851 -> **9852**
+- Kingly Amethite Boots: 9852 -> **9853**
+- Kingly Diamond Helmet: 9853 -> **9854**
+- Kingly Diamond Chestplate: 9854 -> **9855**
+- Kingly Diamond Gauntlets: 9855 -> **9856**
+- Kingly Diamond Leggings: 9856 -> **9857**
+- Kingly Diamond Boots: 9857 -> **9858**
+- Sanguine Shard: 9858 -> **9859**
+- Sanguine Sword: 9859 -> **9860**
+- Sanguine Bow: 9860 -> **9861**
+- Sanguine Bow|meta|charging2: 9861 -> **9862**
+- Sanguine Bow|meta|charging3: 9862 -> **9863**
+- Sanguine Bow|meta|charging4: 9863 -> **9864**
+- Sanguine Crossbow: 9864 -> **9865**
+- Sanguine Crossbow|meta|charging2: 9865 -> **9866**
+- Sanguine Crossbow|meta|charging3: 9866 -> **9867**
+- Sanguine Crossbow|meta|charging4: 9867 -> **9868**
+- Sanguine Crossbow Charged: 9868 -> **9869**
+- Sanguine Spear: 9869 -> **9870**
+- Sanguine Dagger: 9870 -> **9871**
+- Sanguine Club: 9871 -> **9872**
+- Sanguine Mace: 9872 -> **9873**
+- Sanguine Whip: 9873 -> **9874**
+- Sanguine Staff: 9874 -> **9875**
+- Sanguine Helmet: 9875 -> **9876**
+- Sanguine Chestplate: 9876 -> **9877**
+- Sanguine Gauntlets: 9877 -> **9878**
+- Sanguine Leggings: 9878 -> **9879**
+- Sanguine Boots: 9879 -> **9880**
+- Spectral Shard: 9880 -> **9881**
+- Spectral Sword: 9881 -> **9882**
+- Spectral Bow: 9882 -> **9883**
+- Spectral Bow|meta|charging2: 9883 -> **9884**
+- Spectral Bow|meta|charging3: 9884 -> **9885**
+- Spectral Bow|meta|charging4: 9885 -> **9886**
+- Spectral Crossbow: 9886 -> **9887**
+- Spectral Crossbow|meta|charging2: 9887 -> **9888**
+- Spectral Crossbow|meta|charging3: 9888 -> **9889**
+- Spectral Crossbow|meta|charging4: 9889 -> **9890**
+- Spectral Crossbow Charged: 9890 -> **9891**
+- Spectral Spear: 9891 -> **9892**
+- Spectral Dagger: 9892 -> **9893**
+- Spectral Club: 9893 -> **9894**
+- Spectral Mace: 9894 -> **9895**
+- Spectral Whip: 9895 -> **9896**
+- Spectral Staff: 9896 -> **9897**
+- Spectral Helmet: 9897 -> **9898**
+- Spectral Chestplate: 9898 -> **9899**
+- Spectral Gauntlets: 9899 -> **9900**
+- Spectral Leggings: 9900 -> **9901**
+- Spectral Boots: 9901 -> **9902**
+- Geo Shard: 9902 -> **9903**
+- Geo Sword: 9903 -> **9904**
+- Geo Bow: 9904 -> **9905**
+- Geo Bow|meta|charging2: 9905 -> **9906**
+- Geo Bow|meta|charging3: 9906 -> **9907**
+- Geo Bow|meta|charging4: 9907 -> **9908**
+- Geo Crossbow: 9908 -> **9909**
+- Geo Crossbow|meta|charging2: 9909 -> **9910**
+- Geo Crossbow|meta|charging3: 9910 -> **9911**
+- Geo Crossbow|meta|charging4: 9911 -> **9912**
+- Geo Crossbow Charged: 9912 -> **9913**
+- Geo Spear: 9913 -> **9914**
+- Geo Dagger: 9914 -> **9915**
+- Geo Club: 9915 -> **9916**
+- Geo Mace: 9916 -> **9917**
+- Geo Whip: 9917 -> **9918**
+- Geo Staff: 9918 -> **9919**
+- Geo Helmet: 9919 -> **9920**
+- Geo Chestplate: 9920 -> **9921**
+- Geo Gauntlets: 9921 -> **9922**
+- Geo Leggings: 9922 -> **9923**
+- Geo Boots: 9923 -> **9924**
+- Astral Shard: 9924 -> **9925**
+- Astral Sword: 9925 -> **9926**
+- Astral Bow: 9926 -> **9927**
+- Astral Bow|meta|charging2: 9927 -> **9928**
+- Astral Bow|meta|charging3: 9928 -> **9929**
+- Astral Bow|meta|charging4: 9929 -> **9930**
+- Astral Crossbow: 9930 -> **9931**
+- Astral Crossbow|meta|charging2: 9931 -> **9932**
+- Astral Crossbow|meta|charging3: 9932 -> **9933**
+- Astral Crossbow|meta|charging4: 9933 -> **9934**
+- Astral Crossbow Charged: 9934 -> **9935**
+- Astral Spear: 9935 -> **9936**
+- Astral Dagger: 9936 -> **9937**
+- Astral Club: 9937 -> **9938**
+- Astral Mace: 9938 -> **9939**
+- Astral Whip: 9939 -> **9940**
+- Astral Staff: 9940 -> **9941**
+- Astral Helmet: 9941 -> **9942**
+- Astral Chestplate: 9942 -> **9943**
+- Astral Gauntlets: 9943 -> **9944**
+- Astral Leggings: 9944 -> **9945**
+- Astral Boots: 9945 -> **9946**
+- Wooden Key: 9946 -> **9947**
+- Stone Key: 9947 -> **9948**
+- Iron Key: 9948 -> **9949**
+- Gold Key: 9949 -> **9950**
+- Diamond Key: 9950 -> **9951**
+- Cracked Rubellite Pickaxe: 9951 -> **9952**
+- Goldheart Engine: 9952 -> **9953**
+- Deepbite Drill Tip: 9953 -> **9954**
+- Empty Fuel Cell: 9954 -> **9955**
+- Blackfire Fuel Cell: 9955 -> **9956**
+- Doom Rivet: 9956 -> **9957**
+- Doom Crest: 9957 -> **9958**
+- Raw Copper: 9958 -> **9959**
+- Copper Bar: 9959 -> **9960**
+- Iron Grit: 9960 -> **9961**
+- Gold Grit: 9961 -> **9962**
+- Copper Grit: 9962 -> **9963**
+- Charcoal: 9963 -> **9964**
+- Recall Beacon: 9964 -> **9965**
+- Iron Hammer: 9965 -> **9966**
+- Iron Plate: 9966 -> **9967**
+- Copper Wire: 9967 -> **9968**
+- Motor: 9968 -> **9969**
+- Machine Parts: 9969 -> **9970**
+- Relay Coil: 9970 -> **9971**
+- Deposit Seed (Copper): 9971 -> **9972**
+- Deposit Seed (Gold): 9972 -> **9973**
+- Deposit Seed (Voltite): 9973 -> **9974**
+- Deposit Seed (Coal): 9974 -> **9975**
+- Deposit Seed (Iron): 9975 -> **9976**
+- Deposit Seed (Stone): 9976 -> **9977**
+- Steel Bar: 9977 -> **9978**
+- Gold Plate: 9978 -> **9979**
+- Logic Board: 9979 -> **9980**
+- Machine Hull: 9980 -> **9981**
+- Raw Voltite: 9981 -> **9982**
+- Power Coupler: 9982 -> **9983**
+- Ore Lens: 9983 -> **9984**
+- Homing Beacon: 9984 -> **9985**
+- Pull Charm: 9985 -> **9986**
+- Vein Breaker: 9986 -> **9987**
+- Voltite Dust: 9987 -> **9988**
+- Voltite Cell: 9988 -> **9989**
+- Sky Pack: 9989 -> **9990**
+- Dusk Moss: 9990 -> **9991**
+- Star Alloy: 9991 -> **9992**
+- Moonstone Dust: 9992 -> **9993**
+- Comet Shard: 9993 -> **9994**
+- Comet Core: 9994 -> **9995**
+- Starbore Drill: 9995 -> **9996**
+- Core Tier 2: 9996 -> **9997**
+- Core Tier 3: 9997 -> **9998**
+- Core Tier 4: 9998 -> **9999**
+- Core Tier 5: 9999 -> **10000**
+- Core Tier 6: 10000 -> **10001**
+- Core Tier 7: 10001 -> **10002**
+- Core Tier 8: 10002 -> **10003**
+- Core Tier 9: 10003 -> **10004**
+- Core Tier 10: 10004 -> **10005**
+- Arc Caster: 10005 -> **10006**
+- Voltplate Helmet: 10006 -> **10007**
+- Voltplate Chestplate: 10007 -> **10008**
+- Voltplate Gauntlets: 10008 -> **10009**
+- Voltplate Leggings: 10009 -> **10010**
+- Voltplate Boots: 10010 -> **10011**
+- Wood Blade: 10011 -> **10012**
+- Wood Guard: 10012 -> **10013**
+- Wood Handle: 10013 -> **10014**
+- Stone Blade: 10014 -> **10015**
+- Stone Guard: 10015 -> **10016**
+- Stone Handle: 10016 -> **10017**
+- Iron Blade: 10017 -> **10018**
+- Iron Guard: 10018 -> **10019**
+- Iron Handle: 10019 -> **10020**
+- Gold Blade: 10020 -> **10021**
+- Gold Guard: 10021 -> **10022**
+- Gold Handle: 10022 -> **10023**
+- Diamond Blade: 10023 -> **10024**
+- Diamond Guard: 10024 -> **10025**
+- Diamond Handle: 10025 -> **10026**
+- Moonstone Blade: 10026 -> **10027**
+- Moonstone Guard: 10027 -> **10028**
+- Moonstone Handle: 10028 -> **10029**
+- Magmasteel Blade: 10029 -> **10030**
+- Magmasteel Guard: 10030 -> **10031**
+- Magmasteel Handle: 10031 -> **10032**
+- Sanguine Blade: 10032 -> **10033**
+- Sanguine Guard: 10033 -> **10034**
+- Sanguine Handle: 10034 -> **10035**
+- Astral Blade: 10035 -> **10036**
+- Astral Guard: 10036 -> **10037**
+- Astral Handle: 10037 -> **10038**
+- Moonstone Sword: 10038 -> **10039**
+- Magmaward Fuel: 10039 -> **10040**
+- Raw Uranium: 10040 -> **10041**
+- Uranium Grit: 10041 -> **10042**
+- Uranium Pellet: 10042 -> **10043**
+- Plutonium Pellet: 10043 -> **10044**
+- Spent Pellet: 10044 -> **10045**
+- Glow Dust: 10045 -> **10046**
+- Biomass: 10046 -> **10047**
+- Graphite: 10047 -> **10048**
+- Containment Plate: 10048 -> **10049**
+- Heat Exchanger: 10049 -> **10050**
+- Focus Lens: 10050 -> **10051**
+- Nova Matter: 10051 -> **10052**
+- Deposit Seed (Uranium): 10052 -> **10053**
+- Reactor Blueprint: 10053 -> **10054**
+- Wrench: 10054 -> **10055**
+- Advanced Coupler: 10055 -> **10056**
+- Nova Coupler: 10056 -> **10057**
+- Core Tier 11: 10057 -> **10058**
+- Core Tier 12: 10058 -> **10059**
+- Core Tier 13: 10059 -> **10060**
+- Core Tier 14: 10060 -> **10061**
+- Core Tier 15: 10061 -> **10062**
+- Jet Chestplate: 10062 -> **10063**
+- Nova Jet Chestplate: 10063 -> **10064**
+- Nova Helmet: 10064 -> **10065**
+- Nova Chestplate: 10065 -> **10066**
+- Nova Gauntlets: 10066 -> **10067**
+- Nova Leggings: 10067 -> **10068**
+- Nova Boots: 10068 -> **10069**
+- Nova Blade: 10069 -> **10070**
+- Mob Cage: 10070 -> **10071**
+- Caged Pig: 10071 -> **10072**
+- Caged Cow: 10072 -> **10073**
+- Caged Sheep: 10073 -> **10074**
+- Caged Deer: 10074 -> **10075**
+- Caged Stag: 10075 -> **10076**
+- Nova Multitool: 10076 -> **10077**
+- Pocket Terminal: 10077 -> **10078**
+- Comet Beacon: 10078 -> **10079**
+- Nova Wrench: 10079 -> **10080**
+
+</details>
+
+---
+
 - Run at: 2026-11-12T20:24:23.855Z
 - Bundle: https://bloxd.io/static/js/j3ktyq.main.3c8c7aed.js
 - Entries: 9602 -> 10080
