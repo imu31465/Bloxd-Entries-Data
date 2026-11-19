@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "condenser_side_running0",
+        "condenser_side_running0~condenser_side_running1~50",
         "condenser_side_running1",
+        "condenser_side_running1~condenser_side_running2~50",
         "condenser_side_running2",
-        "condenser_side_running3"
+        "condenser_side_running2~condenser_side_running3~50",
+        "condenser_side_running3",
+        "condenser_side_running3~condenser_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "condenser_top[rot[1",
     "condenser_top[rot[2",
@@ -30,20 +34,28 @@
     {
       "animTextures": [
         "condenser_back_running0",
+        "condenser_back_running0~condenser_back_running1~50",
         "condenser_back_running1",
+        "condenser_back_running1~condenser_back_running2~50",
         "condenser_back_running2",
-        "condenser_back_running3"
+        "condenser_back_running2~condenser_back_running3~50",
+        "condenser_back_running3",
+        "condenser_back_running3~condenser_back_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     {
       "animTextures": [
         "condenser_side_flip_running0",
+        "condenser_side_flip_running0~condenser_side_flip_running1~50",
         "condenser_side_flip_running1",
+        "condenser_side_flip_running1~condenser_side_flip_running2~50",
         "condenser_side_flip_running2",
-        "condenser_side_flip_running3"
+        "condenser_side_flip_running2~condenser_side_flip_running3~50",
+        "condenser_side_flip_running3",
+        "condenser_side_flip_running3~condenser_side_flip_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [
@@ -69,13 +81,13 @@
     9
   ],
   "atlasIdx": [
-    1350,
+    1570,
     48,
-    1352,
-    1353,
-    1354,
-    1355,
-    1356,
+    1572,
+    1573,
+    1574,
+    1575,
+    1576,
     49,
     50
   ],

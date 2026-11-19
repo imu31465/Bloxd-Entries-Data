@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "mob_farm_side_running0",
+        "mob_farm_side_running0~mob_farm_side_running1~50",
         "mob_farm_side_running1",
+        "mob_farm_side_running1~mob_farm_side_running2~50",
         "mob_farm_side_running2",
-        "mob_farm_side_running3"
+        "mob_farm_side_running2~mob_farm_side_running3~50",
+        "mob_farm_side_running3",
+        "mob_farm_side_running3~mob_farm_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "mob_farm_top[rot[1",
     "mob_farm_top[rot[2",
@@ -52,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1375,
+    1595,
     57,
-    1377,
-    1378,
-    1379,
-    1380,
-    1156,
-    1381
+    1597,
+    1598,
+    1599,
+    1600,
+    1376,
+    1601
   ],
   "stackable": true,
   "showInCreativeInven": false

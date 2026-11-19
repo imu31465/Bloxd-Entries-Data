@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "electric_drill_side_running0",
+        "electric_drill_side_running0~electric_drill_side_running1~50",
         "electric_drill_side_running1",
+        "electric_drill_side_running1~electric_drill_side_running2~50",
         "electric_drill_side_running2",
-        "electric_drill_side_running3"
+        "electric_drill_side_running2~electric_drill_side_running3~50",
+        "electric_drill_side_running3",
+        "electric_drill_side_running3~electric_drill_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "electric_drill_top[rot[1",
     "electric_drill_top[rot[2",
@@ -52,14 +56,14 @@
     9
   ],
   "atlasIdx": [
-    1209,
+    1429,
     33,
-    1211,
-    1212,
-    1213,
-    1214,
-    1215,
-    1216
+    1431,
+    1432,
+    1433,
+    1434,
+    1435,
+    1436
   ],
   "stackable": true,
   "showInCreativeInven": false

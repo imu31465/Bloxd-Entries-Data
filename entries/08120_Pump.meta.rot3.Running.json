@@ -15,11 +15,15 @@
     {
       "animTextures": [
         "pump_side_running0",
+        "pump_side_running0~pump_side_running1~50",
         "pump_side_running1",
+        "pump_side_running1~pump_side_running2~50",
         "pump_side_running2",
-        "pump_side_running3"
+        "pump_side_running2~pump_side_running3~50",
+        "pump_side_running3",
+        "pump_side_running3~pump_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "pump_top",
     "pump_bottom"
@@ -49,8 +53,8 @@
   ],
   "atlasIdx": [
     47,
-    1348,
-    1349
+    1568,
+    1569
   ],
   "stackable": true,
   "showInCreativeInven": false

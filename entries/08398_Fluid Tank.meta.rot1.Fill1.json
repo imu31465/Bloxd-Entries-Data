@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "fluid_tank_fill1_0",
+        "fluid_tank_fill1_0~fluid_tank_fill1_1~50",
         "fluid_tank_fill1_1",
+        "fluid_tank_fill1_1~fluid_tank_fill1_2~50",
         "fluid_tank_fill1_2",
-        "fluid_tank_fill1_3"
+        "fluid_tank_fill1_2~fluid_tank_fill1_3~50",
+        "fluid_tank_fill1_3",
+        "fluid_tank_fill1_3~fluid_tank_fill1_0~50"
       ],
-      "animationInterval": 300
+      "animationInterval": 150
     },
     "fluid_tank"
   ],
@@ -49,7 +53,7 @@
   "atlasIdx": [
     70,
     70,
-    1382
+    1602
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -15,11 +15,15 @@
     {
       "animTextures": [
         "sky_spring0",
+        "sky_spring0~sky_spring1~50",
         "sky_spring1",
+        "sky_spring1~sky_spring2~50",
         "sky_spring2",
-        "sky_spring3"
+        "sky_spring2~sky_spring3~50",
+        "sky_spring3",
+        "sky_spring3~sky_spring0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "stone"
   ],
@@ -36,7 +40,7 @@
   "harvestLevel": 0,
   "atlasIdx": [
     46,
-    340
+    560
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "auto_bench_side_running0",
+        "auto_bench_side_running0~auto_bench_side_running1~50",
         "auto_bench_side_running1",
+        "auto_bench_side_running1~auto_bench_side_running2~50",
         "auto_bench_side_running2",
-        "auto_bench_side_running3"
+        "auto_bench_side_running2~auto_bench_side_running3~50",
+        "auto_bench_side_running3",
+        "auto_bench_side_running3~auto_bench_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "auto_bench_top[rot[1",
     "auto_bench_top[rot[2",
@@ -52,14 +56,14 @@
     9
   ],
   "atlasIdx": [
-    1217,
+    1437,
     34,
-    1219,
-    1220,
-    1221,
-    1222,
-    1156,
-    1223
+    1439,
+    1440,
+    1441,
+    1442,
+    1376,
+    1443
   ],
   "stackable": true,
   "showInCreativeInven": false

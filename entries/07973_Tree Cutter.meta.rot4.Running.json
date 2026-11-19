@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "tree_cutter_side_running0",
+        "tree_cutter_side_running0~tree_cutter_side_running1~50",
         "tree_cutter_side_running1",
+        "tree_cutter_side_running1~tree_cutter_side_running2~50",
         "tree_cutter_side_running2",
-        "tree_cutter_side_running3"
+        "tree_cutter_side_running2~tree_cutter_side_running3~50",
+        "tree_cutter_side_running3",
+        "tree_cutter_side_running3~tree_cutter_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "tree_cutter_top[rot[1",
     "tree_cutter_top[rot[2",
@@ -30,11 +34,15 @@
     {
       "animTextures": [
         "tree_cutter_back_running0",
+        "tree_cutter_back_running0~tree_cutter_back_running1~50",
         "tree_cutter_back_running1",
+        "tree_cutter_back_running1~tree_cutter_back_running2~50",
         "tree_cutter_back_running2",
-        "tree_cutter_back_running3"
+        "tree_cutter_back_running2~tree_cutter_back_running3~50",
+        "tree_cutter_back_running3",
+        "tree_cutter_back_running3~tree_cutter_back_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [
@@ -60,13 +68,13 @@
     3
   ],
   "atlasIdx": [
-    1240,
+    1460,
     35,
-    1242,
-    1243,
-    1244,
-    1245,
-    1156,
+    1462,
+    1463,
+    1464,
+    1465,
+    1376,
     36
   ],
   "stackable": true,

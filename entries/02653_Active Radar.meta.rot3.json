@@ -13,38 +13,54 @@
     {
       "animTextures": [
         "radar_screen0[rot[1",
+        "radar_screen0~radar_screen1~50[rot[1",
         "radar_screen1[rot[1",
+        "radar_screen1~radar_screen2~50[rot[1",
         "radar_screen2[rot[1",
-        "radar_screen3[rot[1"
+        "radar_screen2~radar_screen3~50[rot[1",
+        "radar_screen3[rot[1",
+        "radar_screen3~radar_screen0~50[rot[1"
       ],
-      "animationInterval": 200
+      "animationInterval": 100
     },
     {
       "animTextures": [
         "radar_screen0[rot[2",
+        "radar_screen0~radar_screen1~50[rot[2",
         "radar_screen1[rot[2",
+        "radar_screen1~radar_screen2~50[rot[2",
         "radar_screen2[rot[2",
-        "radar_screen3[rot[2"
+        "radar_screen2~radar_screen3~50[rot[2",
+        "radar_screen3[rot[2",
+        "radar_screen3~radar_screen0~50[rot[2"
       ],
-      "animationInterval": 200
+      "animationInterval": 100
     },
     {
       "animTextures": [
         "radar_screen0[rot[3",
+        "radar_screen0~radar_screen1~50[rot[3",
         "radar_screen1[rot[3",
+        "radar_screen1~radar_screen2~50[rot[3",
         "radar_screen2[rot[3",
-        "radar_screen3[rot[3"
+        "radar_screen2~radar_screen3~50[rot[3",
+        "radar_screen3[rot[3",
+        "radar_screen3~radar_screen0~50[rot[3"
       ],
-      "animationInterval": 200
+      "animationInterval": 100
     },
     {
       "animTextures": [
         "radar_screen0[rot[4",
+        "radar_screen0~radar_screen1~50[rot[4",
         "radar_screen1[rot[4",
+        "radar_screen1~radar_screen2~50[rot[4",
         "radar_screen2[rot[4",
-        "radar_screen3[rot[4"
+        "radar_screen2~radar_screen3~50[rot[4",
+        "radar_screen3[rot[4",
+        "radar_screen3~radar_screen0~50[rot[4"
       ],
-      "animationInterval": 200
+      "animationInterval": 100
     }
   ],
   "texturePerSide": [
@@ -65,8 +81,8 @@
     "rot": 3
   },
   "atlasIdx": [
-    1043,
-    1045,
+    1263,
+    1265,
     18,
     19,
     20,

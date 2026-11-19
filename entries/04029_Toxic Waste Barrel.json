@@ -13,11 +13,15 @@
     {
       "animTextures": [
         "toxic_waste_barrel_top0",
+        "toxic_waste_barrel_top0~toxic_waste_barrel_top1~50",
         "toxic_waste_barrel_top1",
+        "toxic_waste_barrel_top1~toxic_waste_barrel_top2~50",
         "toxic_waste_barrel_top2",
-        "toxic_waste_barrel_top3"
+        "toxic_waste_barrel_top2~toxic_waste_barrel_top3~50",
+        "toxic_waste_barrel_top3",
+        "toxic_waste_barrel_top3~toxic_waste_barrel_top0~50"
       ],
-      "animationInterval": 300
+      "animationInterval": 150
     }
   ],
   "texturePerSide": [
@@ -31,8 +35,8 @@
   "harvestType": "rock",
   "harvestLevel": 5,
   "atlasIdx": [
-    1136,
-    1137,
+    1356,
+    1357,
     23
   ],
   "stackable": true

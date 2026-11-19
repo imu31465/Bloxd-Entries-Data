@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "burner_drill_side_running0",
+        "burner_drill_side_running0~burner_drill_side_running1~50",
         "burner_drill_side_running1",
+        "burner_drill_side_running1~burner_drill_side_running2~50",
         "burner_drill_side_running2",
-        "burner_drill_side_running3"
+        "burner_drill_side_running2~burner_drill_side_running3~50",
+        "burner_drill_side_running3",
+        "burner_drill_side_running3~burner_drill_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "burner_drill_top[rot[1",
     "burner_drill_top[rot[2",
@@ -52,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1158,
+    1378,
     26,
-    1160,
-    1161,
-    1162,
-    1163,
-    1164,
-    1165
+    1380,
+    1381,
+    1382,
+    1383,
+    1384,
+    1385
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "synthesizer_side_running0",
+        "synthesizer_side_running0~synthesizer_side_running1~50",
         "synthesizer_side_running1",
+        "synthesizer_side_running1~synthesizer_side_running2~50",
         "synthesizer_side_running2",
-        "synthesizer_side_running3"
+        "synthesizer_side_running2~synthesizer_side_running3~50",
+        "synthesizer_side_running3",
+        "synthesizer_side_running3~synthesizer_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "synthesizer_top[rot[1",
     "synthesizer_top[rot[2",
@@ -30,20 +34,28 @@
     {
       "animTextures": [
         "synthesizer_back_running0",
+        "synthesizer_back_running0~synthesizer_back_running1~50",
         "synthesizer_back_running1",
+        "synthesizer_back_running1~synthesizer_back_running2~50",
         "synthesizer_back_running2",
-        "synthesizer_back_running3"
+        "synthesizer_back_running2~synthesizer_back_running3~50",
+        "synthesizer_back_running3",
+        "synthesizer_back_running3~synthesizer_back_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     {
       "animTextures": [
         "synthesizer_side_flip_running0",
+        "synthesizer_side_flip_running0~synthesizer_side_flip_running1~50",
         "synthesizer_side_flip_running1",
+        "synthesizer_side_flip_running1~synthesizer_side_flip_running2~50",
         "synthesizer_side_flip_running2",
-        "synthesizer_side_flip_running3"
+        "synthesizer_side_flip_running2~synthesizer_side_flip_running3~50",
+        "synthesizer_side_flip_running3",
+        "synthesizer_side_flip_running3~synthesizer_side_flip_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [
@@ -69,13 +81,13 @@
     3
   ],
   "atlasIdx": [
-    1350,
+    1570,
     54,
-    1368,
-    1369,
-    1370,
-    1371,
-    1372,
+    1588,
+    1589,
+    1590,
+    1591,
+    1592,
     55,
     56
   ],

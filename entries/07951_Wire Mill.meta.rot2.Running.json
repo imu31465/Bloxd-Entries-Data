@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "wire_mill_side_running0",
+        "wire_mill_side_running0~wire_mill_side_running1~50",
         "wire_mill_side_running1",
+        "wire_mill_side_running1~wire_mill_side_running2~50",
         "wire_mill_side_running2",
-        "wire_mill_side_running3"
+        "wire_mill_side_running2~wire_mill_side_running3~50",
+        "wire_mill_side_running3",
+        "wire_mill_side_running3~wire_mill_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "wire_mill_top[rot[1",
     "wire_mill_top[rot[2",
@@ -52,14 +56,14 @@
     9
   ],
   "atlasIdx": [
-    1189,
+    1409,
     31,
-    1191,
-    1192,
-    1193,
-    1194,
-    1156,
-    1195
+    1411,
+    1412,
+    1413,
+    1414,
+    1376,
+    1415
   ],
   "stackable": true,
   "showInCreativeInven": false

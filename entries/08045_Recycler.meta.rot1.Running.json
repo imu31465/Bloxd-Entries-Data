@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "recycler_side_running0",
+        "recycler_side_running0~recycler_side_running1~50",
         "recycler_side_running1",
+        "recycler_side_running1~recycler_side_running2~50",
         "recycler_side_running2",
-        "recycler_side_running3"
+        "recycler_side_running2~recycler_side_running3~50",
+        "recycler_side_running3",
+        "recycler_side_running3~recycler_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "recycler_top[rot[1",
     "recycler_top[rot[2",
@@ -52,14 +56,14 @@
     4
   ],
   "atlasIdx": [
-    1292,
+    1512,
     42,
-    1294,
-    1295,
-    1296,
-    1297,
-    1156,
-    1298
+    1514,
+    1515,
+    1516,
+    1517,
+    1376,
+    1518
   ],
   "stackable": true,
   "showInCreativeInven": false

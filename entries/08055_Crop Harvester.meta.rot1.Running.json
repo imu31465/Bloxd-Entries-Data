@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "crop_harvester_side_running0",
+        "crop_harvester_side_running0~crop_harvester_side_running1~50",
         "crop_harvester_side_running1",
+        "crop_harvester_side_running1~crop_harvester_side_running2~50",
         "crop_harvester_side_running2",
-        "crop_harvester_side_running3"
+        "crop_harvester_side_running2~crop_harvester_side_running3~50",
+        "crop_harvester_side_running3",
+        "crop_harvester_side_running3~crop_harvester_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "crop_harvester_top[rot[1",
     "crop_harvester_top[rot[2",
@@ -30,11 +34,15 @@
     {
       "animTextures": [
         "crop_harvester_back_running0",
+        "crop_harvester_back_running0~crop_harvester_back_running1~50",
         "crop_harvester_back_running1",
+        "crop_harvester_back_running1~crop_harvester_back_running2~50",
         "crop_harvester_back_running2",
-        "crop_harvester_back_running3"
+        "crop_harvester_back_running2~crop_harvester_back_running3~50",
+        "crop_harvester_back_running3",
+        "crop_harvester_back_running3~crop_harvester_back_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [
@@ -60,13 +68,13 @@
     9
   ],
   "atlasIdx": [
-    1303,
+    1523,
     43,
-    1305,
-    1306,
-    1307,
-    1308,
-    1156,
+    1525,
+    1526,
+    1527,
+    1528,
+    1376,
     44
   ],
   "stackable": true,

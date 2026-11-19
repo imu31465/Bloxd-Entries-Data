@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "alloy_kiln_side_running0",
+        "alloy_kiln_side_running0~alloy_kiln_side_running1~50",
         "alloy_kiln_side_running1",
+        "alloy_kiln_side_running1~alloy_kiln_side_running2~50",
         "alloy_kiln_side_running2",
-        "alloy_kiln_side_running3"
+        "alloy_kiln_side_running2~alloy_kiln_side_running3~50",
+        "alloy_kiln_side_running3",
+        "alloy_kiln_side_running3~alloy_kiln_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "alloy_kiln_top[rot[1",
     "alloy_kiln_top[rot[2",
@@ -52,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1202,
+    1422,
     32,
-    1204,
-    1205,
-    1206,
-    1207,
-    1156,
-    1208
+    1424,
+    1425,
+    1426,
+    1427,
+    1376,
+    1428
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "coolant_mixer_side_running0",
+        "coolant_mixer_side_running0~coolant_mixer_side_running1~50",
         "coolant_mixer_side_running1",
+        "coolant_mixer_side_running1~coolant_mixer_side_running2~50",
         "coolant_mixer_side_running2",
-        "coolant_mixer_side_running3"
+        "coolant_mixer_side_running2~coolant_mixer_side_running3~50",
+        "coolant_mixer_side_running3",
+        "coolant_mixer_side_running3~coolant_mixer_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "coolant_mixer_top[rot[1",
     "coolant_mixer_top[rot[2",
@@ -30,20 +34,28 @@
     {
       "animTextures": [
         "coolant_mixer_back_running0",
+        "coolant_mixer_back_running0~coolant_mixer_back_running1~50",
         "coolant_mixer_back_running1",
+        "coolant_mixer_back_running1~coolant_mixer_back_running2~50",
         "coolant_mixer_back_running2",
-        "coolant_mixer_back_running3"
+        "coolant_mixer_back_running2~coolant_mixer_back_running3~50",
+        "coolant_mixer_back_running3",
+        "coolant_mixer_back_running3~coolant_mixer_back_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     {
       "animTextures": [
         "coolant_mixer_side_flip_running0",
+        "coolant_mixer_side_flip_running0~coolant_mixer_side_flip_running1~50",
         "coolant_mixer_side_flip_running1",
+        "coolant_mixer_side_flip_running1~coolant_mixer_side_flip_running2~50",
         "coolant_mixer_side_flip_running2",
-        "coolant_mixer_side_flip_running3"
+        "coolant_mixer_side_flip_running2~coolant_mixer_side_flip_running3~50",
+        "coolant_mixer_side_flip_running3",
+        "coolant_mixer_side_flip_running3~coolant_mixer_side_flip_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [
@@ -69,13 +81,13 @@
     9
   ],
   "atlasIdx": [
-    1350,
+    1570,
     67,
-    1430,
-    1431,
-    1432,
-    1433,
-    1434,
+    1650,
+    1651,
+    1652,
+    1653,
+    1654,
     68,
     69
   ],

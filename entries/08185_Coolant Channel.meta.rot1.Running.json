@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "coolant_channel0",
+        "coolant_channel0~coolant_channel1~50",
         "coolant_channel1",
+        "coolant_channel1~coolant_channel2~50",
         "coolant_channel2",
-        "coolant_channel3"
+        "coolant_channel2~coolant_channel3~50",
+        "coolant_channel3",
+        "coolant_channel3~coolant_channel0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [

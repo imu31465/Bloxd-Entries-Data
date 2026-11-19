@@ -15,15 +15,23 @@
     ],
     "animTextures": [
       "lava0",
+      "lava0~lava1~50",
       "lava1",
+      "lava1~lava2~50",
       "lava2",
+      "lava2~lava3~50",
       "lava3",
+      "lava3~lava4~50",
       "lava4",
+      "lava4~lava5~50",
       "lava5",
+      "lava5~lava6~50",
       "lava6",
-      "lava7"
+      "lava6~lava7~50",
+      "lava7",
+      "lava7~lava0~50"
     ],
-    "animationInterval": 200
+    "animationInterval": 100
   },
   "harvestType": "rock",
   "drops": null,
@@ -41,7 +49,15 @@
     77,
     78,
     79,
-    80
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
   ],
   "stackable": true
 }

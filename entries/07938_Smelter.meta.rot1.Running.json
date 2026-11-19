@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "smelter_side_running0",
+        "smelter_side_running0~smelter_side_running1~50",
         "smelter_side_running1",
+        "smelter_side_running1~smelter_side_running2~50",
         "smelter_side_running2",
-        "smelter_side_running3"
+        "smelter_side_running2~smelter_side_running3~50",
+        "smelter_side_running3",
+        "smelter_side_running3~smelter_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "smelter_top[rot[1",
     "smelter_top[rot[2",
@@ -52,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1173,
+    1393,
     28,
-    1175,
-    1176,
-    1177,
-    1178,
-    1156,
-    1179
+    1395,
+    1396,
+    1397,
+    1398,
+    1376,
+    1399
   ],
   "stackable": true,
   "showInCreativeInven": false

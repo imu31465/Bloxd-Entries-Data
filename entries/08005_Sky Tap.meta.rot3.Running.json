@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "sky_tap_side_running0",
+        "sky_tap_side_running0~sky_tap_side_running1~50",
         "sky_tap_side_running1",
+        "sky_tap_side_running1~sky_tap_side_running2~50",
         "sky_tap_side_running2",
-        "sky_tap_side_running3"
+        "sky_tap_side_running2~sky_tap_side_running3~50",
+        "sky_tap_side_running3",
+        "sky_tap_side_running3~sky_tap_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "sky_tap_top[rot[1",
     "sky_tap_top[rot[2",
@@ -52,14 +56,14 @@
     8
   ],
   "atlasIdx": [
-    1265,
+    1485,
     40,
-    1267,
-    1268,
-    1269,
-    1270,
-    1271,
-    1272
+    1487,
+    1488,
+    1489,
+    1490,
+    1491,
+    1492
   ],
   "stackable": true,
   "showInCreativeInven": false

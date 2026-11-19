@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "fluid_tank_fill4_0",
+        "fluid_tank_fill4_0~fluid_tank_fill4_1~50",
         "fluid_tank_fill4_1",
+        "fluid_tank_fill4_1~fluid_tank_fill4_2~50",
         "fluid_tank_fill4_2",
-        "fluid_tank_fill4_3"
+        "fluid_tank_fill4_2~fluid_tank_fill4_3~50",
+        "fluid_tank_fill4_3",
+        "fluid_tank_fill4_3~fluid_tank_fill4_0~50"
       ],
-      "animationInterval": 300
+      "animationInterval": 150
     }
   ],
   "texturePerSide": [

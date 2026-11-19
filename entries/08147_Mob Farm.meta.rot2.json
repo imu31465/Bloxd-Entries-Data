@@ -39,14 +39,14 @@
   "harvestLevel": 0,
   "altActionable": true,
   "atlasIdx": [
-    1375,
+    1595,
+    1596,
+    1597,
+    1598,
+    1599,
+    1600,
     1376,
-    1377,
-    1378,
-    1379,
-    1380,
-    1156,
-    1381
+    1601
   ],
   "stackable": true,
   "showInCreativeInven": false

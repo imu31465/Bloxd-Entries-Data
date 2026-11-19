@@ -15,9 +15,11 @@
     {
       "animTextures": [
         "reactor_controller_green0",
-        "reactor_controller_green1"
+        "reactor_controller_green0~reactor_controller_green1~50",
+        "reactor_controller_green1",
+        "reactor_controller_green1~reactor_controller_green0~50"
       ],
-      "animationInterval": 1000
+      "animationInterval": 500
     }
   ],
   "texturePerSide": [

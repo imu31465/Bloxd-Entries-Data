@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "deep_drill_side_running0",
+        "deep_drill_side_running0~deep_drill_side_running1~50",
         "deep_drill_side_running1",
+        "deep_drill_side_running1~deep_drill_side_running2~50",
         "deep_drill_side_running2",
-        "deep_drill_side_running3"
+        "deep_drill_side_running2~deep_drill_side_running3~50",
+        "deep_drill_side_running3",
+        "deep_drill_side_running3~deep_drill_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "deep_drill_top[rot[1",
     "deep_drill_top[rot[2",
@@ -52,14 +56,14 @@
     2
   ],
   "atlasIdx": [
-    1250,
+    1470,
     38,
-    1252,
-    1253,
-    1254,
-    1255,
-    1256,
-    1257
+    1472,
+    1473,
+    1474,
+    1475,
+    1476,
+    1477
   ],
   "stackable": true,
   "showInCreativeInven": false

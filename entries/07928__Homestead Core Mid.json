@@ -15,11 +15,15 @@
     {
       "animTextures": [
         "homestead_core_mid0",
+        "homestead_core_mid0~homestead_core_mid1~50",
         "homestead_core_mid1",
+        "homestead_core_mid1~homestead_core_mid2~50",
         "homestead_core_mid2",
-        "homestead_core_mid3"
+        "homestead_core_mid2~homestead_core_mid3~50",
+        "homestead_core_mid3",
+        "homestead_core_mid3~homestead_core_mid0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [

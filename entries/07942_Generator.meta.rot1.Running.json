@@ -15,11 +15,15 @@
     {
       "animTextures": [
         "generator_side_running0",
+        "generator_side_running0~generator_side_running1~50",
         "generator_side_running1",
+        "generator_side_running1~generator_side_running2~50",
         "generator_side_running2",
-        "generator_side_running3"
+        "generator_side_running2~generator_side_running3~50",
+        "generator_side_running3",
+        "generator_side_running3~generator_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "generator_top",
     "machine_side"
@@ -48,8 +52,8 @@
   ],
   "atlasIdx": [
     29,
-    1181,
-    1156
+    1401,
+    1376
   ],
   "stackable": true,
   "showInCreativeInven": false

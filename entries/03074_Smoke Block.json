@@ -9,11 +9,15 @@
   "textureInfo": {
     "animTextures": [
       "smoke0",
+      "smoke0~smoke1~50",
       "smoke1",
+      "smoke1~smoke2~50",
       "smoke2",
-      "smoke3"
+      "smoke2~smoke3~50",
+      "smoke3",
+      "smoke3~smoke0~50"
     ],
-    "animationInterval": 250
+    "animationInterval": 125
   },
   "harvestType": "cuttable",
   "transTex": true,
@@ -21,9 +25,13 @@
   "solid": false,
   "atlasIdx": [
     22,
-    144,
-    145,
-    146
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174
   ],
   "stackable": true
 }

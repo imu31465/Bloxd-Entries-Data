@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "fuel_rod0",
+        "fuel_rod0~fuel_rod1~50",
         "fuel_rod1",
+        "fuel_rod1~fuel_rod2~50",
         "fuel_rod2",
-        "fuel_rod3"
+        "fuel_rod2~fuel_rod3~50",
+        "fuel_rod3",
+        "fuel_rod3~fuel_rod0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     }
   ],
   "texturePerSide": [

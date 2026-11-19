@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "shatter_mill_side_running0",
+        "shatter_mill_side_running0~shatter_mill_side_running1~50",
         "shatter_mill_side_running1",
+        "shatter_mill_side_running1~shatter_mill_side_running2~50",
         "shatter_mill_side_running2",
-        "shatter_mill_side_running3"
+        "shatter_mill_side_running2~shatter_mill_side_running3~50",
+        "shatter_mill_side_running3",
+        "shatter_mill_side_running3~shatter_mill_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "shatter_mill_top[rot[1",
     "shatter_mill_top[rot[2",
@@ -52,14 +56,14 @@
     2
   ],
   "atlasIdx": [
-    1258,
+    1478,
     39,
-    1260,
-    1261,
-    1262,
-    1263,
-    1156,
-    1264
+    1480,
+    1481,
+    1482,
+    1483,
+    1376,
+    1484
   ],
   "stackable": true,
   "showInCreativeInven": false

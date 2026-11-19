@@ -15,11 +15,15 @@
     {
       "animTextures": [
         "volt_engine_side_running0",
+        "volt_engine_side_running0~volt_engine_side_running1~50",
         "volt_engine_side_running1",
+        "volt_engine_side_running1~volt_engine_side_running2~50",
         "volt_engine_side_running2",
-        "volt_engine_side_running3"
+        "volt_engine_side_running2~volt_engine_side_running3~50",
+        "volt_engine_side_running3",
+        "volt_engine_side_running3~volt_engine_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "volt_engine_top",
     "machine_side"
@@ -48,8 +52,8 @@
   ],
   "atlasIdx": [
     37,
-    1249,
-    1156
+    1469,
+    1376
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -15,15 +15,23 @@
     ],
     "animTextures": [
       "toxic_waste0",
+      "toxic_waste0~toxic_waste1~50",
       "toxic_waste1",
+      "toxic_waste1~toxic_waste2~50",
       "toxic_waste2",
+      "toxic_waste2~toxic_waste3~50",
       "toxic_waste3",
+      "toxic_waste3~toxic_waste4~50",
       "toxic_waste4",
+      "toxic_waste4~toxic_waste5~50",
       "toxic_waste5",
+      "toxic_waste5~toxic_waste6~50",
       "toxic_waste6",
-      "toxic_waste7"
+      "toxic_waste6~toxic_waste7~50",
+      "toxic_waste7",
+      "toxic_waste7~toxic_waste0~50"
     ],
-    "animationInterval": 200
+    "animationInterval": 100
   },
   "harvestType": "rock",
   "drops": null,
@@ -35,13 +43,21 @@
   ],
   "atlasIdx": [
     24,
-    150,
-    151,
-    152,
-    153,
-    154,
-    155,
-    156
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196
   ],
   "stackable": true
 }

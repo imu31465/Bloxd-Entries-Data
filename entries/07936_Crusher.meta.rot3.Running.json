@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "crusher_side_running0",
+        "crusher_side_running0~crusher_side_running1~50",
         "crusher_side_running1",
+        "crusher_side_running1~crusher_side_running2~50",
         "crusher_side_running2",
-        "crusher_side_running3"
+        "crusher_side_running2~crusher_side_running3~50",
+        "crusher_side_running3",
+        "crusher_side_running3~crusher_side_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "crusher_top[rot[1",
     "crusher_top[rot[2",
@@ -52,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1166,
+    1386,
     27,
-    1168,
-    1169,
-    1170,
-    1171,
-    1156,
-    1172
+    1388,
+    1389,
+    1390,
+    1391,
+    1376,
+    1392
   ],
   "stackable": true,
   "showInCreativeInven": false

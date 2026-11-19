@@ -16,11 +16,15 @@
     {
       "animTextures": [
         "battery_cell_running0",
+        "battery_cell_running0~battery_cell_running1~50",
         "battery_cell_running1",
+        "battery_cell_running1~battery_cell_running2~50",
         "battery_cell_running2",
-        "battery_cell_running3"
+        "battery_cell_running2~battery_cell_running3~50",
+        "battery_cell_running3",
+        "battery_cell_running3~battery_cell_running0~50"
       ],
-      "animationInterval": 250
+      "animationInterval": 125
     },
     "battery_cell_top",
     "battery_cell_bottom"
@@ -47,10 +51,10 @@
     9
   ],
   "atlasIdx": [
-    1394,
+    1614,
     65,
-    1395,
-    1396
+    1615,
+    1616
   ],
   "stackable": true,
   "showInCreativeInven": false
