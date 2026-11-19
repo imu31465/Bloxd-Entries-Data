@@ -23,7 +23,7 @@
         "trading_terminal_front6",
         "trading_terminal_front7"
       ],
-      "animationInterval": 250,
+      "animationInterval": 400,
       "interpolateFrames": false
     },
     "trading_terminal_side",
@@ -49,8 +49,8 @@
   "altActionable": true,
   "atlasIdx": [
     45,
-    1558,
-    1559
+    1542,
+    1543
   ],
   "stackable": true
 }

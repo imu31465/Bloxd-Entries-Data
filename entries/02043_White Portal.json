@@ -13,7 +13,7 @@
       "white_portal2",
       "white_portal3"
     ],
-    "animationInterval": 300,
+    "animationInterval": 500,
     "interpolateFrames": false
   },
   "harvestType": "rock",

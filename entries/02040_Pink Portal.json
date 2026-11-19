@@ -13,7 +13,7 @@
       "pink_portal2",
       "pink_portal3"
     ],
-    "animationInterval": 300,
+    "animationInterval": 500,
     "interpolateFrames": false
   },
   "harvestType": "rock",

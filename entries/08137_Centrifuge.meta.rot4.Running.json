@@ -24,7 +24,7 @@
         "centrifuge_side_running3",
         "centrifuge_side_running3~centrifuge_side_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     },
     "centrifuge_top[rot[1",
     "centrifuge_top[rot[2",
@@ -55,7 +55,7 @@
         "centrifuge_side_flip_running3",
         "centrifuge_side_flip_running3~centrifuge_side_flip_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     }
   ],
   "texturePerSide": [
@@ -81,13 +81,13 @@
     2
   ],
   "atlasIdx": [
-    1570,
+    1554,
     51,
-    1580,
-    1581,
-    1582,
-    1583,
-    1584,
+    1564,
+    1565,
+    1566,
+    1567,
+    1568,
     52,
     53
   ],

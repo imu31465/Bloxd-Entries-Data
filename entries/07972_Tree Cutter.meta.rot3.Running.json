@@ -34,15 +34,12 @@
     {
       "animTextures": [
         "tree_cutter_back_running0",
-        "tree_cutter_back_running0~tree_cutter_back_running1~50",
         "tree_cutter_back_running1",
-        "tree_cutter_back_running1~tree_cutter_back_running2~50",
         "tree_cutter_back_running2",
-        "tree_cutter_back_running2~tree_cutter_back_running3~50",
-        "tree_cutter_back_running3",
-        "tree_cutter_back_running3~tree_cutter_back_running0~50"
+        "tree_cutter_back_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 325,
+      "interpolateFrames": false
     }
   ],
   "texturePerSide": [
@@ -68,13 +65,13 @@
     3
   ],
   "atlasIdx": [
-    1460,
+    1444,
     35,
-    1462,
-    1463,
-    1464,
-    1465,
-    1376,
+    1446,
+    1447,
+    1448,
+    1449,
+    1360,
     36
   ],
   "stackable": true,

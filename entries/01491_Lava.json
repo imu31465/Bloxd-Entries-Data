@@ -31,7 +31,7 @@
       "lava7",
       "lava7~lava0~50"
     ],
-    "animationInterval": 100
+    "animationInterval": 400
   },
   "harvestType": "rock",
   "drops": null,

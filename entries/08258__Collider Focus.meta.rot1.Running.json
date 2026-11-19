@@ -16,21 +16,37 @@
     {
       "animTextures": [
         "collider_side_running0",
+        "collider_side_running0~collider_side_running1~50",
         "collider_side_running1",
+        "collider_side_running1~collider_side_running2~50",
         "collider_side_running2",
+        "collider_side_running2~collider_side_running3~50",
         "collider_side_running3",
+        "collider_side_running3~collider_side_running4~50",
         "collider_side_running4",
+        "collider_side_running4~collider_side_running5~50",
         "collider_side_running5",
+        "collider_side_running5~collider_side_running6~50",
         "collider_side_running6",
+        "collider_side_running6~collider_side_running7~50",
         "collider_side_running7",
+        "collider_side_running7~collider_side_running8~50",
         "collider_side_running8",
+        "collider_side_running8~collider_side_running9~50",
         "collider_side_running9",
+        "collider_side_running9~collider_side_running10~50",
         "collider_side_running10",
+        "collider_side_running10~collider_side_running11~50",
         "collider_side_running11",
+        "collider_side_running11~collider_side_running12~50",
         "collider_side_running12",
+        "collider_side_running12~collider_side_running13~50",
         "collider_side_running13",
+        "collider_side_running13~collider_side_running14~50",
         "collider_side_running14",
-        "collider_side_running15"
+        "collider_side_running14~collider_side_running15~50",
+        "collider_side_running15",
+        "collider_side_running15~collider_side_running0~50"
       ],
       "animationInterval": 100
     },
@@ -61,10 +77,10 @@
     8
   ],
   "atlasIdx": [
-    1617,
+    1601,
     66,
-    1618,
-    1622
+    1602,
+    1606
   ],
   "stackable": true,
   "showInCreativeInven": false

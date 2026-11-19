@@ -33,6 +33,5 @@
     "yOffset": -0.5
   },
   "stackable": true,
-  "blockModel": "Blue Directional Arrow",
-  "blockModelItem": true
+  "blockModel": "Blue Directional Arrow"
 }

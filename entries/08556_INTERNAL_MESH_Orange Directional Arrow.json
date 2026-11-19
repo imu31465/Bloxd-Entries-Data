@@ -1,0 +1,26 @@
+{
+  "id": 8556,
+  "name": "INTERNAL_MESH_Orange Directional Arrow",
+  "kind": "block",
+  "ttb": 400,
+  "harvestType": "cuttable",
+  "model": "rotatable",
+  "drops": null,
+  "solid": false,
+  "ib": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ],
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "blockModel": "Orange Directional Arrow",
+  "blockModelItem": true,
+  "twoDBlockItem": true
+}

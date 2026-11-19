@@ -16,15 +16,12 @@
     {
       "animTextures": [
         "press_side_running0",
-        "press_side_running0~press_side_running1~50",
         "press_side_running1",
-        "press_side_running1~press_side_running2~50",
         "press_side_running2",
-        "press_side_running2~press_side_running3~50",
-        "press_side_running3",
-        "press_side_running3~press_side_running0~50"
+        "press_side_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 400,
+      "interpolateFrames": false
     },
     "press_top[rot[1",
     "press_top[rot[2",
@@ -56,14 +53,14 @@
     9
   ],
   "atlasIdx": [
-    1402,
+    1386,
     30,
-    1404,
-    1405,
-    1406,
-    1407,
-    1376,
-    1408
+    1388,
+    1389,
+    1390,
+    1391,
+    1360,
+    1392
   ],
   "stackable": true,
   "showInCreativeInven": false

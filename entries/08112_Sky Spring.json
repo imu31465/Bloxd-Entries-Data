@@ -23,7 +23,7 @@
         "sky_spring3",
         "sky_spring3~sky_spring0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 400
     },
     "stone"
   ],
@@ -40,7 +40,7 @@
   "harvestLevel": 0,
   "atlasIdx": [
     46,
-    560
+    544
   ],
   "stackable": true,
   "showInCreativeInven": false

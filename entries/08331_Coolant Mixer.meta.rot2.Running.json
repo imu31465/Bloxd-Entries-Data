@@ -24,7 +24,7 @@
         "coolant_mixer_side_running3",
         "coolant_mixer_side_running3~coolant_mixer_side_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     },
     "coolant_mixer_top[rot[1",
     "coolant_mixer_top[rot[2",
@@ -55,7 +55,7 @@
         "coolant_mixer_side_flip_running3",
         "coolant_mixer_side_flip_running3~coolant_mixer_side_flip_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     }
   ],
   "texturePerSide": [
@@ -81,13 +81,13 @@
     9
   ],
   "atlasIdx": [
-    1570,
+    1554,
     67,
-    1650,
-    1651,
-    1652,
-    1653,
-    1654,
+    1634,
+    1635,
+    1636,
+    1637,
+    1638,
     68,
     69
   ],

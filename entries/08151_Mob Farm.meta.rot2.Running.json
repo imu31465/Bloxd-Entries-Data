@@ -24,7 +24,7 @@
         "mob_farm_side_running3",
         "mob_farm_side_running3~mob_farm_side_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     },
     "mob_farm_top[rot[1",
     "mob_farm_top[rot[2",
@@ -56,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1595,
+    1579,
     57,
-    1597,
-    1598,
-    1599,
-    1600,
-    1376,
-    1601
+    1581,
+    1582,
+    1583,
+    1584,
+    1360,
+    1585
   ],
   "stackable": true,
   "showInCreativeInven": false

@@ -13,7 +13,7 @@
       "green_portal2",
       "green_portal3"
     ],
-    "animationInterval": 300,
+    "animationInterval": 500,
     "interpolateFrames": false
   },
   "harvestType": "rock",

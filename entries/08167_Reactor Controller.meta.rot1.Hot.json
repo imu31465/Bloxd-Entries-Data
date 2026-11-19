@@ -19,7 +19,7 @@
         "reactor_controller_orange1",
         "reactor_controller_orange1~reactor_controller_orange0~50"
       ],
-      "animationInterval": 200
+      "animationInterval": 400
     }
   ],
   "texturePerSide": [

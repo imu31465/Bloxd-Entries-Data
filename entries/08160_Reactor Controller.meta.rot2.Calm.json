@@ -19,7 +19,7 @@
         "reactor_controller_green1",
         "reactor_controller_green1~reactor_controller_green0~50"
       ],
-      "animationInterval": 500
+      "animationInterval": 400
     }
   ],
   "texturePerSide": [

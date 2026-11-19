@@ -24,7 +24,7 @@
         "battery_cell_running3",
         "battery_cell_running3~battery_cell_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 200
     },
     "battery_cell_top",
     "battery_cell_bottom"
@@ -51,10 +51,10 @@
     9
   ],
   "atlasIdx": [
-    1614,
+    1598,
     65,
-    1615,
-    1616
+    1599,
+    1600
   ],
   "stackable": true,
   "showInCreativeInven": false

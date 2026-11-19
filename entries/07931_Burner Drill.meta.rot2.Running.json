@@ -24,7 +24,7 @@
         "burner_drill_side_running3",
         "burner_drill_side_running3~burner_drill_side_running0~50"
       ],
-      "animationInterval": 125
+      "animationInterval": 100
     },
     "burner_drill_top[rot[1",
     "burner_drill_top[rot[2",
@@ -56,14 +56,14 @@
     3
   ],
   "atlasIdx": [
-    1378,
+    1362,
     26,
-    1380,
-    1381,
-    1382,
-    1383,
-    1384,
-    1385
+    1364,
+    1365,
+    1366,
+    1367,
+    1368,
+    1369
   ],
   "stackable": true,
   "showInCreativeInven": false

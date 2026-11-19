@@ -17,7 +17,7 @@
       "smoke3",
       "smoke3~smoke0~50"
     ],
-    "animationInterval": 125
+    "animationInterval": 200
   },
   "harvestType": "cuttable",
   "transTex": true,

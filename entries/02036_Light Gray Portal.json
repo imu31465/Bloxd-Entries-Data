@@ -13,7 +13,7 @@
       "lightgray_portal2",
       "lightgray_portal3"
     ],
-    "animationInterval": 300,
+    "animationInterval": 500,
     "interpolateFrames": false
   },
   "harvestType": "rock",

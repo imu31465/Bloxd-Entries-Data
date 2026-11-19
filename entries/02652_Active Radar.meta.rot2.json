@@ -21,7 +21,7 @@
         "radar_screen3[rot[1",
         "radar_screen3~radar_screen0~50[rot[1"
       ],
-      "animationInterval": 100
+      "animationInterval": 137.5
     },
     {
       "animTextures": [
@@ -34,7 +34,7 @@
         "radar_screen3[rot[2",
         "radar_screen3~radar_screen0~50[rot[2"
       ],
-      "animationInterval": 100
+      "animationInterval": 137.5
     },
     {
       "animTextures": [
@@ -47,7 +47,7 @@
         "radar_screen3[rot[3",
         "radar_screen3~radar_screen0~50[rot[3"
       ],
-      "animationInterval": 100
+      "animationInterval": 137.5
     },
     {
       "animTextures": [
@@ -60,7 +60,7 @@
         "radar_screen3[rot[4",
         "radar_screen3~radar_screen0~50[rot[4"
       ],
-      "animationInterval": 100
+      "animationInterval": 137.5
     }
   ],
   "texturePerSide": [
@@ -81,8 +81,8 @@
     "rot": 2
   },
   "atlasIdx": [
-    1263,
-    1265,
+    1247,
+    1249,
     18,
     19,
     20,

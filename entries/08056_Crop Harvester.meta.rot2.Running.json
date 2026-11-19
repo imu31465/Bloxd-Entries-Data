@@ -16,15 +16,12 @@
     {
       "animTextures": [
         "crop_harvester_side_running0",
-        "crop_harvester_side_running0~crop_harvester_side_running1~50",
         "crop_harvester_side_running1",
-        "crop_harvester_side_running1~crop_harvester_side_running2~50",
         "crop_harvester_side_running2",
-        "crop_harvester_side_running2~crop_harvester_side_running3~50",
-        "crop_harvester_side_running3",
-        "crop_harvester_side_running3~crop_harvester_side_running0~50"
+        "crop_harvester_side_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 400,
+      "interpolateFrames": false
     },
     "crop_harvester_top[rot[1",
     "crop_harvester_top[rot[2",
@@ -34,15 +31,12 @@
     {
       "animTextures": [
         "crop_harvester_back_running0",
-        "crop_harvester_back_running0~crop_harvester_back_running1~50",
         "crop_harvester_back_running1",
-        "crop_harvester_back_running1~crop_harvester_back_running2~50",
         "crop_harvester_back_running2",
-        "crop_harvester_back_running2~crop_harvester_back_running3~50",
-        "crop_harvester_back_running3",
-        "crop_harvester_back_running3~crop_harvester_back_running0~50"
+        "crop_harvester_back_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 400,
+      "interpolateFrames": false
     }
   ],
   "texturePerSide": [
@@ -68,13 +62,13 @@
     9
   ],
   "atlasIdx": [
-    1523,
+    1507,
     43,
-    1525,
-    1526,
-    1527,
-    1528,
-    1376,
+    1509,
+    1510,
+    1511,
+    1512,
+    1360,
     44
   ],
   "stackable": true,

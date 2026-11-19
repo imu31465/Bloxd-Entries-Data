@@ -16,15 +16,12 @@
     {
       "animTextures": [
         "synthesizer_side_running0",
-        "synthesizer_side_running0~synthesizer_side_running1~50",
         "synthesizer_side_running1",
-        "synthesizer_side_running1~synthesizer_side_running2~50",
         "synthesizer_side_running2",
-        "synthesizer_side_running2~synthesizer_side_running3~50",
-        "synthesizer_side_running3",
-        "synthesizer_side_running3~synthesizer_side_running0~50"
+        "synthesizer_side_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 400,
+      "interpolateFrames": false
     },
     "synthesizer_top[rot[1",
     "synthesizer_top[rot[2",
@@ -47,15 +44,12 @@
     {
       "animTextures": [
         "synthesizer_side_flip_running0",
-        "synthesizer_side_flip_running0~synthesizer_side_flip_running1~50",
         "synthesizer_side_flip_running1",
-        "synthesizer_side_flip_running1~synthesizer_side_flip_running2~50",
         "synthesizer_side_flip_running2",
-        "synthesizer_side_flip_running2~synthesizer_side_flip_running3~50",
-        "synthesizer_side_flip_running3",
-        "synthesizer_side_flip_running3~synthesizer_side_flip_running0~50"
+        "synthesizer_side_flip_running3"
       ],
-      "animationInterval": 125
+      "animationInterval": 400,
+      "interpolateFrames": false
     }
   ],
   "texturePerSide": [
@@ -81,13 +75,13 @@
     3
   ],
   "atlasIdx": [
-    1570,
+    1554,
     54,
-    1588,
-    1589,
-    1590,
-    1591,
-    1592,
+    1572,
+    1573,
+    1574,
+    1575,
+    1576,
     55,
     56
   ],
