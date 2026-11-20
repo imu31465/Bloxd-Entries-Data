@@ -1,8 +1,8 @@
 {
   "lastBundle": {
-    "file": "/static/js/wd13r.main.380b944a.js",
-    "url": "https://bloxd.io/static/js/wd13r.main.380b944a.js",
-    "sha256": "3148947acce7362143a2917daf6762c64632effc0097c3f1dcf8b092ee91f1a4"
+    "file": "/static/js/eulrrq.main.b9619568.js",
+    "url": "https://bloxd.io/static/js/eulrrq.main.b9619568.js",
+    "sha256": "820e4c02865d84f67dc1a2e43023dc4f3510c5422524a443b59dbfdef16cda74"
   },
   "lastDiff": {
     "firstRun": false,
@@ -13,5 +13,5 @@
     "idChanged": 0,
     "entryFilesChanged": 0
   },
-  "lastRunAt": "2026-11-19T17:59:14.566Z"
+  "lastRunAt": "2026-11-20T04:36:31.063Z"
 }
