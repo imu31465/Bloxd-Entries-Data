@@ -10,6 +10,7 @@
   "textureInfo": "chiseled_sandstone",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Engraved Sandstone Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Sandstone Stairs",
     "rootId": 3565,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Engraved Sandstone Stairs|meta|rot1|bot",
-  "atlasIdx": 652,
-  "stackable": true
+  "atlasIdx": 652
 }

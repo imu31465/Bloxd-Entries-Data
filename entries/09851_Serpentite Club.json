@@ -13,12 +13,12 @@
   "textureInfo": "serpentite_club",
   "weight": 1,
   "heldItemScale": 1.1,
-  "heldItemGlb": "serpentite_club",
-  "stackable": false,
   "damage": 40,
   "knockbackHorizontalScalar": 2.5,
   "knockbackVerticalScalar": 1.2,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "serpentite_club"
 }

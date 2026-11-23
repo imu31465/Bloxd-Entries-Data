@@ -8,10 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_cherry",
+  "itemTexture": "cherry_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "cherry_fence",
-  "drops": null,
   "ib": [
     0.375,
     0,
@@ -26,12 +25,13 @@
     0.5,
     1
   ],
+  "canBePlacedOver": true,
+  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "_Cherry Fence Top",
     "rootId": 7410,
     "metaStr": "meta|s"
   },
-  "atlasIdx": 904,
-  "stackable": true,
-  "canBePlacedOver": true
+  "atlasIdx": 904
 }

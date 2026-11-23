@@ -16,6 +16,9 @@
     "chest_top[rot[4",
     "chest_back"
   ],
+  "harvestType": "wood",
+  "rootMetaDesc": "Loot Chest|meta|rot1",
+  "drops": "Chest",
   "texturePerSide": [
     1,
     1,
@@ -24,15 +27,13 @@
     0,
     6
   ],
-  "harvestType": "wood",
-  "drops": "Chest",
+  "stackable": true,
   "meta": {
     "rootName": "Loot Chest",
     "rootId": 1291,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Loot Chest|meta|rot1",
   "atlasIdx": [
     663,
     664,
@@ -41,6 +42,5 @@
     667,
     668,
     669
-  ],
-  "stackable": true
+  ]
 }

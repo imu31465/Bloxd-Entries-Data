@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "stone_granite_smooth",
   "harvestType": "rock",
-  "atlasIdx": 551,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 551
 }

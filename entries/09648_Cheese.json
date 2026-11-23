@@ -15,15 +15,15 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "eat1",
-  "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Cheese|meta|charging1",
   "meta": {
     "rootName": "Cheese",
     "rootId": 9648,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Cheese|meta|charging1"
+  }
 }

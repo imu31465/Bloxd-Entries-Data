@@ -11,21 +11,21 @@
     "text": "Eat to restore health"
   },
   "type": "Chargeable",
-  "textureInfo": "bowl_of_cranberries_3",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "eatable": true,
   "chargeSound": "eat1",
-  "afterEatenItem": "Half Full Bowl of Cranberries",
-  "eatHealAmt": 10,
   "chargeStages": 1,
   "chargeTime": 300,
+  "stackable": false,
+  "eatHealAmt": 10,
+  "textureInfo": "bowl_of_cranberries_3",
+  "afterEatenItem": "Half Full Bowl of Cranberries",
+  "rootMetaDesc": "Nearly Full Bowl of Cranberries|meta|charging1",
   "meta": {
     "rootName": "Nearly Full Bowl of Cranberries",
     "rootId": 8716,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Nearly Full Bowl of Cranberries|meta|charging1"
+  }
 }

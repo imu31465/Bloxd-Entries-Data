@@ -2,7 +2,6 @@
   "id": 1307,
   "name": "Green Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": [
     "explosive_paint_green_side",
     "explosive_paint_green_top"
@@ -16,9 +15,10 @@
     0
   ],
   "harvestType": "cuttable",
+  "ttb": 50,
+  "stackable": true,
   "atlasIdx": [
     936,
     937
-  ],
-  "stackable": true
+  ]
 }

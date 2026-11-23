@@ -7,9 +7,19 @@
     "text": "Purple Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "purple_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Purple Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Purple Bed",
+    "rootId": 416,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -17,15 +27,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Purple Bed",
-    "rootId": 416,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Purple Bed"
+  ]
 }

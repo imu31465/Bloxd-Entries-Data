@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Andesite",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Andesite Slab",
     "rootId": 757,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     815,
     548
-  ],
-  "stackable": true,
-  "slabFullBlock": "Andesite"
+  ]
 }

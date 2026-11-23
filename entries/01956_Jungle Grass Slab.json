@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "granule",
   "model": "Slab",
+  "harvestType": "granule",
+  "slabFullBlock": "Jungle Grass Block",
+  "rootMetaDesc": "Jungle Grass Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Grass Slab",
     "rootId": 1956,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Jungle Grass Slab|meta|rot1|bot",
   "atlasIdx": [
     1210,
     1209
-  ],
-  "stackable": true,
-  "slabFullBlock": "Jungle Grass Block"
+  ]
 }

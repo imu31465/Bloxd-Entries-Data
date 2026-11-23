@@ -7,11 +7,11 @@
     "text": "Cauliflower"
   },
   "ttb": 400,
-  "textureInfo": "cauliflower_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "cauliflower_plant_stage1",
-  "drops": null,
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "textureInfo": "cauliflower_plant_stage1",
+  "itemTexture": "cauliflower_plant_stage1",
   "stackable": true
 }

@@ -15,16 +15,16 @@
   "weight": 1.5,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "eat1",
-  "eatHealAmt": 30,
-  "chargeStages": 1,
   "chargeTime": 750,
+  "eatHealAmt": 30,
+  "rootMetaDesc": "Mudbelly Tilapia|meta|charging1",
   "meta": {
     "rootName": "Mudbelly Tilapia",
     "rootId": 9536,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Mudbelly Tilapia|meta|charging1"
+  }
 }

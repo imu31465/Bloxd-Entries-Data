@@ -11,10 +11,20 @@
     "text": "Climb me without needing a wall!"
   },
   "ttb": 225,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "dangling_rope",
+  "model": "CustomModel",
+  "harvestType": "cuttable",
   "solid": false,
+  "blockModel": "Dangling Rope",
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375,
+    "backFaceCulling": true
+  },
+  "climbableInside": {
+    "upForceScalar": 0.95
+  },
+  "stackable": true,
   "ib": [
     0.375,
     0,
@@ -22,15 +32,5 @@
     0.625,
     1,
     0.625
-  ],
-  "modelScale": 10,
-  "climbableInside": {
-    "upForceScalar": 0.95
-  },
-  "customModelInfo": {
-    "yOffset": -0.4375,
-    "backFaceCulling": true
-  },
-  "stackable": true,
-  "blockModel": "Dangling Rope"
+  ]
 }

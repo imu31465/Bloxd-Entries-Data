@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Red Sandstone Bricks Stairs",
     "rootId": 3621,
@@ -31,6 +32,5 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 795,
-  "stackable": true
+  "atlasIdx": 795
 }

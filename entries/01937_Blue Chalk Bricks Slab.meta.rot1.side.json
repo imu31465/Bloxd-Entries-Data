@@ -16,7 +16,8 @@
       "colour": "$t(colour:blue)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Blue Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_blue",
     "chalk_bricks_blue"
@@ -29,8 +30,8 @@
     0,
     0
   ],
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0,
     0,
@@ -39,6 +40,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Blue Chalk Bricks Slab",
     "rootId": 1935,
@@ -49,7 +51,5 @@
   "atlasIdx": [
     1206,
     1190
-  ],
-  "stackable": true,
-  "slabFullBlock": "Blue Chalk Bricks"
+  ]
 }

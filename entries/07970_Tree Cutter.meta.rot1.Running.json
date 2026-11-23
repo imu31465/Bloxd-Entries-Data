@@ -42,6 +42,10 @@
       "interpolateFrames": false
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -50,20 +54,18 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "KJ": [
+    9,
+    6,
+    3
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Tree Cutter",
     "rootId": 7966,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    9,
-    6,
-    3
-  ],
   "atlasIdx": [
     1444,
     35,
@@ -73,7 +75,5 @@
     1449,
     1360,
     36
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -13,14 +13,14 @@
   "ttb": 500000000000,
   "textureInfo": "atomic_spire",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "drops": null,
   "KJ": [
     5,
     9,
     2
   ],
-  "atlasIdx": 1630,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1630
 }

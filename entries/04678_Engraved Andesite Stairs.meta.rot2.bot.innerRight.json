@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Andesite Stairs",
     "rootId": 3469,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 784,
-  "stackable": true
+  "atlasIdx": 784
 }

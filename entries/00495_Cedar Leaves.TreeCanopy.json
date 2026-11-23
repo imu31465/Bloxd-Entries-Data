@@ -6,12 +6,12 @@
   "textureInfo": "leaves_cedar",
   "harvestType": "cuttable",
   "drops": "Cedar Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Cedar Leaves",
     "rootId": 492,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 790,
-  "stackable": true
+  "atlasIdx": 790
 }

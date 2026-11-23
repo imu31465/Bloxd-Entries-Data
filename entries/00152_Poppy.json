@@ -8,9 +8,9 @@
   },
   "ttb": 300,
   "textureInfo": "poppy",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "poppy",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "poppy",
   "stackable": true
 }

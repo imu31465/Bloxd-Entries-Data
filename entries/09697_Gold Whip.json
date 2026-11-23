@@ -14,10 +14,10 @@
   "textureInfo": "gold_whip",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 16,
   "attackRange": 8,
   "knockbackHorizontalScalar": -1.6,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 4

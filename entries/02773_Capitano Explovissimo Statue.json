@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "capitano_explovissimo",
+  "blockModel": "capitano_explovissimo",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 3,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "capitano_explovissimo",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

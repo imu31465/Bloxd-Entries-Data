@@ -17,16 +17,10 @@
     "conveyor_belt_bottom",
     "belt_loader_slab_front"
   ],
-  "texturePerSide": [
-    1,
-    1,
-    0,
-    2,
-    3,
-    1
-  ],
-  "harvestType": "rock",
   "model": "Slab|rotatable",
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
   "ib": [
     0,
     0,
@@ -35,28 +29,34 @@
     0.5,
     1
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Belt Loader|meta|rot1",
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    3,
+    1
+  ],
+  "surfaceVelocity": [
+    0,
+    0,
+    -2
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Belt Loader",
     "rootId": 7919,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Belt Loader|meta|rot1",
-  "harvestLevel": 0,
-  "surfaceVelocity": [
-    0,
-    0,
-    -2
-  ],
-  "customModelInfo": {
-    "yOffset": -0.25
-  },
   "atlasIdx": [
     1430,
     1401,
     1402,
     1431
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

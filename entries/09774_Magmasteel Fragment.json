@@ -13,6 +13,6 @@
   "textureInfo": "magmasteel_fragment",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "magmasteel_fragment",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "magmasteel_fragment"
 }

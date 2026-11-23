@@ -9,6 +9,6 @@
   "ttb": 350,
   "textureInfo": "leaves_aspen",
   "harvestType": "cuttable",
-  "atlasIdx": 615,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 615
 }

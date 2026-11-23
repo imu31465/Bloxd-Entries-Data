@@ -6,12 +6,12 @@
   "textureInfo": "leaves_cherry",
   "harvestType": "cuttable",
   "drops": "Cherry Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Leaves",
     "rootId": 1226,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 905,
-  "stackable": true
+  "atlasIdx": 905
 }

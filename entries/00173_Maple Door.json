@@ -7,17 +7,13 @@
     "text": "Maple Door"
   },
   "ttb": 3600,
-  "harvestType": "wood",
-  "model": "door",
   "itemTexture": "maple_door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "model": "door",
+  "harvestType": "wood",
+  "rootMetaDesc": "Maple Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "Maple Door",
+  "stackable": true,
   "meta": {
     "rootName": "Maple Door",
     "rootId": 173,
@@ -25,8 +21,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Maple Door|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Maple Door"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

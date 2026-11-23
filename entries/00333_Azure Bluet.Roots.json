@@ -4,16 +4,16 @@
   "kind": "block",
   "ttb": 300,
   "textureInfo": "azure_bluet",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "azure_bluet",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "azure_bluet",
+  "stackable": true,
   "meta": {
     "rootName": "Azure Bluet",
     "rootId": 161,
     "metaStr": "Roots",
     "roots": true
-  },
-  "stackable": true
+  }
 }

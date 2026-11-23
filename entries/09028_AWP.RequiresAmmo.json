@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "AWP",
   "weight": 1,
-  "heldItemScale": 3,
-  "heldItemGlb": "AWP",
   "stackable": false,
-  "damage": 70,
-  "meta": {
-    "rootName": "AWP",
-    "rootId": 9027,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 3,
   "gunType": "rifle",
   "scopeType": "sniper",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 42.8,
   "cadenceMs": 1395.3488372093025,
   "equipDelay": 156,
+  "damage": 70,
   "reloadTime": 2500,
   "clipSize": 5,
   "tagSpeedMult": 0.75,
@@ -44,13 +37,20 @@
   "altInaccuracyFromShot": 1,
   "altInaccuracyMovement": 112,
   "recoveryRate": 0.02,
-  "aimZoomFactor": 3.5,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.1,
   "maxKickback": 0.1,
   "kickbackRate": 0,
+  "kickbackDecreaseRate": 0.000005,
+  "aimZoomFactor": 3.5,
   "msPerRound": 1401.8691588785048,
   "msPerRoundTouchScreen": 1401.8691588785048,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 75
+  "altInaccuracyFromJump": 75,
+  "heldItemGlb": "AWP",
+  "meta": {
+    "rootName": "AWP",
+    "rootId": 9027,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

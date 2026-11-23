@@ -9,6 +9,6 @@
   "ttb": 48000,
   "textureInfo": "hyper_compressed_messy_stone",
   "harvestType": "rock",
-  "atlasIdx": 853,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 853
 }

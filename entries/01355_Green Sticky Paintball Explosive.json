@@ -2,9 +2,9 @@
   "id": 1355,
   "name": "Green Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_green",
   "harvestType": "cuttable",
-  "atlasIdx": 990,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 990
 }

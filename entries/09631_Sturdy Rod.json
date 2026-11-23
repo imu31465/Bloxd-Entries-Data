@@ -11,14 +11,14 @@
     "text": "Attracts fish faster than a Rusty Rod."
   },
   "type": "Item",
-  "textureInfo": "sturdy_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       5000,
       7000
     ]
-  }
+  },
+  "textureInfo": "sturdy_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

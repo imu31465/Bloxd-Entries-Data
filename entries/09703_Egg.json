@@ -12,8 +12,8 @@
   },
   "type": "Item",
   "textureInfo": "egg",
+  "heldItemGlb": "egg",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "egg",
   "stackable": false
 }

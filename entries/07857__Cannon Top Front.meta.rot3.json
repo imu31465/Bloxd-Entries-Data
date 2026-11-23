@@ -3,20 +3,20 @@
   "name": "_Cannon Top Front|meta|rot3",
   "kind": "block",
   "ttb": 3600,
-  "harvestType": "rock",
   "model": "rotatable",
-  "drops": "Cannon",
   "modelScale": 8,
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "cannon_top_front",
+  "drops": "Cannon",
+  "stackable": true,
   "meta": {
     "rootName": "_Cannon Top Front",
     "rootId": 7855,
     "metaStr": "meta|rot3",
     "rot": 3
-  },
-  "particlesIgnoreBlack": true,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "cannon_top_front"
+  }
 }

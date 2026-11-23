@@ -42,7 +42,7 @@
       }
     ]
   },
-  "atlasIdx": 554,
+  "onMinedAura": 5,
   "stackable": true,
-  "onMinedAura": 5
+  "atlasIdx": 554
 }

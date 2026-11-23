@@ -9,6 +9,6 @@
   "ttb": 6750,
   "textureInfo": "moonstone_block",
   "harvestType": "rock",
-  "atlasIdx": 770,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 770
 }

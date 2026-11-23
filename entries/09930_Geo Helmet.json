@@ -10,7 +10,7 @@
   "textureInfo": "geo_helmet",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "geo_helmet",
   "stackable": false,
-  "armourReduction": 0.13
+  "armourReduction": 0.13,
+  "heldItemGlb": "geo_helmet"
 }

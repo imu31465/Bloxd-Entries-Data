@@ -4,40 +4,40 @@
   "kind": "block",
   "ttb": 600,
   "harvestType": "rock",
-  "model": "rotatable",
-  "itemTexture": "crystal",
-  "drops": null,
-  "heldItemScale": 6,
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Crystal",
-    "rootId": 3061,
-    "metaStr": "meta|rot4|side",
-    "rot": 4,
-    "halfblockPlacement": 2
-  },
-  "specialToolDrop": {
-    "tool": "Moonstone Pickaxe",
-    "drops": "Crystal"
-  },
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
-  "unlitStandaloneMesh": true,
+  "itemTexture": "crystal",
+  "model": "rotatable",
+  "modelScale": 8,
   "customModelInfo": {
     "yOffset": -0.5,
     "unlit": true,
     "yRotOffset": 3.141592653589793,
     "xRotOffset": -1.5707963267948966
   },
+  "blockModel": "crystal",
+  "blockModelItem": true,
+  "heldItemScale": 6,
+  "unlitStandaloneMesh": true,
   "KJ": [
     8,
     15,
     7
   ],
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Moonstone Pickaxe",
+    "drops": "Crystal"
+  },
+  "onMinedAura": 50,
   "stackable": true,
-  "blockModel": "crystal",
-  "blockModelItem": true,
-  "onMinedAura": 50
+  "meta": {
+    "rootName": "Crystal",
+    "rootId": 3061,
+    "metaStr": "meta|rot4|side",
+    "rot": 4,
+    "halfblockPlacement": 2
+  }
 }

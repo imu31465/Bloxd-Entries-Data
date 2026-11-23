@@ -2,9 +2,9 @@
   "id": 1326,
   "name": "Brown Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_brown",
   "harvestType": "cuttable",
-  "atlasIdx": 961,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 961
 }

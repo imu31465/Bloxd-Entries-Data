@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Sandstone Stairs",
     "rootId": 3565,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 652,
-  "stackable": true
+  "atlasIdx": 652
 }

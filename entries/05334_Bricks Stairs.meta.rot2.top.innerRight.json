@@ -30,6 +30,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Bricks Stairs",
     "rootId": 3629,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 642,
-  "stackable": true
+  "atlasIdx": 642
 }

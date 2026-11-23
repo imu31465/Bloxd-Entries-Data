@@ -9,6 +9,6 @@
   "ttb": 1200,
   "textureInfo": "netherrack",
   "harvestType": "rock",
-  "atlasIdx": 645,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 645
 }

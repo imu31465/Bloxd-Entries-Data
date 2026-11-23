@@ -10,7 +10,7 @@
   "textureInfo": "spectral_chestplate",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "spectral_chestplate",
   "stackable": false,
-  "armourReduction": 0.24
+  "armourReduction": 0.24,
+  "heldItemGlb": "spectral_chestplate"
 }

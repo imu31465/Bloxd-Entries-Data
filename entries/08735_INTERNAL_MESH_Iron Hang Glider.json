@@ -4,8 +4,8 @@
   "kind": "item",
   "type": "Item",
   "textureInfo": "hang_glider_iron",
+  "heldItemGlb": "Iron Hang Glider",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Iron Hang Glider",
   "stackable": false
 }

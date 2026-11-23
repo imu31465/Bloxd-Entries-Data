@@ -14,10 +14,10 @@
   "textureInfo": "iron_whip",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 14,
   "attackRange": 8,
   "knockbackHorizontalScalar": -1.4,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 3

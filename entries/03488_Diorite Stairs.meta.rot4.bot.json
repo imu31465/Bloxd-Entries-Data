@@ -24,6 +24,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Diorite Stairs",
     "rootId": 3485,
@@ -31,6 +32,5 @@
     "rot": 4,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 546,
-  "stackable": true
+  "atlasIdx": 546
 }

@@ -9,6 +9,6 @@
   "textureInfo": "serpentite",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "serpentite",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "serpentite"
 }

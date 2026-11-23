@@ -9,7 +9,7 @@
   "textureInfo": "rubellite_leggings",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "rubellite_leggings",
   "stackable": false,
-  "armourReduction": 0.19
+  "armourReduction": 0.19,
+  "heldItemGlb": "rubellite_leggings"
 }

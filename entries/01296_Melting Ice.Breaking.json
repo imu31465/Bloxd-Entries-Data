@@ -5,15 +5,15 @@
   "ttb": 200,
   "textureInfo": "melting_ice",
   "harvestType": "rock",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
   "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "Melting Ice",
     "rootId": 1295,
     "metaStr": "Breaking",
     "breaking": true
   },
-  "harvestLevel": 0,
-  "stoodOnSpeedMultiplier": 1.4,
-  "atlasIdx": 915,
-  "stackable": true
+  "atlasIdx": 915
 }

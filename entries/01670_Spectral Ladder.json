@@ -7,10 +7,22 @@
     "text": "Spectral Ladder"
   },
   "ttb": 1000,
-  "harvestType": "wood",
-  "model": "rotatableOffset",
   "itemTexture": "ladder_spectral",
+  "model": "rotatableOffset",
+  "harvestType": "wood",
+  "rootMetaDesc": "Spectral Ladder|meta|rot1",
+  "modelScale": 1,
   "solid": false,
+  "blockModel": "Spectral Ladder",
+  "heldItemScale": 1,
+  "blockModelItem": true,
+  "stackable": true,
+  "meta": {
+    "rootName": "Spectral Ladder",
+    "rootId": 1670,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -18,17 +30,5 @@
     1,
     1,
     0.25
-  ],
-  "heldItemScale": 1,
-  "modelScale": 1,
-  "meta": {
-    "rootName": "Spectral Ladder",
-    "rootId": 1670,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Spectral Ladder|meta|rot1",
-  "stackable": true,
-  "blockModel": "Spectral Ladder",
-  "blockModelItem": true
+  ]
 }

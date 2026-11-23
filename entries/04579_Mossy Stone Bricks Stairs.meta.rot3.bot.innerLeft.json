@@ -30,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Mossy Stone Bricks Stairs",
     "rootId": 3445,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 649,
-  "stackable": true
+  "atlasIdx": 649
 }

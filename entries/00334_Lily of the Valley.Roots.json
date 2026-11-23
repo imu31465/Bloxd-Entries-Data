@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 300,
   "textureInfo": "lily_of_the_valley",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "lily_of_the_valley",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "lily_of_the_valley",
+  "stackable": true,
   "meta": {
     "rootName": "Lily of the Valley",
     "rootId": 162,
     "metaStr": "Roots",
     "roots": true
-  },
-  "stackable": true
+  }
 }

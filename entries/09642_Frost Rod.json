@@ -7,14 +7,14 @@
     "text": "Frost Rod"
   },
   "type": "Item",
-  "textureInfo": "frost_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "frost_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

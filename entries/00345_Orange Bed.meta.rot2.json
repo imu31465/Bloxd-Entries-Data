@@ -7,9 +7,19 @@
     "text": "Orange Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "orange_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Orange Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Orange Bed",
+    "rootId": 344,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -17,15 +27,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Orange Bed",
-    "rootId": 344,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Orange Bed"
+  ]
 }

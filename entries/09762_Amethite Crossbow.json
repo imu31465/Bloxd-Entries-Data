@@ -10,21 +10,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "amethite_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "amethite_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Amethite Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "amethite_crossbow",
+  "heldItemGlb": "amethite_crossbow",
   "meta": {
     "rootName": "Amethite Crossbow",
     "rootId": 9762,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Amethite Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

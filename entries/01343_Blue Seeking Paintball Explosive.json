@@ -2,9 +2,9 @@
   "id": 1343,
   "name": "Blue Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_blue",
   "harvestType": "cuttable",
-  "atlasIdx": 978,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 978
 }

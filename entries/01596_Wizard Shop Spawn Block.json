@@ -19,6 +19,8 @@
     "shop_wizard_spawn_side",
     "shop_wizard_spawn_face"
   ],
+  "harvestType": "rock",
+  "rootMetaDesc": "Wizard Shop Spawn Block|meta|rot1",
   "texturePerSide": [
     5,
     5,
@@ -27,14 +29,13 @@
     4,
     4
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Wizard Shop Spawn Block",
     "rootId": 1596,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Wizard Shop Spawn Block|meta|rot1",
   "atlasIdx": [
     1120,
     1121,
@@ -42,6 +43,5 @@
     1123,
     1124,
     1125
-  ],
-  "stackable": true
+  ]
 }

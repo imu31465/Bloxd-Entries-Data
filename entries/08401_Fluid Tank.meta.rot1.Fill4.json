@@ -27,6 +27,15 @@
       "animationInterval": 150
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "transTex": true,
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "altActionable": true,
   "texturePerSide": [
     1,
     1,
@@ -35,24 +44,15 @@
     1,
     1
   ],
-  "harvestType": "rock",
-  "transTex": true,
+  "stackable": true,
   "meta": {
     "rootName": "Fluid Tank",
     "rootId": 8154,
     "metaStr": "meta|rot1|Fill4",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "soundType": {
-    "break": "glass",
-    "place": "stone"
-  },
   "atlasIdx": [
     73,
     73
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

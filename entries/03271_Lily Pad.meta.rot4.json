@@ -7,9 +7,9 @@
     "text": "Lily Pad"
   },
   "ttb": 300,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "lily_pad",
+  "model": "rotatable",
+  "harvestType": "cuttable",
   "solid": true,
   "ib": [
     0,
@@ -19,17 +19,17 @@
     0.125,
     1
   ],
+  "blockModel": "lily_pad_model",
   "modelScale": 7.5,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "particlesIgnoreBlack": true,
+  "stackable": true,
   "meta": {
     "rootName": "Lily Pad",
     "rootId": 3268,
     "metaStr": "meta|rot4",
     "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "customModelInfo": {
-    "yOffset": -0.4375
-  },
-  "stackable": true,
-  "blockModel": "lily_pad_model"
+  }
 }

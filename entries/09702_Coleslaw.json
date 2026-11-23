@@ -12,8 +12,8 @@
   },
   "type": "Item",
   "textureInfo": "coleslaw",
+  "heldItemGlb": "coleslaw",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "coleslaw",
   "stackable": false
 }

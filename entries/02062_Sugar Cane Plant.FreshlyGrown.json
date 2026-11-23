@@ -8,16 +8,16 @@
   },
   "ttb": 400,
   "textureInfo": "sugar_cane_plant_stage2",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "sugar_cane_plant_stage2",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
+  "onMinedAura": 5,
+  "stackable": true,
   "meta": {
     "rootName": "Sugar Cane Plant",
     "rootId": 2060,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 5
+  }
 }

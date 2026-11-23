@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Granite Stairs",
     "rootId": 3525,
@@ -31,6 +32,5 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 551,
-  "stackable": true
+  "atlasIdx": 551
 }

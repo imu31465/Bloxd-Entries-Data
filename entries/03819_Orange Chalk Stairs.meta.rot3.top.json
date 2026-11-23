@@ -34,6 +34,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Orange Chalk Stairs",
     "rootId": 3813,
@@ -41,6 +42,5 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 1165,
-  "stackable": true
+  "atlasIdx": 1165
 }

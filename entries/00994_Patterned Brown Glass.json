@@ -8,12 +8,12 @@
   },
   "ttb": 450,
   "textureInfo": "patterned_glass_brown",
-  "harvestType": "wood",
   "transTex": true,
+  "harvestType": "wood",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
-  "atlasIdx": 870,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 870
 }

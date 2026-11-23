@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Granite Bricks",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Granite Bricks Slab",
     "rootId": 823,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     826,
     787
-  ],
-  "stackable": true,
-  "slabFullBlock": "Granite Bricks"
+  ]
 }

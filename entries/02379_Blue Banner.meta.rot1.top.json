@@ -7,19 +7,21 @@
     "text": "Blue Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_blue",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    0.25
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Blue Banner Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Blue Banner",
     "rootId": 2363,
@@ -27,14 +29,12 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Blue Banner Hanging"
+  "ib": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.25
+  ]
 }

@@ -21,6 +21,11 @@
     "machine_side",
     "alloy_kiln_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Alloy Kiln|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,16 +34,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Alloy Kiln",
     "rootId": 7903,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Alloy Kiln|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1406,
     1407,
@@ -48,7 +50,5 @@
     1411,
     1360,
     1412
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

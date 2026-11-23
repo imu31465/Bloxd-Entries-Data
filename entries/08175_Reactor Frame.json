@@ -14,7 +14,7 @@
   "textureInfo": "reactor_frame",
   "harvestType": "rock",
   "harvestLevel": 0,
-  "atlasIdx": 1587,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1587
 }

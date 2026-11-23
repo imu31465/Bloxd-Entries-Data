@@ -11,19 +11,19 @@
     "text": "Place next to a chest to pull items into connected pipes."
   },
   "ttb": 600,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "extractor_pipe",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
-  "heldItemScale": 6,
   "modelScale": 8,
+  "heldItemScale": 6,
+  "blockModelItem": true,
+  "particlesIgnoreBlack": true,
+  "blockModel": "extractor_pipe_straight_z",
+  "stackable": true,
   "meta": {
     "rootName": "Extractor Pipe",
     "rootId": 3143,
     "metaStr": "meta|conn|nz_pz"
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "extractor_pipe_straight_z",
-  "blockModelItem": true
+  }
 }

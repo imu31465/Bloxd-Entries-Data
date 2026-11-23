@@ -16,11 +16,11 @@
   "heldItemScale": 1,
   "heldItemGlb": "Splash Slowness Potion",
   "stackable": false,
+  "rootMetaDesc": "Splash Slowness Potion II|meta|charging1",
   "meta": {
     "rootName": "Splash Slowness Potion II",
     "rootId": 8926,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Splash Slowness Potion II|meta|charging1"
+  }
 }

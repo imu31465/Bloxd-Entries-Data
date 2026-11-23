@@ -11,15 +11,15 @@
   "model": "rotatable",
   "itemTexture": "stone_trophy",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Stone Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Stone Trophy",
     "rootId": 2793,
     "metaStr": "meta|rot4",
     "rot": 4
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Stone Trophy"
+  }
 }

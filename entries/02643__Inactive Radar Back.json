@@ -17,16 +17,16 @@
   ],
   "harvestType": "rock",
   "drops": "Radar",
+  "rootMetaDesc": "_Inactive Radar Back|meta|rot1",
+  "stackable": true,
   "meta": {
     "rootName": "_Inactive Radar Back",
     "rootId": 2643,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "_Inactive Radar Back|meta|rot1",
   "atlasIdx": [
     1250,
     1249
-  ],
-  "stackable": true
+  ]
 }

@@ -7,17 +7,13 @@
     "text": "Cherry Door"
   },
   "ttb": 3600,
-  "harvestType": "wood",
-  "model": "door",
   "itemTexture": "cherry_door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "model": "door",
+  "harvestType": "wood",
+  "rootMetaDesc": "Cherry Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "Cherry Door",
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Door",
     "rootId": 1233,
@@ -25,8 +21,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Cherry Door|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Cherry Door"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

@@ -30,6 +30,10 @@
     "machine_side",
     "press_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -38,20 +42,18 @@
     7,
     0
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Press",
     "rootId": 7886,
     "metaStr": "meta|rot3|Running",
     "rot": 3
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    7,
-    9
-  ],
   "atlasIdx": [
     1386,
     30,
@@ -61,7 +63,5 @@
     1391,
     1360,
     1392
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

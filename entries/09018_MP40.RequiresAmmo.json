@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "MP40",
   "weight": 1,
-  "heldItemScale": 2.5,
-  "heldItemGlb": "MP40",
   "stackable": false,
-  "damage": 14,
-  "meta": {
-    "rootName": "MP40",
-    "rootId": 9017,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.5,
   "gunType": "submachine",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 900,
   "cadenceMs": 40,
   "equipDelay": 22,
+  "damage": 14,
   "reloadTime": 1700,
   "clipSize": 30,
   "tagSpeedMult": 0.85,
@@ -44,12 +37,19 @@
   "altInaccuracyFromShot": 12,
   "altInaccuracyMovement": 5,
   "recoveryRate": 0.005,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.022,
   "maxKickback": 0.05,
   "kickbackRate": 10,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 66.66666666666667,
   "msPerRoundTouchScreen": 66.66666666666667,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 55
+  "altInaccuracyFromJump": 55,
+  "heldItemGlb": "MP40",
+  "meta": {
+    "rootName": "MP40",
+    "rootId": 9017,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

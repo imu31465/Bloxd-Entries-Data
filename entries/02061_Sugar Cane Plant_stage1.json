@@ -7,11 +7,11 @@
     "text": "Sugar Cane"
   },
   "ttb": 400,
-  "textureInfo": "sugar_cane_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "sugar_cane_plant_stage1",
-  "drops": null,
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "textureInfo": "sugar_cane_plant_stage1",
+  "itemTexture": "sugar_cane_plant_stage1",
   "stackable": true
 }

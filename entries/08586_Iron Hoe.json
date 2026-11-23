@@ -14,8 +14,8 @@
   "textureInfo": "iron_hoe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 24,
+  "stackable": false,
   "harvests": "cuttable",
   "multiplier": 3.25,
   "level": 3

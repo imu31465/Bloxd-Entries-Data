@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "yellow_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Yellow Concrete",
+  "rootMetaDesc": "Yellow Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Yellow Concrete Slab",
     "rootId": 1125,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Yellow Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 613,
-  "stackable": true,
-  "slabFullBlock": "Yellow Concrete"
+  "atlasIdx": 613
 }

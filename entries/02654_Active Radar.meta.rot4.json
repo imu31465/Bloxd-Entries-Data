@@ -7,6 +7,7 @@
     "text": "Active Radar"
   },
   "ttb": 3000,
+  "itemTexture": "active_radar",
   "textureInfo": [
     "radar_side_active",
     "radar_bottom",
@@ -63,6 +64,9 @@
       "animationInterval": 137.5
     }
   ],
+  "harvestType": "rock",
+  "drops": "Radar",
+  "twoDBlockItem": true,
   "texturePerSide": [
     0,
     0,
@@ -71,9 +75,7 @@
     0,
     0
   ],
-  "harvestType": "rock",
-  "itemTexture": "active_radar",
-  "drops": "Radar",
+  "stackable": true,
   "meta": {
     "rootName": "Active Radar",
     "rootId": 2651,
@@ -87,7 +89,5 @@
     19,
     20,
     21
-  ],
-  "stackable": true,
-  "twoDBlockItem": true
+  ]
 }

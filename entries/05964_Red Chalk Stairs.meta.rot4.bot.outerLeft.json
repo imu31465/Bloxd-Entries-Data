@@ -34,6 +34,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Red Chalk Stairs",
     "rootId": 3789,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 1162,
-  "stackable": true
+  "atlasIdx": 1162
 }

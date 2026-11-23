@@ -9,6 +9,6 @@
   "ttb": 960,
   "textureInfo": "cut_red_sandstone",
   "harvestType": "rock",
-  "atlasIdx": 777,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 777
 }

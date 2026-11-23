@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "magenta_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Magenta Concrete",
+  "rootMetaDesc": "Magenta Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Concrete Slab",
     "rootId": 1161,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Magenta Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 606,
-  "stackable": true,
-  "slabFullBlock": "Magenta Concrete"
+  "atlasIdx": 606
 }

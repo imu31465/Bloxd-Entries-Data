@@ -11,9 +11,9 @@
     "text": "Shows the time of day."
   },
   "type": "Item",
-  "textureInfo": "clock_wood_midday",
   "weight": 1,
   "heldItemScale": 1,
+  "stackable": false,
   "heldItemGlb": "clock_wood_midday",
-  "stackable": false
+  "textureInfo": "clock_wood_midday"
 }

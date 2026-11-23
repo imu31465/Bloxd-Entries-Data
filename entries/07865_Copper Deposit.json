@@ -13,9 +13,9 @@
   "ttb": 6000,
   "textureInfo": "copper_deposit",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
-  "atlasIdx": 1356,
+  "drops": null,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1356
 }

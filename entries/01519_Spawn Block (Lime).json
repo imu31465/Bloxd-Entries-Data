@@ -27,19 +27,19 @@
     4
   ],
   "harvestType": "rock",
+  "rootMetaDesc": "Spawn Block (Lime)|meta|rot1",
+  "stackable": true,
   "meta": {
     "rootName": "Spawn Block (Lime)",
     "rootId": 1519,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Spawn Block (Lime)|meta|rot1",
   "atlasIdx": [
     1036,
     1037,
     1038,
     1039,
     1040
-  ],
-  "stackable": true
+  ]
 }

@@ -9,6 +9,6 @@
   "ttb": 2400,
   "textureInfo": "log_spectral",
   "harvestType": "wood",
-  "atlasIdx": 1148,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1148
 }

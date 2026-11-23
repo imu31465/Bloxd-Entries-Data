@@ -13,15 +13,11 @@
   "ttb": 1200,
   "harvestType": "wood",
   "model": "rotatable",
-  "itemTexture": "potion_table",
-  "heldItemScale": 4,
   "modelScale": 8,
-  "meta": {
-    "rootName": "Potion Table",
-    "rootId": 1008,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
+  "blockModel": "Potion Table",
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "potion_table",
   "customModelInfo": {
     "yOffset": -0.5,
     "yRotOffset": 3.141592653589793,
@@ -31,6 +27,10 @@
     }
   },
   "stackable": true,
-  "blockModel": "Potion Table",
-  "blockModelItem": true
+  "meta": {
+    "rootName": "Potion Table",
+    "rootId": 1008,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  }
 }

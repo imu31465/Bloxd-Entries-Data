@@ -3,18 +3,18 @@
   "name": "Light Blue Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_light_blue",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_light_blue",
   "unlitStandaloneMesh": true,
   "KJ": [
     3,
     11,
     15
   ],
-  "atlasIdx": 1265,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1265
 }

@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Palm Wood Planks",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Palm Slab",
     "rootId": 697,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     805,
     793
-  ],
-  "stackable": true,
-  "slabFullBlock": "Palm Wood Planks"
+  ]
 }

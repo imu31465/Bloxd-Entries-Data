@@ -6,6 +6,14 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "wheel",
+  "blockModel": "wheel",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
+  "modelScale": 4,
+  "customModelInfo": {
+    "yOffset": 0
+  },
+  "stackable": true,
   "ib": [
     0,
     0,
@@ -13,13 +21,5 @@
     1,
     1,
     0.625
-  ],
-  "modelScale": 4,
-  "customModelInfo": {
-    "yOffset": 0
-  },
-  "stackable": true,
-  "blockModel": "wheel",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  ]
 }

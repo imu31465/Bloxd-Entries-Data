@@ -9,6 +9,6 @@
   "ttb": 600,
   "textureInfo": "hay_block_side",
   "harvestType": "cuttable",
-  "atlasIdx": 655,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 655
 }

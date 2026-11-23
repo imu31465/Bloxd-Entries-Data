@@ -2,9 +2,9 @@
   "id": 1320,
   "name": "Lime Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_lime",
   "harvestType": "cuttable",
-  "atlasIdx": 955,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 955
 }

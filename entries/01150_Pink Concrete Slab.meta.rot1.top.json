@@ -8,8 +8,9 @@
   },
   "ttb": 1080,
   "textureInfo": "pink_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Pink Concrete",
   "ib": [
     0,
     0.5,
@@ -18,6 +19,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pink Concrete Slab",
     "rootId": 1149,
@@ -25,7 +27,5 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 608,
-  "stackable": true,
-  "slabFullBlock": "Pink Concrete"
+  "atlasIdx": 608
 }

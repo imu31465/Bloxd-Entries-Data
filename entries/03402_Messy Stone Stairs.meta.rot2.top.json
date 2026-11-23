@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Messy Stone Stairs",
     "rootId": 3397,
@@ -31,6 +32,5 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 543,
-  "stackable": true
+  "atlasIdx": 543
 }

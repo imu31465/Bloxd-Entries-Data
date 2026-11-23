@@ -10,21 +10,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "rubellite_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "rubellite_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Rubellite Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "rubellite_crossbow",
+  "heldItemGlb": "rubellite_crossbow",
   "meta": {
     "rootName": "Rubellite Crossbow",
     "rootId": 9816,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Rubellite Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

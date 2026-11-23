@@ -2,9 +2,9 @@
   "id": 1344,
   "name": "Black Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_black",
   "harvestType": "cuttable",
-  "atlasIdx": 979,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 979
 }

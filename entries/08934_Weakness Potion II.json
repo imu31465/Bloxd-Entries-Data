@@ -15,17 +15,17 @@
   "weight": 1,
   "heldItemScale": 1,
   "heldItemGlb": "Weakness Potion",
-  "stackable": false,
   "eatable": true,
   "chargeSound": "drink",
+  "stackable": false,
   "afterEatenItem": "Empty Bottle",
   "chargeStages": 1,
   "chargeTime": 1600,
+  "rootMetaDesc": "Weakness Potion II|meta|charging1",
   "meta": {
     "rootName": "Weakness Potion II",
     "rootId": 8934,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Weakness Potion II|meta|charging1"
+  }
 }

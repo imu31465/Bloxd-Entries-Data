@@ -16,17 +16,10 @@
     "sorting_gate_slab_side",
     "conveyor_belt_bottom"
   ],
-  "texturePerSide": [
-    1,
-    1,
-    0,
-    2,
-    1,
-    1
-  ],
-  "harvestType": "rock",
   "model": "Slab|rotatable",
-  "drops": "Sorting Gate",
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
   "ib": [
     0,
     0,
@@ -35,26 +28,33 @@
     0.5,
     1
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "surfaceVelocity": [
+    -2,
+    0,
+    0
+  ],
+  "drops": "Sorting Gate",
+  "stackable": true,
   "meta": {
     "rootName": "Sorting Gate",
     "rootId": 7915,
     "metaStr": "meta|rot2|right",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "surfaceVelocity": [
-    -2,
-    0,
-    0
-  ],
-  "customModelInfo": {
-    "yOffset": -0.25
-  },
   "atlasIdx": [
     1626,
     1429,
     1402
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

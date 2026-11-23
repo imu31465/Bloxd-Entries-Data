@@ -2,9 +2,9 @@
   "id": 1339,
   "name": "Green Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_green",
   "harvestType": "cuttable",
-  "atlasIdx": 974,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 974
 }

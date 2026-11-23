@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Engraved Diorite",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Diorite Slab",
     "rootId": 793,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     821,
     782
-  ],
-  "stackable": true,
-  "slabFullBlock": "Engraved Diorite"
+  ]
 }

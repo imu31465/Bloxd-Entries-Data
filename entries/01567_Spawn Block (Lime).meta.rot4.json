@@ -19,6 +19,7 @@
     4
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Spawn Block (Lime)",
     "rootId": 1519,
@@ -31,6 +32,5 @@
     1038,
     1039,
     1040
-  ],
-  "stackable": true
+  ]
 }

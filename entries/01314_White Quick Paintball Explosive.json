@@ -2,9 +2,9 @@
   "id": 1314,
   "name": "White Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_white",
   "harvestType": "cuttable",
-  "atlasIdx": 949,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 949
 }

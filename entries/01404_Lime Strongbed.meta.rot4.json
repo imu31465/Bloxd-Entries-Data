@@ -7,9 +7,19 @@
     "text": "Lime Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "lime_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Lime Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Lime Strongbed",
+    "rootId": 1401,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0,
     0,
@@ -23,15 +33,5 @@
     0.125,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Lime Strongbed",
-    "rootId": 1401,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Lime Strongbed"
+  ]
 }

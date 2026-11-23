@@ -13,9 +13,10 @@
   "ttb": 48600,
   "textureInfo": "pure_uranium_ore",
   "harvestType": "rock",
+  "harvestLevel": 3,
+  "showInCreativeInven": false,
   "drops": "Raw Uranium",
   "XJ": 9,
-  "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Uranium Ore"
@@ -25,7 +26,6 @@
     10,
     2
   ],
-  "atlasIdx": 1645,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1645
 }

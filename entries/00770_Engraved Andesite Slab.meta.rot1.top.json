@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Engraved Andesite",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Andesite Slab",
     "rootId": 769,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     817,
     784
-  ],
-  "stackable": true,
-  "slabFullBlock": "Engraved Andesite"
+  ]
 }

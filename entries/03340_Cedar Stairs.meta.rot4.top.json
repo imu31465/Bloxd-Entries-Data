@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Cedar Stairs",
     "rootId": 3333,
@@ -31,6 +32,5 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 536,
-  "stackable": true
+  "atlasIdx": 536
 }

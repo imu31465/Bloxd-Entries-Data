@@ -15,17 +15,17 @@
   "model": "rotatable",
   "itemTexture": "gold_enchanting_table",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Gold Enchanting Table",
-    "rootId": 1686,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
+  "blockModel": "Gold Enchanting Table",
   "KJ": [
     8,
     0,
     8
   ],
   "stackable": true,
-  "blockModel": "Gold Enchanting Table"
+  "meta": {
+    "rootName": "Gold Enchanting Table",
+    "rootId": 1686,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

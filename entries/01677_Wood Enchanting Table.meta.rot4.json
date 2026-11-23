@@ -15,17 +15,17 @@
   "model": "rotatable",
   "itemTexture": "wood_enchanting_table",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Wood Enchanting Table",
-    "rootId": 1674,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
+  "blockModel": "Wood Enchanting Table",
   "KJ": [
     2,
     0,
     2
   ],
   "stackable": true,
-  "blockModel": "Wood Enchanting Table"
+  "meta": {
+    "rootName": "Wood Enchanting Table",
+    "rootId": 1674,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

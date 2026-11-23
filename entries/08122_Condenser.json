@@ -22,6 +22,11 @@
     "condenser_back",
     "condenser_side_flip"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Condenser|meta|rot1",
   "texturePerSide": [
     1,
     8,
@@ -30,16 +35,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Condenser",
     "rootId": 8122,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Condenser|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1554,
     1555,
@@ -50,7 +52,5 @@
     1560,
     1561,
     1562
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

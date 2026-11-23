@@ -10,6 +10,6 @@
   "textureInfo": "super_rocket_block",
   "harvestType": "rock",
   "unlitStandaloneMesh": true,
-  "atlasIdx": 900,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 900
 }

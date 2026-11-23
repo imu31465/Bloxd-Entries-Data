@@ -9,7 +9,7 @@
   "textureInfo": "rubellite_boots",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "rubellite_boots",
   "stackable": false,
-  "armourReduction": 0.1
+  "armourReduction": 0.1,
+  "heldItemGlb": "rubellite_boots"
 }

@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_plum",
+  "itemTexture": "plum_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "plum_fence",
   "ib": [
     0.375,
     0,
@@ -25,12 +25,12 @@
     1,
     0.625
   ],
+  "attachedTop": "_Plum Fence Top|meta|w",
+  "stackable": true,
   "meta": {
     "rootName": "Plum Fence",
     "rootId": 7090,
     "metaStr": "meta|w|Stacked"
   },
-  "atlasIdx": 533,
-  "stackable": true,
-  "attachedTop": "_Plum Fence Top|meta|w"
+  "atlasIdx": 533
 }

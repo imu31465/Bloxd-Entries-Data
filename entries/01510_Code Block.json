@@ -12,6 +12,6 @@
     "break": "stone",
     "place": "stone"
   },
-  "atlasIdx": 999,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 999
 }

@@ -17,6 +17,8 @@
     "checkpoint_block[rot[3",
     "checkpoint_block[rot[4"
   ],
+  "harvestType": "rock",
+  "rootMetaDesc": "Checkpoint Block|meta|rot1",
   "texturePerSide": [
     0,
     0,
@@ -25,19 +27,17 @@
     0,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Checkpoint Block",
     "rootId": 1576,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Checkpoint Block|meta|rot1",
   "atlasIdx": [
     1081,
     1082,
     1083,
     1084
-  ],
-  "stackable": true
+  ]
 }

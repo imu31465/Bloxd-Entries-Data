@@ -27,6 +27,10 @@
     },
     "stone"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "drops": null,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -35,13 +39,9 @@
     1,
     1
   ],
-  "harvestType": "rock",
-  "drops": null,
-  "harvestLevel": 0,
+  "stackable": true,
   "atlasIdx": [
     46,
     544
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

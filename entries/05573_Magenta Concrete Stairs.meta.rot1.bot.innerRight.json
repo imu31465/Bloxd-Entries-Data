@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Concrete Stairs",
     "rootId": 3693,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 606,
-  "stackable": true
+  "atlasIdx": 606
 }

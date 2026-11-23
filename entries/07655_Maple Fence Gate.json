@@ -8,9 +8,10 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_maple",
+  "itemTexture": "maple_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "maple_fence_gate",
+  "rootMetaDesc": "Maple Fence Gate|meta|rot1|closed",
   "ib": [
     0,
     0,
@@ -19,6 +20,8 @@
     1,
     0.625
   ],
+  "attachedTop": "_Maple Fence Gate Top",
+  "stackable": true,
   "meta": {
     "rootName": "Maple Fence Gate",
     "rootId": 7655,
@@ -26,8 +29,5 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Maple Fence Gate|meta|rot1|closed",
-  "atlasIdx": 531,
-  "stackable": true,
-  "attachedTop": "_Maple Fence Gate Top"
+  "atlasIdx": 531
 }

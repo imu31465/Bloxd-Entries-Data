@@ -2,9 +2,9 @@
   "id": 1337,
   "name": "Light Gray Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_light_gray",
   "harvestType": "cuttable",
-  "atlasIdx": 972,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 972
 }

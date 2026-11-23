@@ -7,10 +7,20 @@
     "text": "Maple Ladder"
   },
   "ttb": 1000,
-  "harvestType": "wood",
-  "model": "rotatableOffset",
   "itemTexture": "ladder_maple",
+  "model": "rotatableOffset",
+  "harvestType": "wood",
+  "rootMetaDesc": "Maple Ladder|meta|rot1",
   "solid": false,
+  "blockModel": "Maple Ladder",
+  "blockModelItem": true,
+  "stackable": true,
+  "meta": {
+    "rootName": "Maple Ladder",
+    "rootId": 215,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -18,15 +28,5 @@
     1,
     1,
     0.25
-  ],
-  "meta": {
-    "rootName": "Maple Ladder",
-    "rootId": 215,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Maple Ladder|meta|rot1",
-  "stackable": true,
-  "blockModel": "Maple Ladder",
-  "blockModelItem": true
+  ]
 }

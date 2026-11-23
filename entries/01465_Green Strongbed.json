@@ -7,9 +7,20 @@
     "text": "Green Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "green_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "rootMetaDesc": "Green Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Green Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Green Strongbed",
+    "rootId": 1465,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -23,16 +34,5 @@
     1,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Green Strongbed",
-    "rootId": 1465,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Green Strongbed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Green Strongbed"
+  ]
 }

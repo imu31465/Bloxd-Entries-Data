@@ -24,9 +24,9 @@
     "break": "cloth",
     "place": "cloth"
   },
+  "stackable": true,
   "atlasIdx": [
     1228,
     1229
-  ],
-  "stackable": true
+  ]
 }

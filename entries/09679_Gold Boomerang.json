@@ -14,9 +14,9 @@
   "textureInfo": "gold_boomerang",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 19,
   "secondaryDamage": 19,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 4

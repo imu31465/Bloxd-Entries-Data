@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Mango Stairs",
     "rootId": 3389,
@@ -31,6 +32,5 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 1213,
-  "stackable": true
+  "atlasIdx": 1213
 }

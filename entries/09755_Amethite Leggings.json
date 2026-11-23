@@ -9,7 +9,7 @@
   "textureInfo": "amethite_leggings",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "amethite_leggings",
   "stackable": false,
-  "armourReduction": 0.19
+  "armourReduction": 0.19,
+  "heldItemGlb": "amethite_leggings"
 }

@@ -4,14 +4,7 @@
   "kind": "block",
   "ttb": 2800,
   "harvestType": "wood",
-  "ib": [
-    0,
-    0.875,
-    0,
-    1,
-    1,
-    1
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Trapdoor",
     "rootId": 1249,
@@ -19,5 +12,12 @@
     "rot": 2,
     "open": false
   },
-  "stackable": true
+  "ib": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ]
 }

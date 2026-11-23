@@ -14,10 +14,10 @@
   "textureInfo": "sanguine_sword",
   "weight": 1,
   "heldItemScale": 1.1,
-  "heldItemGlb": "sanguine_sword",
-  "stackable": false,
   "damage": 40,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "sanguine_sword"
 }

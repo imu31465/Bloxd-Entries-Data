@@ -11,21 +11,21 @@
     "text": "Plant to grow chili peppers"
   },
   "ttb": 400,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "chili_pepper_seeds",
-  "drops": "Chili Pepper Seeds",
-  "solid": false,
+  "model": "CustomModel",
   "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "harvestType": "cuttable",
+  "solid": false,
+  "blockModel": "chili_pepper_stage0_lava_model",
+  "drops": "Chili Pepper Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Chili Pepper Seeds",
     "rootId": 1495,
     "metaStr": "Lava",
     "lava": true
-  },
-  "customModelInfo": {
-    "yOffset": -0.4375
-  },
-  "stackable": true,
-  "blockModel": "chili_pepper_stage0_lava_model"
+  }
 }

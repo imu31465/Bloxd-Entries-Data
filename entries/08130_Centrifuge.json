@@ -22,6 +22,11 @@
     "centrifuge_back",
     "centrifuge_side_flip"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Centrifuge|meta|rot1",
   "texturePerSide": [
     1,
     8,
@@ -30,16 +35,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Centrifuge",
     "rootId": 8130,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Centrifuge|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1554,
     1563,
@@ -50,7 +52,5 @@
     1568,
     1569,
     1570
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

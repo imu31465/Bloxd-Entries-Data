@@ -8,10 +8,10 @@
   },
   "ttb": 300,
   "textureInfo": "allium",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "allium",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "allium",
   "stackable": true
 }

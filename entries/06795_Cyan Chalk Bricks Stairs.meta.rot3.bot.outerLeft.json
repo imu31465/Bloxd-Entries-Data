@@ -34,6 +34,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Cyan Chalk Bricks Stairs",
     "rootId": 3997,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 1188,
-  "stackable": true
+  "atlasIdx": 1188
 }

@@ -16,19 +16,19 @@
     "animationInterval": 500,
     "interpolateFrames": false
   },
-  "harvestType": "rock",
   "drops": null,
+  "harvestType": "rock",
   "solid": true,
   "KJ": [
     9,
     7,
     3
   ],
+  "stackable": true,
   "atlasIdx": [
     12,
     122,
     123,
     124
-  ],
-  "stackable": true
+  ]
 }

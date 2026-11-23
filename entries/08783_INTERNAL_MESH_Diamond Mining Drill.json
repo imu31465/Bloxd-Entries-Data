@@ -4,8 +4,8 @@
   "kind": "item",
   "type": "Item",
   "textureInfo": "off_roader",
+  "heldItemGlb": "Diamond Mining Drill",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Diamond Mining Drill",
   "stackable": false
 }

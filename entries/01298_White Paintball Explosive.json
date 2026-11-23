@@ -2,7 +2,6 @@
   "id": 1298,
   "name": "White Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": [
     "explosive_paint_white_side",
     "explosive_paint_white_top"
@@ -16,9 +15,10 @@
     0
   ],
   "harvestType": "cuttable",
+  "ttb": 50,
+  "stackable": true,
   "atlasIdx": [
     918,
     919
-  ],
-  "stackable": true
+  ]
 }

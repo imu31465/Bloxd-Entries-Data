@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "AK-47",
   "weight": 1,
-  "heldItemScale": 2,
-  "heldItemGlb": "AK-47",
   "stackable": false,
-  "damage": 20,
-  "meta": {
-    "rootName": "AK-47",
-    "rootId": 9013,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2,
   "gunType": "semi_automatic",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 600,
   "cadenceMs": 75,
   "equipDelay": 24,
+  "damage": 20,
   "reloadTime": 2300,
   "clipSize": 30,
   "tagSpeedMult": 0.8,
@@ -44,12 +37,19 @@
   "altInaccuracyFromShot": 9,
   "altInaccuracyMovement": 28,
   "recoveryRate": 0.005,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.023,
   "maxKickback": 0.06,
   "kickbackRate": 10,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 100,
   "msPerRoundTouchScreen": 100,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 45
+  "altInaccuracyFromJump": 45,
+  "heldItemGlb": "AK-47",
+  "meta": {
+    "rootName": "AK-47",
+    "rootId": 9013,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

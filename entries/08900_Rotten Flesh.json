@@ -20,11 +20,11 @@
   "eatHealAmt": 15,
   "chargeStages": 1,
   "chargeTime": 850,
+  "rootMetaDesc": "Rotten Flesh|meta|charging1",
   "meta": {
     "rootName": "Rotten Flesh",
     "rootId": 8900,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Rotten Flesh|meta|charging1"
+  }
 }

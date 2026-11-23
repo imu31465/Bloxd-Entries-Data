@@ -33,6 +33,10 @@
     "electric_drill_bottom",
     "electric_drill_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -41,20 +45,18 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Electric Drill",
     "rootId": 7907,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    7,
-    9
-  ],
   "atlasIdx": [
     1413,
     33,
@@ -64,7 +66,5 @@
     1418,
     1419,
     1420
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

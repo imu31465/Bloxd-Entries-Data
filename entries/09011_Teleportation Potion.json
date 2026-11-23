@@ -14,17 +14,17 @@
   "textureInfo": "teleportation_potion",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "eatable": true,
   "chargeSound": "drink",
   "afterEatenItem": "Empty Bottle",
+  "stackable": false,
   "chargeStages": 1,
   "chargeTime": 600,
+  "rootMetaDesc": "Teleportation Potion|meta|charging1",
   "meta": {
     "rootName": "Teleportation Potion",
     "rootId": 9011,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Teleportation Potion|meta|charging1"
+  }
 }

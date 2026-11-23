@@ -24,6 +24,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Granite Stairs",
     "rootId": 3517,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 550,
-  "stackable": true
+  "atlasIdx": 550
 }

@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Smooth Diorite",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Diorite Slab",
     "rootId": 787,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     820,
     547
-  ],
-  "stackable": true,
-  "slabFullBlock": "Smooth Diorite"
+  ]
 }

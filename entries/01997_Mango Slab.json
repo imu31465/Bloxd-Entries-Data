@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Mango Wood Planks",
+  "rootMetaDesc": "Mango Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Mango Slab",
     "rootId": 1997,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Mango Slab|meta|rot1|bot",
   "atlasIdx": [
     1215,
     1213
-  ],
-  "stackable": true,
-  "slabFullBlock": "Mango Wood Planks"
+  ]
 }

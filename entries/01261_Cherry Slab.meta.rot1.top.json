@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Cherry Wood Planks",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Slab",
     "rootId": 1260,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     907,
     904
-  ],
-  "stackable": true,
-  "slabFullBlock": "Cherry Wood Planks"
+  ]
 }

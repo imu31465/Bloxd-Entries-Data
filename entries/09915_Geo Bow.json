@@ -11,22 +11,22 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "geo_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "geo_bow",
   "stackable": false,
+  "rootMetaDesc": "Geo Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "geo_bow",
+  "heldItemGlb": "geo_bow",
   "meta": {
     "rootName": "Geo Bow",
     "rootId": 9915,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Geo Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

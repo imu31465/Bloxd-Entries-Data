@@ -7,14 +7,14 @@
     "text": "Cursed Rod"
   },
   "type": "Item",
-  "textureInfo": "cursed_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "cursed_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

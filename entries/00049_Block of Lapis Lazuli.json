@@ -9,6 +9,6 @@
   "ttb": 6300,
   "textureInfo": "lapis_block",
   "harvestType": "rock",
-  "atlasIdx": 563,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 563
 }

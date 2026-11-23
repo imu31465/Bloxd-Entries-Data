@@ -6,12 +6,12 @@
   "textureInfo": "leaves_palm",
   "harvestType": "cuttable",
   "drops": "Palm Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Palm Leaves",
     "rootId": 493,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 791,
-  "stackable": true
+  "atlasIdx": 791
 }

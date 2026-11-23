@@ -7,19 +7,22 @@
     "text": "Purple Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_purple",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.375,
-    1,
-    1,
-    0.75
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "rootMetaDesc": "Purple Banner|meta|rot1|bot",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "Purple Banner",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Purple Banner",
     "rootId": 2339,
@@ -27,15 +30,12 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Purple Banner|meta|rot1|bot",
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Purple Banner"
+  "ib": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ]
 }

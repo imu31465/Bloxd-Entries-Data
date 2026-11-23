@@ -7,10 +7,10 @@
     "text": "Rice"
   },
   "ttb": 400,
-  "textureInfo": "rice_stage4",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Rice",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Rice",
+  "textureInfo": "rice_stage4",
   "stackable": true
 }

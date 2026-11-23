@@ -7,19 +7,21 @@
     "text": "Magenta Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_magenta",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.25,
-    1,
-    1,
-    0.625
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "Magenta Banner",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Banner",
     "rootId": 2147,
@@ -27,14 +29,12 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Magenta Banner"
+  "ib": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.625
+  ]
 }

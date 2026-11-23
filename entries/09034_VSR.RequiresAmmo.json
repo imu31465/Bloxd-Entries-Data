@@ -8,19 +8,12 @@
   "type": "Gun",
   "textureInfo": "VSR",
   "weight": 1,
-  "heldItemScale": 2.5,
-  "heldItemGlb": "VSR",
   "stackable": false,
-  "damage": 15,
-  "meta": {
-    "rootName": "VSR",
-    "rootId": 9033,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.5,
   "gunType": "submachine",
   "scopeType": "sniper",
+  "keepScopeOnShot": true,
   "muzzleFlashOffsetFromGun": [
     -6.5,
     -0.5,
@@ -31,6 +24,7 @@
   "fireRate": 450,
   "cadenceMs": 96.77419354838709,
   "equipDelay": 45,
+  "damage": 15,
   "reloadTime": 1700,
   "clipSize": 20,
   "tagSpeedMult": 0.78,
@@ -44,14 +38,20 @@
   "altInaccuracyFromShot": 8,
   "altInaccuracyMovement": 32,
   "recoveryRate": 0.0055,
-  "aimZoomFactor": 2.4,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.018,
   "maxKickback": 0.04,
   "kickbackRate": 12,
-  "keepScopeOnShot": true,
+  "kickbackDecreaseRate": 0.000005,
+  "aimZoomFactor": 2.4,
   "msPerRound": 133.33333333333334,
   "msPerRoundTouchScreen": 133.33333333333334,
   "altYVelocityInaccuracy": 5,
-  "altInaccuracyFromJump": 55
+  "altInaccuracyFromJump": 55,
+  "heldItemGlb": "VSR",
+  "meta": {
+    "rootName": "VSR",
+    "rootId": 9033,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

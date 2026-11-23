@@ -8,10 +8,10 @@
   },
   "ttb": 300,
   "textureInfo": "blue_orchid",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "blue_orchid",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "blue_orchid",
   "stackable": true
 }

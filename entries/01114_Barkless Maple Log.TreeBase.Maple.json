@@ -6,6 +6,7 @@
   "textureInfo": "stripped_maple_log",
   "harvestType": "wood",
   "drops": "Barkless Maple Log",
+  "stackable": true,
   "meta": {
     "rootName": "Barkless Maple Log",
     "rootId": 21,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Maple"
   },
-  "atlasIdx": 537,
-  "stackable": true
+  "atlasIdx": 537
 }

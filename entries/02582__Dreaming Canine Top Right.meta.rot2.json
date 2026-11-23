@@ -3,11 +3,22 @@
   "name": "_Dreaming Canine Top Right|meta|rot2",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "wolf_painting",
-  "drops": "Dreaming Canine",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
   "solid": false,
+  "modelScale": 10,
+  "blockModel": "_Wolf Painting Top Right",
+  "heldItemGlb": "Wolf Painting",
+  "drops": "Dreaming Canine",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Dreaming Canine Top Right",
+    "rootId": 2581,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -15,16 +26,5 @@
     0.125,
     1,
     1
-  ],
-  "modelScale": 10,
-  "meta": {
-    "rootName": "_Dreaming Canine Top Right",
-    "rootId": 2581,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "heldItemGlb": "Wolf Painting",
-  "blockModel": "_Wolf Painting Top Right"
+  ]
 }

@@ -2,7 +2,6 @@
   "id": 1297,
   "name": "Yellow Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": [
     "explosive_paint_yellow_side",
     "explosive_paint_yellow_top"
@@ -16,9 +15,10 @@
     0
   ],
   "harvestType": "cuttable",
+  "ttb": 50,
+  "stackable": true,
   "atlasIdx": [
     916,
     917
-  ],
-  "stackable": true
+  ]
 }

@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "geo_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "geo_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Geo Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "geo_crossbow",
+  "heldItemGlb": "geo_crossbow",
   "meta": {
     "rootName": "Geo Crossbow",
     "rootId": 9919,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Geo Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

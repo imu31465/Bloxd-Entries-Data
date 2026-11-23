@@ -16,6 +16,11 @@
     "pump_top",
     "pump_bottom"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Pump|meta|rot1",
   "texturePerSide": [
     0,
     0,
@@ -24,22 +29,17 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "drops": "Condenser",
+  "stackable": true,
   "meta": {
     "rootName": "Pump",
     "rootId": 8114,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Pump|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1551,
     1552,
     1553
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

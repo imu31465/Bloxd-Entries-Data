@@ -9,6 +9,6 @@
   "ttb": 2160,
   "textureInfo": "green_concrete",
   "harvestType": "rock",
-  "atlasIdx": 612,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 612
 }

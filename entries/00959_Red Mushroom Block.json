@@ -9,6 +9,6 @@
   "ttb": 1200,
   "textureInfo": "red_mushroom_block",
   "harvestType": "cuttable",
-  "atlasIdx": 857,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 857
 }

@@ -13,8 +13,9 @@
   "ttb": 450,
   "textureInfo": "uranium_glass",
   "harvestType": "wood",
-  "transTex": true,
   "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "transTex": true,
   "soundType": {
     "break": "glass",
     "place": "stone"
@@ -24,7 +25,6 @@
     7,
     1
   ],
-  "atlasIdx": 1627,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1627
 }

@@ -14,17 +14,17 @@
   "textureInfo": "milk_potion",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "eatable": true,
   "chargeSound": "drink",
+  "stackable": false,
   "afterEatenItem": "Empty Bottle",
   "chargeStages": 1,
   "chargeTime": 1600,
+  "rootMetaDesc": "Milk Potion|meta|charging1",
   "meta": {
     "rootName": "Milk Potion",
     "rootId": 8943,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Milk Potion|meta|charging1"
+  }
 }

@@ -2,9 +2,9 @@
   "id": 1342,
   "name": "Brown Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_brown",
   "harvestType": "cuttable",
-  "atlasIdx": 977,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 977
 }

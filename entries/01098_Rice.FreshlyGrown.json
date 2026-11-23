@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "rice_stage7",
-  "harvestType": "cuttable",
   "model": "SquareSided",
   "solid": false,
+  "harvestType": "cuttable",
+  "onMinedAura": 5,
+  "stackable": true,
   "meta": {
     "rootName": "Rice",
     "rootId": 1092,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 5
+  }
 }

@@ -5,12 +5,12 @@
   "ttb": 600,
   "textureInfo": "dirt",
   "harvestType": "granule",
+  "stackable": true,
   "meta": {
     "rootName": "Dirt",
     "rootId": 2,
     "metaStr": "JungleGrassRoots",
     "grassRoots": true
   },
-  "atlasIdx": 517,
-  "stackable": true
+  "atlasIdx": 517
 }

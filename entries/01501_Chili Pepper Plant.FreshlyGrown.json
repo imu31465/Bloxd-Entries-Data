@@ -3,21 +3,21 @@
   "name": "Chili Pepper Plant|FreshlyGrown",
   "kind": "block",
   "ttb": 400,
-  "harvestType": "cuttable",
   "model": "CustomModel",
-  "drops": "Chili Pepper Seeds",
-  "solid": false,
   "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "harvestType": "cuttable",
+  "solid": false,
+  "blockModel": "chili_pepper_stage5_model",
+  "drops": "Chili Pepper Seeds",
+  "onMinedAura": 10,
+  "stackable": true,
   "meta": {
     "rootName": "Chili Pepper Plant",
     "rootId": 1500,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "customModelInfo": {
-    "yOffset": -0.4375
-  },
-  "stackable": true,
-  "blockModel": "chili_pepper_stage5_model",
-  "onMinedAura": 10
+  }
 }

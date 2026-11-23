@@ -20,11 +20,11 @@
   "eatShieldAmt": 20,
   "chargeStages": 1,
   "chargeTime": 850,
+  "rootMetaDesc": "Corn|meta|charging1",
   "meta": {
     "rootName": "Corn",
     "rootId": 8883,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Corn|meta|charging1"
+  }
 }

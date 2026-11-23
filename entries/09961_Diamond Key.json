@@ -7,9 +7,9 @@
     "text": "Diamond Key"
   },
   "type": "Item",
-  "textureInfo": "diamond_key",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "diamond_key",
-  "stackable": true
+  "stackable": true,
+  "textureInfo": "diamond_key",
+  "heldItemGlb": "diamond_key"
 }

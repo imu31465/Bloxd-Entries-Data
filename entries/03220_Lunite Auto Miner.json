@@ -11,19 +11,19 @@
     "text": "An upgraded Auto Miner that produces ores faster. Burns coal or runs on solar power. Right-click to configure fuel and ore output."
   },
   "ttb": 3600,
-  "harvestType": "rock",
   "model": "rotatable",
-  "itemTexture": "autominer_lunite",
   "modelScale": 8,
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "blockModel": "auto_miner_lunite_foot_back",
+  "rootMetaDesc": "Lunite Auto Miner|meta|rot1",
+  "itemTexture": "autominer_lunite",
+  "stackable": true,
   "meta": {
     "rootName": "Lunite Auto Miner",
     "rootId": 3220,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "Lunite Auto Miner|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "altActionable": true,
-  "stackable": true,
-  "blockModel": "auto_miner_lunite_foot_back"
+  }
 }

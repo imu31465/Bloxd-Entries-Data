@@ -29,6 +29,10 @@
     "trading_terminal_side",
     "trading_terminal_top"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "rootMetaDesc": "Trading Terminal|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -37,20 +41,16 @@
     0,
     1
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Trading Terminal",
     "rootId": 8091,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Trading Terminal|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     45,
     1542,
     1543
-  ],
-  "stackable": true
+  ]
 }

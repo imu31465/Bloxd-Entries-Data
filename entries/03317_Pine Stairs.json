@@ -10,6 +10,7 @@
   "textureInfo": "planks_pine",
   "harvestType": "wood",
   "model": "Stairs",
+  "rootMetaDesc": "Pine Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pine Stairs",
     "rootId": 3317,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Pine Stairs|meta|rot1|bot",
-  "atlasIdx": 535,
-  "stackable": true
+  "atlasIdx": 535
 }

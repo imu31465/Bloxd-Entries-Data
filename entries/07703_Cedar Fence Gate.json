@@ -8,9 +8,10 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_cedar",
+  "itemTexture": "cedar_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "cedar_fence_gate",
+  "rootMetaDesc": "Cedar Fence Gate|meta|rot1|closed",
   "ib": [
     0,
     0,
@@ -19,6 +20,8 @@
     1,
     0.625
   ],
+  "attachedTop": "_Cedar Fence Gate Top",
+  "stackable": true,
   "meta": {
     "rootName": "Cedar Fence Gate",
     "rootId": 7703,
@@ -26,8 +29,5 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Cedar Fence Gate|meta|rot1|closed",
-  "atlasIdx": 536,
-  "stackable": true,
-  "attachedTop": "_Cedar Fence Gate Top"
+  "atlasIdx": 536
 }

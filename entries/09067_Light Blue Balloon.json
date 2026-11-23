@@ -10,10 +10,10 @@
     "key": "item:balloonDescription",
     "text": "Go up high and fall down slowly"
   },
-  "type": "Item",
   "textureInfo": "light_blue_balloon",
+  "heldItemGlb": "Light Blue Balloon Item",
+  "type": "Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Light Blue Balloon Item",
   "stackable": true
 }

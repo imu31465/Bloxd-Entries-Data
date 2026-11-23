@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "granule",
   "model": "Slab",
+  "harvestType": "granule",
+  "slabFullBlock": "Pine Grass Block",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pine Grass Slab",
     "rootId": 1695,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     1155,
     1154
-  ],
-  "stackable": true,
-  "slabFullBlock": "Pine Grass Block"
+  ]
 }

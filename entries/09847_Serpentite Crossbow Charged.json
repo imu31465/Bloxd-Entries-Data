@@ -13,8 +13,8 @@
   "textureInfo": "serpentite_crossbow_charged",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "serpentite_crossbow_charged",
   "stackable": false,
   "secondaryDamage": 68,
-  "holdAsAiming": true
+  "holdAsAiming": true,
+  "heldItemGlb": "serpentite_crossbow_charged"
 }

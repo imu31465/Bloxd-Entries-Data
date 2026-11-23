@@ -30,6 +30,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Andesite Bricks Stairs",
     "rootId": 3477,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 785,
-  "stackable": true
+  "atlasIdx": 785
 }

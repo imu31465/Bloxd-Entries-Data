@@ -7,9 +7,20 @@
     "text": "Black Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "black_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Black Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Black Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Black Bed",
+    "rootId": 456,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Black Bed",
-    "rootId": 456,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Black Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Black Bed"
+  ]
 }

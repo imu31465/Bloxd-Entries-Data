@@ -12,16 +12,16 @@
   },
   "ttb": 400,
   "textureInfo": "potato_plant_stage2",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "potato_seeds",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
+  "onMinedAura": 5,
+  "stackable": true,
   "meta": {
     "rootName": "Potato Plant",
     "rootId": 2054,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 5
+  }
 }

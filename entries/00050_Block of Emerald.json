@@ -9,6 +9,6 @@
   "ttb": 6750,
   "textureInfo": "emerald_block",
   "harvestType": "rock",
-  "atlasIdx": 564,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 564
 }

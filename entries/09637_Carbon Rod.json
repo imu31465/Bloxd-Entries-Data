@@ -7,14 +7,14 @@
     "text": "Carbon Rod"
   },
   "type": "Item",
-  "textureInfo": "carbon_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "carbon_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

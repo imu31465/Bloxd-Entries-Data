@@ -14,17 +14,17 @@
   "textureInfo": "instant_damage_potion",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "eatable": true,
   "chargeSound": "drink",
+  "stackable": false,
   "afterEatenItem": "Empty Bottle",
   "chargeStages": 1,
   "chargeTime": 1600,
+  "rootMetaDesc": "Instant Damage Potion|meta|charging1",
   "meta": {
     "rootName": "Instant Damage Potion",
     "rootId": 8938,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Instant Damage Potion|meta|charging1"
+  }
 }

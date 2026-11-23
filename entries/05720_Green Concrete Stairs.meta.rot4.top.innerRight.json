@@ -30,6 +30,7 @@
     0.5,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Green Concrete Stairs",
     "rootId": 3725,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 612,
-  "stackable": true
+  "atlasIdx": 612
 }

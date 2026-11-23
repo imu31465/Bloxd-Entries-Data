@@ -15,8 +15,8 @@
   },
   "type": "Item",
   "textureInfo": "book",
+  "heldItemGlb": "Book",
   "weight": 0,
   "heldItemScale": 1,
-  "heldItemGlb": "Book",
   "stackable": true
 }

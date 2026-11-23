@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Diorite Stairs",
     "rootId": 3493,
@@ -31,6 +32,5 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 547,
-  "stackable": true
+  "atlasIdx": 547
 }

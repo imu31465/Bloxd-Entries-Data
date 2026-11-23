@@ -9,6 +9,6 @@
   "ttb": 720,
   "textureInfo": "sponge",
   "harvestType": "granule",
-  "atlasIdx": 656,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 656
 }

@@ -6,10 +6,10 @@
     "key": "item:blackKart",
     "text": "Black Kart"
   },
-  "type": "Item",
   "textureInfo": "black_kart",
+  "heldItemGlb": "Black Kart Item",
+  "type": "Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Black Kart Item",
   "stackable": false
 }

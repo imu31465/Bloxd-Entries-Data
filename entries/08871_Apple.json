@@ -20,11 +20,11 @@
   "eatHealAmt": 12,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Apple|meta|charging1",
   "meta": {
     "rootName": "Apple",
     "rootId": 8871,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Apple|meta|charging1"
+  }
 }

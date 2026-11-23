@@ -27,6 +27,9 @@
       "animationInterval": 125
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -35,23 +38,20 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "KJ": [
+    5,
+    9,
+    2
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Fuel Rod",
     "rootId": 8181,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "KJ": [
-    5,
-    9,
-    2
-  ],
   "atlasIdx": [
     62,
     62
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

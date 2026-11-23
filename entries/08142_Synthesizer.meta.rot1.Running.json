@@ -52,6 +52,10 @@
       "interpolateFrames": false
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     8,
@@ -60,20 +64,18 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    8,
+    3
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Synthesizer",
     "rootId": 8138,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    8,
-    3
-  ],
   "atlasIdx": [
     1554,
     54,
@@ -84,7 +86,5 @@
     1576,
     55,
     56
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

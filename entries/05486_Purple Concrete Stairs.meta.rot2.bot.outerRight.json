@@ -24,6 +24,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Purple Concrete Stairs",
     "rootId": 3669,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 609,
-  "stackable": true
+  "atlasIdx": 609
 }

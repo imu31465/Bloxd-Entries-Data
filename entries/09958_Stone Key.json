@@ -7,9 +7,9 @@
     "text": "Stone Key"
   },
   "type": "Item",
-  "textureInfo": "stone_key",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "stone_key",
-  "stackable": true
+  "stackable": true,
+  "textureInfo": "stone_key",
+  "heldItemGlb": "stone_key"
 }

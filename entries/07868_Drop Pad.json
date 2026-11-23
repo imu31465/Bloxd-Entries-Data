@@ -25,10 +25,10 @@
   ],
   "harvestType": "rock",
   "drops": null,
+  "showInCreativeInven": false,
+  "stackable": true,
   "atlasIdx": [
     1359,
     1360
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

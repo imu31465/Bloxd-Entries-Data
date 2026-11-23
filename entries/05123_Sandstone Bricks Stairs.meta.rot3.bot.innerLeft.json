@@ -30,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Sandstone Bricks Stairs",
     "rootId": 3581,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 781,
-  "stackable": true
+  "atlasIdx": 781
 }

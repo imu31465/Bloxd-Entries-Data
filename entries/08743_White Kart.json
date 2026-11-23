@@ -6,10 +6,10 @@
     "key": "item:whiteKart",
     "text": "White Kart"
   },
-  "type": "Item",
   "textureInfo": "white_kart",
+  "heldItemGlb": "White Kart Item",
+  "type": "Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "White Kart Item",
   "stackable": false
 }

@@ -11,11 +11,11 @@
     "text": "Shows the time of day."
   },
   "type": "Item",
-  "textureInfo": "clock_wood_sunrise",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "clock_wood_sunrise",
   "stackable": false,
+  "heldItemGlb": "clock_wood_sunrise",
+  "textureInfo": "clock_wood_sunrise",
   "meta": {
     "rootName": "Wood Clock",
     "rootId": 9721,

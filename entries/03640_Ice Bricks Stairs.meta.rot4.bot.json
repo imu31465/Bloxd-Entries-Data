@@ -9,6 +9,8 @@
   "ttb": 1800,
   "textureInfo": "ice_brick",
   "harvestType": "rock",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
   "model": "Stairs",
   "ib": [
     0,
@@ -24,6 +26,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Ice Bricks Stairs",
     "rootId": 3637,
@@ -31,8 +34,5 @@
     "rot": 4,
     "halfblockPlacement": 0
   },
-  "harvestLevel": 0,
-  "stoodOnSpeedMultiplier": 1.4,
-  "atlasIdx": 788,
-  "stackable": true
+  "atlasIdx": 788
 }

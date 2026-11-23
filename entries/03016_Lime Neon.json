@@ -3,18 +3,18 @@
   "name": "Lime Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_lime",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_lime",
   "unlitStandaloneMesh": true,
   "KJ": [
     9,
     15,
     5
   ],
-  "atlasIdx": 1263,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1263
 }

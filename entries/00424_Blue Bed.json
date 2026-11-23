@@ -7,9 +7,20 @@
     "text": "Blue Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "blue_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Blue Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Blue Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Blue Bed",
+    "rootId": 424,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Blue Bed",
-    "rootId": 424,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Blue Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Blue Bed"
+  ]
 }

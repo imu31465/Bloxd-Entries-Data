@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "watermelon_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "watermelon_seeds",
   "stackable": true
 }

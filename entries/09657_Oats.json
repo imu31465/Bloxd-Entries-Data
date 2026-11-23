@@ -15,16 +15,16 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "eat1",
-  "eatHealAmt": 3,
-  "chargeStages": 1,
   "chargeTime": 500,
+  "eatHealAmt": 3,
+  "rootMetaDesc": "Oats|meta|charging1",
   "meta": {
     "rootName": "Oats",
     "rootId": 9657,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Oats|meta|charging1"
+  }
 }

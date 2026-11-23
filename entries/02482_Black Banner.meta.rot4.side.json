@@ -7,19 +7,21 @@
     "text": "Black Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_black",
-  "solid": false,
-  "ib": [
-    0.75,
-    0,
-    0,
-    1,
-    1,
-    1
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Black Banner Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Black Banner",
     "rootId": 2459,
@@ -27,14 +29,12 @@
     "rot": 4,
     "halfblockPlacement": 2
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Black Banner Hanging"
+  "ib": [
+    0.75,
+    0,
+    0,
+    1,
+    1,
+    1
+  ]
 }

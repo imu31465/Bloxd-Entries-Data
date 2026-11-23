@@ -5,14 +5,7 @@
   "ttb": 2800,
   "harvestType": "wood",
   "solid": false,
-  "ib": [
-    0.875,
-    0,
-    0,
-    1,
-    1,
-    1
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Trapdoor",
     "rootId": 626,
@@ -20,5 +13,12 @@
     "rot": 4,
     "open": true
   },
-  "stackable": true
+  "ib": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ]
 }

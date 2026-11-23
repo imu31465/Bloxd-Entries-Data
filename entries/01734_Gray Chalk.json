@@ -19,6 +19,6 @@
   "ttb": 850,
   "textureInfo": "chalk_gray",
   "harvestType": "rock",
-  "atlasIdx": 1171,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1171
 }

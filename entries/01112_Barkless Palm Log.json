@@ -9,6 +9,6 @@
   "ttb": 2000,
   "textureInfo": "stripped_palm_log",
   "harvestType": "wood",
-  "atlasIdx": 896,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 896
 }

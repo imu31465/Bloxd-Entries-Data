@@ -16,16 +16,10 @@
     "express_belt_slab_side",
     "conveyor_belt_bottom"
   ],
-  "texturePerSide": [
-    1,
-    1,
-    0,
-    2,
-    1,
-    1
-  ],
-  "harvestType": "rock",
   "model": "Slab|rotatable",
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
   "ib": [
     0,
     0,
@@ -34,26 +28,32 @@
     0.5,
     1
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "surfaceVelocity": [
+    6,
+    0,
+    0
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Express Belt",
     "rootId": 8220,
     "metaStr": "meta|rot4|turnLeft",
     "rot": 4
   },
-  "harvestLevel": 0,
-  "surfaceVelocity": [
-    6,
-    0,
-    0
-  ],
-  "customModelInfo": {
-    "yOffset": -0.25
-  },
   "atlasIdx": [
     1620,
     1619,
     1402
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

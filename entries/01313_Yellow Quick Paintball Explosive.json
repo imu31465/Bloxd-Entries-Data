@@ -2,9 +2,9 @@
   "id": 1313,
   "name": "Yellow Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_yellow",
   "harvestType": "cuttable",
-  "atlasIdx": 948,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 948
 }

@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "brra_brra_pachim",
+  "blockModel": "brra_brra_pachim",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 2.5,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "brra_brra_pachim",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

@@ -2,9 +2,9 @@
   "id": 1329,
   "name": "Yellow Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_yellow",
   "harvestType": "cuttable",
-  "atlasIdx": 964,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 964
 }

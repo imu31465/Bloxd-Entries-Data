@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "melon_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "melon_seeds",
   "stackable": true
 }

@@ -14,8 +14,8 @@
   "textureInfo": "iron_pickaxe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 27,
+  "stackable": false,
   "harvests": "rock",
   "multiplier": 6,
   "level": 3

@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Marked Red Sandstone Stairs",
     "rootId": 3613,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 777,
-  "stackable": true
+  "atlasIdx": 777
 }

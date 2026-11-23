@@ -34,6 +34,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Chalk Stairs",
     "rootId": 3821,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 1166,
-  "stackable": true
+  "atlasIdx": 1166
 }

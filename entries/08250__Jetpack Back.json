@@ -13,9 +13,9 @@
   "ttb": 500000000000,
   "textureInfo": "jetpack_back",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
-  "atlasIdx": 1629,
+  "showInCreativeInven": false,
+  "drops": null,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1629
 }

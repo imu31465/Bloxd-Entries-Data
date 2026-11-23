@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "lime_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Lime Concrete",
+  "rootMetaDesc": "Lime Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Lime Concrete Slab",
     "rootId": 1167,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Lime Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 605,
-  "stackable": true,
-  "slabFullBlock": "Lime Concrete"
+  "atlasIdx": 605
 }

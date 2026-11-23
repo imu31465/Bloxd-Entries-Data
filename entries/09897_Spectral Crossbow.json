@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "spectral_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "spectral_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Spectral Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "spectral_crossbow",
+  "heldItemGlb": "spectral_crossbow",
   "meta": {
     "rootName": "Spectral Crossbow",
     "rootId": 9897,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Spectral Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

@@ -24,6 +24,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Lime Concrete Stairs",
     "rootId": 3701,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 605,
-  "stackable": true
+  "atlasIdx": 605
 }

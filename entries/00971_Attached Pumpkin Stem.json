@@ -11,16 +11,10 @@
     "attached_melon_stem_wrapper",
     "attached_melon_stem"
   ],
-  "harvestType": "cuttable",
   "model": "CustomPlanes|rotatable",
-  "drops": "Pumpkin Seeds",
   "solid": false,
-  "meta": {
-    "rootName": "Attached Pumpkin Stem",
-    "rootId": 971,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
+  "harvestType": "cuttable",
+  "drops": "Pumpkin Seeds",
   "rootMetaDesc": "Attached Pumpkin Stem|meta|rot1",
   "customPlanesInfo": [
     {
@@ -36,5 +30,11 @@
       "yRot": 4.71238898038469
     }
   ],
-  "stackable": true
+  "stackable": true,
+  "meta": {
+    "rootName": "Attached Pumpkin Stem",
+    "rootId": 971,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  }
 }

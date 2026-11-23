@@ -3,21 +3,21 @@
   "name": "_Cannon Barrel Front",
   "kind": "block",
   "ttb": 3600,
-  "harvestType": "rock",
   "model": "rotatable",
-  "drops": "Cannon",
   "modelScale": 8,
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "cannon_barrel_front",
+  "rootMetaDesc": "_Cannon Barrel Front|meta|rot1",
+  "drops": "Cannon",
+  "stackable": true,
   "meta": {
     "rootName": "_Cannon Barrel Front",
     "rootId": 7847,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "_Cannon Barrel Front|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "cannon_barrel_front"
+  }
 }

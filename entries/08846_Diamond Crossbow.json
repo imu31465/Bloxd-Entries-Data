@@ -11,20 +11,20 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "diamond_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "rootMetaDesc": "Diamond Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "diamond_crossbow",
   "meta": {
     "rootName": "Diamond Crossbow",
     "rootId": 8846,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Diamond Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

@@ -6,8 +6,8 @@
   "textureInfo": "caught_cave_golem_default",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Caught Mob Cave_Golem Default",
   "stackable": false,
+  "heldItemGlb": "Caught Mob Cave_Golem Default",
   "meta": {
     "rootName": "Caught Mob Cave_Golem Corrupted",
     "rootId": 9398,

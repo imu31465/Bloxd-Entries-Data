@@ -2,9 +2,9 @@
   "id": 1352,
   "name": "Lime Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_lime",
   "harvestType": "cuttable",
-  "atlasIdx": 987,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 987
 }

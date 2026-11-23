@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "planks_aspen",
   "harvestType": "wood",
-  "atlasIdx": 532,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 532
 }

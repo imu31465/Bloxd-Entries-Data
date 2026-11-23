@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "sanguine_bow_charging_4",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "sanguine_bow_charging_4",
   "stackable": false,
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "sanguine_bow_charging_4",
+  "heldItemGlb": "sanguine_bow_charging_4",
   "meta": {
     "rootName": "Sanguine Bow",
     "rootId": 9871,
     "metaStr": "meta|charging4",
     "charging": 4
-  },
-  "textureName": "diamond_bow"
+  }
 }

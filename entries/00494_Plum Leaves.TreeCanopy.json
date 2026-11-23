@@ -6,12 +6,12 @@
   "textureInfo": "leaves_plum",
   "harvestType": "cuttable",
   "drops": "Plum Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Plum Leaves",
     "rootId": 491,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 789,
-  "stackable": true
+  "atlasIdx": 789
 }

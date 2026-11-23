@@ -19,9 +19,9 @@
     0,
     0
   ],
-  "harvestType": "cuttable",
   "model": "Slab",
   "solid": false,
+  "harvestType": "cuttable",
   "ib": [
     0,
     0,
@@ -30,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Fallen Maple Leaves",
     "rootId": 655,
@@ -40,6 +41,5 @@
   "atlasIdx": [
     798,
     797
-  ],
-  "stackable": true
+  ]
 }

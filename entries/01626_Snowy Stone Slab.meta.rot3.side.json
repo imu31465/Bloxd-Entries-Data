@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Snowy Messy Stone",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Snowy Stone Slab",
     "rootId": 1622,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     1145,
     1144
-  ],
-  "stackable": true,
-  "slabFullBlock": "Snowy Messy Stone"
+  ]
 }

@@ -8,8 +8,9 @@
   },
   "ttb": 1080,
   "textureInfo": "light_blue_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Light Blue Concrete",
   "ib": [
     0,
     0,
@@ -18,6 +19,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Blue Concrete Slab",
     "rootId": 1179,
@@ -25,7 +27,5 @@
     "rot": 3,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 604,
-  "stackable": true,
-  "slabFullBlock": "Light Blue Concrete"
+  "atlasIdx": 604
 }

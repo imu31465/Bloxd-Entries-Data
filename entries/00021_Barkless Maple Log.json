@@ -9,6 +9,6 @@
   "ttb": 2000,
   "textureInfo": "stripped_maple_log",
   "harvestType": "wood",
-  "atlasIdx": 537,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 537
 }

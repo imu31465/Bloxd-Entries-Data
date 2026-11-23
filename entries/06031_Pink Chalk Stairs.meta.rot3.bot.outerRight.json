@@ -34,6 +34,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pink Chalk Stairs",
     "rootId": 3805,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 1164,
-  "stackable": true
+  "atlasIdx": 1164
 }

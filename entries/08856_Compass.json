@@ -11,17 +11,17 @@
     "text": "Points to (0, 0, 0)"
   },
   "type": "Directional",
-  "textureInfo": "compass",
+  "textureName": "compass",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "Compass",
   "stackable": false,
+  "rootMetaDesc": "Compass|meta|dir1",
+  "heldItemGlb": "Compass",
+  "textureInfo": "compass",
   "meta": {
     "rootName": "Compass",
     "rootId": 8856,
     "metaStr": "meta|dir1",
     "direction": 1
-  },
-  "rootMetaDesc": "Compass|meta|dir1",
-  "textureName": "compass"
+  }
 }

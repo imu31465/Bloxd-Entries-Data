@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Diorite Stairs",
     "rootId": 3501,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 782,
-  "stackable": true
+  "atlasIdx": 782
 }

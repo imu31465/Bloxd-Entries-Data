@@ -24,6 +24,7 @@
     0
   ],
   "harvestType": "wood",
+  "stackable": true,
   "meta": {
     "rootName": "Mailbox",
     "rootId": 1084,
@@ -33,6 +34,5 @@
   "atlasIdx": [
     891,
     892
-  ],
-  "stackable": true
+  ]
 }

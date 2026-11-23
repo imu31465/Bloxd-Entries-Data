@@ -10,20 +10,20 @@
     "key": "item:paintBowDescription",
     "unresolved": true
   },
+  "textureName": "white_paint_bow",
   "type": "Chargeable",
-  "textureInfo": "white_paint_bow_charging_4",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
   "chargeStages": 4,
   "chargeTime": 1500,
-  "minChargeStateToUse": 0,
   "holdAsAiming": true,
+  "minChargeStateToUse": 0,
+  "textureInfo": "white_paint_bow_charging_4",
   "meta": {
     "rootName": "White Paint Bow",
     "rootId": 9222,
     "metaStr": "meta|charging4",
     "charging": 4
-  },
-  "textureName": "white_paint_bow"
+  }
 }

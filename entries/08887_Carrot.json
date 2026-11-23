@@ -14,16 +14,16 @@
   "textureInfo": "carrot",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": true,
   "eatable": true,
   "chargeSound": "eat1",
+  "stackable": true,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Carrot|meta|charging1",
   "meta": {
     "rootName": "Carrot",
     "rootId": 8887,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Carrot|meta|charging1"
+  }
 }

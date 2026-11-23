@@ -22,6 +22,15 @@
       "animationInterval": 400
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "drops": "Reactor Frame",
+  "KJ": [
+    2,
+    11,
+    3
+  ],
   "texturePerSide": [
     0,
     0,
@@ -30,23 +39,14 @@
     0,
     0
   ],
-  "harvestType": "rock",
-  "drops": "Reactor Frame",
+  "stackable": true,
   "meta": {
     "rootName": "Reactor Controller",
     "rootId": 8155,
     "metaStr": "meta|rot4|Calm",
     "rot": 4
   },
-  "harvestLevel": 0,
-  "KJ": [
-    2,
-    11,
-    3
-  ],
   "atlasIdx": [
     58
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

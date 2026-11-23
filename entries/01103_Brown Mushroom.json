@@ -8,9 +8,9 @@
   },
   "ttb": 400,
   "textureInfo": "brown_mushroom",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "brown_mushroom",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "brown_mushroom",
   "stackable": true
 }

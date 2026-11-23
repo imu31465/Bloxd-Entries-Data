@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "banana_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "banana_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "banana_seeds",
   "stackable": true
 }

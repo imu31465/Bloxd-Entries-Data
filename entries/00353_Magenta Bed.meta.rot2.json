@@ -7,9 +7,19 @@
     "text": "Magenta Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "magenta_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Magenta Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Magenta Bed",
+    "rootId": 352,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -17,15 +27,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Magenta Bed",
-    "rootId": 352,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Magenta Bed"
+  ]
 }

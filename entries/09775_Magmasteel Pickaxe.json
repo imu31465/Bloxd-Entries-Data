@@ -13,10 +13,10 @@
   "textureInfo": "magmasteel_pickaxe",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "magmasteel_pickaxe",
-  "stackable": false,
   "damage": 32,
+  "stackable": false,
   "harvests": "rock",
   "multiplier": 8,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "magmasteel_pickaxe"
 }

@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Engraved Granite",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Granite Slab",
     "rootId": 817,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     825,
     786
-  ],
-  "stackable": true,
-  "slabFullBlock": "Engraved Granite"
+  ]
 }

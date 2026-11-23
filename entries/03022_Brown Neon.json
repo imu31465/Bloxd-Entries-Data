@@ -3,18 +3,18 @@
   "name": "Brown Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_brown",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_brown",
   "unlitStandaloneMesh": true,
   "KJ": [
     7,
     4,
     2
   ],
-  "atlasIdx": 1269,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1269
 }

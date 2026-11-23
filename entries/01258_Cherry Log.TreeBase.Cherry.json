@@ -6,6 +6,7 @@
   "textureInfo": "log_cherry",
   "harvestType": "wood",
   "drops": "Cherry Log",
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Log",
     "rootId": 1222,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Cherry"
   },
-  "atlasIdx": 902,
-  "stackable": true
+  "atlasIdx": 902
 }

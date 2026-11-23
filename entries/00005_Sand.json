@@ -13,6 +13,6 @@
     "break": "sand",
     "place": "sand"
   },
-  "atlasIdx": 521,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 521
 }

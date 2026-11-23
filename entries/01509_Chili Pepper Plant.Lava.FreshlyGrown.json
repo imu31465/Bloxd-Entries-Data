@@ -3,22 +3,22 @@
   "name": "Chili Pepper Plant|Lava|FreshlyGrown",
   "kind": "block",
   "ttb": 400,
-  "harvestType": "cuttable",
   "model": "CustomModel",
-  "drops": "Chili Pepper Seeds",
-  "solid": false,
   "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375
+  },
+  "harvestType": "cuttable",
+  "solid": false,
+  "blockModel": "chili_pepper_stage6_lava_model",
+  "drops": "Chili Pepper Seeds",
+  "onMinedAura": 20,
+  "stackable": true,
   "meta": {
     "rootName": "Chili Pepper Plant",
     "rootId": 1500,
     "metaStr": "Lava|FreshlyGrown",
     "freshlyGrown": true,
     "lava": true
-  },
-  "customModelInfo": {
-    "yOffset": -0.4375
-  },
-  "stackable": true,
-  "blockModel": "chili_pepper_stage6_lava_model",
-  "onMinedAura": 20
+  }
 }

@@ -7,10 +7,10 @@
     "text": "Corn"
   },
   "ttb": 400,
-  "textureInfo": "corn_stage2",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Corn Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Corn Seeds",
+  "textureInfo": "corn_stage2",
   "stackable": true
 }

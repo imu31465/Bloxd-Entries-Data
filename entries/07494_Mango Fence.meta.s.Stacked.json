@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_mango",
+  "itemTexture": "mango_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "mango_fence",
   "ib": [
     0.375,
     0,
@@ -25,12 +25,12 @@
     1,
     1
   ],
+  "attachedTop": "_Mango Fence Top|meta|s",
+  "stackable": true,
   "meta": {
     "rootName": "Mango Fence",
     "rootId": 7474,
     "metaStr": "meta|s|Stacked"
   },
-  "atlasIdx": 1213,
-  "stackable": true,
-  "attachedTop": "_Mango Fence Top|meta|s"
+  "atlasIdx": 1213
 }

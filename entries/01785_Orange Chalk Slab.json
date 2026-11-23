@@ -16,10 +16,12 @@
       "colour": "$t(colour:orange)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_orange",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Orange Chalk",
+  "textureInfo": "chalk_orange",
+  "rootMetaDesc": "Orange Chalk Slab|meta|rot1|bot",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +30,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Orange Chalk Slab",
     "rootId": 1785,
@@ -35,8 +38,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Orange Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 1165,
-  "stackable": true,
-  "slabFullBlock": "Orange Chalk"
+  "atlasIdx": 1165
 }

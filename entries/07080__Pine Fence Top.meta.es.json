@@ -8,10 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_pine",
+  "itemTexture": "pine_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "pine_fence",
-  "drops": null,
   "ib": [
     0.375,
     0,
@@ -32,12 +31,13 @@
     0.5,
     1
   ],
+  "canBePlacedOver": true,
+  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "_Pine Fence Top",
     "rootId": 7074,
     "metaStr": "meta|es"
   },
-  "atlasIdx": 535,
-  "stackable": true,
-  "canBePlacedOver": true
+  "atlasIdx": 535
 }

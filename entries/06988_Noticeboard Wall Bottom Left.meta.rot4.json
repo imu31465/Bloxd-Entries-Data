@@ -8,9 +8,23 @@
   },
   "ttb": 1800,
   "harvestType": "wood",
-  "model": "rotatable",
-  "itemTexture": "noticeboard_wall_bottom_left",
   "solid": true,
+  "model": "rotatable",
+  "blockModelItem": true,
+  "modelScale": 8,
+  "heldItemScale": 4,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "noticeboard_wall_bottom_left",
+  "itemTexture": "noticeboard_wall_bottom_left",
+  "stackable": true,
+  "meta": {
+    "rootName": "Noticeboard Wall Bottom Left",
+    "rootId": 6985,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0,
     0,
@@ -18,19 +32,5 @@
     0.25,
     1,
     1
-  ],
-  "heldItemScale": 4,
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Noticeboard Wall Bottom Left",
-    "rootId": 6985,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "noticeboard_wall_bottom_left",
-  "blockModelItem": true
+  ]
 }

@@ -6,6 +6,7 @@
   "textureInfo": "stripped_aspen_log",
   "harvestType": "wood",
   "drops": "Barkless Aspen Log",
+  "stackable": true,
   "meta": {
     "rootName": "Barkless Aspen Log",
     "rootId": 22,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Aspen"
   },
-  "atlasIdx": 538,
-  "stackable": true
+  "atlasIdx": 538
 }

@@ -11,22 +11,22 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "astral_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "astral_bow",
   "stackable": false,
+  "rootMetaDesc": "Astral Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "astral_bow",
+  "heldItemGlb": "astral_bow",
   "meta": {
     "rootName": "Astral Bow",
     "rootId": 9937,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Astral Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

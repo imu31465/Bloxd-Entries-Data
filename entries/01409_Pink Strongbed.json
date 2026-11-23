@@ -7,9 +7,20 @@
     "text": "Pink Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "pink_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "rootMetaDesc": "Pink Strongbed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Pink Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Pink Strongbed",
+    "rootId": 1409,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -23,16 +34,5 @@
     1,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Pink Strongbed",
-    "rootId": 1409,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Pink Strongbed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Pink Strongbed"
+  ]
 }

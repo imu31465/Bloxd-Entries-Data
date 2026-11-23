@@ -20,6 +20,7 @@
   "textureInfo": "chalk_bricks_lime",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Lime Chalk Bricks Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -34,6 +35,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Lime Chalk Bricks Stairs",
     "rootId": 3957,
@@ -41,7 +43,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Lime Chalk Bricks Stairs|meta|rot1|bot",
-  "atlasIdx": 1183,
-  "stackable": true
+  "atlasIdx": 1183
 }

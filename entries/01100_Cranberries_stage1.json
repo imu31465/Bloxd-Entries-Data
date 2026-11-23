@@ -3,10 +3,10 @@
   "name": "Cranberries_stage1",
   "kind": "block",
   "ttb": 400,
-  "textureInfo": "berry_bush_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Cranberries",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Cranberries",
+  "textureInfo": "berry_bush_stage1",
   "stackable": true
 }

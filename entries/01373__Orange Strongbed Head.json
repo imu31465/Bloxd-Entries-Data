@@ -3,10 +3,21 @@
   "name": "_Orange Strongbed Head",
   "kind": "block",
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "orange_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
   "drops": "Orange Strongbed",
+  "rootMetaDesc": "_Orange Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Orange Strongbed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Orange Strongbed Head",
+    "rootId": 1373,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -20,16 +31,5 @@
     1,
     1,
     0.125
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Orange Strongbed Head",
-    "rootId": 1373,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "_Orange Strongbed Head|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Orange Strongbed Head"
+  ]
 }

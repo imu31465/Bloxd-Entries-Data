@@ -13,8 +13,8 @@
   "textureInfo": "magmasteel_crossbow_charged",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "magmasteel_crossbow_charged",
   "stackable": false,
   "secondaryDamage": 68,
-  "holdAsAiming": true
+  "holdAsAiming": true,
+  "heldItemGlb": "magmasteel_crossbow_charged"
 }

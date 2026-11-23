@@ -11,11 +11,11 @@
     "text": "Shows the time of day."
   },
   "type": "Item",
-  "textureInfo": "clock_wood_midnight",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "clock_wood_midnight",
   "stackable": false,
+  "heldItemGlb": "clock_wood_midnight",
+  "textureInfo": "clock_wood_midnight",
   "meta": {
     "rootName": "Wood Clock",
     "rootId": 9721,

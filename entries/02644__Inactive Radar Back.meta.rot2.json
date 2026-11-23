@@ -17,6 +17,7 @@
   ],
   "harvestType": "rock",
   "drops": "Radar",
+  "stackable": true,
   "meta": {
     "rootName": "_Inactive Radar Back",
     "rootId": 2643,
@@ -26,6 +27,5 @@
   "atlasIdx": [
     1250,
     1249
-  ],
-  "stackable": true
+  ]
 }

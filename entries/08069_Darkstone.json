@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "darkstone",
   "harvestType": "rock",
-  "atlasIdx": 1527,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1527
 }

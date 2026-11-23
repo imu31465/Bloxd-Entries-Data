@@ -53,6 +53,16 @@
     "collider_top[rot[1",
     "collider_bottom"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "altActionable": true,
+  "drops": null,
+  "KJ": [
+    8,
+    3,
+    8
+  ],
   "texturePerSide": [
     1,
     1,
@@ -61,27 +71,17 @@
     1,
     1
   ],
-  "harvestType": "rock",
-  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "_Collider Focus",
     "rootId": 8203,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    8,
-    3,
-    8
-  ],
   "atlasIdx": [
     1601,
     66,
     1602,
     1606
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

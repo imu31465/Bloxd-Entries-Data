@@ -2,9 +2,9 @@
   "id": 1360,
   "name": "Black Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_black",
   "harvestType": "cuttable",
-  "atlasIdx": 995,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 995
 }

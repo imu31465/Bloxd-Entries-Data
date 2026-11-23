@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "diamond_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "rootMetaDesc": "Diamond Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "diamond_bow",
   "meta": {
     "rootName": "Diamond Bow",
     "rootId": 8826,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Diamond Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

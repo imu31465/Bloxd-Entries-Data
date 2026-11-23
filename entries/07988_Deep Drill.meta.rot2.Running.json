@@ -33,6 +33,10 @@
     "deep_drill_bottom",
     "deep_drill_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     7,
@@ -41,20 +45,18 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "KJ": [
+    6,
+    4,
+    2
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Deep Drill",
     "rootId": 7983,
     "metaStr": "meta|rot2|Running",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    6,
-    4,
-    2
-  ],
   "atlasIdx": [
     1454,
     38,
@@ -64,7 +66,5 @@
     1459,
     1460,
     1461
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

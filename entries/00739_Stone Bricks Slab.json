@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Stone Bricks",
+  "rootMetaDesc": "Stone Bricks Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Stone Bricks Slab",
     "rootId": 739,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Stone Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
     812,
     643
-  ],
-  "stackable": true,
-  "slabFullBlock": "Stone Bricks"
+  ]
 }

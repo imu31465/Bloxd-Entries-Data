@@ -9,6 +9,6 @@
   "ttb": 600,
   "textureInfo": "podzol_top",
   "harvestType": "granule",
-  "atlasIdx": 772,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 772
 }

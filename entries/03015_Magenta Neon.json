@@ -3,18 +3,18 @@
   "name": "Magenta Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_magenta",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_magenta",
   "unlitStandaloneMesh": true,
   "KJ": [
     13,
     5,
     12
   ],
-  "atlasIdx": 1262,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1262
 }

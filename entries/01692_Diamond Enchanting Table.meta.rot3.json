@@ -15,17 +15,17 @@
   "model": "rotatable",
   "itemTexture": "diamond_enchanting_table",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Diamond Enchanting Table",
-    "rootId": 1690,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
+  "blockModel": "Diamond Enchanting Table",
   "KJ": [
     10,
     0,
     10
   ],
   "stackable": true,
-  "blockModel": "Diamond Enchanting Table"
+  "meta": {
+    "rootName": "Diamond Enchanting Table",
+    "rootId": 1690,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  }
 }

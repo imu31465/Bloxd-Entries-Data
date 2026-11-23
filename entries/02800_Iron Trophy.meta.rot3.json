@@ -11,15 +11,15 @@
   "model": "rotatable",
   "itemTexture": "iron_trophy",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Iron Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Iron Trophy",
     "rootId": 2798,
     "metaStr": "meta|rot3",
     "rot": 3
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Iron Trophy"
+  }
 }

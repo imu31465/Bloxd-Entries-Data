@@ -11,7 +11,7 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "wood_bow_charging_3",
+  "textureName": "wood_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
@@ -20,11 +20,11 @@
   "secondaryDamage": 37,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "wood_bow_charging_3",
   "meta": {
     "rootName": "Wood Bow",
     "rootId": 8810,
     "metaStr": "meta|charging3",
     "charging": 3
-  },
-  "textureName": "wood_bow"
+  }
 }

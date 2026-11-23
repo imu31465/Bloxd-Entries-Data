@@ -18,6 +18,7 @@
   ],
   "harvestType": "rock",
   "drops": "Solar Panel",
+  "stackable": true,
   "meta": {
     "rootName": "_Solar Panel NE",
     "rootId": 3178,
@@ -28,6 +29,5 @@
     1284,
     1285,
     1286
-  ],
-  "stackable": true
+  ]
 }

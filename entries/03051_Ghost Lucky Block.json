@@ -6,8 +6,8 @@
   "textureInfo": "ghost_lucky_block",
   "harvestType": "rock",
   "transTex": true,
-  "drops": null,
   "solid": false,
-  "atlasIdx": 1277,
-  "stackable": true
+  "drops": null,
+  "stackable": true,
+  "atlasIdx": 1277
 }

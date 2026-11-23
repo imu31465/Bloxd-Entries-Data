@@ -13,8 +13,8 @@
   "ttb": 5000,
   "textureInfo": "diamond_ore",
   "harvestType": "rock",
-  "drops": "Diamond",
   "harvestLevel": 3,
+  "drops": "Diamond",
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Diamond Ore"
@@ -43,12 +43,12 @@
       }
     ]
   },
+  "onMinedAura": 40,
   "KJ": [
     2,
     5,
     5
   ],
-  "atlasIdx": 559,
   "stackable": true,
-  "onMinedAura": 40
+  "atlasIdx": 559
 }

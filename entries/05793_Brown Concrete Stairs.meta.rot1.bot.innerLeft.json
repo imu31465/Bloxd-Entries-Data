@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Brown Concrete Stairs",
     "rootId": 3749,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 602,
-  "stackable": true
+  "atlasIdx": 602
 }

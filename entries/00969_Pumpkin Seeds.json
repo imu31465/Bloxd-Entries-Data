@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "pumpkin_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "pumpkin_seeds",
   "stackable": true
 }

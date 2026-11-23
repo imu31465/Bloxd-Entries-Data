@@ -16,10 +16,12 @@
       "colour": "$t(colour:white)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_white",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "White Chalk",
+  "textureInfo": "chalk_white",
+  "rootMetaDesc": "White Chalk Slab|meta|rot1|bot",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +30,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "White Chalk Slab",
     "rootId": 1761,
@@ -35,8 +38,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "White Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 1161,
-  "stackable": true,
-  "slabFullBlock": "White Chalk"
+  "atlasIdx": 1161
 }

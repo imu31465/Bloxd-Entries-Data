@@ -6,6 +6,7 @@
   "textureInfo": "log_spectral",
   "harvestType": "wood",
   "drops": "Spectral Log",
+  "stackable": true,
   "meta": {
     "rootName": "Spectral Log",
     "rootId": 1632,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Spectral"
   },
-  "atlasIdx": 1148,
-  "stackable": true
+  "atlasIdx": 1148
 }

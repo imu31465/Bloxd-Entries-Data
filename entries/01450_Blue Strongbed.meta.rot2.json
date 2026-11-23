@@ -7,9 +7,19 @@
     "text": "Blue Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "blue_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Blue Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Blue Strongbed",
+    "rootId": 1449,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -23,15 +33,5 @@
     1,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Blue Strongbed",
-    "rootId": 1449,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Blue Strongbed"
+  ]
 }

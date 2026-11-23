@@ -9,6 +9,6 @@
   "textureInfo": "magmasteel",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "magmasteel",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "magmasteel"
 }

@@ -2,9 +2,9 @@
   "id": 1336,
   "name": "Lime Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_lime",
   "harvestType": "cuttable",
-  "atlasIdx": 971,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 971
 }

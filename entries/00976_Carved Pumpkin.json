@@ -12,6 +12,8 @@
     "pumpkin_side",
     "pumpkin_top"
   ],
+  "harvestType": "wood",
+  "rootMetaDesc": "Carved Pumpkin|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -20,18 +22,16 @@
     0,
     1
   ],
-  "harvestType": "wood",
+  "stackable": true,
   "meta": {
     "rootName": "Carved Pumpkin",
     "rootId": 976,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Carved Pumpkin|meta|rot1",
   "atlasIdx": [
     863,
     861,
     862
-  ],
-  "stackable": true
+  ]
 }

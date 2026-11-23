@@ -4,22 +4,22 @@
   "kind": "block",
   "ttb": 1,
   "textureInfo": "tall_grass_top",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "tall_grass_top",
-  "drops": null,
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "specialToolDrop": {
+    "tool": "Shears",
+    "drops": "Tall Grass"
+  },
+  "itemTexture": "tall_grass_top",
+  "canBePlacedOver": true,
+  "stackable": true,
   "meta": {
     "rootName": "Tall Grass",
     "rootId": 1109,
     "metaStr": "Top",
     "top": true
-  },
-  "specialToolDrop": {
-    "tool": "Shears",
-    "drops": "Tall Grass"
-  },
-  "stackable": true,
-  "canBePlacedOver": true
+  }
 }

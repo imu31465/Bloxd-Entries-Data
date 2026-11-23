@@ -14,12 +14,12 @@
   "textureInfo": "iron_spear",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 28,
   "attackRange": 5,
-  "abilityCooldownMs": 1600,
-  "dashImpulse": 22,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 3
+  "level": 3,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 22
 }

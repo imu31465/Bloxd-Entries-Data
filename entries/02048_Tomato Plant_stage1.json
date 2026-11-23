@@ -7,11 +7,11 @@
     "text": "Tomato"
   },
   "ttb": 400,
-  "textureInfo": "tomato_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "tomato_plant_stage1",
-  "drops": null,
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "textureInfo": "tomato_plant_stage1",
+  "itemTexture": "tomato_plant_stage1",
   "stackable": true
 }

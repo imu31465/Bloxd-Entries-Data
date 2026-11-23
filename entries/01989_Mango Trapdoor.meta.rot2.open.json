@@ -5,14 +5,7 @@
   "ttb": 2800,
   "harvestType": "wood",
   "solid": false,
-  "ib": [
-    0,
-    0,
-    0,
-    0.125,
-    1,
-    1
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "Mango Trapdoor",
     "rootId": 1986,
@@ -20,5 +13,12 @@
     "rot": 2,
     "open": true
   },
-  "stackable": true
+  "ib": [
+    0,
+    0,
+    0,
+    0.125,
+    1,
+    1
+  ]
 }

@@ -21,6 +21,15 @@
     "laser_side",
     "laser_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "altActionable": true,
+  "KJ": [
+    9,
+    3,
+    9
+  ],
   "texturePerSide": [
     0,
     7,
@@ -29,20 +38,13 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Laser",
     "rootId": 8211,
     "metaStr": "meta|rot2|Running",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    9,
-    3,
-    9
-  ],
   "atlasIdx": [
     1607,
     1608,
@@ -52,7 +54,5 @@
     1608,
     1608,
     1609
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

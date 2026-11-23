@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "brown_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Brown Concrete",
+  "rootMetaDesc": "Brown Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Brown Concrete Slab",
     "rootId": 1203,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Brown Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 602,
-  "stackable": true,
-  "slabFullBlock": "Brown Concrete"
+  "atlasIdx": 602
 }

@@ -15,17 +15,17 @@
   "model": "rotatable",
   "itemTexture": "stone_enchanting_table",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Stone Enchanting Table",
-    "rootId": 1678,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
+  "blockModel": "Stone Enchanting Table",
   "KJ": [
     4,
     0,
     4
   ],
   "stackable": true,
-  "blockModel": "Stone Enchanting Table"
+  "meta": {
+    "rootName": "Stone Enchanting Table",
+    "rootId": 1678,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Stone Stairs",
     "rootId": 3421,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 648,
-  "stackable": true
+  "atlasIdx": 648
 }

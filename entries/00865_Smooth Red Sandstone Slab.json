@@ -8,8 +8,10 @@
   },
   "ttb": 640,
   "textureInfo": "red_sandstone_top",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Smooth Red Sandstone",
+  "rootMetaDesc": "Smooth Red Sandstone Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Red Sandstone Slab",
     "rootId": 865,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Smooth Red Sandstone Slab|meta|rot1|bot",
-  "atlasIdx": 775,
-  "stackable": true,
-  "slabFullBlock": "Smooth Red Sandstone"
+  "atlasIdx": 775
 }

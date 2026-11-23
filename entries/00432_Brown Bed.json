@@ -7,9 +7,20 @@
     "text": "Brown Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "brown_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Brown Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Brown Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Brown Bed",
+    "rootId": 432,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Brown Bed",
-    "rootId": 432,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Brown Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Brown Bed"
+  ]
 }

@@ -4,30 +4,30 @@
   "kind": "block",
   "ttb": 300,
   "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "torch_black",
   "solid": false,
-  "heldItemScale": 8,
+  "model": "CustomModel",
   "modelScale": 8,
-  "meta": {
-    "rootName": "Black Torch",
-    "rootId": 3003,
-    "metaStr": "meta|rot1|bot",
-    "rot": 1,
-    "halfblockPlacement": 0
-  },
-  "rootMetaDesc": "Black Torch|meta|rot1|bot",
-  "unlitStandaloneMesh": true,
   "customModelInfo": {
     "yOffset": -0.5,
     "unlit": true
   },
+  "blockModel": "torch_black",
+  "blockModelItem": true,
+  "heldItemScale": 8,
+  "unlitStandaloneMesh": true,
+  "rootMetaDesc": "Black Torch|meta|rot1|bot",
   "KJ": [
     2,
     2,
     2
   ],
   "stackable": true,
-  "blockModel": "torch_black",
-  "blockModelItem": true
+  "meta": {
+    "rootName": "Black Torch",
+    "rootId": 3003,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  }
 }

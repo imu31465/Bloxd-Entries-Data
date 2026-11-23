@@ -21,6 +21,16 @@
     "wireless_terminal_bottom",
     "wireless_terminal_top[rot[1"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "altActionable": true,
+  "KJ": [
+    2,
+    6,
+    3
+  ],
+  "rootMetaDesc": "Wireless Terminal|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,21 +39,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Wireless Terminal",
     "rootId": 8215,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Wireless Terminal|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    2,
-    6,
-    3
-  ],
   "atlasIdx": [
     1610,
     1611,
@@ -53,7 +55,5 @@
     1614,
     1615,
     1611
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

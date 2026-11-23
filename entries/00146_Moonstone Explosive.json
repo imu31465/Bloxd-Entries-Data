@@ -24,9 +24,9 @@
     0
   ],
   "harvestType": "cuttable",
+  "stackable": true,
   "atlasIdx": [
     659,
     660
-  ],
-  "stackable": true
+  ]
 }

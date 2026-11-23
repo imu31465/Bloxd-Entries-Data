@@ -16,10 +16,12 @@
       "colour": "$t(colour:red)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_red",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Red Chalk",
+  "textureInfo": "chalk_red",
+  "rootMetaDesc": "Red Chalk Slab|meta|rot1|bot",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +30,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Red Chalk Slab",
     "rootId": 1767,
@@ -35,8 +38,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Red Chalk Slab|meta|rot1|bot",
-  "atlasIdx": 1162,
-  "stackable": true,
-  "slabFullBlock": "Red Chalk"
+  "atlasIdx": 1162
 }

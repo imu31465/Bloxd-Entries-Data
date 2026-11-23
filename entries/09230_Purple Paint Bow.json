@@ -10,21 +10,21 @@
     "key": "item:paintBowDescription",
     "unresolved": true
   },
+  "textureName": "purple_paint_bow",
+  "rootMetaDesc": "Purple Paint Bow|meta|charging1",
   "type": "Chargeable",
-  "textureInfo": "purple_paint_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
   "chargeStages": 4,
   "chargeTime": 1500,
-  "minChargeStateToUse": 0,
   "holdAsAiming": true,
+  "minChargeStateToUse": 0,
+  "textureInfo": "purple_paint_bow",
   "meta": {
     "rootName": "Purple Paint Bow",
     "rootId": 9230,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Purple Paint Bow|meta|charging1",
-  "textureName": "purple_paint_bow"
+  }
 }

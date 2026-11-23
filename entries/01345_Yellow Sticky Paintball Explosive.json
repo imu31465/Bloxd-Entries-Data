@@ -2,9 +2,9 @@
   "id": 1345,
   "name": "Yellow Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_yellow",
   "harvestType": "cuttable",
-  "atlasIdx": 980,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 980
 }

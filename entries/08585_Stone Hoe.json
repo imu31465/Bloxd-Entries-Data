@@ -14,8 +14,8 @@
   "textureInfo": "stone_hoe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 19,
+  "stackable": false,
   "harvests": "cuttable",
   "multiplier": 2.5,
   "level": 2

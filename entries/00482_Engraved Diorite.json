@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "engraved_diorite",
   "harvestType": "rock",
-  "atlasIdx": 782,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 782
 }

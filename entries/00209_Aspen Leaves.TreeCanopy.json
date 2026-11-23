@@ -6,12 +6,12 @@
   "textureInfo": "leaves_aspen",
   "harvestType": "cuttable",
   "drops": "Aspen Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Leaves",
     "rootId": 101,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 615,
-  "stackable": true
+  "atlasIdx": 615
 }

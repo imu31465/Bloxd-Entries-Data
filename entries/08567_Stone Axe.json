@@ -14,8 +14,8 @@
   "textureInfo": "stone_axe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 24,
+  "stackable": false,
   "harvests": "wood",
   "multiplier": 3.5,
   "level": 2

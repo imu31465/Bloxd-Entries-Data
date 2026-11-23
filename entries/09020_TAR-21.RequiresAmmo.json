@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "TAR-21",
   "weight": 1,
-  "heldItemScale": 2.5,
-  "heldItemGlb": "TAR-21",
   "stackable": false,
-  "damage": 50,
-  "meta": {
-    "rootName": "TAR-21",
-    "rootId": 9019,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.5,
   "gunType": "rifle",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 128,
   "cadenceMs": 400,
   "equipDelay": 119,
+  "damage": 50,
   "reloadTime": 2300,
   "clipSize": 20,
   "tagSpeedMult": 0.75,
@@ -44,12 +37,19 @@
   "altInaccuracyFromShot": 40,
   "altInaccuracyMovement": 30,
   "recoveryRate": 0.0065,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.04,
   "maxKickback": 0.05,
   "kickbackRate": 25,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 468.75,
   "msPerRoundTouchScreen": 468.75,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 75
+  "altInaccuracyFromJump": 75,
+  "heldItemGlb": "TAR-21",
+  "meta": {
+    "rootName": "TAR-21",
+    "rootId": 9019,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

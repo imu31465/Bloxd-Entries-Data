@@ -6,6 +6,7 @@
   "textureInfo": "log_cedar",
   "harvestType": "wood",
   "drops": "Cedar Log",
+  "stackable": true,
   "meta": {
     "rootName": "Cedar Log",
     "rootId": 12,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Cedar"
   },
-  "atlasIdx": 528,
-  "stackable": true
+  "atlasIdx": 528
 }

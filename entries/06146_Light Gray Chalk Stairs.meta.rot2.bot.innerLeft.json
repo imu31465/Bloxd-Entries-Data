@@ -40,6 +40,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Gray Chalk Stairs",
     "rootId": 3837,
@@ -48,6 +49,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 1168,
-  "stackable": true
+  "atlasIdx": 1168
 }

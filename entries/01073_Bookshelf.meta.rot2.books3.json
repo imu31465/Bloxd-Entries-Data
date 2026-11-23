@@ -21,6 +21,7 @@
   ],
   "harvestType": "wood",
   "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "Bookshelf",
     "rootId": 1056,
@@ -31,6 +32,5 @@
   "atlasIdx": [
     888,
     531
-  ],
-  "stackable": true
+  ]
 }

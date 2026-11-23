@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pine Stairs",
     "rootId": 3317,
@@ -31,6 +32,5 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 535,
-  "stackable": true
+  "atlasIdx": 535
 }

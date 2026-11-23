@@ -8,9 +8,9 @@
   },
   "ttb": 400,
   "textureInfo": "wheat_stage7",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "itemTexture": "wheat",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "wheat",
   "stackable": true
 }

@@ -5,14 +5,7 @@
   "ttb": 3600,
   "harvestType": "wood",
   "drops": "Pear Door",
-  "ib": [
-    0.875,
-    0,
-    0,
-    1,
-    1,
-    1
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "_Pear Door Top",
     "rootId": 920,
@@ -20,5 +13,12 @@
     "rot": 1,
     "open": true
   },
-  "stackable": true
+  "ib": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ]
 }

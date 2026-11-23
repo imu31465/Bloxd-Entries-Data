@@ -31,10 +31,10 @@
     12,
     14
   ],
+  "showInCreativeInven": false,
+  "stackable": true,
   "atlasIdx": [
     1442,
     1443
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -3,10 +3,20 @@
   "name": "_Green Bed Head|meta|rot2",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "green_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
   "drops": "Green Bed",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Green Bed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Green Bed Head",
+    "rootId": 444,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -14,15 +24,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Green Bed Head",
-    "rootId": 444,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Green Bed Head"
+  ]
 }

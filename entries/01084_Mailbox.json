@@ -24,16 +24,16 @@
     1
   ],
   "harvestType": "wood",
+  "rootMetaDesc": "Mailbox|meta|rot1|empty",
+  "stackable": true,
   "meta": {
     "rootName": "Mailbox",
     "rootId": 1084,
     "metaStr": "meta|rot1|empty",
     "rot": 1
   },
-  "rootMetaDesc": "Mailbox|meta|rot1|empty",
   "atlasIdx": [
     891,
     892
-  ],
-  "stackable": true
+  ]
 }

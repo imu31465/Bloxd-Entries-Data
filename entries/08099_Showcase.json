@@ -8,15 +8,15 @@
   },
   "ttb": 960,
   "harvestType": "wood",
+  "showInCreativeInven": false,
   "model": "CustomModel",
-  "itemTexture": "showcase",
-  "heldItemScale": 4,
   "modelScale": 8,
+  "blockModel": "Showcase",
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "showcase",
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "Showcase",
-  "blockModelItem": true,
-  "showInCreativeInven": false
+  "stackable": true
 }

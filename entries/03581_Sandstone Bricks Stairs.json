@@ -10,6 +10,7 @@
   "textureInfo": "sandstone_brick",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Sandstone Bricks Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Sandstone Bricks Stairs",
     "rootId": 3581,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Sandstone Bricks Stairs|meta|rot1|bot",
-  "atlasIdx": 781,
-  "stackable": true
+  "atlasIdx": 781
 }

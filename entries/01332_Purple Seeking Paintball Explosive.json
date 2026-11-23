@@ -2,9 +2,9 @@
   "id": 1332,
   "name": "Purple Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_purple",
   "harvestType": "cuttable",
-  "atlasIdx": 967,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 967
 }

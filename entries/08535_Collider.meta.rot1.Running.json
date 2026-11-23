@@ -93,6 +93,16 @@
       "animationInterval": 100
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "altActionable": true,
+  "drops": null,
+  "KJ": [
+    8,
+    3,
+    8
+  ],
   "texturePerSide": [
     1,
     1,
@@ -101,21 +111,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
-  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "Collider",
     "rootId": 8199,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    8,
-    3,
-    8
-  ],
   "atlasIdx": [
     1554,
     66,
@@ -125,7 +127,5 @@
     1605,
     1606,
     66
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

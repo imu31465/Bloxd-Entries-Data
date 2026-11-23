@@ -9,6 +9,6 @@
   "ttb": 1500,
   "textureInfo": "hardened_clay_stained_orange",
   "harvestType": "rock",
-  "atlasIdx": 583,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 583
 }

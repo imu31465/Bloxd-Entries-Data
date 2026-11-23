@@ -2,9 +2,9 @@
   "id": 1359,
   "name": "Blue Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_blue",
   "harvestType": "cuttable",
-  "atlasIdx": 994,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 994
 }

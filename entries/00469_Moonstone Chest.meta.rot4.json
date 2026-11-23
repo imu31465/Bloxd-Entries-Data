@@ -20,6 +20,7 @@
     "moonstone_chest_top[rot[4",
     "moonstone_chest_back"
   ],
+  "harvestType": "rock",
   "texturePerSide": [
     6,
     0,
@@ -28,7 +29,7 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Moonstone Chest",
     "rootId": 466,
@@ -43,6 +44,5 @@
     767,
     768,
     769
-  ],
-  "stackable": true
+  ]
 }

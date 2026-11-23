@@ -3,21 +3,21 @@
   "name": "_Radar Dish|meta|rot2",
   "kind": "block",
   "ttb": 3000,
-  "harvestType": "rock",
   "model": "rotatable",
+  "harvestType": "rock",
   "drops": "Radar",
-  "solid": false,
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Radar Dish Up",
+  "stackable": true,
   "meta": {
     "rootName": "_Radar Dish",
     "rootId": 2635,
     "metaStr": "meta|rot2",
     "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Radar Dish Up"
+  }
 }

@@ -9,7 +9,7 @@
   "textureInfo": "amethite_chestplate",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "amethite_chestplate",
   "stackable": false,
-  "armourReduction": 0.24
+  "armourReduction": 0.24,
+  "heldItemGlb": "amethite_chestplate"
 }

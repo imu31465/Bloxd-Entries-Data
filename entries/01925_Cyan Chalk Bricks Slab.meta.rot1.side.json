@@ -16,7 +16,8 @@
       "colour": "$t(colour:cyan)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Cyan Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_cyan",
     "chalk_bricks_cyan"
@@ -29,8 +30,8 @@
     0,
     0
   ],
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0,
     0,
@@ -39,6 +40,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Cyan Chalk Bricks Slab",
     "rootId": 1923,
@@ -49,7 +51,5 @@
   "atlasIdx": [
     1204,
     1188
-  ],
-  "stackable": true,
-  "slabFullBlock": "Cyan Chalk Bricks"
+  ]
 }

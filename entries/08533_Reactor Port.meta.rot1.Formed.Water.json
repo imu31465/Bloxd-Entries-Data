@@ -13,14 +13,14 @@
   "ttb": 1500,
   "textureInfo": "water_port",
   "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "stackable": true,
   "meta": {
     "rootName": "Reactor Port",
     "rootId": 8178,
     "metaStr": "meta|rot1|Formed|Water",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "atlasIdx": 1591,
-  "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1591
 }

@@ -14,19 +14,19 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "gold_enchanting_table",
-  "modelScale": 10,
-  "meta": {
-    "rootName": "Gold Enchanting Table",
-    "rootId": 1686,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
   "rootMetaDesc": "Gold Enchanting Table|meta|rot1",
+  "modelScale": 10,
+  "blockModel": "Gold Enchanting Table",
   "KJ": [
     8,
     0,
     8
   ],
   "stackable": true,
-  "blockModel": "Gold Enchanting Table"
+  "meta": {
+    "rootName": "Gold Enchanting Table",
+    "rootId": 1686,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  }
 }

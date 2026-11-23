@@ -14,10 +14,10 @@
   "textureInfo": "stone_whip",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 11,
   "attackRange": 8,
   "knockbackHorizontalScalar": -1.2,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 2

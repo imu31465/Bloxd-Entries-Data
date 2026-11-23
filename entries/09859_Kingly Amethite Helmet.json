@@ -10,7 +10,7 @@
   "textureInfo": "kingly_amethite_helmet",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "kingly_amethite_helmet",
   "stackable": false,
-  "armourReduction": 0.13
+  "armourReduction": 0.13,
+  "heldItemGlb": "kingly_amethite_helmet"
 }

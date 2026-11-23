@@ -14,12 +14,12 @@
   "textureInfo": "glow_lamp",
   "harvestType": "wood",
   "harvestLevel": 0,
+  "showInCreativeInven": false,
   "KJ": [
     8,
     12,
     13
   ],
-  "atlasIdx": 1628,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1628
 }

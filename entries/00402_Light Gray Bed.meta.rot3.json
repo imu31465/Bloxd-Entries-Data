@@ -7,9 +7,19 @@
     "text": "Light Gray Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "light_gray_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Light Gray Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Light Gray Bed",
+    "rootId": 400,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
   "ib": [
     0,
     0,
@@ -17,15 +27,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Light Gray Bed",
-    "rootId": 400,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Light Gray Bed"
+  ]
 }

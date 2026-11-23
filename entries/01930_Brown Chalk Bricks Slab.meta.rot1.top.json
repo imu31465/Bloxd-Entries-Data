@@ -16,7 +16,8 @@
       "colour": "$t(colour:brown)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Brown Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_brown",
     "chalk_bricks_brown"
@@ -29,8 +30,8 @@
     0,
     0
   ],
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0,
     0.5,
@@ -39,6 +40,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Brown Chalk Bricks Slab",
     "rootId": 1929,
@@ -49,7 +51,5 @@
   "atlasIdx": [
     1205,
     1189
-  ],
-  "stackable": true,
-  "slabFullBlock": "Brown Chalk Bricks"
+  ]
 }

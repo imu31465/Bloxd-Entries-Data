@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_palm",
+  "itemTexture": "palm_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "palm_fence_gate",
   "ib": [
     0.875,
     0,
@@ -25,6 +25,8 @@
     1,
     1
   ],
+  "attachedTop": "_Palm Fence Gate Top|meta|rot3|open",
+  "stackable": true,
   "meta": {
     "rootName": "Palm Fence Gate",
     "rootId": 7751,
@@ -32,7 +34,5 @@
     "rot": 3,
     "open": true
   },
-  "atlasIdx": 793,
-  "stackable": true,
-  "attachedTop": "_Palm Fence Gate Top|meta|rot3|open"
+  "atlasIdx": 793
 }

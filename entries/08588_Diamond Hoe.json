@@ -14,8 +14,8 @@
   "textureInfo": "diamond_hoe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 28,
+  "stackable": false,
   "harvests": "cuttable",
   "multiplier": 4.25,
   "level": 5

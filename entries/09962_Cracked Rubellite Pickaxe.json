@@ -12,10 +12,10 @@
   "textureInfo": "rubellite_pickaxe",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "rubellite_pickaxe",
-  "stackable": false,
   "damage": 24,
+  "stackable": false,
   "harvests": "rock",
   "multiplier": 4.75,
-  "level": 3
+  "level": 3,
+  "heldItemGlb": "rubellite_pickaxe"
 }

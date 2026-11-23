@@ -2,9 +2,9 @@
   "id": 1318,
   "name": "Orange Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_orange",
   "harvestType": "cuttable",
-  "atlasIdx": 953,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 953
 }

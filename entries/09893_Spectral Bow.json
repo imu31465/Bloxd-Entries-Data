@@ -11,22 +11,22 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "spectral_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "spectral_bow",
   "stackable": false,
+  "rootMetaDesc": "Spectral Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "spectral_bow",
+  "heldItemGlb": "spectral_bow",
   "meta": {
     "rootName": "Spectral Bow",
     "rootId": 9893,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Spectral Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

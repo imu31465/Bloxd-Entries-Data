@@ -7,18 +7,14 @@
     "text": "Aspen Trapdoor"
   },
   "ttb": 2800,
-  "harvestType": "wood",
-  "model": "trapdoor",
   "itemTexture": "aspen_trapdoor",
-  "ib": [
-    0,
-    0.875,
-    0,
-    1,
-    1,
-    1
-  ],
+  "model": "trapdoor",
+  "harvestType": "wood",
+  "rootMetaDesc": "Aspen Trapdoor|meta|rot1|closed",
+  "blockModel": "Aspen Trapdoor",
   "heldItemScale": 0.5,
+  "blockModelItem": true,
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Trapdoor",
     "rootId": 626,
@@ -26,8 +22,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Aspen Trapdoor|meta|rot1|closed",
-  "stackable": true,
-  "blockModel": "Aspen Trapdoor",
-  "blockModelItem": true
+  "ib": [
+    0,
+    0.875,
+    0,
+    1,
+    1,
+    1
+  ]
 }

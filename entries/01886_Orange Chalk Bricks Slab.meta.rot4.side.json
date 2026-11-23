@@ -16,7 +16,8 @@
       "colour": "$t(colour:orange)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Orange Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_orange",
     "chalk_bricks_orange"
@@ -29,8 +30,8 @@
     0,
     0
   ],
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0.5,
     0,
@@ -39,6 +40,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Orange Chalk Bricks Slab",
     "rootId": 1881,
@@ -49,7 +51,5 @@
   "atlasIdx": [
     1197,
     1181
-  ],
-  "stackable": true,
-  "slabFullBlock": "Orange Chalk Bricks"
+  ]
 }

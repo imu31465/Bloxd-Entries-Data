@@ -14,19 +14,19 @@
   "harvestType": "wood",
   "model": "rotatable",
   "itemTexture": "diamond_enchanting_table",
-  "modelScale": 10,
-  "meta": {
-    "rootName": "Diamond Enchanting Table",
-    "rootId": 1690,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
   "rootMetaDesc": "Diamond Enchanting Table|meta|rot1",
+  "modelScale": 10,
+  "blockModel": "Diamond Enchanting Table",
   "KJ": [
     10,
     0,
     10
   ],
   "stackable": true,
-  "blockModel": "Diamond Enchanting Table"
+  "meta": {
+    "rootName": "Diamond Enchanting Table",
+    "rootId": 1690,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  }
 }

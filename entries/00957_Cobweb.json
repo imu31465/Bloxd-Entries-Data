@@ -12,10 +12,10 @@
   },
   "ttb": 300,
   "textureInfo": "cobweb",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "cobweb",
-  "solid": false,
   "heldItemScale": 1,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "cobweb",
   "stackable": true
 }

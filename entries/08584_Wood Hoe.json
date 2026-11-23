@@ -14,8 +14,8 @@
   "textureInfo": "wooden_hoe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 15,
+  "stackable": false,
   "harvests": "cuttable",
   "multiplier": 2,
   "level": 1

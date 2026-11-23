@@ -18,6 +18,7 @@
     "custom_lobby_block_top[rot[4",
     "custom_lobby_block_side"
   ],
+  "harvestType": "rock",
   "texturePerSide": [
     4,
     4,
@@ -26,7 +27,7 @@
     4,
     4
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Custom Lobby Block",
     "rootId": 1580,
@@ -39,6 +40,5 @@
     1087,
     1088,
     1089
-  ],
-  "stackable": true
+  ]
 }

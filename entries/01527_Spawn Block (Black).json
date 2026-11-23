@@ -27,19 +27,19 @@
     4
   ],
   "harvestType": "rock",
+  "rootMetaDesc": "Spawn Block (Black)|meta|rot1",
+  "stackable": true,
   "meta": {
     "rootName": "Spawn Block (Black)",
     "rootId": 1527,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Spawn Block (Black)|meta|rot1",
   "atlasIdx": [
     1076,
     1077,
     1078,
     1079,
     1080
-  ],
-  "stackable": true
+  ]
 }

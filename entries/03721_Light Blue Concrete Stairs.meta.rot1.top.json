@@ -24,6 +24,7 @@
     0.5,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Blue Concrete Stairs",
     "rootId": 3717,
@@ -31,6 +32,5 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 604,
-  "stackable": true
+  "atlasIdx": 604
 }

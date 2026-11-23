@@ -8,8 +8,8 @@
   },
   "type": "Item",
   "textureInfo": "armored_car",
+  "heldItemGlb": "Armored Car Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Armored Car Item",
   "stackable": false
 }

@@ -6,8 +6,8 @@
   "textureInfo": "caught_draugr_zombie_default",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Caught Mob Draugr_Zombie Default",
   "stackable": false,
+  "heldItemGlb": "Caught Mob Draugr_Zombie Default",
   "meta": {
     "rootName": "Caught Mob Draugr_Zombie Flower2",
     "rootId": 9404,

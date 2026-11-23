@@ -11,14 +11,14 @@
     "text": "In Survival, improves your chance of special catches and attracts fish as quickly as a Sturdy Rod."
   },
   "type": "Item",
-  "textureInfo": "lucky_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "lucky_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

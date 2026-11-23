@@ -10,6 +10,7 @@
   "textureInfo": "planks_jungle",
   "harvestType": "wood",
   "model": "Stairs",
+  "rootMetaDesc": "Jungle Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Stairs",
     "rootId": 3349,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Jungle Stairs|meta|rot1|bot",
-  "atlasIdx": 534,
-  "stackable": true
+  "atlasIdx": 534
 }

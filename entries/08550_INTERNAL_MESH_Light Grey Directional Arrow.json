@@ -5,8 +5,16 @@
   "ttb": 400,
   "harvestType": "cuttable",
   "model": "rotatable",
-  "drops": null,
   "solid": false,
+  "blockModel": "Light Grey Directional Arrow",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "drops": null,
+  "stackable": true,
   "ib": [
     0,
     0,
@@ -14,13 +22,5 @@
     1,
     0.125,
     1
-  ],
-  "modelScale": 8,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Light Grey Directional Arrow",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  ]
 }

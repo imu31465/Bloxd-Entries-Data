@@ -42,9 +42,9 @@
     10,
     12
   ],
+  "showInCreativeInven": false,
+  "stackable": true,
   "atlasIdx": [
     25
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_cherry",
+  "itemTexture": "cherry_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "cherry_fence",
   "ib": [
     0.375,
     0,
@@ -31,12 +31,12 @@
     1,
     1
   ],
+  "attachedTop": "_Cherry Fence Top|meta|ns",
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Fence",
     "rootId": 7378,
     "metaStr": "meta|ns"
   },
-  "atlasIdx": 904,
-  "stackable": true,
-  "attachedTop": "_Cherry Fence Top|meta|ns"
+  "atlasIdx": 904
 }

@@ -15,17 +15,17 @@
   "model": "rotatable",
   "itemTexture": "iron_enchanting_table",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Iron Enchanting Table",
-    "rootId": 1682,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
+  "blockModel": "Iron Enchanting Table",
   "KJ": [
     6,
     0,
     6
   ],
   "stackable": true,
-  "blockModel": "Iron Enchanting Table"
+  "meta": {
+    "rootName": "Iron Enchanting Table",
+    "rootId": 1682,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  }
 }

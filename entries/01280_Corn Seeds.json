@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "corn_stage0",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "itemTexture": "corn_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "corn_seeds",
   "stackable": true
 }

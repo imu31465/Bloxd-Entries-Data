@@ -7,14 +7,14 @@
     "text": "Molten Magma Rod"
   },
   "type": "Item",
-  "textureInfo": "molten_magma_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "molten_magma_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

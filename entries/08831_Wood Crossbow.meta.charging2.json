@@ -11,7 +11,7 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "wood_crossbow_charging_2",
+  "textureName": "wood_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
@@ -19,11 +19,11 @@
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "wood_crossbow_charging_2",
   "meta": {
     "rootName": "Wood Crossbow",
     "rootId": 8830,
     "metaStr": "meta|charging2",
     "charging": 2
-  },
-  "textureName": "wood_crossbow"
+  }
 }

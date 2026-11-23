@@ -10,6 +10,7 @@
   "textureInfo": "blue_concrete",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Blue Concrete Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Blue Concrete Stairs",
     "rootId": 3757,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Blue Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 601,
-  "stackable": true
+  "atlasIdx": 601
 }

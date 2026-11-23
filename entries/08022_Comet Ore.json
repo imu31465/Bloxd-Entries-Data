@@ -13,14 +13,14 @@
   "ttb": 5000,
   "textureInfo": "comet_ore",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 3,
+  "drops": null,
   "KJ": [
     8,
     6,
     10
   ],
-  "atlasIdx": 1490,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1490
 }

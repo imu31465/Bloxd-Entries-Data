@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Cherry Stairs",
     "rootId": 3373,
@@ -31,6 +32,5 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 904,
-  "stackable": true
+  "atlasIdx": 904
 }

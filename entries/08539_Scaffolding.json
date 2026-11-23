@@ -13,13 +13,13 @@
   "ttb": 300,
   "textureInfo": "scaffolding",
   "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "transTex": true,
   "solid": false,
-  "harvestLevel": 0,
   "climbableInside": {
     "upForceScalar": 1.05
   },
-  "atlasIdx": 1643,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1643
 }

@@ -16,7 +16,8 @@
       "colour": "$t(colour:light_gray)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Light Gray Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_light_gray",
     "chalk_bricks_light_gray"
@@ -29,8 +30,9 @@
     0,
     0
   ],
+  "rootMetaDesc": "Light Gray Chalk Bricks Slab|meta|rot1|bot",
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0,
     0,
@@ -39,6 +41,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Gray Chalk Bricks Slab",
     "rootId": 1899,
@@ -46,11 +49,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Light Gray Chalk Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
     1200,
     1184
-  ],
-  "stackable": true,
-  "slabFullBlock": "Light Gray Chalk Bricks"
+  ]
 }

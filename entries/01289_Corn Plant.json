@@ -8,9 +8,9 @@
   },
   "ttb": 400,
   "textureInfo": "corn_stage5",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Corn Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Corn Seeds",
   "stackable": true
 }

@@ -9,9 +9,9 @@
   "ttb": 45000,
   "textureInfo": "pure_moonstone_ore",
   "harvestType": "rock",
+  "harvestLevel": 3,
   "drops": "Moonstone",
   "XJ": 9,
-  "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Moonstone Ore"
@@ -40,12 +40,12 @@
       }
     ]
   },
+  "onMinedAura": 450,
   "KJ": [
     6,
     6,
     6
   ],
-  "atlasIdx": 1349,
   "stackable": true,
-  "onMinedAura": 450
+  "atlasIdx": 1349
 }

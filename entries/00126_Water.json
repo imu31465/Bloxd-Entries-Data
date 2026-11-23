@@ -12,8 +12,8 @@
     0.8,
     0.9
   ],
-  "harvestType": "rock",
-  "drops": null,
   "vK": true,
+  "drops": null,
+  "harvestType": "rock",
   "stackable": true
 }

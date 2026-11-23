@@ -11,20 +11,20 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "iron_crossbow",
+  "textureName": "iron_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "rootMetaDesc": "Iron Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "iron_crossbow",
   "meta": {
     "rootName": "Iron Crossbow",
     "rootId": 8838,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Iron Crossbow|meta|charging1",
-  "textureName": "iron_crossbow"
+  }
 }

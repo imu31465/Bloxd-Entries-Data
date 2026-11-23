@@ -4,10 +4,10 @@
   "kind": "block",
   "ttb": 3600,
   "harvestType": "rock",
-  "drops": null,
-  "modelScale": 8,
-  "stackable": true,
   "blockModel": "rocket_full",
   "blockModelItem": true,
-  "twoDBlockItem": true
+  "twoDBlockItem": true,
+  "modelScale": 8,
+  "drops": null,
+  "stackable": true
 }

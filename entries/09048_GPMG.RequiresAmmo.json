@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "GPMG",
   "weight": 1,
-  "heldItemScale": 2.8,
-  "heldItemGlb": "GPMG",
   "stackable": false,
-  "damage": 24,
-  "meta": {
-    "rootName": "GPMG",
-    "rootId": 9047,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.8,
   "gunType": "rifle",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 600,
   "cadenceMs": 85.71428571428571,
   "equipDelay": 25,
+  "damage": 24,
   "reloadTime": 4500,
   "clipSize": 75,
   "tagSpeedMult": 0.78,
@@ -43,14 +36,21 @@
   "altInaccuracyStanding": 4,
   "altInaccuracyFromShot": 16,
   "altInaccuracyMovement": 24,
+  "hasVerticalInaccuracy": true,
   "recoveryRate": 0.01,
-  "kickbackDecreaseRate": 0.00001,
   "minKickback": 0.032,
   "maxKickback": 0.09,
   "kickbackRate": 9,
-  "hasVerticalInaccuracy": true,
+  "kickbackDecreaseRate": 0.00001,
   "msPerRound": 100,
   "msPerRoundTouchScreen": 100,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 55
+  "altInaccuracyFromJump": 55,
+  "heldItemGlb": "GPMG",
+  "meta": {
+    "rootName": "GPMG",
+    "rootId": 9047,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

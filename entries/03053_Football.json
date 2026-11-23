@@ -2,11 +2,19 @@
   "id": 3053,
   "name": "Football",
   "kind": "block",
-  "ttb": 600,
   "textureInfo": "football_block",
   "harvestType": "rock",
+  "ttb": 600,
   "model": "CustomModel",
   "itemTexture": "football",
+  "blockModel": "football",
+  "blockModelItem": true,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "heldItemScale": 7,
+  "stackable": true,
   "ib": [
     0.25,
     0,
@@ -14,13 +22,5 @@
     0.75,
     0.5,
     0.75
-  ],
-  "heldItemScale": 7,
-  "modelScale": 8,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "football",
-  "blockModelItem": true
+  ]
 }

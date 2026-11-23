@@ -14,6 +14,6 @@
   "textureInfo": "astral_shard",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "astral_shard",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "astral_shard"
 }

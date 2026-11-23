@@ -10,6 +10,7 @@
   "textureInfo": "black_concrete",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Black Concrete Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Black Concrete Stairs",
     "rootId": 3765,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Black Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 600,
-  "stackable": true
+  "atlasIdx": 600
 }

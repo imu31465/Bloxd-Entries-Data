@@ -10,7 +10,7 @@
   "textureInfo": "geo_gauntlets",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "geo_gauntlets",
   "stackable": false,
-  "armourReduction": 0.11
+  "armourReduction": 0.11,
+  "heldItemGlb": "geo_gauntlets"
 }

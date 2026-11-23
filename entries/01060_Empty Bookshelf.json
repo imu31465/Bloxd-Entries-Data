@@ -25,6 +25,8 @@
   ],
   "harvestType": "wood",
   "drops": null,
+  "rootMetaDesc": "Empty Bookshelf|meta|rot1|books0",
+  "stackable": true,
   "meta": {
     "rootName": "Empty Bookshelf",
     "rootId": 1060,
@@ -32,10 +34,8 @@
     "rot": 1,
     "books": 0
   },
-  "rootMetaDesc": "Empty Bookshelf|meta|rot1|books0",
   "atlasIdx": [
     885,
     531
-  ],
-  "stackable": true
+  ]
 }

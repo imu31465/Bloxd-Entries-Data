@@ -14,12 +14,12 @@
   "textureInfo": "voltite_block",
   "harvestType": "rock",
   "harvestLevel": 0,
+  "showInCreativeInven": false,
   "KJ": [
     2,
     6,
     6
   ],
-  "atlasIdx": 1647,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1647
 }

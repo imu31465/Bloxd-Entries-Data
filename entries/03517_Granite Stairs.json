@@ -10,6 +10,7 @@
   "textureInfo": "stone_granite",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Granite Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Granite Stairs",
     "rootId": 3517,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Granite Stairs|meta|rot1|bot",
-  "atlasIdx": 550,
-  "stackable": true
+  "atlasIdx": 550
 }

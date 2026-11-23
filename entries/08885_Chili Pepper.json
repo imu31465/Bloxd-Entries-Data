@@ -14,16 +14,16 @@
   "textureInfo": "chili_pepper",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": true,
   "eatable": true,
   "chargeSound": "eat1",
+  "stackable": true,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Chili Pepper|meta|charging1",
   "meta": {
     "rootName": "Chili Pepper",
     "rootId": 8885,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Chili Pepper|meta|charging1"
+  }
 }

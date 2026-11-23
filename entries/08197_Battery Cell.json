@@ -16,6 +16,9 @@
     "battery_cell_top",
     "battery_cell_bottom"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     0,
@@ -24,13 +27,10 @@
     0,
     0
   ],
-  "harvestType": "rock",
-  "harvestLevel": 0,
+  "stackable": true,
   "atlasIdx": [
     1598,
     1599,
     1600
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -58,6 +58,10 @@
       "animationInterval": 100
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     7,
@@ -66,20 +70,18 @@
     8,
     1
   ],
-  "harvestType": "rock",
+  "KJ": [
+    6,
+    9,
+    2
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Centrifuge",
     "rootId": 8130,
     "metaStr": "meta|rot2|Running",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    6,
-    9,
-    2
-  ],
   "atlasIdx": [
     1554,
     51,
@@ -90,7 +92,5 @@
     1568,
     52,
     53
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

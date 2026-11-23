@@ -16,10 +16,11 @@
       "colour": "$t(colour:yellow)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_yellow",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Yellow Chalk",
+  "textureInfo": "chalk_yellow",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0.5,
@@ -28,6 +29,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Yellow Chalk Slab",
     "rootId": 1755,
@@ -35,7 +37,5 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 1160,
-  "stackable": true,
-  "slabFullBlock": "Yellow Chalk"
+  "atlasIdx": 1160
 }

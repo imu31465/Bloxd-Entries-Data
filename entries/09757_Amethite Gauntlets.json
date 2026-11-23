@@ -9,7 +9,7 @@
   "textureInfo": "amethite_gauntlets",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "amethite_gauntlets",
   "stackable": false,
-  "armourReduction": 0.11
+  "armourReduction": 0.11,
+  "heldItemGlb": "amethite_gauntlets"
 }

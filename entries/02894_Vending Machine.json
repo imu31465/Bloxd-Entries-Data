@@ -6,17 +6,17 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "vending_machine",
+  "blockModel": "vending_machine_bottom",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "rootMetaDesc": "Vending Machine|meta|rot1",
+  "stackable": true,
   "meta": {
     "rootName": "Vending Machine",
     "rootId": 2894,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "Vending Machine|meta|rot1",
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "vending_machine_bottom"
+  }
 }

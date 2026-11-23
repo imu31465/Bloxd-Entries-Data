@@ -13,14 +13,14 @@
   "ttb": 5400,
   "textureInfo": "uranium_ore",
   "harvestType": "rock",
-  "drops": "Raw Uranium",
   "harvestLevel": 3,
+  "showInCreativeInven": false,
+  "drops": "Raw Uranium",
   "KJ": [
     5,
     8,
     1
   ],
-  "atlasIdx": 1547,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1547
 }

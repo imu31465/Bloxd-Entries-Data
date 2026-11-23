@@ -3,11 +3,22 @@
   "name": "_Stampede Top Right|meta|rot4",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "cow_painting",
-  "drops": "Stampede",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
   "solid": false,
+  "modelScale": 10,
+  "blockModel": "_Cow Painting Top Right",
+  "heldItemGlb": "Cow Painting",
+  "drops": "Stampede",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Stampede Top Right",
+    "rootId": 2533,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0.875,
     0,
@@ -15,16 +26,5 @@
     1,
     1,
     1
-  ],
-  "modelScale": 10,
-  "meta": {
-    "rootName": "_Stampede Top Right",
-    "rootId": 2533,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "heldItemGlb": "Cow Painting",
-  "blockModel": "_Cow Painting Top Right"
+  ]
 }

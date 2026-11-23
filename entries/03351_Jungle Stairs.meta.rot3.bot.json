@@ -24,6 +24,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Stairs",
     "rootId": 3349,
@@ -31,6 +32,5 @@
     "rot": 3,
     "halfblockPlacement": 0
   },
-  "atlasIdx": 534,
-  "stackable": true
+  "atlasIdx": 534
 }

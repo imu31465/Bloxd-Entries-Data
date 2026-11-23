@@ -21,6 +21,11 @@
     "machine_side",
     "auto_bench_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Assembler|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,16 +34,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Assembler",
     "rootId": 7911,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Assembler|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1421,
     1422,
@@ -48,7 +50,5 @@
     1426,
     1360,
     1427
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

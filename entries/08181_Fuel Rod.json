@@ -14,7 +14,7 @@
   "textureInfo": "fuel_rod0",
   "harvestType": "rock",
   "harvestLevel": 0,
-  "atlasIdx": 62,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 62
 }

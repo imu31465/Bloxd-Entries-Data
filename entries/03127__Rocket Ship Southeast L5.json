@@ -3,12 +3,12 @@
   "name": "_Rocket Ship Southeast L5",
   "kind": "block",
   "ttb": 3600,
-  "harvestType": "rock",
   "model": "CustomModel",
-  "drops": null,
   "modelScale": 8,
+  "harvestType": "rock",
   "particlesIgnoreBlack": true,
   "altActionable": true,
-  "stackable": true,
-  "blockModel": "rocket_southeast_5"
+  "blockModel": "rocket_southeast_5",
+  "drops": null,
+  "stackable": true
 }

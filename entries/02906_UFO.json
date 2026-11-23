@@ -5,9 +5,9 @@
   "ttb": 2000,
   "harvestType": "rock",
   "model": "CustomModel",
-  "modelScale": 1,
-  "stackable": true,
   "blockModel": "ufo",
   "blockModelItem": true,
-  "twoDBlockItem": true
+  "twoDBlockItem": true,
+  "modelScale": 1,
+  "stackable": true
 }

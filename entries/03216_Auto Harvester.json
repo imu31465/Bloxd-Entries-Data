@@ -28,11 +28,11 @@
   "harvestType": "rock",
   "particlesIgnoreBlack": true,
   "altActionable": true,
+  "stackable": true,
   "atlasIdx": [
     1287,
     1288,
     1289,
     1290
-  ],
-  "stackable": true
+  ]
 }

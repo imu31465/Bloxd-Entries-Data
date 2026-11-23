@@ -6,8 +6,8 @@
   "textureInfo": "caught_draugr_huntress_default",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Caught Mob Draugr_Huntress Default",
   "stackable": false,
+  "heldItemGlb": "Caught Mob Draugr_Huntress Default",
   "meta": {
     "rootName": "Caught Mob Draugr_Huntress Chainmail",
     "rootId": 9418,

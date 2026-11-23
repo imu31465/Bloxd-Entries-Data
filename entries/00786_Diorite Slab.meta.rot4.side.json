@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Diorite",
   "ib": [
     0.5,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Diorite Slab",
     "rootId": 781,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     819,
     546
-  ],
-  "stackable": true,
-  "slabFullBlock": "Diorite"
+  ]
 }

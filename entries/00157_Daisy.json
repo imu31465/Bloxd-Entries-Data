@@ -8,9 +8,9 @@
   },
   "ttb": 300,
   "textureInfo": "oxeye_daisy",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "oxeye_daisy",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "oxeye_daisy",
   "stackable": true
 }

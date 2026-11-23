@@ -16,10 +16,11 @@
       "colour": "$t(colour:green)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_green",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Green Chalk",
+  "textureInfo": "chalk_green",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +29,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Green Chalk Slab",
     "rootId": 1815,
@@ -35,7 +37,5 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 1170,
-  "stackable": true,
-  "slabFullBlock": "Green Chalk"
+  "atlasIdx": 1170
 }

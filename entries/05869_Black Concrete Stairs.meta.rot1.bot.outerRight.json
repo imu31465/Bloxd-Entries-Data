@@ -24,6 +24,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Black Concrete Stairs",
     "rootId": 3765,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 600,
-  "stackable": true
+  "atlasIdx": 600
 }

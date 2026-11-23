@@ -16,7 +16,8 @@
       "colour": "$t(colour:purple)"
     }
   },
-  "ttb": 550,
+  "model": "Slab",
+  "slabFullBlock": "Purple Chalk Bricks",
   "textureInfo": [
     "chalk_bricks_slab_side_purple",
     "chalk_bricks_purple"
@@ -29,8 +30,9 @@
     0,
     0
   ],
+  "rootMetaDesc": "Purple Chalk Bricks Slab|meta|rot1|bot",
+  "ttb": 550,
   "harvestType": "rock",
-  "model": "Slab",
   "ib": [
     0,
     0,
@@ -39,6 +41,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Purple Chalk Bricks Slab",
     "rootId": 1869,
@@ -46,11 +49,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Purple Chalk Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
     1195,
     1179
-  ],
-  "stackable": true,
-  "slabFullBlock": "Purple Chalk Bricks"
+  ]
 }

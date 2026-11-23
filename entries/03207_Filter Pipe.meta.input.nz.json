@@ -11,20 +11,20 @@
     "text": "Hub with one input arm and five colour-coded output arms. Right-click to set which item leaves each output."
   },
   "ttb": 600,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "filter_pipe",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
-  "heldItemScale": 6,
   "modelScale": 8,
+  "heldItemScale": 6,
+  "blockModelItem": true,
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "blockModel": "filter_pipe_input_nz",
+  "stackable": true,
   "meta": {
     "rootName": "Filter Pipe",
     "rootId": 3204,
     "metaStr": "meta|input|nz"
-  },
-  "particlesIgnoreBlack": true,
-  "altActionable": true,
-  "stackable": true,
-  "blockModel": "filter_pipe_input_nz",
-  "blockModelItem": true
+  }
 }

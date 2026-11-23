@@ -7,11 +7,11 @@
     "text": "Red Cabbage"
   },
   "ttb": 400,
-  "textureInfo": "red_cabbage_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "red_cabbage_stage1",
-  "drops": null,
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "textureInfo": "red_cabbage_stage1",
+  "itemTexture": "red_cabbage_stage1",
   "stackable": true
 }

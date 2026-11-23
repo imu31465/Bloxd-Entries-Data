@@ -19,9 +19,9 @@
     0,
     0
   ],
-  "harvestType": "cuttable",
   "model": "Slab",
   "solid": false,
+  "harvestType": "cuttable",
   "ib": [
     0,
     0,
@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Fallen Cherry Leaves",
     "rootId": 1227,
@@ -40,6 +41,5 @@
   "atlasIdx": [
     906,
     905
-  ],
-  "stackable": true
+  ]
 }

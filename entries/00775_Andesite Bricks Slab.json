@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Andesite Bricks",
+  "rootMetaDesc": "Andesite Bricks Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Andesite Bricks Slab",
     "rootId": 775,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Andesite Bricks Slab|meta|rot1|bot",
   "atlasIdx": [
     818,
     785
-  ],
-  "stackable": true,
-  "slabFullBlock": "Andesite Bricks"
+  ]
 }

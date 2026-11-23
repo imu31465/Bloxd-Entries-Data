@@ -20,6 +20,7 @@
     "iron_chest_top[rot[4",
     "iron_chest_back"
   ],
+  "harvestType": "rock",
   "texturePerSide": [
     1,
     1,
@@ -28,7 +29,7 @@
     6,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Iron Chest",
     "rootId": 2088,
@@ -43,6 +44,5 @@
     1235,
     1236,
     1237
-  ],
-  "stackable": true
+  ]
 }

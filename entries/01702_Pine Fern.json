@@ -8,14 +8,14 @@
   },
   "ttb": 1,
   "textureInfo": "pine_fern",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": null,
   "solid": false,
+  "drops": null,
+  "harvestType": "cuttable",
   "specialToolDrop": {
     "tool": "Shears",
     "drops": "Pine Fern"
   },
-  "stackable": true,
-  "canBePlacedOver": true
+  "canBePlacedOver": true,
+  "stackable": true
 }

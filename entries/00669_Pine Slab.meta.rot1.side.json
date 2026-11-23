@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Pine Wood Planks",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pine Slab",
     "rootId": 667,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     800,
     535
-  ],
-  "stackable": true,
-  "slabFullBlock": "Pine Wood Planks"
+  ]
 }

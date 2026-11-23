@@ -2,9 +2,9 @@
   "id": 1358,
   "name": "Brown Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_brown",
   "harvestType": "cuttable",
-  "atlasIdx": 993,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 993
 }

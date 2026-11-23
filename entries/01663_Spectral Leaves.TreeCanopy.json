@@ -6,12 +6,12 @@
   "textureInfo": "leaves_spectral",
   "harvestType": "cuttable",
   "drops": "Spectral Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Spectral Leaves",
     "rootId": 1636,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 1151,
-  "stackable": true
+  "atlasIdx": 1151
 }

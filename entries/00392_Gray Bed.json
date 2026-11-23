@@ -7,9 +7,20 @@
     "text": "Gray Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "gray_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Gray Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Gray Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Gray Bed",
+    "rootId": 392,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Gray Bed",
-    "rootId": 392,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Gray Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Gray Bed"
+  ]
 }

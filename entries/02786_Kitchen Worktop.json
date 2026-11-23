@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "kitchen_worktop",
+  "blockModel": "kitchen_worktop",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 8,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "kitchen_worktop",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

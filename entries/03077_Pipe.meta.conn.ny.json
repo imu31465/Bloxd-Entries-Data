@@ -11,19 +11,19 @@
     "text": "Carries items between machines and chests. Use Extractor Pipes to pull from chests."
   },
   "ttb": 600,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "pipe",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
-  "heldItemScale": 6,
+  "blockModelItem": true,
   "modelScale": 8,
+  "heldItemScale": 6,
+  "particlesIgnoreBlack": true,
+  "blockModel": "pipe_end_ny",
+  "stackable": true,
   "meta": {
     "rootName": "Pipe",
     "rootId": 3075,
     "metaStr": "meta|conn|ny"
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "pipe_end_ny",
-  "blockModelItem": true
+  }
 }

@@ -11,10 +11,18 @@
     "text": "Negates fall damage when landed on"
   },
   "ttb": 300,
-  "harvestType": "cuttable",
   "model": "CustomModel",
-  "itemTexture": "landing_pad",
+  "harvestType": "cuttable",
   "solid": false,
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "particlesIgnoreBlack": true,
+  "canBePlacedOver": false,
+  "itemTexture": "landing_pad",
+  "blockModel": "landing_pad",
+  "stackable": true,
   "ib": [
     0,
     0,
@@ -22,13 +30,5 @@
     1,
     0.375,
     1
-  ],
-  "modelScale": 8,
-  "particlesIgnoreBlack": true,
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "landing_pad",
-  "canBePlacedOver": false
+  ]
 }

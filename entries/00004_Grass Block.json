@@ -25,10 +25,10 @@
     "break": "grass",
     "place": "grass"
   },
+  "stackable": true,
   "atlasIdx": [
     519,
     520,
     517
-  ],
-  "stackable": true
+  ]
 }

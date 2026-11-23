@@ -12,6 +12,13 @@
     "pumpkin_side",
     "pumpkin_top"
   ],
+  "harvestType": "wood",
+  "rootMetaDesc": "Jack o'Lantern|meta|rot1",
+  "KJ": [
+    14,
+    10,
+    4
+  ],
   "texturePerSide": [
     1,
     1,
@@ -20,23 +27,16 @@
     0,
     1
   ],
-  "harvestType": "wood",
+  "stackable": true,
   "meta": {
     "rootName": "Jack o'Lantern",
     "rootId": 980,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Jack o'Lantern|meta|rot1",
-  "KJ": [
-    14,
-    10,
-    4
-  ],
   "atlasIdx": [
     618,
     861,
     862
-  ],
-  "stackable": true
+  ]
 }

@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "Block-19",
   "weight": 1,
-  "heldItemScale": 2.5,
-  "heldItemGlb": "Block-19",
   "stackable": false,
-  "damage": 20,
-  "meta": {
-    "rootName": "Block-19",
-    "rootId": 9043,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.5,
   "gunType": "pistol",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -32,6 +24,7 @@
   "equipDelay": 45,
   "burstCount": 4,
   "burstDelay": 38,
+  "damage": 20,
   "reloadTime": 1350,
   "clipSize": 24,
   "tagSpeedMult": 0.8,
@@ -45,12 +38,19 @@
   "altInaccuracyFromShot": 9,
   "altInaccuracyMovement": 8,
   "recoveryRate": 0.008,
-  "kickbackDecreaseRate": 0.000008,
   "minKickback": 0.04,
   "maxKickback": 0.055,
   "kickbackRate": 6,
+  "kickbackDecreaseRate": 0.000008,
   "msPerRound": 300,
   "msPerRoundTouchScreen": 300,
   "altYVelocityInaccuracy": 1.5,
-  "altInaccuracyFromJump": 14
+  "altInaccuracyFromJump": 14,
+  "heldItemGlb": "Block-19",
+  "meta": {
+    "rootName": "Block-19",
+    "rootId": 9043,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

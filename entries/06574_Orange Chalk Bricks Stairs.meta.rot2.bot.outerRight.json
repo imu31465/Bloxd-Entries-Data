@@ -34,6 +34,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Orange Chalk Bricks Stairs",
     "rootId": 3941,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 1181,
-  "stackable": true
+  "atlasIdx": 1181
 }

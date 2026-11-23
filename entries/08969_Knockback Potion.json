@@ -14,17 +14,17 @@
   "textureInfo": "knockback_potion",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "eatable": true,
   "chargeSound": "drink",
+  "stackable": false,
   "afterEatenItem": "Empty Bottle",
   "chargeStages": 1,
   "chargeTime": 1600,
+  "rootMetaDesc": "Knockback Potion|meta|charging1",
   "meta": {
     "rootName": "Knockback Potion",
     "rootId": 8969,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Knockback Potion|meta|charging1"
+  }
 }

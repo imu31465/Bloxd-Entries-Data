@@ -10,6 +10,6 @@
   "textureInfo": "cactus_dry",
   "harvestType": "cuttable",
   "damage": 27,
-  "atlasIdx": 672,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 672
 }

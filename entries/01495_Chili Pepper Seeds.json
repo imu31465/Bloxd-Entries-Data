@@ -11,14 +11,14 @@
     "text": "Plant to grow chili peppers"
   },
   "ttb": 400,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "chili_pepper_seeds",
-  "solid": false,
+  "model": "CustomModel",
   "modelScale": 10,
   "customModelInfo": {
     "yOffset": -0.4375
   },
-  "stackable": true,
-  "blockModel": "chili_pepper_stage0_model"
+  "harvestType": "cuttable",
+  "solid": false,
+  "blockModel": "chili_pepper_stage0_model",
+  "stackable": true
 }

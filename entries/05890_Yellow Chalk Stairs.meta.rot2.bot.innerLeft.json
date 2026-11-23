@@ -40,6 +40,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Yellow Chalk Stairs",
     "rootId": 3773,
@@ -48,6 +49,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 1160,
-  "stackable": true
+  "atlasIdx": 1160
 }

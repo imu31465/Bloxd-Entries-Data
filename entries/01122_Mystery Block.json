@@ -9,6 +9,6 @@
   "ttb": 1200,
   "textureInfo": "mystery_block",
   "harvestType": "rock",
-  "atlasIdx": 898,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 898
 }

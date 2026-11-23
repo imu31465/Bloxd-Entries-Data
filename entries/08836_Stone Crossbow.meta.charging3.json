@@ -11,7 +11,7 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "stone_crossbow_charging_3",
+  "textureName": "stone_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
@@ -19,11 +19,11 @@
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "stone_crossbow_charging_3",
   "meta": {
     "rootName": "Stone Crossbow",
     "rootId": 8834,
     "metaStr": "meta|charging3",
     "charging": 3
-  },
-  "textureName": "stone_crossbow"
+  }
 }

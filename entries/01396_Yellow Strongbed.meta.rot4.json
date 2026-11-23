@@ -7,9 +7,19 @@
     "text": "Yellow Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "yellow_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Yellow Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Yellow Strongbed",
+    "rootId": 1393,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0,
     0,
@@ -23,15 +33,5 @@
     0.125,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Yellow Strongbed",
-    "rootId": 1393,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Yellow Strongbed"
+  ]
 }

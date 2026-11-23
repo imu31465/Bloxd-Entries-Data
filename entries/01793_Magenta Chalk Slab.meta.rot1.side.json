@@ -16,10 +16,11 @@
       "colour": "$t(colour:magenta)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_magenta",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Magenta Chalk",
+  "textureInfo": "chalk_magenta",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +29,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Chalk Slab",
     "rootId": 1791,
@@ -35,7 +37,5 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 1166,
-  "stackable": true,
-  "slabFullBlock": "Magenta Chalk"
+  "atlasIdx": 1166
 }

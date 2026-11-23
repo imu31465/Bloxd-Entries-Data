@@ -19,6 +19,7 @@
     4
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Spawn Block (Light Blue)",
     "rootId": 1521,
@@ -31,6 +32,5 @@
     1048,
     1049,
     1050
-  ],
-  "stackable": true
+  ]
 }

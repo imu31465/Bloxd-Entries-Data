@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_maple",
+  "itemTexture": "maple_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "maple_fence",
   "ib": [
     0.375,
     0,
@@ -19,7 +19,7 @@
     1,
     0.625
   ],
-  "atlasIdx": 531,
+  "attachedTop": "_Maple Fence Top",
   "stackable": true,
-  "attachedTop": "_Maple Fence Top"
+  "atlasIdx": 531
 }

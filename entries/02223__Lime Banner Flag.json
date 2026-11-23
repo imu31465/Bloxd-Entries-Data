@@ -7,20 +7,23 @@
     "text": "Lime Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_lime",
-  "drops": "Lime Banner",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.25,
-    1,
-    1,
-    0.375
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "rootMetaDesc": "_Lime Banner Flag|meta|rot1|top",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Lime Banner Flag Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Lime Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Lime Banner Flag",
     "rootId": 2223,
@@ -28,15 +31,12 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "rootMetaDesc": "_Lime Banner Flag|meta|rot1|top",
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Lime Banner Flag Hanging"
+  "ib": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.375
+  ]
 }

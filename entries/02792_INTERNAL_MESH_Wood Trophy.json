@@ -4,9 +4,9 @@
   "kind": "block",
   "ttb": 2000,
   "harvestType": "wood",
-  "modelScale": 1,
-  "stackable": true,
   "blockModel": "Wood Trophy",
   "blockModelItem": true,
-  "twoDBlockItem": true
+  "twoDBlockItem": true,
+  "modelScale": 1,
+  "stackable": true
 }

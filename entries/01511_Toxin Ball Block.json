@@ -10,6 +10,6 @@
   "textureInfo": "toxin_ball_block",
   "harvestType": "rock",
   "unlitStandaloneMesh": true,
-  "atlasIdx": 1000,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1000
 }

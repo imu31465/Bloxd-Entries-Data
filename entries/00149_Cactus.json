@@ -8,9 +8,9 @@
   },
   "ttb": 300,
   "textureInfo": "small_cactus",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
   "stackable": true
 }

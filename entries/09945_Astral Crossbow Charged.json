@@ -14,8 +14,8 @@
   "textureInfo": "astral_crossbow_charged",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "astral_crossbow_charged",
   "stackable": false,
   "secondaryDamage": 68,
-  "holdAsAiming": true
+  "holdAsAiming": true,
+  "heldItemGlb": "astral_crossbow_charged"
 }

@@ -7,20 +7,22 @@
     "text": "Red Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_red",
-  "drops": "Red Banner",
-  "solid": false,
-  "ib": [
-    0.25,
-    0,
-    0,
-    0.625,
-    1,
-    1
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Red Banner Flag",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Red Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Red Banner Flag",
     "rootId": 2439,
@@ -28,14 +30,12 @@
     "rot": 4,
     "halfblockPlacement": 0
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Red Banner Flag"
+  "ib": [
+    0.25,
+    0,
+    0,
+    0.625,
+    1,
+    1
+  ]
 }

@@ -13,6 +13,6 @@
     "break": "cloth",
     "place": "cloth"
   },
-  "atlasIdx": 1299,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1299
 }

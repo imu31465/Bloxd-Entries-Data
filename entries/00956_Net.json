@@ -12,10 +12,10 @@
   },
   "ttb": 400,
   "textureInfo": "net",
-  "harvestType": "wood",
   "model": "CentreCross",
-  "itemTexture": "net",
-  "solid": false,
   "heldItemScale": 1,
+  "solid": false,
+  "harvestType": "wood",
+  "itemTexture": "net",
   "stackable": true
 }

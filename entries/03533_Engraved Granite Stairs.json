@@ -10,6 +10,7 @@
   "textureInfo": "engraved_granite",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Engraved Granite Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Granite Stairs",
     "rootId": 3533,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Engraved Granite Stairs|meta|rot1|bot",
-  "atlasIdx": 786,
-  "stackable": true
+  "atlasIdx": 786
 }

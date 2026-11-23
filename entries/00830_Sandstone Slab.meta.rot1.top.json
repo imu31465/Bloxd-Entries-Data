@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Sandstone",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Sandstone Slab",
     "rootId": 829,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     827,
     552
-  ],
-  "stackable": true,
-  "slabFullBlock": "Sandstone"
+  ]
 }

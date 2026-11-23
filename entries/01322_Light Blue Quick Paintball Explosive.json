@@ -2,9 +2,9 @@
   "id": 1322,
   "name": "Light Blue Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_light_blue",
   "harvestType": "cuttable",
-  "atlasIdx": 957,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 957
 }

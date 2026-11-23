@@ -3,18 +3,18 @@
   "name": "Purple Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_purple",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_purple",
   "unlitStandaloneMesh": true,
   "KJ": [
     9,
     3,
     12
   ],
-  "atlasIdx": 1259,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1259
 }

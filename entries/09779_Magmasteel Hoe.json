@@ -13,10 +13,10 @@
   "textureInfo": "magmasteel_hoe",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "magmasteel_hoe",
-  "stackable": false,
   "damage": 28,
+  "stackable": false,
   "harvests": "cuttable",
   "multiplier": 4.25,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "magmasteel_hoe"
 }

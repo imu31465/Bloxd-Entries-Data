@@ -12,10 +12,10 @@
   },
   "ttb": 400,
   "textureInfo": "potato_plant_stage0",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "potato_seeds",
-  "drops": "Potato Seeds",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Potato Seeds",
   "stackable": true
 }

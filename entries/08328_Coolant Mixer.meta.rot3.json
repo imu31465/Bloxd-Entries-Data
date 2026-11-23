@@ -22,6 +22,10 @@
     "coolant_mixer_back",
     "coolant_mixer_side_flip"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     8,
     1,
@@ -30,15 +34,13 @@
     7,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Coolant Mixer",
     "rootId": 8326,
     "metaStr": "meta|rot3",
     "rot": 3
   },
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1554,
     1633,
@@ -49,7 +51,5 @@
     1638,
     1639,
     1640
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -13,6 +13,6 @@
   "textureInfo": "rubellite_fragment",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "rubellite_fragment",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "rubellite_fragment"
 }

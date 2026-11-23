@@ -7,19 +7,21 @@
     "text": "Brown Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_brown",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.75,
-    1,
-    1,
-    1
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Brown Banner Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Brown Banner",
     "rootId": 2387,
@@ -27,14 +29,12 @@
     "rot": 3,
     "halfblockPlacement": 1
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Brown Banner Hanging"
+  "ib": [
+    0,
+    0,
+    0.75,
+    1,
+    1,
+    1
+  ]
 }

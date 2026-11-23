@@ -7,9 +7,20 @@
     "text": "Green Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "green_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Green Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Green Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Green Bed",
+    "rootId": 440,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Green Bed",
-    "rootId": 440,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Green Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Green Bed"
+  ]
 }

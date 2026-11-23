@@ -30,6 +30,10 @@
     "machine_side",
     "crusher_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     7,
     0,
@@ -38,20 +42,18 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "KJ": [
+    9,
+    6,
+    3
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Crusher",
     "rootId": 7874,
     "metaStr": "meta|rot4|Running",
     "rot": 4
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    9,
-    6,
-    3
-  ],
   "atlasIdx": [
     1370,
     27,
@@ -61,7 +63,5 @@
     1375,
     1360,
     1376
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

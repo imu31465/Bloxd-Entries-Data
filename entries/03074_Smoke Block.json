@@ -19,10 +19,11 @@
     ],
     "animationInterval": 200
   },
-  "harvestType": "cuttable",
   "transTex": true,
-  "drops": null,
   "solid": false,
+  "drops": null,
+  "harvestType": "cuttable",
+  "stackable": true,
   "atlasIdx": [
     22,
     168,
@@ -32,6 +33,5 @@
     172,
     173,
     174
-  ],
-  "stackable": true
+  ]
 }

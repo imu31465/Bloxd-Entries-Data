@@ -18,6 +18,7 @@
     2
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Pink Ceramic",
     "rootId": 269,
@@ -29,6 +30,5 @@
     714,
     715,
     716
-  ],
-  "stackable": true
+  ]
 }

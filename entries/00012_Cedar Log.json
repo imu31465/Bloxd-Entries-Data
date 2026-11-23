@@ -9,6 +9,6 @@
   "ttb": 2400,
   "textureInfo": "log_cedar",
   "harvestType": "wood",
-  "atlasIdx": 528,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 528
 }

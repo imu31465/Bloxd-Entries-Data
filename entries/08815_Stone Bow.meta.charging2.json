@@ -11,7 +11,7 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "stone_bow_charging_2",
+  "textureName": "stone_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
@@ -20,11 +20,11 @@
   "secondaryDamage": 45,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "stone_bow_charging_2",
   "meta": {
     "rootName": "Stone Bow",
     "rootId": 8814,
     "metaStr": "meta|charging2",
     "charging": 2
-  },
-  "textureName": "stone_bow"
+  }
 }

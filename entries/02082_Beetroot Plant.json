@@ -12,10 +12,10 @@
   },
   "ttb": 400,
   "textureInfo": "beetroot_plant_stage0",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "beetroot_seeds",
-  "drops": "Beetroot Seeds",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Beetroot Seeds",
   "stackable": true
 }

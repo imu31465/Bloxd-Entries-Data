@@ -8,9 +8,9 @@
   },
   "ttb": 1,
   "textureInfo": "spectral_sapling",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "spectral_sapling",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "spectral_sapling",
   "stackable": true
 }

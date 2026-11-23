@@ -10,22 +10,22 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "magmasteel_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "magmasteel_bow",
   "stackable": false,
+  "rootMetaDesc": "Magmasteel Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "magmasteel_bow",
+  "heldItemGlb": "magmasteel_bow",
   "meta": {
     "rootName": "Magmasteel Bow",
     "rootId": 9785,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Magmasteel Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

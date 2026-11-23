@@ -7,10 +7,10 @@
     "text": "Cotton"
   },
   "ttb": 400,
-  "textureInfo": "cotton_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Cotton Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Cotton Seeds",
+  "textureInfo": "cotton_plant_stage1",
   "stackable": true
 }

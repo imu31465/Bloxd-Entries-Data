@@ -7,10 +7,21 @@
     "text": "Mango Ladder"
   },
   "ttb": 1000,
-  "harvestType": "wood",
-  "model": "rotatableOffset",
   "itemTexture": "ladder_mango",
+  "model": "rotatableOffset",
+  "harvestType": "wood",
+  "modelScale": 1,
   "solid": false,
+  "blockModel": "Mango Ladder",
+  "heldItemScale": 1,
+  "blockModelItem": true,
+  "stackable": true,
+  "meta": {
+    "rootName": "Mango Ladder",
+    "rootId": 2003,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -18,16 +29,5 @@
     0.25,
     1,
     1
-  ],
-  "heldItemScale": 1,
-  "modelScale": 1,
-  "meta": {
-    "rootName": "Mango Ladder",
-    "rootId": 2003,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "stackable": true,
-  "blockModel": "Mango Ladder",
-  "blockModelItem": true
+  ]
 }

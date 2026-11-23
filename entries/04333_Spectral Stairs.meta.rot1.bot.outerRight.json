@@ -24,6 +24,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Spectral Stairs",
     "rootId": 3381,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 1150,
-  "stackable": true
+  "atlasIdx": 1150
 }

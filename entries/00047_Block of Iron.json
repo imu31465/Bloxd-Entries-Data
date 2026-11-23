@@ -9,6 +9,6 @@
   "ttb": 5400,
   "textureInfo": "iron_block",
   "harvestType": "rock",
-  "atlasIdx": 561,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 561
 }

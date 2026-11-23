@@ -9,6 +9,6 @@
   "textureInfo": "amethite",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "amethite",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "amethite"
 }

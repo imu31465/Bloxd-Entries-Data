@@ -6,6 +6,7 @@
   "textureInfo": "stripped_plum_log",
   "harvestType": "wood",
   "drops": "Barkless Plum Log",
+  "stackable": true,
   "meta": {
     "rootName": "Barkless Plum Log",
     "rootId": 23,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Plum"
   },
-  "atlasIdx": 539,
-  "stackable": true
+  "atlasIdx": 539
 }

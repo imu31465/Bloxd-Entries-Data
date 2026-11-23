@@ -13,6 +13,6 @@
   "textureInfo": "amethite_fragment",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "amethite_fragment",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "amethite_fragment"
 }

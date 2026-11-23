@@ -14,12 +14,12 @@
   "textureInfo": "uranium_block",
   "harvestType": "rock",
   "harvestLevel": 0,
+  "showInCreativeInven": false,
   "KJ": [
     5,
     9,
     2
   ],
-  "atlasIdx": 1644,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1644
 }

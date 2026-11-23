@@ -16,10 +16,11 @@
       "colour": "$t(colour:pink)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_pink",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Pink Chalk",
+  "textureInfo": "chalk_pink",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +29,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pink Chalk Slab",
     "rootId": 1779,
@@ -35,7 +37,5 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 1164,
-  "stackable": true,
-  "slabFullBlock": "Pink Chalk"
+  "atlasIdx": 1164
 }

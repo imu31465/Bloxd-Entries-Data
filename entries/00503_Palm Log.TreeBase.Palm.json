@@ -6,6 +6,7 @@
   "textureInfo": "log_palm",
   "harvestType": "wood",
   "drops": "Palm Log",
+  "stackable": true,
   "meta": {
     "rootName": "Palm Log",
     "rootId": 502,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Palm"
   },
-  "atlasIdx": 792,
-  "stackable": true
+  "atlasIdx": 792
 }

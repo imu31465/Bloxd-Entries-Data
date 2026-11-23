@@ -30,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Gray Concrete Stairs",
     "rootId": 3709,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 599,
-  "stackable": true
+  "atlasIdx": 599
 }

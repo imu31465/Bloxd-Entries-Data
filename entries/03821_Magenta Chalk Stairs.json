@@ -20,6 +20,7 @@
   "textureInfo": "chalk_magenta",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Magenta Chalk Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -34,6 +35,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Chalk Stairs",
     "rootId": 3821,
@@ -41,7 +43,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Magenta Chalk Stairs|meta|rot1|bot",
-  "atlasIdx": 1166,
-  "stackable": true
+  "atlasIdx": 1166
 }

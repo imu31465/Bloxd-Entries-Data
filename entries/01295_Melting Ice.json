@@ -9,9 +9,9 @@
   "ttb": 1200,
   "textureInfo": "ice",
   "harvestType": "rock",
-  "drops": "Ice",
   "harvestLevel": 0,
   "stoodOnSpeedMultiplier": 1.4,
-  "atlasIdx": 653,
-  "stackable": true
+  "drops": "Ice",
+  "stackable": true,
+  "atlasIdx": 653
 }

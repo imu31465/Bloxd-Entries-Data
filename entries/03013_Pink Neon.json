@@ -3,18 +3,18 @@
   "name": "Pink Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_pink",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_pink",
   "unlitStandaloneMesh": true,
   "KJ": [
     15,
     8,
     10
   ],
-  "atlasIdx": 1260,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1260
 }

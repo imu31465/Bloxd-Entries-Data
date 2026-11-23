@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "blue_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Blue Concrete",
+  "rootMetaDesc": "Blue Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Blue Concrete Slab",
     "rootId": 1209,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Blue Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 601,
-  "stackable": true,
-  "slabFullBlock": "Blue Concrete"
+  "atlasIdx": 601
 }

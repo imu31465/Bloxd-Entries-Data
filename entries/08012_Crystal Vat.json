@@ -21,6 +21,11 @@
     "machine_side",
     "crystal_vat_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Crystal Vat|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,16 +34,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Crystal Vat",
     "rootId": 8012,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Crystal Vat|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1481,
     1482,
@@ -48,7 +50,5 @@
     1486,
     1360,
     1487
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

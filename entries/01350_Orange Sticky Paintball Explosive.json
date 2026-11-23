@@ -2,9 +2,9 @@
   "id": 1350,
   "name": "Orange Sticky Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_sticky_orange",
   "harvestType": "cuttable",
-  "atlasIdx": 985,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 985
 }

@@ -13,8 +13,8 @@
   "textureInfo": "rubellite_crossbow_charged",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "rubellite_crossbow_charged",
   "stackable": false,
   "secondaryDamage": 68,
-  "holdAsAiming": true
+  "holdAsAiming": true,
+  "heldItemGlb": "rubellite_crossbow_charged"
 }

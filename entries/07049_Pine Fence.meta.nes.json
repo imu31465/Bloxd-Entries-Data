@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_pine",
+  "itemTexture": "pine_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "pine_fence",
   "ib": [
     0.375,
     0,
@@ -37,12 +37,12 @@
     1,
     1
   ],
+  "attachedTop": "_Pine Fence Top|meta|nes",
+  "stackable": true,
   "meta": {
     "rootName": "Pine Fence",
     "rootId": 7042,
     "metaStr": "meta|nes"
   },
-  "atlasIdx": 535,
-  "stackable": true,
-  "attachedTop": "_Pine Fence Top|meta|nes"
+  "atlasIdx": 535
 }

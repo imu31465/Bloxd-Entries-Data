@@ -7,14 +7,14 @@
     "text": "Jungle Rod"
   },
   "type": "Item",
-  "textureInfo": "jungle_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "jungle_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

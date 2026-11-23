@@ -7,20 +7,22 @@
     "text": "Skull Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_skull",
-  "drops": "Skull Banner",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.375,
-    1,
-    1,
-    0.75
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Skull Banner Flag",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Skull Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Skull Banner Flag",
     "rootId": 2724,
@@ -28,14 +30,12 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Skull Banner Flag"
+  "ib": [
+    0,
+    0,
+    0.375,
+    1,
+    1,
+    0.75
+  ]
 }

@@ -9,6 +9,6 @@
   "ttb": 4500,
   "textureInfo": "coal_block",
   "harvestType": "rock",
-  "atlasIdx": 560,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 560
 }

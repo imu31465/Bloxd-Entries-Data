@@ -8,10 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_jungle",
+  "itemTexture": "jungle_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "jungle_fence",
-  "drops": null,
   "ib": [
     0.375,
     0,
@@ -38,12 +37,13 @@
     0.5,
     1
   ],
+  "canBePlacedOver": true,
+  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "_Jungle Fence Top",
     "rootId": 7266,
     "metaStr": "meta|nes"
   },
-  "atlasIdx": 534,
-  "stackable": true,
-  "canBePlacedOver": true
+  "atlasIdx": 534
 }

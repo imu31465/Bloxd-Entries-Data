@@ -20,9 +20,9 @@
     0
   ],
   "harvestType": "wood",
+  "stackable": true,
   "atlasIdx": [
     1156,
     1157
-  ],
-  "stackable": true
+  ]
 }

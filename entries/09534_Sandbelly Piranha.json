@@ -15,16 +15,16 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "eat1",
-  "eatHealAmt": 10,
-  "chargeStages": 1,
   "chargeTime": 750,
+  "eatHealAmt": 10,
+  "rootMetaDesc": "Sandbelly Piranha|meta|charging1",
   "meta": {
     "rootName": "Sandbelly Piranha",
     "rootId": 9534,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Sandbelly Piranha|meta|charging1"
+  }
 }

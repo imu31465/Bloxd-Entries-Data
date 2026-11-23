@@ -19,8 +19,12 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Ice Bricks",
+  "rootMetaDesc": "Ice Bricks Slab|meta|rot1|bot",
+  "harvestLevel": 0,
+  "stoodOnSpeedMultiplier": 1.4,
   "ib": [
     0,
     0,
@@ -29,6 +33,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Ice Bricks Slab",
     "rootId": 895,
@@ -36,13 +41,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Ice Bricks Slab|meta|rot1|bot",
-  "harvestLevel": 0,
-  "stoodOnSpeedMultiplier": 1.4,
   "atlasIdx": [
     836,
     788
-  ],
-  "stackable": true,
-  "slabFullBlock": "Ice Bricks"
+  ]
 }

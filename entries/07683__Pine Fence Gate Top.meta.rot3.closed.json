@@ -8,10 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_pine",
+  "itemTexture": "pine_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "pine_fence_gate",
-  "drops": null,
   "ib": [
     0,
     0,
@@ -20,6 +19,9 @@
     0.5,
     0.625
   ],
+  "canBePlacedOver": true,
+  "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "_Pine Fence Gate Top",
     "rootId": 7679,
@@ -27,7 +29,5 @@
     "rot": 3,
     "open": false
   },
-  "atlasIdx": 535,
-  "stackable": true,
-  "canBePlacedOver": true
+  "atlasIdx": 535
 }

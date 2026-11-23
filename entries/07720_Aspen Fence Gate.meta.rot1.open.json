@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_aspen",
+  "itemTexture": "aspen_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "aspen_fence_gate",
   "ib": [
     0,
     0,
@@ -25,6 +25,8 @@
     1,
     0.625
   ],
+  "attachedTop": "_Aspen Fence Gate Top|meta|rot1|open",
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Fence Gate",
     "rootId": 7719,
@@ -32,7 +34,5 @@
     "rot": 1,
     "open": true
   },
-  "atlasIdx": 532,
-  "stackable": true,
-  "attachedTop": "_Aspen Fence Gate Top|meta|rot1|open"
+  "atlasIdx": 532
 }

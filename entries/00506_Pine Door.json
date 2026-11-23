@@ -7,17 +7,13 @@
     "text": "Pine Door"
   },
   "ttb": 3600,
-  "harvestType": "wood",
-  "model": "door",
   "itemTexture": "pine_door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "model": "door",
+  "harvestType": "wood",
+  "rootMetaDesc": "Pine Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "Pine Door",
+  "stackable": true,
   "meta": {
     "rootName": "Pine Door",
     "rootId": 506,
@@ -25,8 +21,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Pine Door|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Pine Door"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

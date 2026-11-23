@@ -21,6 +21,11 @@
     "machine_side",
     "wire_mill_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Wire Mill|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,16 +34,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Wire Mill",
     "rootId": 7890,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Wire Mill|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1393,
     1394,
@@ -48,7 +50,5 @@
     1398,
     1360,
     1399
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

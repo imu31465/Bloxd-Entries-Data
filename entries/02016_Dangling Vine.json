@@ -11,10 +11,20 @@
     "text": "Climb me without needing a wall!"
   },
   "ttb": 225,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "dangling_vine",
+  "model": "CustomModel",
+  "harvestType": "cuttable",
   "solid": false,
+  "blockModel": "Dangling Vine",
+  "modelScale": 10,
+  "customModelInfo": {
+    "yOffset": -0.4375,
+    "backFaceCulling": true
+  },
+  "climbableInside": {
+    "upForceScalar": 0.95
+  },
+  "stackable": true,
   "ib": [
     0.25,
     0,
@@ -22,15 +32,5 @@
     0.75,
     1,
     0.75
-  ],
-  "modelScale": 10,
-  "climbableInside": {
-    "upForceScalar": 0.95
-  },
-  "customModelInfo": {
-    "yOffset": -0.4375,
-    "backFaceCulling": true
-  },
-  "stackable": true,
-  "blockModel": "Dangling Vine"
+  ]
 }

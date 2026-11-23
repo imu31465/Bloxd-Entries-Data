@@ -20,11 +20,11 @@
   "eatHealAmt": 28,
   "chargeStages": 1,
   "chargeTime": 1200,
+  "rootMetaDesc": "Raw Beef|meta|charging1",
   "meta": {
     "rootName": "Raw Beef",
     "rootId": 8894,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Raw Beef|meta|charging1"
+  }
 }

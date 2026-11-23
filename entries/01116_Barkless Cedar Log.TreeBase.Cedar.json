@@ -6,6 +6,7 @@
   "textureInfo": "stripped_cedar_log",
   "harvestType": "wood",
   "drops": "Barkless Cedar Log",
+  "stackable": true,
   "meta": {
     "rootName": "Barkless Cedar Log",
     "rootId": 26,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Cedar"
   },
-  "atlasIdx": 542,
-  "stackable": true
+  "atlasIdx": 542
 }

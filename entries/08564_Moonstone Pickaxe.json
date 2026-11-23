@@ -14,8 +14,8 @@
   "textureInfo": "moonstone_pickaxe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 32,
+  "stackable": false,
   "harvests": "rock",
   "multiplier": 9,
   "level": 5

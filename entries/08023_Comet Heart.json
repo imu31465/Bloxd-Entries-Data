@@ -13,14 +13,14 @@
   "ttb": 18000,
   "textureInfo": "comet_heart",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 3,
+  "drops": null,
   "KJ": [
     12,
     10,
     14
   ],
-  "atlasIdx": 1491,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1491
 }

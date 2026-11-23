@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Aspen Wood Planks",
+  "rootMetaDesc": "Aspen Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Slab",
     "rootId": 685,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Aspen Slab|meta|rot1|bot",
   "atlasIdx": [
     803,
     532
-  ],
-  "stackable": true,
-  "slabFullBlock": "Aspen Wood Planks"
+  ]
 }

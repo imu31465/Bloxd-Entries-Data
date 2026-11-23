@@ -10,22 +10,22 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "amethite_bow",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "amethite_bow",
   "stackable": false,
+  "rootMetaDesc": "Amethite Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "amethite_bow",
+  "heldItemGlb": "amethite_bow",
   "meta": {
     "rootName": "Amethite Bow",
     "rootId": 9758,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Amethite Bow|meta|charging1",
-  "textureName": "diamond_bow"
+  }
 }

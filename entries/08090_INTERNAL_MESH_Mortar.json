@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 2000,
   "harvestType": "rock",
-  "drops": null,
+  "blockModel": "mortar_goblin",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 1,
   "meshEntityBones": [
     "Cannon",
     "LeftArm",
     "RightArm"
   ],
-  "stackable": true,
-  "blockModel": "mortar_goblin",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "drops": null,
+  "stackable": true
 }

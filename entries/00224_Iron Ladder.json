@@ -7,10 +7,21 @@
     "text": "Iron Ladder"
   },
   "ttb": 1800,
-  "harvestType": "rock",
-  "model": "rotatableOffset",
   "itemTexture": "iron_ladder",
+  "model": "rotatableOffset",
+  "harvestType": "rock",
+  "rootMetaDesc": "Iron Ladder|meta|rot1",
   "solid": false,
+  "blockModel": "Iron Ladder",
+  "blockModelItem": true,
+  "particlesIgnoreBlack": true,
+  "stackable": true,
+  "meta": {
+    "rootName": "Iron Ladder",
+    "rootId": 224,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -18,16 +29,5 @@
     1,
     1,
     0.25
-  ],
-  "meta": {
-    "rootName": "Iron Ladder",
-    "rootId": 224,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Iron Ladder|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Iron Ladder",
-  "blockModelItem": true
+  ]
 }

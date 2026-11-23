@@ -24,6 +24,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Andesite Stairs",
     "rootId": 3453,
@@ -31,6 +32,5 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 548,
-  "stackable": true
+  "atlasIdx": 548
 }

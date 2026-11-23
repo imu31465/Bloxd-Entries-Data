@@ -18,6 +18,7 @@
     2
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Orange Ceramic",
     "rootId": 249,
@@ -29,6 +30,5 @@
     694,
     695,
     696
-  ],
-  "stackable": true
+  ]
 }

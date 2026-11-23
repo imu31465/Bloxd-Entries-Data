@@ -18,6 +18,7 @@
     3
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Magenta Ceramic",
     "rootId": 253,
@@ -29,6 +30,5 @@
     698,
     699,
     700
-  ],
-  "stackable": true
+  ]
 }

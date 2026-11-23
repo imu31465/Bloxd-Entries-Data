@@ -7,6 +7,7 @@
     "text": "Chest"
   },
   "ttb": 3000,
+  "harvestType": "wood",
   "textureInfo": [
     "chest_front",
     "chest_side",
@@ -16,6 +17,7 @@
     "chest_top[rot[4",
     "chest_back"
   ],
+  "rootMetaDesc": "Chest|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -24,14 +26,13 @@
     0,
     6
   ],
-  "harvestType": "wood",
+  "stackable": true,
   "meta": {
     "rootName": "Chest",
     "rootId": 204,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Chest|meta|rot1",
   "atlasIdx": [
     663,
     664,
@@ -40,6 +41,5 @@
     667,
     668,
     669
-  ],
-  "stackable": true
+  ]
 }

@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "lucchia_blocchi",
+  "blockModel": "lucchia_blocchi",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 3,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "lucchia_blocchi",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

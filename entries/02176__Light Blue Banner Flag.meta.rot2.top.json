@@ -7,20 +7,22 @@
     "text": "Light Blue Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_light_blue",
-  "drops": "Light Blue Banner",
-  "solid": false,
-  "ib": [
-    0.25,
-    0,
-    0,
-    0.375,
-    1,
-    1
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Light Blue Banner Flag Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Light Blue Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Light Blue Banner Flag",
     "rootId": 2175,
@@ -28,14 +30,12 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Light Blue Banner Flag Hanging"
+  "ib": [
+    0.25,
+    0,
+    0,
+    0.375,
+    1,
+    1
+  ]
 }

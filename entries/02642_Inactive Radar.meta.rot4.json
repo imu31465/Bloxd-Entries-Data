@@ -7,11 +7,15 @@
     "text": "Inactive Radar"
   },
   "ttb": 3000,
+  "itemTexture": "inactive_radar",
   "textureInfo": [
     "radar_side_inactive",
     "radar_top_inactive",
     "radar_bottom"
   ],
+  "harvestType": "rock",
+  "drops": "Radar",
+  "twoDBlockItem": true,
   "texturePerSide": [
     0,
     0,
@@ -20,9 +24,7 @@
     0,
     0
   ],
-  "harvestType": "rock",
-  "itemTexture": "inactive_radar",
-  "drops": "Radar",
+  "stackable": true,
   "meta": {
     "rootName": "Inactive Radar",
     "rootId": 2639,
@@ -33,7 +35,5 @@
     1250,
     1251,
     1249
-  ],
-  "stackable": true,
-  "twoDBlockItem": true
+  ]
 }

@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "stonebrick_mossy",
   "harvestType": "rock",
-  "atlasIdx": 649,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 649
 }

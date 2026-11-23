@@ -3,10 +3,20 @@
   "name": "_Cyan Bed Head|meta|rot3",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "cyan_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
   "drops": "Cyan Bed",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Cyan Bed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Cyan Bed Head",
+    "rootId": 412,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
   "ib": [
     0,
     0,
@@ -14,15 +24,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Cyan Bed Head",
-    "rootId": 412,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Cyan Bed Head"
+  ]
 }

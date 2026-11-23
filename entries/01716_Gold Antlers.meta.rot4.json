@@ -11,17 +11,12 @@
     "text": "Use to decorate your home and remind you of your conquest over nature..."
   },
   "ttb": 1500,
-  "harvestType": "rock",
-  "model": "rotatableOffset",
   "itemTexture": "gold_antlers_icon",
+  "model": "rotatableOffset",
+  "harvestType": "rock",
   "solid": false,
+  "blockModel": "gold_antlers_model",
   "modelScale": 10,
-  "meta": {
-    "rootName": "Gold Antlers",
-    "rootId": 1713,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
   "particlesIgnoreBlack": true,
   "KJ": [
     7,
@@ -29,5 +24,10 @@
     2
   ],
   "stackable": true,
-  "blockModel": "gold_antlers_model"
+  "meta": {
+    "rootName": "Gold Antlers",
+    "rootId": 1713,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

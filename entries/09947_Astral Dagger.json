@@ -14,13 +14,11 @@
   "textureInfo": "astral_dagger",
   "weight": 1,
   "heldItemScale": 1.1,
-  "heldItemGlb": "astral_dagger",
-  "stackable": false,
   "damage": 36,
   "attackRange": 2.5,
+  "attackCooldownMs": 250,
   "knockbackHorizontalScalar": 0.4,
   "knockbackVerticalScalar": 0.8,
-  "attackCooldownMs": 250,
   "comboInfo": {
     "comboWindowMs": 800,
     "comboMultipliers": [
@@ -31,7 +29,9 @@
     ],
     "backstabAngle": 2.0943951023931953
   },
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "astral_dagger"
 }

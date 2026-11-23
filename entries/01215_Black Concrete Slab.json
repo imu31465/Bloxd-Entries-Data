@@ -8,8 +8,10 @@
   },
   "ttb": 1080,
   "textureInfo": "black_concrete",
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Black Concrete",
+  "rootMetaDesc": "Black Concrete Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -18,6 +20,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Black Concrete Slab",
     "rootId": 1215,
@@ -25,8 +28,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Black Concrete Slab|meta|rot1|bot",
-  "atlasIdx": 600,
-  "stackable": true,
-  "slabFullBlock": "Black Concrete"
+  "atlasIdx": 600
 }

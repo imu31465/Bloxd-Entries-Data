@@ -9,9 +9,9 @@
   "ttb": 37800,
   "textureInfo": "pure_voltite_ore",
   "harvestType": "rock",
+  "harvestLevel": 3,
   "drops": "Raw Voltite",
   "XJ": 9,
-  "harvestLevel": 3,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Voltite Ore"
@@ -45,7 +45,7 @@
     6,
     6
   ],
-  "atlasIdx": 1526,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1526
 }

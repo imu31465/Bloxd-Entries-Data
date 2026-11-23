@@ -10,12 +10,12 @@
   },
   "type": "FullAuto",
   "textureInfo": "snowball",
+  "heldItemGlb": "Snowball",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Snowball",
   "stackable": false,
+  "fireInterval": 216,
   "secondaryDamage": 4,
   "holdAsAiming": false,
-  "hideAimingUI": true,
-  "fireInterval": 216
+  "hideAimingUI": true
 }

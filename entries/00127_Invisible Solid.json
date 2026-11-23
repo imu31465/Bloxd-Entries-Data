@@ -4,8 +4,8 @@
   "kind": "block",
   "ttb": 3000,
   "textureInfo": "invisible_solid",
-  "harvestType": "rock",
   "transTex": true,
-  "atlasIdx": 641,
-  "stackable": true
+  "harvestType": "rock",
+  "stackable": true,
+  "atlasIdx": 641
 }

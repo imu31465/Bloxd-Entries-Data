@@ -6,6 +6,7 @@
   "textureInfo": "log_mango",
   "harvestType": "wood",
   "drops": "Mango Log",
+  "stackable": true,
   "meta": {
     "rootName": "Mango Log",
     "rootId": 1965,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Mango"
   },
-  "atlasIdx": 1211,
-  "stackable": true
+  "atlasIdx": 1211
 }

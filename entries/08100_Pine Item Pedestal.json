@@ -9,13 +9,13 @@
   "ttb": 960,
   "harvestType": "wood",
   "model": "CustomModel",
-  "itemTexture": "pine_item_pedestal",
-  "heldItemScale": 4,
   "modelScale": 8,
+  "blockModel": "Pine Item Pedestal",
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "pine_item_pedestal",
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "Pine Item Pedestal",
-  "blockModelItem": true
+  "stackable": true
 }

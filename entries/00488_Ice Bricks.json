@@ -11,6 +11,6 @@
   "harvestType": "rock",
   "harvestLevel": 0,
   "stoodOnSpeedMultiplier": 1.4,
-  "atlasIdx": 788,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 788
 }

@@ -7,10 +7,10 @@
     "text": "Wheat"
   },
   "ttb": 400,
-  "textureInfo": "wheat_stage6",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Wheat Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Wheat Seeds",
+  "textureInfo": "wheat_stage6",
   "stackable": true
 }

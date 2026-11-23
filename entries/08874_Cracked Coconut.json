@@ -14,16 +14,16 @@
   "textureInfo": "cracked_coconut",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": true,
   "eatable": true,
   "chargeSound": "eat1",
+  "stackable": true,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Cracked Coconut|meta|charging1",
   "meta": {
     "rootName": "Cracked Coconut",
     "rootId": 8874,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Cracked Coconut|meta|charging1"
+  }
 }

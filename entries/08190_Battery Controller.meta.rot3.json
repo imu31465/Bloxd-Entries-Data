@@ -15,6 +15,10 @@
     "battery_controller_front",
     "battery_casing"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "altActionable": true,
   "texturePerSide": [
     1,
     1,
@@ -23,19 +27,15 @@
     1,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Battery Controller",
     "rootId": 8188,
     "metaStr": "meta|rot3",
     "rot": 3
   },
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1596,
     1597
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

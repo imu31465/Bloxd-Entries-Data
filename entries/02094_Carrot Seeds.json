@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "carrot_plant_stage0",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "carrot_seeds",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
   "stackable": true
 }

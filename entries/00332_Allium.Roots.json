@@ -4,16 +4,16 @@
   "kind": "block",
   "ttb": 300,
   "textureInfo": "allium",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "allium",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "allium",
+  "stackable": true,
   "meta": {
     "rootName": "Allium",
     "rootId": 160,
     "metaStr": "Roots",
     "roots": true
-  },
-  "stackable": true
+  }
 }

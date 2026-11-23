@@ -13,13 +13,13 @@
   "ttb": 3000,
   "harvestType": "wood",
   "model": "CustomModel",
-  "itemTexture": "artisan_bench",
-  "heldItemScale": 4,
   "modelScale": 8,
+  "blockModel": "Artisan Bench",
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "artisan_bench",
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "Artisan Bench",
-  "blockModelItem": true
+  "stackable": true
 }

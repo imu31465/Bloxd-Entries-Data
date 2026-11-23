@@ -3,10 +3,21 @@
   "name": "_Gray Strongbed Head",
   "kind": "block",
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "gray_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
   "drops": "Gray Strongbed",
+  "rootMetaDesc": "_Gray Strongbed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Gray Strongbed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Gray Strongbed Head",
+    "rootId": 1421,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -20,16 +31,5 @@
     1,
     1,
     0.125
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Gray Strongbed Head",
-    "rootId": 1421,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "_Gray Strongbed Head|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Gray Strongbed Head"
+  ]
 }

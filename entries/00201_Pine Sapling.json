@@ -8,9 +8,9 @@
   },
   "ttb": 1,
   "textureInfo": "pine_sapling",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "pine_sapling",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "pine_sapling",
   "stackable": true
 }

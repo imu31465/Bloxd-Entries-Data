@@ -21,6 +21,10 @@
     "sky_tap_bottom",
     "sky_tap_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     7,
@@ -29,15 +33,13 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Sky Tap",
     "rootId": 7999,
     "metaStr": "meta|rot2",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1469,
     1470,
@@ -47,7 +49,5 @@
     1474,
     1475,
     1476
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

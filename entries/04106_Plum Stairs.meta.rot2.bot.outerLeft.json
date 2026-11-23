@@ -24,6 +24,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Plum Stairs",
     "rootId": 3325,
@@ -32,6 +33,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerLeft"
   },
-  "atlasIdx": 533,
-  "stackable": true
+  "atlasIdx": 533
 }

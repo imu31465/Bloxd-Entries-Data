@@ -14,8 +14,8 @@
   "textureInfo": "iron_axe",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": false,
   "damage": 31,
+  "stackable": false,
   "harvests": "wood",
   "multiplier": 6,
   "level": 3

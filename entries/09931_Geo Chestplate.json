@@ -10,7 +10,7 @@
   "textureInfo": "geo_chestplate",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "geo_chestplate",
   "stackable": false,
-  "armourReduction": 0.24
+  "armourReduction": 0.24,
+  "heldItemGlb": "geo_chestplate"
 }

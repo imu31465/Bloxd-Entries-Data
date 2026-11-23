@@ -10,6 +10,7 @@
   "textureInfo": "brown_concrete",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Brown Concrete Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Brown Concrete Stairs",
     "rootId": 3749,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Brown Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 602,
-  "stackable": true
+  "atlasIdx": 602
 }

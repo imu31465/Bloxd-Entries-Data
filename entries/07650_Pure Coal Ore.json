@@ -39,12 +39,12 @@
       }
     ]
   },
+  "onMinedAura": 45,
   "KJ": [
     6,
     6,
     6
   ],
-  "atlasIdx": 1345,
   "stackable": true,
-  "onMinedAura": 45
+  "atlasIdx": 1345
 }

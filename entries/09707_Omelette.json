@@ -12,8 +12,8 @@
   },
   "type": "Item",
   "textureInfo": "omelette",
+  "heldItemGlb": "omelette",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "omelette",
   "stackable": false
 }

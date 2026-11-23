@@ -8,18 +8,28 @@
   },
   "ttb": 2500,
   "harvestType": "rock",
-  "model": "rotatable",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
   "itemTexture": "lantern",
-  "ib": [
-    0.125,
-    0,
-    0,
-    0.875,
-    1,
-    0.75
-  ],
-  "heldItemScale": 8,
+  "model": "rotatable",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": 0
+  },
+  "blockModel": "lantern_wall",
+  "blockModelItem": true,
+  "heldItemScale": 8,
+  "unlitStandaloneMesh": true,
+  "KJ": [
+    15,
+    15,
+    13
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Lantern",
     "rootId": 3263,
@@ -27,22 +37,12 @@
     "rot": 1,
     "halfblockPlacement": 2
   },
-  "soundType": {
-    "break": "glass",
-    "place": "stone"
-  },
-  "unlitStandaloneMesh": true,
-  "customModelInfo": {
-    "yOffset": -0.5,
-    "unlit": true,
-    "yRotOffset": 0
-  },
-  "KJ": [
-    15,
-    15,
-    13
-  ],
-  "stackable": true,
-  "blockModel": "lantern_wall",
-  "blockModelItem": true
+  "ib": [
+    0.125,
+    0,
+    0,
+    0.875,
+    1,
+    0.75
+  ]
 }

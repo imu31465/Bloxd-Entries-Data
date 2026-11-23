@@ -7,6 +7,7 @@
     "text": "Chest"
   },
   "ttb": 3000,
+  "harvestType": "wood",
   "textureInfo": [
     "chest_double_front_lo",
     "chest_double_front_hi",
@@ -26,7 +27,7 @@
     0,
     8
   ],
-  "harvestType": "wood",
+  "stackable": true,
   "meta": {
     "rootName": "Chest",
     "rootId": 204,
@@ -43,6 +44,5 @@
     1538,
     1539,
     1540
-  ],
-  "stackable": true
+  ]
 }

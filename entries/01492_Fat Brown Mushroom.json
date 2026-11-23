@@ -11,12 +11,12 @@
     "text": "A bouncy block.\\nDo mushrooms actually bounce this much? idk"
   },
   "ttb": 1200,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "fatBrownMushroom",
-  "heldItemScale": 10,
-  "modelScale": 10,
-  "stackable": true,
+  "harvestType": "cuttable",
   "blockModel": "Fat Brown Mushroom",
-  "blockModelItem": true
+  "blockModelItem": true,
+  "model": "CustomModel",
+  "modelScale": 10,
+  "heldItemScale": 10,
+  "stackable": true
 }

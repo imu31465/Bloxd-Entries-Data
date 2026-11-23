@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Melon Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Melon Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Melon Seeds",
     "rootId": 984,
     "metaStr": "Growing",
     "DJ": true
-  },
-  "stackable": true
+  }
 }

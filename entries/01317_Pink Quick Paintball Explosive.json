@@ -2,9 +2,9 @@
   "id": 1317,
   "name": "Pink Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_pink",
   "harvestType": "cuttable",
-  "atlasIdx": 952,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 952
 }

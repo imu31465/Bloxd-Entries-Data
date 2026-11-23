@@ -20,11 +20,11 @@
   "eatHealAmt": 20,
   "chargeStages": 1,
   "chargeTime": 800,
+  "rootMetaDesc": "Raw Mutton|meta|charging1",
   "meta": {
     "rootName": "Raw Mutton",
     "rootId": 8896,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Raw Mutton|meta|charging1"
+  }
 }

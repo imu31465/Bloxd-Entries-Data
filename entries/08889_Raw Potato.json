@@ -20,11 +20,11 @@
   "eatHealAmt": 20,
   "chargeStages": 1,
   "chargeTime": 1050,
+  "rootMetaDesc": "Raw Potato|meta|charging1",
   "meta": {
     "rootName": "Raw Potato",
     "rootId": 8889,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Raw Potato|meta|charging1"
+  }
 }

@@ -6,12 +6,12 @@
   "textureInfo": "leaves_jungle",
   "harvestType": "cuttable",
   "drops": "Jungle Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Leaves",
     "rootId": 103,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 617,
-  "stackable": true
+  "atlasIdx": 617
 }

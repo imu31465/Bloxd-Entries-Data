@@ -7,9 +7,20 @@
     "text": "Pink Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "pink_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Pink Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Pink Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Pink Bed",
+    "rootId": 384,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Pink Bed",
-    "rootId": 384,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Pink Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Pink Bed"
+  ]
 }

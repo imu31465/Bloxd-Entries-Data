@@ -3,10 +3,20 @@
   "name": "_Purple Strongbed Head|meta|rot3",
   "kind": "block",
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "purple_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
   "drops": "Purple Strongbed",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Purple Strongbed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Purple Strongbed Head",
+    "rootId": 1445,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
   "ib": [
     0,
     0,
@@ -20,15 +30,5 @@
     1,
     1,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Purple Strongbed Head",
-    "rootId": 1445,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Purple Strongbed Head"
+  ]
 }

@@ -6,8 +6,8 @@
   "textureInfo": "caught_sheep_default",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Caught Mob Sheep Default",
   "stackable": false,
+  "heldItemGlb": "Caught Mob Sheep Default",
   "meta": {
     "rootName": "Caught Mob Sheep Orange",
     "rootId": 9330,

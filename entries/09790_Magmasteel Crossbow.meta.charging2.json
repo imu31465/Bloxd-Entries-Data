@@ -10,20 +10,20 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "magmasteel_crossbow_charging_2",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "magmasteel_crossbow_charging_2",
   "stackable": false,
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "magmasteel_crossbow_charging_2",
+  "heldItemGlb": "magmasteel_crossbow_charging_2",
   "meta": {
     "rootName": "Magmasteel Crossbow",
     "rootId": 9789,
     "metaStr": "meta|charging2",
     "charging": 2
-  },
-  "textureName": "diamond_crossbow"
+  }
 }

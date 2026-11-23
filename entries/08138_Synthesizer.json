@@ -22,6 +22,11 @@
     "synthesizer_back",
     "synthesizer_side_flip"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Synthesizer|meta|rot1",
   "texturePerSide": [
     1,
     8,
@@ -30,16 +35,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Synthesizer",
     "rootId": 8138,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Synthesizer|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1554,
     1571,
@@ -50,7 +52,5 @@
     1576,
     1577,
     1578
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

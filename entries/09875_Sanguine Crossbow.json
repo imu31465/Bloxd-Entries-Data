@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "sanguine_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "sanguine_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Sanguine Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "sanguine_crossbow",
+  "heldItemGlb": "sanguine_crossbow",
   "meta": {
     "rootName": "Sanguine Crossbow",
     "rootId": 9875,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Sanguine Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

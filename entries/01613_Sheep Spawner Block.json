@@ -10,6 +10,7 @@
     "key": "item:sheepMobSpawnerBlockDescription",
     "text": "Place to automatically spawn Sheep"
   },
+  "itemTexture": "sheep_spawner_block_icon",
   "ttb": 5000,
   "textureInfo": [
     "mob_spawner_passive_block_side",
@@ -23,20 +24,19 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "transTex": true,
-  "itemTexture": "sheep_spawner_block_icon",
+  "harvestType": "rock",
   "drops": null,
-  "particlesIgnoreBlack": true,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Sheep Spawner Block"
   },
+  "particlesIgnoreBlack": true,
+  "onMinedAura": 75,
+  "twoDBlockItem": true,
+  "stackable": true,
   "atlasIdx": [
     1140,
     1141
-  ],
-  "stackable": true,
-  "twoDBlockItem": true,
-  "onMinedAura": 75
+  ]
 }

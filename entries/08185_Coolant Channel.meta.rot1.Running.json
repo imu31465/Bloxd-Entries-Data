@@ -27,6 +27,9 @@
       "animationInterval": 125
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -35,18 +38,15 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Coolant Channel",
     "rootId": 8184,
     "metaStr": "meta|rot1|Running",
     "rot": 1
   },
-  "harvestLevel": 0,
   "atlasIdx": [
     63,
     63
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

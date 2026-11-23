@@ -8,9 +8,9 @@
   },
   "ttb": 1,
   "textureInfo": "plum_sapling",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "plum_sapling",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "plum_sapling",
   "stackable": true
 }

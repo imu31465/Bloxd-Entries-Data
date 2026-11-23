@@ -12,24 +12,24 @@
   },
   "ttb": 2000,
   "harvestType": "rock",
+  "showInCreativeInven": false,
   "model": "rotatable",
   "itemTexture": "nova_trophy",
   "modelScale": 8,
-  "meta": {
-    "rootName": "Nova Trophy",
-    "rootId": 8540,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
   "customModelInfo": {
     "yOffset": -0.5
   },
+  "blockModel": "Nova Trophy",
   "KJ": [
     4,
     10,
     5
   ],
   "stackable": true,
-  "blockModel": "Nova Trophy",
-  "showInCreativeInven": false
+  "meta": {
+    "rootName": "Nova Trophy",
+    "rootId": 8540,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

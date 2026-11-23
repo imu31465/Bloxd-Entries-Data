@@ -5,13 +5,13 @@
   "ttb": 400,
   "textureInfo": "cactus_top",
   "harvestType": "cuttable",
+  "damage": 22,
+  "stackable": true,
   "meta": {
     "rootName": "Fat Cactus",
     "rootId": 213,
     "metaStr": "Growing",
     "DJ": true
   },
-  "damage": 22,
-  "atlasIdx": 671,
-  "stackable": true
+  "atlasIdx": 671
 }

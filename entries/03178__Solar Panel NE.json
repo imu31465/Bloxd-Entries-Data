@@ -17,18 +17,18 @@
     0
   ],
   "harvestType": "rock",
+  "rootMetaDesc": "_Solar Panel NE|meta|rot1",
   "drops": "Solar Panel",
+  "stackable": true,
   "meta": {
     "rootName": "_Solar Panel NE",
     "rootId": 3178,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "_Solar Panel NE|meta|rot1",
   "atlasIdx": [
     1284,
     1285,
     1286
-  ],
-  "stackable": true
+  ]
 }

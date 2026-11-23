@@ -18,6 +18,8 @@
     "custom_lobby_block_top[rot[4",
     "custom_lobby_block_side"
   ],
+  "harvestType": "rock",
+  "rootMetaDesc": "Custom Lobby Block|meta|rot1",
   "texturePerSide": [
     4,
     4,
@@ -26,20 +28,18 @@
     4,
     4
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Custom Lobby Block",
     "rootId": 1580,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Custom Lobby Block|meta|rot1",
   "atlasIdx": [
     1085,
     1086,
     1087,
     1088,
     1089
-  ],
-  "stackable": true
+  ]
 }

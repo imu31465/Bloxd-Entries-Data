@@ -39,6 +39,10 @@
       "interpolateFrames": false
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     7,
     0,
@@ -47,20 +51,18 @@
     1,
     1
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Crop Harvester",
     "rootId": 8051,
     "metaStr": "meta|rot4|Running",
     "rot": 4
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    7,
-    9
-  ],
   "atlasIdx": [
     1507,
     43,
@@ -70,7 +72,5 @@
     1512,
     1360,
     44
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

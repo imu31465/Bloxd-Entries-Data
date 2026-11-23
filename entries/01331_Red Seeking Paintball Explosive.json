@@ -2,9 +2,9 @@
   "id": 1331,
   "name": "Red Seeking Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_seeking_red",
   "harvestType": "cuttable",
-  "atlasIdx": 966,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 966
 }

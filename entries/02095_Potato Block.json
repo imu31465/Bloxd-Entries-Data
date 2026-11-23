@@ -9,6 +9,6 @@
   "ttb": 600,
   "textureInfo": "potato_block",
   "harvestType": "wood",
-  "atlasIdx": 1242,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1242
 }

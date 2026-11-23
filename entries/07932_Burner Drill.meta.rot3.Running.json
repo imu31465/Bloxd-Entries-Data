@@ -33,6 +33,10 @@
     "burner_drill_bottom",
     "burner_drill_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -41,20 +45,18 @@
     7,
     0
   ],
-  "harvestType": "rock",
+  "KJ": [
+    9,
+    6,
+    3
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Burner Drill",
     "rootId": 7870,
     "metaStr": "meta|rot3|Running",
     "rot": 3
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    9,
-    6,
-    3
-  ],
   "atlasIdx": [
     1362,
     26,
@@ -64,7 +66,5 @@
     1367,
     1368,
     1369
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

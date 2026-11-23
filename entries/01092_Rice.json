@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "rice_stage0",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "itemTexture": "rice",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "rice",
   "stackable": true
 }

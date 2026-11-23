@@ -3,10 +3,20 @@
   "name": "_White Strongbed Head|meta|rot2",
   "kind": "block",
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "white_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
   "drops": "White Strongbed",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_White Strongbed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_White Strongbed Head",
+    "rootId": 1365,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  },
   "ib": [
     0,
     0,
@@ -20,15 +30,5 @@
     0.125,
     1,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_White Strongbed Head",
-    "rootId": 1365,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_White Strongbed Head"
+  ]
 }

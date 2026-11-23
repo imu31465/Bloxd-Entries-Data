@@ -14,7 +14,7 @@
   "textureInfo": "battery_casing",
   "harvestType": "rock",
   "harvestLevel": 0,
-  "atlasIdx": 1597,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1597
 }

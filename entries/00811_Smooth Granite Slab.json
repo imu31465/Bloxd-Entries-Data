@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Smooth Granite",
+  "rootMetaDesc": "Smooth Granite Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Granite Slab",
     "rootId": 811,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Smooth Granite Slab|meta|rot1|bot",
   "atlasIdx": [
     824,
     551
-  ],
-  "stackable": true,
-  "slabFullBlock": "Smooth Granite"
+  ]
 }

@@ -9,9 +9,9 @@
     "text": "The base projectile for the 67 character in Heroes v Brainrots"
   },
   "type": "Item",
+  "itemTexture": "67_projectile_base",
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
-  "secondaryDamage": 14,
-  "itemTexture": "67_projectile_base"
+  "secondaryDamage": 14
 }

@@ -7,9 +7,19 @@
     "text": "Cyan Strongbed"
   },
   "ttb": 480,
-  "harvestType": "rock",
-  "model": "rotatable",
   "itemTexture": "cyan_strongbed",
+  "model": "rotatable",
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Cyan Strongbed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Cyan Strongbed",
+    "rootId": 1433,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0,
     0,
@@ -23,15 +33,5 @@
     0.125,
     0.875,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Cyan Strongbed",
-    "rootId": 1433,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Cyan Strongbed"
+  ]
 }

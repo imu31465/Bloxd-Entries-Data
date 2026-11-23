@@ -22,18 +22,18 @@
     1
   ],
   "harvestType": "rock",
+  "rootMetaDesc": "Black Ceramic|meta|rot1",
+  "stackable": true,
   "meta": {
     "rootName": "Black Ceramic",
     "rootId": 305,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Black Ceramic|meta|rot1",
   "atlasIdx": [
     749,
     750,
     751,
     752
-  ],
-  "stackable": true
+  ]
 }

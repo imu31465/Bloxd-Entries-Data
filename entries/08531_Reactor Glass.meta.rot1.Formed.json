@@ -15,6 +15,9 @@
     "reactor_base",
     "reactor_base_top"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     0,
@@ -23,22 +26,19 @@
     0,
     0
   ],
-  "harvestType": "rock",
+  "soundType": {
+    "break": "glass",
+    "place": "stone"
+  },
+  "stackable": true,
   "meta": {
     "rootName": "Reactor Glass",
     "rootId": 8177,
     "metaStr": "meta|rot1|Formed",
     "rot": 1
   },
-  "harvestLevel": 0,
-  "soundType": {
-    "break": "glass",
-    "place": "stone"
-  },
   "atlasIdx": [
     1641,
     1642
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

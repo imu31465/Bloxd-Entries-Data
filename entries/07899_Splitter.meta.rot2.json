@@ -16,16 +16,10 @@
     "splitter_slab_side",
     "conveyor_belt_bottom"
   ],
-  "texturePerSide": [
-    1,
-    1,
-    0,
-    2,
-    1,
-    1
-  ],
-  "harvestType": "rock",
   "model": "Slab|rotatable",
+  "customModelInfo": {
+    "yOffset": -0.25
+  },
   "ib": [
     0,
     0,
@@ -34,26 +28,32 @@
     0.5,
     1
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "texturePerSide": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "surfaceVelocity": [
+    -2,
+    0,
+    0
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Splitter",
     "rootId": 7898,
     "metaStr": "meta|rot2",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "surfaceVelocity": [
-    -2,
-    0,
-    0
-  ],
-  "customModelInfo": {
-    "yOffset": -0.25
-  },
   "atlasIdx": [
     1403,
     1404,
     1402
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

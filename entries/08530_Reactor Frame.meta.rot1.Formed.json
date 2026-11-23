@@ -15,6 +15,9 @@
     "reactor_base",
     "reactor_base_top"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     0,
@@ -23,18 +26,15 @@
     0,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Reactor Frame",
     "rootId": 8175,
     "metaStr": "meta|rot1|Formed",
     "rot": 1
   },
-  "harvestLevel": 0,
   "atlasIdx": [
     1641,
     1642
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

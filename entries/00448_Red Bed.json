@@ -7,9 +7,20 @@
     "text": "Red Bed"
   },
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "red_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "rootMetaDesc": "Red Bed|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "Red Bed",
+  "stackable": true,
+  "meta": {
+    "rootName": "Red Bed",
+    "rootId": 448,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -17,16 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "Red Bed",
-    "rootId": 448,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "Red Bed|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Red Bed"
+  ]
 }

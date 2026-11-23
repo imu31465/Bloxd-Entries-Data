@@ -6,12 +6,12 @@
   "textureInfo": "leaves_pear",
   "harvestType": "cuttable",
   "drops": "Pear Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Pear Leaves",
     "rootId": 911,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 845,
-  "stackable": true
+  "atlasIdx": 845
 }

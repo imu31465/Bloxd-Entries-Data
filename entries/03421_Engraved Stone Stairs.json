@@ -10,6 +10,7 @@
   "textureInfo": "stonebrick_carved",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Engraved Stone Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Engraved Stone Stairs",
     "rootId": 3421,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Engraved Stone Stairs|meta|rot1|bot",
-  "atlasIdx": 648,
-  "stackable": true
+  "atlasIdx": 648
 }

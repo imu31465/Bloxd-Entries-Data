@@ -7,11 +7,11 @@
     "text": "Strawberries"
   },
   "ttb": 400,
-  "textureInfo": "strawberry_bush_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "strawberry_bush_stage1",
-  "drops": null,
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
+  "textureInfo": "strawberry_bush_stage1",
+  "itemTexture": "strawberry_bush_stage1",
   "stackable": true
 }

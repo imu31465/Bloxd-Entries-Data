@@ -7,9 +7,9 @@
     "text": "Red Carpet"
   },
   "ttb": 300,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "carpet_red_icon",
+  "model": "CustomModel",
+  "harvestType": "cuttable",
   "solid": false,
   "ib": [
     0,
@@ -19,11 +19,11 @@
     0.125,
     1
   ],
+  "blockModel": "carpet_red_model",
   "modelScale": 10,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.4375
   },
-  "stackable": true,
-  "blockModel": "carpet_red_model"
+  "particlesIgnoreBlack": true,
+  "stackable": true
 }

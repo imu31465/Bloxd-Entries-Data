@@ -11,21 +11,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "iron_bow",
+  "textureName": "iron_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "rootMetaDesc": "Iron Bow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 57,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "iron_bow",
   "meta": {
     "rootName": "Iron Bow",
     "rootId": 8818,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Iron Bow|meta|charging1",
-  "textureName": "iron_bow"
+  }
 }

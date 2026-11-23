@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Pumpkin Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Pumpkin Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Pumpkin Seeds",
     "rootId": 969,
     "metaStr": "Growing",
     "DJ": true
-  },
-  "stackable": true
+  }
 }

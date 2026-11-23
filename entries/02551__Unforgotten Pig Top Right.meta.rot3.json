@@ -3,11 +3,22 @@
   "name": "_Unforgotten Pig Top Right|meta|rot3",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "pig_painting",
-  "drops": "Unforgotten Pig",
+  "model": "rotatable",
+  "harvestType": "wood",
+  "particlesIgnoreBlack": true,
   "solid": false,
+  "modelScale": 10,
+  "blockModel": "_Pig Painting Top Right",
+  "heldItemGlb": "Pig Painting",
+  "drops": "Unforgotten Pig",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Unforgotten Pig Top Right",
+    "rootId": 2549,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
   "ib": [
     0,
     0,
@@ -15,16 +26,5 @@
     1,
     1,
     1
-  ],
-  "modelScale": 10,
-  "meta": {
-    "rootName": "_Unforgotten Pig Top Right",
-    "rootId": 2549,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "heldItemGlb": "Pig Painting",
-  "blockModel": "_Pig Painting Top Right"
+  ]
 }

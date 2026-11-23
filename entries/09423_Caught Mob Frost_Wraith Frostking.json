@@ -6,8 +6,8 @@
   "textureInfo": "caught_frost_wraith_default",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Caught Mob Frost_Wraith Default",
   "stackable": false,
+  "heldItemGlb": "Caught Mob Frost_Wraith Default",
   "meta": {
     "rootName": "Caught Mob Frost_Wraith Frostking",
     "rootId": 9423,

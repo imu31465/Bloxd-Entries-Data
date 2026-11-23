@@ -58,6 +58,10 @@
       "animationInterval": 125
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     8,
     1,
@@ -66,20 +70,18 @@
     7,
     0
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Condenser",
     "rootId": 8122,
     "metaStr": "meta|rot3|Running",
     "rot": 3
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    7,
-    9
-  ],
   "atlasIdx": [
     1554,
     48,
@@ -90,7 +92,5 @@
     1560,
     49,
     50
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

@@ -8,15 +8,15 @@
   },
   "ttb": 1,
   "textureInfo": "dead_bush",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": null,
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "drops": null,
+  "harvestType": "cuttable",
   "specialToolDrop": {
     "tool": "Shears",
     "drops": "Dead Bush"
   },
-  "stackable": true,
-  "canBePlacedOver": true
+  "canBePlacedOver": true,
+  "stackable": true
 }

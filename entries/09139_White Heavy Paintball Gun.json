@@ -10,13 +10,13 @@
     "key": "item:paintballGunDescription",
     "unresolved": true
   },
-  "type": "FullAuto",
   "textureInfo": "white_heavy_paintball_gun",
+  "type": "FullAuto",
   "weight": 1,
   "heldItemScale": 1,
   "stackable": false,
+  "fireInterval": 1015,
   "secondaryDamage": 250,
   "holdAsAiming": true,
-  "hideAimingUI": true,
-  "fireInterval": 1015
+  "hideAimingUI": true
 }

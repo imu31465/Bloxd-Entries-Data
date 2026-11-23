@@ -9,6 +9,6 @@
   "ttb": 1200,
   "textureInfo": "yellow_lucky_block",
   "harvestType": "rock",
-  "atlasIdx": 1252,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1252
 }

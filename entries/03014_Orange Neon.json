@@ -3,18 +3,18 @@
   "name": "Orange Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_orange",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_orange",
   "unlitStandaloneMesh": true,
   "KJ": [
     15,
     11,
     3
   ],
-  "atlasIdx": 1261,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1261
 }

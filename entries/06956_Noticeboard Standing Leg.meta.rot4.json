@@ -8,9 +8,23 @@
   },
   "ttb": 1800,
   "harvestType": "wood",
-  "model": "rotatable",
-  "itemTexture": "noticeboard_standing_leg",
   "solid": true,
+  "model": "rotatable",
+  "blockModelItem": true,
+  "modelScale": 8,
+  "heldItemScale": 4,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "noticeboard_standing_leg",
+  "itemTexture": "noticeboard_standing_leg",
+  "stackable": true,
+  "meta": {
+    "rootName": "Noticeboard Standing Leg",
+    "rootId": 6953,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0.375,
     0,
@@ -18,19 +32,5 @@
     0.625,
     1,
     0.625
-  ],
-  "heldItemScale": 4,
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Noticeboard Standing Leg",
-    "rootId": 6953,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "noticeboard_standing_leg",
-  "blockModelItem": true
+  ]
 }

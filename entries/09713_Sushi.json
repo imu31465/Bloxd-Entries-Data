@@ -12,8 +12,8 @@
   },
   "type": "Item",
   "textureInfo": "sushi",
+  "heldItemGlb": "sushi",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "sushi",
   "stackable": false
 }

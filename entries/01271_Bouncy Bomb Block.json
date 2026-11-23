@@ -10,6 +10,6 @@
   "textureInfo": "bouncy_bomb_block",
   "harvestType": "rock",
   "unlitStandaloneMesh": true,
-  "atlasIdx": 911,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 911
 }

@@ -15,16 +15,16 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "eat1",
-  "eatHealAmt": 3,
-  "chargeStages": 1,
   "chargeTime": 500,
+  "eatHealAmt": 3,
+  "rootMetaDesc": "Meaty Bone|meta|charging1",
   "meta": {
     "rootName": "Meaty Bone",
     "rootId": 9651,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Meaty Bone|meta|charging1"
+  }
 }

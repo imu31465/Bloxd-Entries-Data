@@ -7,9 +7,9 @@
     "text": "Iron Key"
   },
   "type": "Item",
-  "textureInfo": "iron_key",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "iron_key",
-  "stackable": true
+  "stackable": true,
+  "textureInfo": "iron_key",
+  "heldItemGlb": "iron_key"
 }

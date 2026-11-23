@@ -9,6 +9,6 @@
   "ttb": 600,
   "textureInfo": "crate",
   "harvestType": "wood",
-  "atlasIdx": 1238,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1238
 }

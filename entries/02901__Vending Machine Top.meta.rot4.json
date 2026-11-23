@@ -5,17 +5,17 @@
   "ttb": 2000,
   "harvestType": "rock",
   "model": "rotatable",
-  "drops": "Vending Machine",
+  "blockModel": "vending_machine_top",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "drops": "Vending Machine",
+  "stackable": true,
   "meta": {
     "rootName": "_Vending Machine Top",
     "rootId": 2898,
     "metaStr": "meta|rot4",
     "rot": 4
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "vending_machine_top"
+  }
 }

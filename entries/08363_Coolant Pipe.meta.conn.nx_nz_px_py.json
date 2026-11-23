@@ -12,19 +12,19 @@
   },
   "ttb": 600,
   "harvestType": "rock",
-  "model": "CustomModel",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "itemTexture": "fluid_pipe",
-  "drops": "Fluid Pipe",
+  "model": "CustomModel",
   "solid": false,
   "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "blockModel": "baf2_fluid_pipe_nx_nz_px_py",
+  "drops": "Fluid Pipe",
+  "stackable": true,
   "meta": {
     "rootName": "Coolant Pipe",
     "rootId": 8334,
     "metaStr": "meta|conn|nx_nz_px_py"
-  },
-  "particlesIgnoreBlack": true,
-  "harvestLevel": 0,
-  "stackable": true,
-  "blockModel": "baf2_fluid_pipe_nx_nz_px_py",
-  "showInCreativeInven": false
+  }
 }

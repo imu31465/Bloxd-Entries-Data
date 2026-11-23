@@ -8,9 +8,9 @@
   },
   "ttb": 1,
   "textureInfo": "mango_sapling",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "mango_sapling",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "mango_sapling",
   "stackable": true
 }

@@ -14,16 +14,16 @@
   "textureInfo": "pear",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": true,
   "eatable": true,
   "chargeSound": "eat1",
+  "stackable": true,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Pear|meta|charging1",
   "meta": {
     "rootName": "Pear",
     "rootId": 8875,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Pear|meta|charging1"
+  }
 }

@@ -9,6 +9,6 @@
   "ttb": 600,
   "textureInfo": "dirt",
   "harvestType": "granule",
-  "atlasIdx": 517,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 517
 }

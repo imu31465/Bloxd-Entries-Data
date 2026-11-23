@@ -25,10 +25,10 @@
   ],
   "harvestType": "wood",
   "altActionable": true,
+  "showInCreativeInven": false,
+  "stackable": true,
   "atlasIdx": [
     1549,
     1550
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

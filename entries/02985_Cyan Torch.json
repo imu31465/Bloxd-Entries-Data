@@ -4,30 +4,30 @@
   "kind": "block",
   "ttb": 300,
   "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "torch_cyan",
   "solid": false,
-  "heldItemScale": 8,
+  "model": "CustomModel",
   "modelScale": 8,
-  "meta": {
-    "rootName": "Cyan Torch",
-    "rootId": 2985,
-    "metaStr": "meta|rot1|bot",
-    "rot": 1,
-    "halfblockPlacement": 0
-  },
-  "rootMetaDesc": "Cyan Torch|meta|rot1|bot",
-  "unlitStandaloneMesh": true,
   "customModelInfo": {
     "yOffset": -0.5,
     "unlit": true
   },
+  "blockModel": "torch_cyan",
+  "blockModelItem": true,
+  "heldItemScale": 8,
+  "unlitStandaloneMesh": true,
+  "rootMetaDesc": "Cyan Torch|meta|rot1|bot",
   "KJ": [
     4,
     14,
     14
   ],
   "stackable": true,
-  "blockModel": "torch_cyan",
-  "blockModelItem": true
+  "meta": {
+    "rootName": "Cyan Torch",
+    "rootId": 2985,
+    "metaStr": "meta|rot1|bot",
+    "rot": 1,
+    "halfblockPlacement": 0
+  }
 }

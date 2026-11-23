@@ -13,8 +13,14 @@
   "ttb": 1200,
   "harvestType": "rock",
   "model": "CustomModel",
+  "customModelInfo": {
+    "yOffset": -0.125
+  },
   "itemTexture": "spikes_iron",
   "solid": false,
+  "modelScale": 10,
+  "blockModel": "Spikes_Iron",
+  "stackable": true,
   "ib": [
     0,
     0,
@@ -22,11 +28,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 10,
-  "customModelInfo": {
-    "yOffset": -0.125
-  },
-  "stackable": true,
-  "blockModel": "Spikes_Iron"
+  ]
 }

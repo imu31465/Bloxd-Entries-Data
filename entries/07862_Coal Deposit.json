@@ -13,9 +13,9 @@
   "ttb": 6000,
   "textureInfo": "coal_deposit",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
-  "atlasIdx": 1353,
+  "drops": null,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1353
 }

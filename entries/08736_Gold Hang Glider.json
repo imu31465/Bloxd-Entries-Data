@@ -8,8 +8,8 @@
   },
   "type": "Item",
   "textureInfo": "hang_glider_gold",
+  "heldItemGlb": "Gold Hang Glider Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Gold Hang Glider Item",
   "stackable": false
 }

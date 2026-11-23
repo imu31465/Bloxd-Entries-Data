@@ -3,18 +3,18 @@
   "name": "_Auto Miner Drill Front|meta|rot4",
   "kind": "block",
   "ttb": 3600,
-  "harvestType": "rock",
   "model": "rotatable",
-  "drops": "Auto Miner",
   "modelScale": 8,
+  "harvestType": "rock",
+  "particlesIgnoreBlack": true,
+  "altActionable": true,
+  "blockModel": "auto_miner_drill_front",
+  "drops": "Auto Miner",
+  "stackable": true,
   "meta": {
     "rootName": "_Auto Miner Drill Front",
     "rootId": 3101,
     "metaStr": "meta|rot4",
     "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "altActionable": true,
-  "stackable": true,
-  "blockModel": "auto_miner_drill_front"
+  }
 }

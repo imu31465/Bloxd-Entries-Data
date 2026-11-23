@@ -11,11 +11,11 @@
     "text": "Plant to grow carrots"
   },
   "ttb": 400,
-  "textureInfo": "carrot_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
+  "solid": false,
+  "harvestType": "cuttable",
   "itemTexture": "carrot_seeds",
   "drops": "Carrot Seeds",
-  "solid": false,
+  "textureInfo": "carrot_plant_stage1",
   "stackable": true
 }

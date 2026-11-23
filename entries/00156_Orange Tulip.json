@@ -8,10 +8,10 @@
   },
   "ttb": 300,
   "textureInfo": "orange_tulip",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "orange_tulip",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "orange_tulip",
   "stackable": true
 }

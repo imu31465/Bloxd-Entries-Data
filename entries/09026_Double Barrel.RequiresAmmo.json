@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "Double-barreled",
   "weight": 1,
-  "heldItemScale": 2.5,
-  "heldItemGlb": "Double Barrel",
   "stackable": false,
-  "damage": 12,
-  "meta": {
-    "rootName": "Double Barrel",
-    "rootId": 9025,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2.5,
   "gunType": "shotgun",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 150,
   "cadenceMs": 120,
   "equipDelay": 284,
+  "damage": 12,
   "shotPelletCount": 10,
   "clipSize": 2,
   "reloadBulletsIndividually": true,
@@ -46,14 +39,21 @@
   "altInaccuracyStanding": 55,
   "altInaccuracyFromShot": 55,
   "altInaccuracyMovement": 16,
+  "hasVerticalInaccuracy": true,
   "recoveryRate": 0.008,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.18,
   "maxKickback": 0.22,
   "kickbackRate": 0,
-  "hasVerticalInaccuracy": true,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 400,
   "msPerRoundTouchScreen": 400,
   "altYVelocityInaccuracy": 5,
-  "altInaccuracyFromJump": 150
+  "altInaccuracyFromJump": 150,
+  "heldItemGlb": "Double Barrel",
+  "meta": {
+    "rootName": "Double Barrel",
+    "rootId": 9025,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

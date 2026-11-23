@@ -7,15 +7,15 @@
     "text": "Small Cyan Pod"
   },
   "ttb": 300,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "small_pod_cyan_icon",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
   "modelScale": 8,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "Small Cyan Pod"
+  "particlesIgnoreBlack": true,
+  "blockModel": "Small Cyan Pod",
+  "stackable": true
 }

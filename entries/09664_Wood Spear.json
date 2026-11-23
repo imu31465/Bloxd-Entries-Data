@@ -14,12 +14,12 @@
   "textureInfo": "wood_spear",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 18,
   "attackRange": 5,
-  "abilityCooldownMs": 1600,
-  "dashImpulse": 18,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 1
+  "level": 1,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 18
 }

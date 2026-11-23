@@ -5,14 +5,7 @@
   "ttb": 2800,
   "harvestType": "wood",
   "solid": false,
-  "ib": [
-    0,
-    0,
-    0,
-    1,
-    1,
-    0.125
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Trapdoor",
     "rootId": 634,
@@ -20,5 +13,12 @@
     "rot": 1,
     "open": true
   },
-  "stackable": true
+  "ib": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    0.125
+  ]
 }

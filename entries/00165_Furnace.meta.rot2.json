@@ -12,26 +12,26 @@
   },
   "ttb": 4200,
   "harvestType": "rock",
-  "model": "rotatable",
-  "itemTexture": "furnace",
-  "heldItemScale": 4,
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Furnace",
-    "rootId": 164,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
-  "customModelInfo": {
-    "yOffset": -0.5,
-    "yRotOffset": 3.141592653589793
-  },
   "KJ": [
     8,
     5,
     2
   ],
-  "stackable": true,
+  "model": "rotatable",
+  "modelScale": 8,
   "blockModel": "Furnace",
-  "blockModelItem": true
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "furnace",
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "yRotOffset": 3.141592653589793
+  },
+  "stackable": true,
+  "meta": {
+    "rootName": "Furnace",
+    "rootId": 164,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  }
 }

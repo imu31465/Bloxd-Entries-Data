@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_cedar",
+  "itemTexture": "cedar_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "cedar_fence",
   "ib": [
     0.375,
     0,
@@ -37,12 +37,12 @@
     1,
     1
   ],
+  "attachedTop": "_Cedar Fence Top|meta|nes",
+  "stackable": true,
   "meta": {
     "rootName": "Cedar Fence",
     "rootId": 7138,
     "metaStr": "meta|nes|Stacked"
   },
-  "atlasIdx": 536,
-  "stackable": true,
-  "attachedTop": "_Cedar Fence Top|meta|nes"
+  "atlasIdx": 536
 }

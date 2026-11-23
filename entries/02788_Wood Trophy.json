@@ -10,17 +10,17 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "wood_trophy",
+  "rootMetaDesc": "Wood Trophy|meta|rot1",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Wood Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Wood Trophy",
     "rootId": 2788,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "Wood Trophy|meta|rot1",
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Wood Trophy"
+  }
 }

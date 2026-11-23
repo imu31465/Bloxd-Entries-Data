@@ -58,6 +58,10 @@
       "animationInterval": 100
     }
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     7,
     0,
@@ -66,20 +70,18 @@
     1,
     8
   ],
-  "harvestType": "rock",
+  "KJ": [
+    3,
+    7,
+    9
+  ],
+  "stackable": true,
   "meta": {
     "rootName": "Coolant Mixer",
     "rootId": 8326,
     "metaStr": "meta|rot4|Running",
     "rot": 4
   },
-  "harvestLevel": 0,
-  "altActionable": true,
-  "KJ": [
-    3,
-    7,
-    9
-  ],
   "atlasIdx": [
     1554,
     67,
@@ -90,7 +92,5 @@
     1638,
     68,
     69
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

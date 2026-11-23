@@ -13,8 +13,8 @@
   "ttb": 5000,
   "textureInfo": "lunite_ore",
   "harvestType": "rock",
-  "drops": "Lunite",
   "harvestLevel": 3,
+  "drops": "Lunite",
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Lunite Ore"
@@ -43,12 +43,12 @@
       }
     ]
   },
+  "onMinedAura": 40,
   "KJ": [
     10,
     3,
     12
   ],
-  "atlasIdx": 1291,
   "stackable": true,
-  "onMinedAura": 40
+  "atlasIdx": 1291
 }

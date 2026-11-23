@@ -13,14 +13,14 @@
   "ttb": 1500,
   "textureInfo": "reactor_slag",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
+  "showInCreativeInven": false,
+  "drops": null,
   "KJ": [
     3,
     5,
     1
   ],
-  "atlasIdx": 1593,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1593
 }

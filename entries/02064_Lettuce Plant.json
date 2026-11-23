@@ -8,9 +8,9 @@
   },
   "ttb": 400,
   "textureInfo": "lettuce_plant_stage0",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "lettuce_plant_stage0",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
   "stackable": true
 }

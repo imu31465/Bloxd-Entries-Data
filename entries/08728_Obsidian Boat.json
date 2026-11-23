@@ -12,8 +12,8 @@
   },
   "type": "Item",
   "textureInfo": "obsidian_boat",
+  "heldItemGlb": "Obsidian Boat Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Obsidian Boat Item",
   "stackable": false
 }

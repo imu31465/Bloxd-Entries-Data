@@ -13,14 +13,14 @@
   "ttb": 6000,
   "textureInfo": "voltite_deposit",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
+  "drops": null,
+  "showInCreativeInven": false,
   "KJ": [
     2,
     6,
     6
   ],
-  "atlasIdx": 1451,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1451
 }

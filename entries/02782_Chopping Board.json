@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "chopping_board",
+  "blockModel": "chopping_board",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 8,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "chopping_board",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

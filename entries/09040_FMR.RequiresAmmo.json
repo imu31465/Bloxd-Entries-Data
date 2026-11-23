@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "FMR",
   "weight": 1,
-  "heldItemScale": 2,
-  "heldItemGlb": "FMR",
   "stackable": false,
-  "damage": 17,
-  "meta": {
-    "rootName": "FMR",
-    "rootId": 9039,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2,
   "gunType": "semi_automatic",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -33,6 +25,7 @@
   "equipDelay": 16,
   "burstCount": 3,
   "burstDelay": 66.66666666666667,
+  "damage": 17,
   "reloadTime": 2200,
   "clipSize": 21,
   "tagSpeedMult": 0.8,
@@ -46,12 +39,19 @@
   "altInaccuracyFromShot": 5.5,
   "altInaccuracyMovement": 17,
   "recoveryRate": 0.007,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.015,
   "maxKickback": 0.04,
   "kickbackRate": 10,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 133.33333333333334,
   "msPerRoundTouchScreen": 133.33333333333334,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 45
+  "altInaccuracyFromJump": 45,
+  "heldItemGlb": "FMR",
+  "meta": {
+    "rootName": "FMR",
+    "rootId": 9039,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

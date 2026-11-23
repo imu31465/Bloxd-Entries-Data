@@ -34,6 +34,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "White Chalk Bricks Stairs",
     "rootId": 3909,
@@ -42,6 +43,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "outerRight"
   },
-  "atlasIdx": 1177,
-  "stackable": true
+  "atlasIdx": 1177
 }

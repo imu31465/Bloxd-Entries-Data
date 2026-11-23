@@ -21,6 +21,7 @@
   ],
   "harvestType": "wood",
   "drops": null,
+  "stackable": true,
   "meta": {
     "rootName": "Empty Bookshelf",
     "rootId": 1060,
@@ -31,6 +32,5 @@
   "atlasIdx": [
     885,
     531
-  ],
-  "stackable": true
+  ]
 }

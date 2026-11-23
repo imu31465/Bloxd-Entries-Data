@@ -3,18 +3,14 @@
   "name": "_Pear Door Top",
   "kind": "block",
   "ttb": 3600,
+  "itemTexture": "pear_door",
   "harvestType": "wood",
   "model": "door",
-  "itemTexture": "pear_door",
   "drops": "Pear Door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "rootMetaDesc": "_Pear Door Top|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "_Pear Door Top",
+  "stackable": true,
   "meta": {
     "rootName": "_Pear Door Top",
     "rootId": 920,
@@ -22,8 +18,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "_Pear Door Top|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Pear Door Top"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

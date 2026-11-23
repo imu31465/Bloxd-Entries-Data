@@ -2,7 +2,6 @@
   "id": 1305,
   "name": "Light Gray Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": [
     "explosive_paint_light_gray_side",
     "explosive_paint_light_gray_top"
@@ -16,9 +15,10 @@
     0
   ],
   "harvestType": "cuttable",
+  "ttb": 50,
+  "stackable": true,
   "atlasIdx": [
     932,
     933
-  ],
-  "stackable": true
+  ]
 }

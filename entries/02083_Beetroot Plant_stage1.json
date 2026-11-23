@@ -11,11 +11,11 @@
     "text": "Plant to grow beetroot"
   },
   "ttb": 400,
-  "textureInfo": "beetroot_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
+  "solid": false,
+  "harvestType": "cuttable",
   "itemTexture": "beetroot_seeds",
   "drops": "Beetroot Seeds",
-  "solid": false,
+  "textureInfo": "beetroot_plant_stage1",
   "stackable": true
 }

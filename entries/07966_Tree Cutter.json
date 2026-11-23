@@ -21,6 +21,11 @@
     "machine_side",
     "tree_cutter_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
+  "rootMetaDesc": "Tree Cutter|meta|rot1",
   "texturePerSide": [
     1,
     1,
@@ -29,16 +34,13 @@
     0,
     7
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Tree Cutter",
     "rootId": 7966,
     "metaStr": "meta|rot1",
     "rot": 1
   },
-  "rootMetaDesc": "Tree Cutter|meta|rot1",
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1444,
     1445,
@@ -48,7 +50,5 @@
     1449,
     1360,
     1450
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

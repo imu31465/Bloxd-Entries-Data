@@ -7,20 +7,23 @@
     "text": "Black Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_black",
-  "drops": "Black Banner",
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0.25,
-    1,
-    1,
-    0.375
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "rootMetaDesc": "_Black Banner Flag|meta|rot1|top",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Black Banner Flag Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Black Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Black Banner Flag",
     "rootId": 2463,
@@ -28,15 +31,12 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "rootMetaDesc": "_Black Banner Flag|meta|rot1|top",
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Black Banner Flag Hanging"
+  "ib": [
+    0,
+    0,
+    0.25,
+    1,
+    1,
+    0.375
+  ]
 }

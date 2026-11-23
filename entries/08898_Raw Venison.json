@@ -20,11 +20,11 @@
   "eatHealAmt": 16,
   "chargeStages": 1,
   "chargeTime": 600,
+  "rootMetaDesc": "Raw Venison|meta|charging1",
   "meta": {
     "rootName": "Raw Venison",
     "rootId": 8898,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Raw Venison|meta|charging1"
+  }
 }

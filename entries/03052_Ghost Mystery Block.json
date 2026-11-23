@@ -6,8 +6,8 @@
   "textureInfo": "ghost_mystery_block",
   "harvestType": "rock",
   "transTex": true,
-  "drops": null,
   "solid": false,
-  "atlasIdx": 1278,
-  "stackable": true
+  "drops": null,
+  "stackable": true,
+  "atlasIdx": 1278
 }

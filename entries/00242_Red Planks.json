@@ -9,6 +9,6 @@
   "ttb": 1800,
   "textureInfo": "red_planks",
   "harvestType": "wood",
-  "atlasIdx": 687,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 687
 }

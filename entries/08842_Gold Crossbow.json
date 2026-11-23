@@ -11,20 +11,20 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "gold_crossbow",
+  "textureName": "gold_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "rootMetaDesc": "Gold Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "gold_crossbow",
   "meta": {
     "rootName": "Gold Crossbow",
     "rootId": 8842,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Gold Crossbow|meta|charging1",
-  "textureName": "gold_crossbow"
+  }
 }

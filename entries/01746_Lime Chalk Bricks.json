@@ -19,6 +19,6 @@
   "ttb": 850,
   "textureInfo": "chalk_bricks_lime",
   "harvestType": "rock",
-  "atlasIdx": 1183,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1183
 }

@@ -14,9 +14,9 @@
   "textureInfo": "stone_boomerang",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 14,
   "secondaryDamage": 14,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 2

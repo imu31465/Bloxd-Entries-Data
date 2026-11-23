@@ -11,14 +11,14 @@
     "text": "Hub that splits incoming items evenly across all other connected pipes or chests."
   },
   "ttb": 600,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "splitter_pipe",
-  "solid": false,
-  "heldItemScale": 6,
-  "modelScale": 8,
-  "particlesIgnoreBlack": true,
-  "stackable": true,
+  "model": "CustomModel",
   "blockModel": "splitter_pipe",
-  "blockModelItem": true
+  "blockModelItem": true,
+  "harvestType": "rock",
+  "solid": false,
+  "modelScale": 8,
+  "heldItemScale": 6,
+  "particlesIgnoreBlack": true,
+  "stackable": true
 }

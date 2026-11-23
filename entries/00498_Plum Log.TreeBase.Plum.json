@@ -6,6 +6,7 @@
   "textureInfo": "log_plum",
   "harvestType": "wood",
   "drops": "Plum Log",
+  "stackable": true,
   "meta": {
     "rootName": "Plum Log",
     "rootId": 11,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Plum"
   },
-  "atlasIdx": 527,
-  "stackable": true
+  "atlasIdx": 527
 }

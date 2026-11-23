@@ -10,15 +10,15 @@
     "text": "Points to (0, 0, 0)"
   },
   "type": "Directional",
-  "textureInfo": "compass_dir_8",
+  "textureName": "compass",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
+  "textureInfo": "compass_dir_8",
   "meta": {
     "rootName": "Compass",
     "rootId": 8856,
     "metaStr": "meta|dir8",
     "direction": 8
-  },
-  "textureName": "compass"
+  }
 }

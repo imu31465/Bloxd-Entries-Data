@@ -6,6 +6,7 @@
   "textureInfo": "stripped_pear_log",
   "harvestType": "wood",
   "drops": "Barkless Pear Log",
+  "stackable": true,
   "meta": {
     "rootName": "Barkless Pear Log",
     "rootId": 1113,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Pear"
   },
-  "atlasIdx": 897,
-  "stackable": true
+  "atlasIdx": 897
 }

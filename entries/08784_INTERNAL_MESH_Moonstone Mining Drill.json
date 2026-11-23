@@ -4,8 +4,8 @@
   "kind": "item",
   "type": "Item",
   "textureInfo": "off_roader",
+  "heldItemGlb": "Moonstone Mining Drill",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Moonstone Mining Drill",
   "stackable": false
 }

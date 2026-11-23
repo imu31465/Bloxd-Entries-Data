@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "bin",
-  "heldItemScale": 4,
+  "blockModel": "bin",
+  "blockModelItem": true,
   "modelScale": 8,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "bin",
-  "blockModelItem": true
+  "heldItemScale": 4,
+  "stackable": true
 }

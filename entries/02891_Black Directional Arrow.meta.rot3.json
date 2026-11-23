@@ -10,10 +10,22 @@
     }
   },
   "ttb": 400,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "black_directional_arrow",
+  "model": "rotatable",
+  "harvestType": "cuttable",
   "solid": false,
+  "blockModel": "Black Directional Arrow",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "meta": {
+    "rootName": "Black Directional Arrow",
+    "rootId": 2889,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  },
   "ib": [
     0,
     0,
@@ -21,17 +33,5 @@
     1,
     0.125,
     1
-  ],
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Black Directional Arrow",
-    "rootId": 2889,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Black Directional Arrow"
+  ]
 }

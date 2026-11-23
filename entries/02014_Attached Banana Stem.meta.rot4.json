@@ -11,16 +11,10 @@
     "attached_banana_stem_wrapper",
     "attached_banana_stem"
   ],
-  "harvestType": "cuttable",
   "model": "CustomPlanes|rotatable",
-  "drops": "Banana Seeds",
   "solid": false,
-  "meta": {
-    "rootName": "Attached Banana Stem",
-    "rootId": 2011,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
+  "harvestType": "cuttable",
+  "drops": "Banana Seeds",
   "customPlanesInfo": [
     {
       "textureIdx": 0,
@@ -35,5 +29,11 @@
       "yRot": 4.71238898038469
     }
   ],
-  "stackable": true
+  "stackable": true,
+  "meta": {
+    "rootName": "Attached Banana Stem",
+    "rootId": 2011,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  }
 }

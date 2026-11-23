@@ -7,9 +7,9 @@
     "text": "Gold Key"
   },
   "type": "Item",
-  "textureInfo": "gold_key",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "gold_key",
-  "stackable": true
+  "stackable": true,
+  "textureInfo": "gold_key",
+  "heldItemGlb": "gold_key"
 }

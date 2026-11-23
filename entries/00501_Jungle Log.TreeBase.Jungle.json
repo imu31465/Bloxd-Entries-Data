@@ -6,6 +6,7 @@
   "textureInfo": "log_jungle",
   "harvestType": "wood",
   "drops": "Jungle Log",
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Log",
     "rootId": 14,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Jungle"
   },
-  "atlasIdx": 530,
-  "stackable": true
+  "atlasIdx": 530
 }

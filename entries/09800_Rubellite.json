@@ -9,6 +9,6 @@
   "textureInfo": "rubellite",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "rubellite",
-  "stackable": true
+  "stackable": true,
+  "heldItemGlb": "rubellite"
 }

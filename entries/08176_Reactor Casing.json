@@ -14,7 +14,7 @@
   "textureInfo": "reactor_casing",
   "harvestType": "rock",
   "harvestLevel": 0,
-  "atlasIdx": 1588,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1588
 }

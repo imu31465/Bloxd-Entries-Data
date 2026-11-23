@@ -19,13 +19,13 @@
   ],
   "harvestType": "wood",
   "transTex": true,
-  "drops": null,
   "solid": false,
+  "drops": null,
+  "stackable": true,
   "atlasIdx": [
     1273,
     1274,
     1275,
     1276
-  ],
-  "stackable": true
+  ]
 }

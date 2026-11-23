@@ -14,9 +14,9 @@
   "textureInfo": "iron_mace",
   "weight": 1,
   "heldItemScale": 1.1,
-  "stackable": false,
   "damage": 17,
   "velocityMultiplier": 2.6,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
   "level": 3

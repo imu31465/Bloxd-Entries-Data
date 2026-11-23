@@ -7,17 +7,13 @@
     "text": "Jungle Door"
   },
   "ttb": 3600,
-  "harvestType": "wood",
-  "model": "door",
   "itemTexture": "jungle_door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "model": "door",
+  "harvestType": "wood",
+  "rootMetaDesc": "Jungle Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "Jungle Door",
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Door",
     "rootId": 570,
@@ -25,8 +21,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Jungle Door|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Jungle Door"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

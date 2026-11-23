@@ -24,6 +24,7 @@
     0.5,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Stone Stairs",
     "rootId": 3405,
@@ -31,6 +32,5 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 544,
-  "stackable": true
+  "atlasIdx": 544
 }

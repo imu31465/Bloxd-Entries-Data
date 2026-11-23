@@ -19,6 +19,7 @@
     "shop_trader_spawn_side",
     "shop_trader_spawn_face"
   ],
+  "harvestType": "rock",
   "texturePerSide": [
     5,
     5,
@@ -27,7 +28,7 @@
     4,
     4
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Trader Shop Spawn Block",
     "rootId": 1592,
@@ -41,6 +42,5 @@
     1117,
     1118,
     1119
-  ],
-  "stackable": true
+  ]
 }

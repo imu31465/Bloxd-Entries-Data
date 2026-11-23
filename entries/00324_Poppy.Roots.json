@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 300,
   "textureInfo": "poppy",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "poppy",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "poppy",
+  "stackable": true,
   "meta": {
     "rootName": "Poppy",
     "rootId": 152,
     "metaStr": "Roots",
     "roots": true
-  },
-  "stackable": true
+  }
 }

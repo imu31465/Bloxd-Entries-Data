@@ -19,9 +19,9 @@
     0
   ],
   "harvestType": "rock",
+  "stackable": true,
   "atlasIdx": [
     1334,
     1335
-  ],
-  "stackable": true
+  ]
 }

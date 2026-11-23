@@ -34,6 +34,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Purple Chalk Stairs",
     "rootId": 3797,
@@ -41,6 +42,5 @@
     "rot": 2,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 1163,
-  "stackable": true
+  "atlasIdx": 1163
 }

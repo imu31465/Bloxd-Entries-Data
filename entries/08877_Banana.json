@@ -14,16 +14,16 @@
   "textureInfo": "banana",
   "weight": 1,
   "heldItemScale": 1,
-  "stackable": true,
   "eatable": true,
   "chargeSound": "eat1",
+  "stackable": true,
   "chargeStages": 1,
   "chargeTime": 750,
+  "rootMetaDesc": "Banana|meta|charging1",
   "meta": {
     "rootName": "Banana",
     "rootId": 8877,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Banana|meta|charging1"
+  }
 }

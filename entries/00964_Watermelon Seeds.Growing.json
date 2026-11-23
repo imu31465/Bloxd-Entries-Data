@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "melon_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Watermelon Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Watermelon Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Watermelon Seeds",
     "rootId": 963,
     "metaStr": "Growing",
     "DJ": true
-  },
-  "stackable": true
+  }
 }

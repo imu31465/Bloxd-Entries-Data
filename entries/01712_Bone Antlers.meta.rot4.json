@@ -11,18 +11,18 @@
     "text": "Use to decorate your home and remind you of your conquest over nature..."
   },
   "ttb": 1500,
-  "harvestType": "rock",
-  "model": "rotatableOffset",
   "itemTexture": "bone_antlers_icon",
+  "model": "rotatableOffset",
+  "harvestType": "rock",
   "solid": false,
+  "blockModel": "bone_antlers_model",
   "modelScale": 10,
+  "particlesIgnoreBlack": true,
+  "stackable": true,
   "meta": {
     "rootName": "Bone Antlers",
     "rootId": 1709,
     "metaStr": "meta|rot4",
     "rot": 4
-  },
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "bone_antlers_model"
+  }
 }

@@ -4,12 +4,12 @@
   "kind": "block",
   "ttb": 450,
   "textureInfo": "glass_silver",
-  "harvestType": "wood",
   "transTex": true,
+  "harvestType": "wood",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
-  "atlasIdx": 638,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 638
 }

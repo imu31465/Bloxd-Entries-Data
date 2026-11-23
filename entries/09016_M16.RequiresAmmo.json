@@ -8,17 +8,9 @@
   "type": "Gun",
   "textureInfo": "M16",
   "weight": 1,
-  "heldItemScale": 2,
-  "heldItemGlb": "M16",
   "stackable": false,
-  "damage": 17,
-  "meta": {
-    "rootName": "M16",
-    "rootId": 9015,
-    "metaStr": "RequiresAmmo",
-    "requiresAmmo": true
-  },
   "keepMetaInChest": true,
+  "heldItemScale": 2,
   "gunType": "semi_automatic",
   "scopeType": "none",
   "muzzleFlashOffsetFromGun": [
@@ -31,6 +23,7 @@
   "fireRate": 708,
   "cadenceMs": 66.66666666666667,
   "equipDelay": 23,
+  "damage": 17,
   "reloadTime": 2300,
   "clipSize": 30,
   "tagSpeedMult": 0.8,
@@ -44,12 +37,19 @@
   "altInaccuracyFromShot": 8,
   "altInaccuracyMovement": 20,
   "recoveryRate": 0.005,
-  "kickbackDecreaseRate": 0.000005,
   "minKickback": 0.022,
   "maxKickback": 0.06,
   "kickbackRate": 10,
+  "kickbackDecreaseRate": 0.000005,
   "msPerRound": 84.7457627118644,
   "msPerRoundTouchScreen": 84.7457627118644,
   "altYVelocityInaccuracy": 4,
-  "altInaccuracyFromJump": 45
+  "altInaccuracyFromJump": 45,
+  "heldItemGlb": "M16",
+  "meta": {
+    "rootName": "M16",
+    "rootId": 9015,
+    "metaStr": "RequiresAmmo",
+    "requiresAmmo": true
+  }
 }

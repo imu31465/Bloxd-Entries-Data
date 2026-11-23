@@ -11,7 +11,7 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "gold_bow_charging_2",
+  "textureName": "gold_bow",
   "weight": 1,
   "heldItemScale": 1.25,
   "stackable": false,
@@ -20,11 +20,11 @@
   "secondaryDamage": 62,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "gold_bow_charging_2",
   "meta": {
     "rootName": "Gold Bow",
     "rootId": 8822,
     "metaStr": "meta|charging2",
     "charging": 2
-  },
-  "textureName": "gold_bow"
+  }
 }

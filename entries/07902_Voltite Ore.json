@@ -13,14 +13,14 @@
   "ttb": 4200,
   "textureInfo": "voltite_ore",
   "harvestType": "rock",
-  "drops": "Raw Voltite",
   "harvestLevel": 3,
+  "drops": "Raw Voltite",
   "KJ": [
     2,
     6,
     6
   ],
-  "atlasIdx": 1405,
+  "showInCreativeInven": false,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1405
 }

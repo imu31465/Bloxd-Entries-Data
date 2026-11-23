@@ -19,8 +19,10 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Mossy Messy Stone",
+  "rootMetaDesc": "Mossy Stone Slab|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -29,6 +31,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Mossy Stone Slab",
     "rootId": 745,
@@ -36,11 +39,8 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Mossy Stone Slab|meta|rot1|bot",
   "atlasIdx": [
     813,
     758
-  ],
-  "stackable": true,
-  "slabFullBlock": "Mossy Messy Stone"
+  ]
 }

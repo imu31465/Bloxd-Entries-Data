@@ -12,18 +12,18 @@
   },
   "ttb": 600,
   "harvestType": "rock",
-  "model": "CustomModel",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "itemTexture": "fluid_pipe",
+  "model": "CustomModel",
   "solid": false,
   "modelScale": 8,
+  "particlesIgnoreBlack": true,
+  "blockModel": "baf2_fluid_pipe_nx_px_pz",
+  "stackable": true,
   "meta": {
     "rootName": "Fluid Pipe",
     "rootId": 8262,
     "metaStr": "meta|conn|nx_px_pz"
-  },
-  "particlesIgnoreBlack": true,
-  "harvestLevel": 0,
-  "stackable": true,
-  "blockModel": "baf2_fluid_pipe_nx_px_pz",
-  "showInCreativeInven": false
+  }
 }

@@ -11,11 +11,11 @@
     "text": "Plant to grow to potatoes"
   },
   "ttb": 400,
-  "textureInfo": "potato_plant_stage1",
-  "harvestType": "cuttable",
   "model": "CentreCross",
+  "solid": false,
+  "harvestType": "cuttable",
   "itemTexture": "potato_seeds",
   "drops": "Potato Seeds",
-  "solid": false,
+  "textureInfo": "potato_plant_stage1",
   "stackable": true
 }

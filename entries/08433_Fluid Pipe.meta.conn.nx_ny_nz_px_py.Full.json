@@ -12,17 +12,14 @@
   },
   "ttb": 600,
   "harvestType": "rock",
-  "model": "CustomModel",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "itemTexture": "fluid_pipe",
+  "model": "CustomModel",
   "solid": false,
   "modelScale": 8,
-  "meta": {
-    "rootName": "Fluid Pipe",
-    "rootId": 8262,
-    "metaStr": "meta|conn|nx_ny_nz_px_py|Full"
-  },
   "particlesIgnoreBlack": true,
-  "harvestLevel": 0,
+  "blockModel": "baf2_water_pipe_nx_ny_nz_px_py",
   "customModelInfo": {
     "textureAnimation": {
       "frames": 2,
@@ -30,6 +27,9 @@
     }
   },
   "stackable": true,
-  "blockModel": "baf2_water_pipe_nx_ny_nz_px_py",
-  "showInCreativeInven": false
+  "meta": {
+    "rootName": "Fluid Pipe",
+    "rootId": 8262,
+    "metaStr": "meta|conn|nx_ny_nz_px_py|Full"
+  }
 }

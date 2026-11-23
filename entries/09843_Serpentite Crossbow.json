@@ -10,21 +10,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "serpentite_crossbow",
+  "textureName": "diamond_crossbow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "serpentite_crossbow",
   "stackable": false,
+  "rootMetaDesc": "Serpentite Crossbow|meta|charging1",
   "chargeStages": 4,
   "chargeTime": 700,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "serpentite_crossbow",
+  "heldItemGlb": "serpentite_crossbow",
   "meta": {
     "rootName": "Serpentite Crossbow",
     "rootId": 9843,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Serpentite Crossbow|meta|charging1",
-  "textureName": "diamond_crossbow"
+  }
 }

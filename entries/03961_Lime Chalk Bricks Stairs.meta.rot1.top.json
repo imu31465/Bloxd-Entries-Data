@@ -34,6 +34,7 @@
     0.5,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Lime Chalk Bricks Stairs",
     "rootId": 3957,
@@ -41,6 +42,5 @@
     "rot": 1,
     "halfblockPlacement": 1
   },
-  "atlasIdx": 1183,
-  "stackable": true
+  "atlasIdx": 1183
 }

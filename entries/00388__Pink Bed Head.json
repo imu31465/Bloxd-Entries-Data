@@ -3,10 +3,21 @@
   "name": "_Pink Bed Head",
   "kind": "block",
   "ttb": 240,
-  "harvestType": "wood",
-  "model": "rotatable",
   "itemTexture": "pink_bed",
+  "model": "rotatable",
+  "harvestType": "wood",
   "drops": "Pink Bed",
+  "rootMetaDesc": "_Pink Bed Head|meta|rot1",
+  "particlesIgnoreBlack": true,
+  "modelScale": 5,
+  "blockModel": "_Pink Bed Head",
+  "stackable": true,
+  "meta": {
+    "rootName": "_Pink Bed Head",
+    "rootId": 388,
+    "metaStr": "meta|rot1",
+    "rot": 1
+  },
   "ib": [
     0,
     0,
@@ -14,16 +25,5 @@
     1,
     0.75,
     1
-  ],
-  "modelScale": 5,
-  "meta": {
-    "rootName": "_Pink Bed Head",
-    "rootId": 388,
-    "metaStr": "meta|rot1",
-    "rot": 1
-  },
-  "rootMetaDesc": "_Pink Bed Head|meta|rot1",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "_Pink Bed Head"
+  ]
 }

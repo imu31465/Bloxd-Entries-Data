@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_spectral",
+  "itemTexture": "spectral_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "spectral_fence",
   "ib": [
     0.375,
     0,
@@ -37,12 +37,12 @@
     1,
     0.625
   ],
+  "attachedTop": "_Spectral Fence Top|meta|esw",
+  "stackable": true,
   "meta": {
     "rootName": "Spectral Fence",
     "rootId": 7426,
     "metaStr": "meta|esw"
   },
-  "atlasIdx": 1150,
-  "stackable": true,
-  "attachedTop": "_Spectral Fence Top|meta|esw"
+  "atlasIdx": 1150
 }

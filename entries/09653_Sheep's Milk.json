@@ -15,16 +15,16 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": true,
+  "chargeStages": 1,
   "eatable": true,
   "chargeSound": "drink",
-  "eatHealAmt": 3,
-  "chargeStages": 1,
   "chargeTime": 500,
+  "eatHealAmt": 3,
+  "rootMetaDesc": "Sheep's Milk|meta|charging1",
   "meta": {
     "rootName": "Sheep's Milk",
     "rootId": 9653,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Sheep's Milk|meta|charging1"
+  }
 }

@@ -8,16 +8,16 @@
   },
   "ttb": 1,
   "textureInfo": "tall_grass_bottom",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "tall_grass_bottom",
-  "drops": null,
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "drops": null,
   "specialToolDrop": {
     "tool": "Shears",
     "drops": "Tall Grass"
   },
-  "stackable": true,
-  "canBePlacedOver": true
+  "itemTexture": "tall_grass_bottom",
+  "canBePlacedOver": true,
+  "stackable": true
 }

@@ -10,6 +10,7 @@
   "textureInfo": "white_concrete",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "White Concrete Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "White Concrete Stairs",
     "rootId": 3653,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "White Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 611,
-  "stackable": true
+  "atlasIdx": 611
 }

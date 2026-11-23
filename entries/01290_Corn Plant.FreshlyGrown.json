@@ -4,16 +4,16 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "corn_stage5",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Corn Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Corn Seeds",
+  "onMinedAura": 10,
+  "stackable": true,
   "meta": {
     "rootName": "Corn Plant",
     "rootId": 1289,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 10
+  }
 }

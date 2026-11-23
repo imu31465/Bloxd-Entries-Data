@@ -5,14 +5,7 @@
   "ttb": 3600,
   "harvestType": "wood",
   "drops": "Cherry Door",
-  "ib": [
-    0.875,
-    0,
-    0,
-    1,
-    1,
-    1
-  ],
+  "stackable": true,
   "meta": {
     "rootName": "_Cherry Door Top",
     "rootId": 1241,
@@ -20,5 +13,12 @@
     "rot": 1,
     "open": true
   },
-  "stackable": true
+  "ib": [
+    0.875,
+    0,
+    0,
+    1,
+    1,
+    1
+  ]
 }

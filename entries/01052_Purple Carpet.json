@@ -7,9 +7,9 @@
     "text": "Purple Carpet"
   },
   "ttb": 300,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "carpet_purple_icon",
+  "model": "CustomModel",
+  "harvestType": "cuttable",
   "solid": false,
   "ib": [
     0,
@@ -19,11 +19,11 @@
     0.125,
     1
   ],
+  "blockModel": "carpet_purple_model",
   "modelScale": 10,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.4375
   },
-  "stackable": true,
-  "blockModel": "carpet_purple_model"
+  "particlesIgnoreBlack": true,
+  "stackable": true
 }

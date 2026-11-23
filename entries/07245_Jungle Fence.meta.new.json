@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_jungle",
+  "itemTexture": "jungle_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "jungle_fence",
   "ib": [
     0.375,
     0,
@@ -37,12 +37,12 @@
     1,
     0.625
   ],
+  "attachedTop": "_Jungle Fence Top|meta|new",
+  "stackable": true,
   "meta": {
     "rootName": "Jungle Fence",
     "rootId": 7234,
     "metaStr": "meta|new"
   },
-  "atlasIdx": 534,
-  "stackable": true,
-  "attachedTop": "_Jungle Fence Top|meta|new"
+  "atlasIdx": 534
 }

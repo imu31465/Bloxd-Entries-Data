@@ -2,9 +2,9 @@
   "id": 1315,
   "name": "Red Quick Paintball Explosive",
   "kind": "block",
-  "ttb": 50,
   "textureInfo": "explosive_paint_quick_red",
   "harvestType": "cuttable",
-  "atlasIdx": 950,
-  "stackable": true
+  "ttb": 50,
+  "stackable": true,
+  "atlasIdx": 950
 }

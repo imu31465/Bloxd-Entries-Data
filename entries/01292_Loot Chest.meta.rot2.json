@@ -16,6 +16,8 @@
     "chest_top[rot[4",
     "chest_back"
   ],
+  "harvestType": "wood",
+  "drops": "Chest",
   "texturePerSide": [
     0,
     6,
@@ -24,8 +26,7 @@
     1,
     1
   ],
-  "harvestType": "wood",
-  "drops": "Chest",
+  "stackable": true,
   "meta": {
     "rootName": "Loot Chest",
     "rootId": 1291,
@@ -40,6 +41,5 @@
     667,
     668,
     669
-  ],
-  "stackable": true
+  ]
 }

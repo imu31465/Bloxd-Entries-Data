@@ -10,10 +10,22 @@
     }
   },
   "ttb": 400,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "light_grey_directional_arrow",
+  "model": "rotatable",
+  "harvestType": "cuttable",
   "solid": false,
+  "blockModel": "Light Grey Directional Arrow",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "stackable": true,
+  "meta": {
+    "rootName": "Light Grey Directional Arrow",
+    "rootId": 2861,
+    "metaStr": "meta|rot4",
+    "rot": 4
+  },
   "ib": [
     0,
     0,
@@ -21,17 +33,5 @@
     1,
     0.125,
     1
-  ],
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Light Grey Directional Arrow",
-    "rootId": 2861,
-    "metaStr": "meta|rot4",
-    "rot": 4
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Light Grey Directional Arrow"
+  ]
 }

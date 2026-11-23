@@ -6,6 +6,7 @@
   "textureInfo": "log_pear",
   "harvestType": "wood",
   "drops": "Pear Log",
+  "stackable": true,
   "meta": {
     "rootName": "Pear Log",
     "rootId": 909,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Pear"
   },
-  "atlasIdx": 843,
-  "stackable": true
+  "atlasIdx": 843
 }

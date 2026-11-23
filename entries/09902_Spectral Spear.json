@@ -14,13 +14,13 @@
   "textureInfo": "spectral_spear",
   "weight": 1,
   "heldItemScale": 1.1,
-  "heldItemGlb": "spectral_spear",
-  "stackable": false,
   "damage": 32,
   "attackRange": 5,
-  "abilityCooldownMs": 1600,
-  "dashImpulse": 28,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 5
+  "level": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "heldItemGlb": "spectral_spear"
 }

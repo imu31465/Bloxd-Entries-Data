@@ -16,10 +16,11 @@
       "colour": "$t(colour:light_blue)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_light_blue",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Light Blue Chalk",
+  "textureInfo": "chalk_light_blue",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0.5,
     0,
@@ -28,6 +29,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Light Blue Chalk Slab",
     "rootId": 1809,
@@ -35,7 +37,5 @@
     "rot": 4,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 1169,
-  "stackable": true,
-  "slabFullBlock": "Light Blue Chalk"
+  "atlasIdx": 1169
 }

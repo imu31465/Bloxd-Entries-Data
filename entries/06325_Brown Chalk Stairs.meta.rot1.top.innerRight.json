@@ -40,6 +40,7 @@
     0.5,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Brown Chalk Stairs",
     "rootId": 3877,
@@ -48,6 +49,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 1173,
-  "stackable": true
+  "atlasIdx": 1173
 }

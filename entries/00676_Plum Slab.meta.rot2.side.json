@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Plum Wood Planks",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Plum Slab",
     "rootId": 673,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     801,
     533
-  ],
-  "stackable": true,
-  "slabFullBlock": "Plum Wood Planks"
+  ]
 }

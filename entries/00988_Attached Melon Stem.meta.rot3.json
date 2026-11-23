@@ -11,16 +11,10 @@
     "attached_melon_stem_wrapper",
     "attached_melon_stem"
   ],
-  "harvestType": "cuttable",
   "model": "CustomPlanes|rotatable",
-  "drops": "Melon Seeds",
   "solid": false,
-  "meta": {
-    "rootName": "Attached Melon Stem",
-    "rootId": 986,
-    "metaStr": "meta|rot3",
-    "rot": 3
-  },
+  "harvestType": "cuttable",
+  "drops": "Melon Seeds",
   "customPlanesInfo": [
     {
       "textureIdx": 0,
@@ -35,5 +29,11 @@
       "yRot": 4.71238898038469
     }
   ],
-  "stackable": true
+  "stackable": true,
+  "meta": {
+    "rootName": "Attached Melon Stem",
+    "rootId": 986,
+    "metaStr": "meta|rot3",
+    "rot": 3
+  }
 }

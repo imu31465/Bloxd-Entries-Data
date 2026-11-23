@@ -21,6 +21,9 @@
     "conveyor_belt_bottom",
     "belt_tunnel_back"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "showInCreativeInven": false,
   "texturePerSide": [
     1,
     1,
@@ -29,14 +32,13 @@
     7,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Belt Tunnel",
     "rootId": 8059,
     "metaStr": "meta|rot1|exit",
     "rot": 1
   },
-  "harvestLevel": 0,
   "atlasIdx": [
     1514,
     1515,
@@ -46,7 +48,5 @@
     1524,
     1402,
     1520
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

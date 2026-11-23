@@ -7,17 +7,13 @@
     "text": "Aspen Door"
   },
   "ttb": 3600,
-  "harvestType": "wood",
-  "model": "door",
   "itemTexture": "aspen_door",
-  "ib": [
-    0,
-    0,
-    0.875,
-    1,
-    1,
-    1
-  ],
+  "model": "door",
+  "harvestType": "wood",
+  "rootMetaDesc": "Aspen Door|meta|rot1|closed",
+  "particlesIgnoreBlack": true,
+  "blockModel": "Aspen Door",
+  "stackable": true,
   "meta": {
     "rootName": "Aspen Door",
     "rootId": 554,
@@ -25,8 +21,12 @@
     "rot": 1,
     "open": false
   },
-  "rootMetaDesc": "Aspen Door|meta|rot1|closed",
-  "particlesIgnoreBlack": true,
-  "stackable": true,
-  "blockModel": "Aspen Door"
+  "ib": [
+    0,
+    0,
+    0.875,
+    1,
+    1,
+    1
+  ]
 }

@@ -11,11 +11,11 @@
     "text": "Shows the time of day."
   },
   "type": "Item",
-  "textureInfo": "clock_gold_sunset",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "clock_gold_sunset",
   "stackable": false,
+  "heldItemGlb": "clock_gold_sunset",
+  "textureInfo": "clock_gold_sunset",
   "meta": {
     "rootName": "Gold Clock",
     "rootId": 9729,

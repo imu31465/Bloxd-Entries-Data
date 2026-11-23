@@ -10,17 +10,17 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "diamond_trophy",
+  "rootMetaDesc": "Diamond Trophy|meta|rot1",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Diamond Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Diamond Trophy",
     "rootId": 2803,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "Diamond Trophy|meta|rot1",
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Diamond Trophy"
+  }
 }

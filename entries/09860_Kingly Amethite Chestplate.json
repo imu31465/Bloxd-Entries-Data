@@ -10,7 +10,7 @@
   "textureInfo": "kingly_amethite_chestplate",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "kingly_amethite_chestplate",
   "stackable": false,
-  "armourReduction": 0.24
+  "armourReduction": 0.24,
+  "heldItemGlb": "kingly_amethite_chestplate"
 }

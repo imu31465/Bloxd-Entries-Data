@@ -9,9 +9,9 @@
   "ttb": 32400,
   "textureInfo": "pure_iron_ore",
   "harvestType": "rock",
+  "harvestLevel": 2,
   "drops": "Raw Iron",
   "XJ": 9,
-  "harvestLevel": 2,
   "specialToolDrop": {
     "tool": "Moonstone Pickaxe",
     "drops": "Pure Iron Ore"
@@ -40,12 +40,12 @@
       }
     ]
   },
+  "onMinedAura": 135,
   "KJ": [
     6,
     6,
     6
   ],
-  "atlasIdx": 1346,
   "stackable": true,
-  "onMinedAura": 135
+  "atlasIdx": 1346
 }

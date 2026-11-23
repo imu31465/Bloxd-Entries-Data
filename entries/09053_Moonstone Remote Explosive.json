@@ -14,6 +14,6 @@
   "textureInfo": "moonstone_remote_explosive",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Moonstone Remote",
-  "stackable": false
+  "stackable": false,
+  "heldItemGlb": "Moonstone Remote"
 }

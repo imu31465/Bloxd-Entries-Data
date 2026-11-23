@@ -6,12 +6,12 @@
   "harvestType": "rock",
   "model": "CustomModel",
   "itemTexture": "hob_boiling",
+  "blockModel": "hob_boiling",
+  "blockModelItem": true,
+  "twoDBlockItem": true,
   "modelScale": 8,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "hob_boiling",
-  "blockModelItem": true,
-  "twoDBlockItem": true
+  "stackable": true
 }

@@ -7,15 +7,15 @@
     "text": "Small Orange Pod"
   },
   "ttb": 300,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "small_pod_orange_icon",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
   "modelScale": 8,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "_Small Orange Pod Mid"
+  "particlesIgnoreBlack": true,
+  "blockModel": "_Small Orange Pod Mid",
+  "stackable": true
 }

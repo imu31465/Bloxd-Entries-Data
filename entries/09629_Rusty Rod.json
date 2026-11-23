@@ -11,14 +11,14 @@
     "text": "Cast into water, then click or tap when a fish bites."
   },
   "type": "Item",
-  "textureInfo": "rusty_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       7000,
       9000
     ]
-  }
+  },
+  "textureInfo": "rusty_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

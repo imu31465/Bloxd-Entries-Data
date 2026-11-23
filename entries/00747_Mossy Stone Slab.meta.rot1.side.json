@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Mossy Messy Stone",
   "ib": [
     0,
     0,
@@ -29,6 +30,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Mossy Stone Slab",
     "rootId": 745,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     813,
     758
-  ],
-  "stackable": true,
-  "slabFullBlock": "Mossy Messy Stone"
+  ]
 }

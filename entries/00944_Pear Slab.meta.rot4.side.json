@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "wood",
   "model": "Slab",
+  "harvestType": "wood",
+  "slabFullBlock": "Pear Wood Planks",
   "ib": [
     0.5,
     0,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Pear Slab",
     "rootId": 939,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     846,
     844
-  ],
-  "stackable": true,
-  "slabFullBlock": "Pear Wood Planks"
+  ]
 }

@@ -3,12 +3,12 @@
   "name": "Timed Spike Bomb Block",
   "kind": "block",
   "ttb": 30000,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "timed_spike_bomb",
+  "harvestType": "rock",
   "drops": null,
-  "solid": false,
   "modelScale": 10,
-  "stackable": true,
-  "blockModel": "Timed Spike Bomb Block"
+  "model": "CustomModel",
+  "blockModel": "Timed Spike Bomb Block",
+  "solid": false,
+  "stackable": true
 }

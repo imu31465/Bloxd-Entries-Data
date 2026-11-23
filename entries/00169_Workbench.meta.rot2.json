@@ -13,20 +13,20 @@
   "ttb": 3000,
   "harvestType": "wood",
   "model": "rotatable",
-  "itemTexture": "workbench",
-  "heldItemScale": 4,
   "modelScale": 8,
-  "meta": {
-    "rootName": "Workbench",
-    "rootId": 168,
-    "metaStr": "meta|rot2",
-    "rot": 2
-  },
+  "blockModel": "Workbench",
+  "blockModelItem": true,
+  "heldItemScale": 4,
+  "itemTexture": "workbench",
   "customModelInfo": {
     "yOffset": -0.5,
     "yRotOffset": 3.141592653589793
   },
   "stackable": true,
-  "blockModel": "Workbench",
-  "blockModelItem": true
+  "meta": {
+    "rootName": "Workbench",
+    "rootId": 168,
+    "metaStr": "meta|rot2",
+    "rot": 2
+  }
 }

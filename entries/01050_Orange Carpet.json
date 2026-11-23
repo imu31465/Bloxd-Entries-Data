@@ -7,9 +7,9 @@
     "text": "Orange Carpet"
   },
   "ttb": 300,
-  "harvestType": "cuttable",
-  "model": "CustomModel",
   "itemTexture": "carpet_orange_icon",
+  "model": "CustomModel",
+  "harvestType": "cuttable",
   "solid": false,
   "ib": [
     0,
@@ -19,11 +19,11 @@
     0.125,
     1
   ],
+  "blockModel": "carpet_orange_model",
   "modelScale": 10,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.4375
   },
-  "stackable": true,
-  "blockModel": "carpet_orange_model"
+  "particlesIgnoreBlack": true,
+  "stackable": true
 }

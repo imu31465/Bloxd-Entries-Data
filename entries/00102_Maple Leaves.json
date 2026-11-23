@@ -9,6 +9,6 @@
   "ttb": 350,
   "textureInfo": "leaves_maple",
   "harvestType": "cuttable",
-  "atlasIdx": 616,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 616
 }

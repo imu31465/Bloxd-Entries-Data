@@ -6,12 +6,12 @@
   "textureInfo": "leaves_maple_autumn",
   "harvestType": "cuttable",
   "drops": "Autumn Maple Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Autumn Maple Leaves",
     "rootId": 653,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 797,
-  "stackable": true
+  "atlasIdx": 797
 }

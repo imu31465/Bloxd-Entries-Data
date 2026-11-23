@@ -13,11 +13,11 @@
   "textureInfo": "amethite_mace",
   "weight": 1,
   "heldItemScale": 1.1,
-  "heldItemGlb": "amethite_mace",
-  "stackable": false,
   "damage": 20,
   "velocityMultiplier": 3,
+  "stackable": false,
   "harvests": null,
   "multiplier": 2,
-  "level": 5
+  "level": 5,
+  "heldItemGlb": "amethite_mace"
 }

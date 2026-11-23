@@ -7,15 +7,15 @@
     "text": "Small Purple Pod"
   },
   "ttb": 300,
-  "harvestType": "rock",
-  "model": "CustomModel",
   "itemTexture": "small_pod_purple_icon",
+  "model": "CustomModel",
+  "harvestType": "rock",
   "solid": false,
   "modelScale": 8,
-  "particlesIgnoreBlack": true,
   "customModelInfo": {
     "yOffset": -0.5
   },
-  "stackable": true,
-  "blockModel": "_Small Purple Pod Top"
+  "particlesIgnoreBlack": true,
+  "blockModel": "_Small Purple Pod Top",
+  "stackable": true
 }

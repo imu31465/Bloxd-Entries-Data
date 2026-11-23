@@ -10,6 +10,7 @@
   "textureInfo": "orange_concrete",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Orange Concrete Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Orange Concrete Stairs",
     "rootId": 3685,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Orange Concrete Stairs|meta|rot1|bot",
-  "atlasIdx": 607,
-  "stackable": true
+  "atlasIdx": 607
 }

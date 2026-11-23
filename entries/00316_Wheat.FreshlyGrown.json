@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "wheat_stage7",
-  "harvestType": "cuttable",
   "model": "SquareSided",
   "solid": false,
+  "harvestType": "cuttable",
+  "onMinedAura": 5,
+  "stackable": true,
   "meta": {
     "rootName": "Wheat",
     "rootId": 315,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 5
+  }
 }

@@ -40,6 +40,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Gray Chalk Bricks Stairs",
     "rootId": 3989,
@@ -48,6 +49,5 @@
     "halfblockPlacement": 0,
     "stairsCorner": "innerRight"
   },
-  "atlasIdx": 1187,
-  "stackable": true
+  "atlasIdx": 1187
 }

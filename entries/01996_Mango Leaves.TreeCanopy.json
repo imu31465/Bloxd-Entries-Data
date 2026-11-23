@@ -6,12 +6,12 @@
   "textureInfo": "leaves_mango",
   "harvestType": "cuttable",
   "drops": "Mango Leaves",
+  "stackable": true,
   "meta": {
     "rootName": "Mango Leaves",
     "rootId": 1969,
     "metaStr": "TreeCanopy",
     "treeCanopy": true
   },
-  "atlasIdx": 1214,
-  "stackable": true
+  "atlasIdx": 1214
 }

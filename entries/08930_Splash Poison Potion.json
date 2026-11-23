@@ -15,11 +15,11 @@
   "weight": 1,
   "heldItemScale": 1,
   "stackable": false,
+  "rootMetaDesc": "Splash Poison Potion|meta|charging1",
   "meta": {
     "rootName": "Splash Poison Potion",
     "rootId": 8930,
     "metaStr": "meta|charging1",
     "charging": 1
-  },
-  "rootMetaDesc": "Splash Poison Potion|meta|charging1"
+  }
 }

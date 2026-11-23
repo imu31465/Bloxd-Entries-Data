@@ -30,6 +30,7 @@
     0.5,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Sandstone Stairs",
     "rootId": 3557,
@@ -38,6 +39,5 @@
     "halfblockPlacement": 1,
     "stairsCorner": "innerLeft"
   },
-  "atlasIdx": 651,
-  "stackable": true
+  "atlasIdx": 651
 }

@@ -16,6 +16,10 @@
     "volt_engine_top",
     "machine_side"
   ],
+  "harvestType": "rock",
+  "harvestLevel": 0,
+  "altActionable": true,
+  "showInCreativeInven": false,
   "texturePerSide": [
     0,
     0,
@@ -24,20 +28,16 @@
     0,
     0
   ],
-  "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Volt Engine",
     "rootId": 7975,
     "metaStr": "meta|rot2",
     "rot": 2
   },
-  "harvestLevel": 0,
-  "altActionable": true,
   "atlasIdx": [
     1452,
     1453,
     1360
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

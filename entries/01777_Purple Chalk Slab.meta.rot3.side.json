@@ -16,10 +16,11 @@
       "colour": "$t(colour:purple)"
     }
   },
-  "ttb": 550,
-  "textureInfo": "chalk_purple",
-  "harvestType": "rock",
   "model": "Slab",
+  "slabFullBlock": "Purple Chalk",
+  "textureInfo": "chalk_purple",
+  "ttb": 550,
+  "harvestType": "rock",
   "ib": [
     0,
     0,
@@ -28,6 +29,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Purple Chalk Slab",
     "rootId": 1773,
@@ -35,7 +37,5 @@
     "rot": 3,
     "halfblockPlacement": 2
   },
-  "atlasIdx": 1163,
-  "stackable": true,
-  "slabFullBlock": "Purple Chalk"
+  "atlasIdx": 1163
 }

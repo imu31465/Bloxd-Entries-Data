@@ -14,6 +14,6 @@
     "tool": "Moonstone Pickaxe",
     "drops": "Stone"
   },
-  "atlasIdx": 544,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 544
 }

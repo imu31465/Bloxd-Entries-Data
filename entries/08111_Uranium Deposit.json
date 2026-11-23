@@ -13,14 +13,14 @@
   "ttb": 36000,
   "textureInfo": "uranium_deposit",
   "harvestType": "rock",
-  "drops": null,
   "harvestLevel": 0,
+  "drops": null,
+  "showInCreativeInven": false,
   "KJ": [
     5,
     8,
     1
   ],
-  "atlasIdx": 1548,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1548
 }

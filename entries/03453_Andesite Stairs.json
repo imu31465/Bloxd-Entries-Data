@@ -10,6 +10,7 @@
   "textureInfo": "stone_andesite",
   "harvestType": "rock",
   "model": "Stairs",
+  "rootMetaDesc": "Andesite Stairs|meta|rot1|bot",
   "ib": [
     0,
     0,
@@ -24,6 +25,7 @@
     1,
     0.5
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Andesite Stairs",
     "rootId": 3453,
@@ -31,7 +33,5 @@
     "rot": 1,
     "halfblockPlacement": 0
   },
-  "rootMetaDesc": "Andesite Stairs|meta|rot1|bot",
-  "atlasIdx": 548,
-  "stackable": true
+  "atlasIdx": 548
 }

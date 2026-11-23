@@ -10,17 +10,17 @@
   "harvestType": "rock",
   "model": "rotatable",
   "itemTexture": "gold_trophy",
+  "rootMetaDesc": "Gold Trophy|meta|rot1",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Gold Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Gold Trophy",
     "rootId": 2665,
     "metaStr": "meta|rot1",
     "rot": 1
-  },
-  "rootMetaDesc": "Gold Trophy|meta|rot1",
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Gold Trophy"
+  }
 }

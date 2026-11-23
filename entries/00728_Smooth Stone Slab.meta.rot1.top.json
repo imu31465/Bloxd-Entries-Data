@@ -19,8 +19,9 @@
     0,
     0
   ],
-  "harvestType": "rock",
   "model": "Slab",
+  "harvestType": "rock",
+  "slabFullBlock": "Smooth Stone",
   "ib": [
     0,
     0.5,
@@ -29,6 +30,7 @@
     1,
     1
   ],
+  "stackable": true,
   "meta": {
     "rootName": "Smooth Stone Slab",
     "rootId": 727,
@@ -39,7 +41,5 @@
   "atlasIdx": [
     810,
     545
-  ],
-  "stackable": true,
-  "slabFullBlock": "Smooth Stone"
+  ]
 }

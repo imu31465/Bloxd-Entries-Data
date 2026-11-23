@@ -8,9 +8,9 @@
   },
   "ttb": 300,
   "textureInfo": "lily_of_the_valley",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "lily_of_the_valley",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "lily_of_the_valley",
   "stackable": true
 }

@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "wheat_stage0",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "itemTexture": "wheat_seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "wheat_seeds",
   "stackable": true
 }

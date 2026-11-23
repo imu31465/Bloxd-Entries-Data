@@ -8,10 +8,10 @@
   },
   "ttb": 300,
   "textureInfo": "cornflower",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "cornflower",
-  "solid": false,
   "heldItemScale": 0.5,
+  "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "cornflower",
   "stackable": true
 }

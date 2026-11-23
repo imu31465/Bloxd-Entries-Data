@@ -26,6 +26,7 @@
   ],
   "harvestType": "rock",
   "itemTexture": "solar_panel",
+  "stackable": true,
   "meta": {
     "rootName": "Solar Panel",
     "rootId": 3166,
@@ -36,6 +37,5 @@
     1284,
     1285,
     1286
-  ],
-  "stackable": true
+  ]
 }

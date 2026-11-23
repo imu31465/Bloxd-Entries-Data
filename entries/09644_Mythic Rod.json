@@ -7,14 +7,14 @@
     "text": "Mythic Rod"
   },
   "type": "Item",
-  "textureInfo": "mythic_rod",
-  "weight": 1,
-  "heldItemScale": 1.25,
-  "stackable": false,
   "fishingRodInfo": {
     "biteDelayMs": [
       2000,
       4000
     ]
-  }
+  },
+  "textureInfo": "mythic_rod",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false
 }

@@ -10,21 +10,21 @@
     "text": "Shoots arrows"
   },
   "type": "Chargeable",
-  "textureInfo": "rubellite_bow_charging_3",
+  "textureName": "diamond_bow",
   "weight": 1,
   "heldItemScale": 1.25,
-  "heldItemGlb": "rubellite_bow_charging_3",
   "stackable": false,
   "chargeStages": 4,
   "chargeTime": 700,
   "secondaryDamage": 68,
   "holdAsAiming": true,
   "requiresArrow": true,
+  "textureInfo": "rubellite_bow_charging_3",
+  "heldItemGlb": "rubellite_bow_charging_3",
   "meta": {
     "rootName": "Rubellite Bow",
     "rootId": 9812,
     "metaStr": "meta|charging3",
     "charging": 3
-  },
-  "textureName": "diamond_bow"
+  }
 }

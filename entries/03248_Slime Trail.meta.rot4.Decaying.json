@@ -4,25 +4,28 @@
   "kind": "block",
   "ttb": 200,
   "harvestType": "cuttable",
-  "model": "rotatable",
-  "itemTexture": "slime_trail",
-  "drops": null,
-  "solid": false,
-  "ib": [
-    0,
-    0,
-    0,
-    1,
-    0.125,
-    1
-  ],
-  "modelScale": 8,
-  "meta": {
-    "rootName": "Slime Trail",
-    "rootId": 3067,
-    "metaStr": "meta|rot4|Decaying",
-    "rot": 4
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
   },
+  "itemTexture": "slime_trail",
+  "solid": false,
+  "model": "rotatable",
+  "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5,
+    "unlit": true,
+    "yRotOffset": -1.5707963267948966
+  },
+  "blockModel": "slime_trail",
+  "heldItemGlb": "Slime Trail",
+  "unlitStandaloneMesh": true,
+  "KJ": [
+    14,
+    8,
+    11
+  ],
+  "drops": null,
   "specialToolDrop": {
     "tool": [
       "Wood Spade",
@@ -37,22 +40,19 @@
     ],
     "drops": "Slime Trail"
   },
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "unlitStandaloneMesh": true,
-  "customModelInfo": {
-    "yOffset": -0.5,
-    "unlit": true,
-    "yRotOffset": -1.5707963267948966
-  },
-  "KJ": [
-    14,
-    8,
-    11
-  ],
   "stackable": true,
-  "heldItemGlb": "Slime Trail",
-  "blockModel": "slime_trail"
+  "meta": {
+    "rootName": "Slime Trail",
+    "rootId": 3067,
+    "metaStr": "meta|rot4|Decaying",
+    "rot": 4
+  },
+  "ib": [
+    0,
+    0,
+    0,
+    1,
+    0.125,
+    1
+  ]
 }

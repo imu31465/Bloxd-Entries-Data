@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_palm",
+  "itemTexture": "palm_fence",
   "harvestType": "wood",
   "model": "fence",
-  "itemTexture": "palm_fence",
   "ib": [
     0.375,
     0,
@@ -31,12 +31,12 @@
     1,
     1
   ],
+  "attachedTop": "_Palm Fence Top|meta|ns",
+  "stackable": true,
   "meta": {
     "rootName": "Palm Fence",
     "rootId": 7282,
     "metaStr": "meta|ns"
   },
-  "atlasIdx": 793,
-  "stackable": true,
-  "attachedTop": "_Palm Fence Top|meta|ns"
+  "atlasIdx": 793
 }

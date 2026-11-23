@@ -18,6 +18,7 @@
     2
   ],
   "harvestType": "rock",
+  "stackable": true,
   "meta": {
     "rootName": "Green Ceramic",
     "rootId": 297,
@@ -29,6 +30,5 @@
     742,
     743,
     744
-  ],
-  "stackable": true
+  ]
 }

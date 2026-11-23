@@ -13,14 +13,14 @@
   "ttb": 1500,
   "textureInfo": "fluid_tank",
   "harvestType": "rock",
-  "transTex": true,
   "harvestLevel": 0,
-  "altActionable": true,
+  "showInCreativeInven": false,
+  "transTex": true,
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
-  "atlasIdx": 1586,
+  "altActionable": true,
   "stackable": true,
-  "showInCreativeInven": false
+  "atlasIdx": 1586
 }

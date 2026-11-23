@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "banana_stem",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "drops": "Banana Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Banana Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Banana Seeds",
     "rootId": 2009,
     "metaStr": "Growing",
     "DJ": true
-  },
-  "stackable": true
+  }
 }

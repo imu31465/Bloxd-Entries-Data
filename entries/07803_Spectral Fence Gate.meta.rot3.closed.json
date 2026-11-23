@@ -8,9 +8,9 @@
   },
   "ttb": 1800,
   "textureInfo": "planks_spectral",
+  "itemTexture": "spectral_fence_gate",
   "harvestType": "wood",
   "model": "fenceGate",
-  "itemTexture": "spectral_fence_gate",
   "ib": [
     0,
     0,
@@ -19,6 +19,8 @@
     1,
     0.625
   ],
+  "attachedTop": "_Spectral Fence Gate Top|meta|rot3|closed",
+  "stackable": true,
   "meta": {
     "rootName": "Spectral Fence Gate",
     "rootId": 7799,
@@ -26,7 +28,5 @@
     "rot": 3,
     "open": false
   },
-  "atlasIdx": 1150,
-  "stackable": true,
-  "attachedTop": "_Spectral Fence Gate Top|meta|rot3|closed"
+  "atlasIdx": 1150
 }

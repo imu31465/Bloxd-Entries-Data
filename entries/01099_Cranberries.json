@@ -12,9 +12,9 @@
   },
   "ttb": 400,
   "textureInfo": "berry_bush_stage0",
-  "harvestType": "cuttable",
   "model": "CentreCross",
-  "itemTexture": "cranberries",
   "solid": false,
+  "harvestType": "cuttable",
+  "itemTexture": "cranberries",
   "stackable": true
 }

@@ -3,18 +3,18 @@
   "name": "White Neon",
   "kind": "block",
   "ttb": 200,
-  "textureInfo": "neon_white",
   "harvestType": "granule",
   "soundType": {
     "break": "glass",
     "place": "stone"
   },
+  "textureInfo": "neon_white",
   "unlitStandaloneMesh": true,
   "KJ": [
     15,
     15,
     15
   ],
-  "atlasIdx": 1257,
-  "stackable": true
+  "stackable": true,
+  "atlasIdx": 1257
 }

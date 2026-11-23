@@ -8,16 +8,16 @@
   },
   "ttb": 400,
   "textureInfo": "parsnip_plant_stage2",
-  "harvestType": "cuttable",
-  "model": "CentreCross",
   "itemTexture": "parsnip_plant_stage2",
+  "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
+  "onMinedAura": 5,
+  "stackable": true,
   "meta": {
     "rootName": "Parsnip Plant",
     "rootId": 2073,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true,
-  "onMinedAura": 5
+  }
 }

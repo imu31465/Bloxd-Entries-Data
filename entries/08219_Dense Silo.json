@@ -26,10 +26,10 @@
   "harvestType": "rock",
   "harvestLevel": 0,
   "altActionable": true,
+  "showInCreativeInven": false,
+  "stackable": true,
   "atlasIdx": [
     1616,
     1617
-  ],
-  "stackable": true,
-  "showInCreativeInven": false
+  ]
 }

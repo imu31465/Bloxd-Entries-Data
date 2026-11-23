@@ -8,8 +8,8 @@
   },
   "ttb": 1,
   "textureInfo": "fallen_pine_cone",
-  "harvestType": "cuttable",
   "model": "CentreCross",
   "solid": false,
+  "harvestType": "cuttable",
   "stackable": true
 }

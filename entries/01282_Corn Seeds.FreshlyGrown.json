@@ -4,15 +4,15 @@
   "kind": "block",
   "ttb": 400,
   "textureInfo": "corn_stage2",
-  "harvestType": "cuttable",
   "model": "SquareSided",
-  "drops": "Corn Seeds",
   "solid": false,
+  "harvestType": "cuttable",
+  "drops": "Corn Seeds",
+  "stackable": true,
   "meta": {
     "rootName": "Corn Seeds",
     "rootId": 1280,
     "metaStr": "FreshlyGrown",
     "freshlyGrown": true
-  },
-  "stackable": true
+  }
 }

@@ -11,15 +11,15 @@
   "model": "rotatable",
   "itemTexture": "diamond_trophy",
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "blockModel": "Diamond Trophy",
+  "stackable": true,
   "meta": {
     "rootName": "Diamond Trophy",
     "rootId": 2803,
     "metaStr": "meta|rot2",
     "rot": 2
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "Diamond Trophy"
+  }
 }

@@ -7,20 +7,22 @@
     "text": "Green Banner"
   },
   "ttb": 240,
-  "harvestType": "cuttable",
-  "model": "rotatable",
   "itemTexture": "banner_green",
-  "drops": "Green Banner",
-  "solid": false,
-  "ib": [
-    0.625,
-    0,
-    0,
-    0.75,
-    1,
-    1
-  ],
+  "model": "rotatable",
+  "harvestType": "cuttable",
+  "particlesIgnoreBlack": true,
   "modelScale": 8,
+  "customModelInfo": {
+    "yOffset": -0.5
+  },
+  "solid": false,
+  "blockModel": "_Green Banner Flag Hanging",
+  "soundType": {
+    "break": "cloth",
+    "place": "cloth"
+  },
+  "drops": "Green Banner",
+  "stackable": true,
   "meta": {
     "rootName": "_Green Banner Flag",
     "rootId": 2415,
@@ -28,14 +30,12 @@
     "rot": 4,
     "halfblockPlacement": 1
   },
-  "particlesIgnoreBlack": true,
-  "soundType": {
-    "break": "cloth",
-    "place": "cloth"
-  },
-  "customModelInfo": {
-    "yOffset": -0.5
-  },
-  "stackable": true,
-  "blockModel": "_Green Banner Flag Hanging"
+  "ib": [
+    0.625,
+    0,
+    0,
+    0.75,
+    1,
+    1
+  ]
 }

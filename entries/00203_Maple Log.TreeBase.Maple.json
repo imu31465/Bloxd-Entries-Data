@@ -6,6 +6,7 @@
   "textureInfo": "log_maple",
   "harvestType": "wood",
   "drops": "Maple Log",
+  "stackable": true,
   "meta": {
     "rootName": "Maple Log",
     "rootId": 9,
@@ -13,6 +14,5 @@
     "treeBase": true,
     "woodType": "Maple"
   },
-  "atlasIdx": 525,
-  "stackable": true
+  "atlasIdx": 525
 }

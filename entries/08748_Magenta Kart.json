@@ -6,10 +6,10 @@
     "key": "item:magentaKart",
     "text": "Magenta Kart"
   },
-  "type": "Item",
   "textureInfo": "magenta_kart",
+  "heldItemGlb": "Magenta Kart Item",
+  "type": "Item",
   "weight": 1,
   "heldItemScale": 1,
-  "heldItemGlb": "Magenta Kart Item",
   "stackable": false
 }
