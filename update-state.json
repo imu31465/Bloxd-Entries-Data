@@ -1,8 +1,8 @@
 {
   "lastBundle": {
-    "file": "/static/js/7zvlu.main.7df130a9.js",
-    "url": "https://bloxd.io/static/js/7zvlu.main.7df130a9.js",
-    "sha256": "62cc42401aed885d1b6952e7e3def10a1c2a124f35908eef99853af173db2f03"
+    "file": "/static/js/c6gaap.main.4d6587ec.js",
+    "url": "https://bloxd.io/static/js/c6gaap.main.4d6587ec.js",
+    "sha256": "c77a9f58178635b79cff60f6142204aa147e72d3cc4ffaf1a357d901f64448bb"
   },
   "lastDiff": {
     "firstRun": false,
@@ -13,5 +13,5 @@
     "idChanged": 0,
     "entryFilesChanged": 0
   },
-  "lastRunAt": "2026-11-24T20:20:11.457Z"
+  "lastRunAt": "2026-11-24T22:50:14.678Z"
 }
