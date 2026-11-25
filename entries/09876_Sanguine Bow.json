@@ -1,0 +1,32 @@
+{
+  "id": 9876,
+  "name": "Sanguine Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:sanguineBow",
+    "text": "Sanguine Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureName": "diamond_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "rootMetaDesc": "Sanguine Bow|meta|charging1",
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 68,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "textureInfo": "sanguine_bow",
+  "heldItemGlb": "sanguine_bow",
+  "meta": {
+    "rootName": "Sanguine Bow",
+    "rootId": 9876,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

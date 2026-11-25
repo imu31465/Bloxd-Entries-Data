@@ -1,0 +1,16 @@
+{
+  "id": 9913,
+  "name": "Spectral Helmet",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralHelmet",
+    "text": "Spectral Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "spectral_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13,
+  "heldItemGlb": "spectral_helmet"
+}

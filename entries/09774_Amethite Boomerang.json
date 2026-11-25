@@ -1,0 +1,23 @@
+{
+  "id": 9774,
+  "name": "Amethite Boomerang",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Boomerang"
+  },
+  "description": {
+    "key": "item:boomerangDescription",
+    "text": "Throw to do damage, returns automatically"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_boomerang",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "damage": 20,
+  "secondaryDamage": 20,
+  "stackable": false,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5,
+  "heldItemGlb": "amethite_boomerang"
+}

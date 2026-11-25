@@ -1,0 +1,31 @@
+{
+  "id": 9900,
+  "name": "Spectral Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralBow",
+    "text": "Spectral Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureName": "diamond_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 68,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "textureInfo": "spectral_bow_charging_3",
+  "heldItemGlb": "spectral_bow_charging_3",
+  "meta": {
+    "rootName": "Spectral Bow",
+    "rootId": 9898,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  }
+}

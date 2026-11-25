@@ -1,0 +1,16 @@
+{
+  "id": 9959,
+  "name": "Astral Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "key": "item:astralGauntlets",
+    "text": "Astral Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "astral_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11,
+  "heldItemGlb": "astral_gauntlets"
+}

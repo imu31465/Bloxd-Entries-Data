@@ -1,29 +1,22 @@
 # Extraction Change Log
 
-- Latest checked build: [`wp3j0a.main.a13381cf.js`](https://bloxd.io/static/js/wp3j0a.main.a13381cf.js) — checked at 2026-11-25T07:43:24.340Z; entries unchanged since the last update below.
-
-- Run at: 2026-11-19T16:01:16.115Z
-- Bundle: https://bloxd.io/static/js/ad2avs.main.90d9e4dd.js
-- Entries: 10081 -> 10091
+- Run at: 2026-11-25T16:33:20.207Z
+- Bundle: https://bloxd.io/static/js/fo1voe.main.f743fbcf.js
+- Entries: 10091 -> 10096
 
 | Type | Count |
 |---|---|
-| Added | 10 |
+| Added | 5 |
 | Removed | 0 |
-| ID changed | 1532 |
+| ID changed | 345 |
 
-## Added (10)
+## Added (5)
 
-- ![INTERNAL_MESH_White Directional Arrow](textures/08549_INTERNAL_MESH_White%20Directional%20Arrow.png "texture") INTERNAL_MESH_White Directional Arrow (block): **8549**
-- ![INTERNAL_MESH_Light Grey Directional Arrow](textures/08550_INTERNAL_MESH_Light%20Grey%20Directional%20Arrow.png "texture") INTERNAL_MESH_Light Grey Directional Arrow (block): **8550**
-- ![INTERNAL_MESH_Light Blue Directional Arrow](textures/08551_INTERNAL_MESH_Light%20Blue%20Directional%20Arrow.png "texture") INTERNAL_MESH_Light Blue Directional Arrow (block): **8551**
-- ![INTERNAL_MESH_Cyan Directional Arrow](textures/08552_INTERNAL_MESH_Cyan%20Directional%20Arrow.png "texture") INTERNAL_MESH_Cyan Directional Arrow (block): **8552**
-- ![INTERNAL_MESH_Green Directional Arrow](textures/08553_INTERNAL_MESH_Green%20Directional%20Arrow.png "texture") INTERNAL_MESH_Green Directional Arrow (block): **8553**
-- ![INTERNAL_MESH_Lime Directional Arrow](textures/08554_INTERNAL_MESH_Lime%20Directional%20Arrow.png "texture") INTERNAL_MESH_Lime Directional Arrow (block): **8554**
-- ![INTERNAL_MESH_Yellow Directional Arrow](textures/08555_INTERNAL_MESH_Yellow%20Directional%20Arrow.png "texture") INTERNAL_MESH_Yellow Directional Arrow (block): **8555**
-- ![INTERNAL_MESH_Orange Directional Arrow](textures/08556_INTERNAL_MESH_Orange%20Directional%20Arrow.png "texture") INTERNAL_MESH_Orange Directional Arrow (block): **8556**
-- ![INTERNAL_MESH_Magenta Directional Arrow](textures/08557_INTERNAL_MESH_Magenta%20Directional%20Arrow.png "texture") INTERNAL_MESH_Magenta Directional Arrow (block): **8557**
-- ![INTERNAL_MESH_Red Directional Arrow](textures/08558_INTERNAL_MESH_Red%20Directional%20Arrow.png "texture") INTERNAL_MESH_Red Directional Arrow (block): **8558**
+- ![Demolition Sticky Bomb Launcher](textures/09746_Demolition%20Sticky%20Bomb%20Launcher.png "texture") Demolition Sticky Bomb Launcher (item): **9746**
+- ![Demolition Impact Grenade Launcher](textures/09747_Demolition%20Impact%20Grenade%20Launcher.png "texture") Demolition Impact Grenade Launcher (item): **9747**
+- ![Demolition Sticky Charge Launcher](textures/09748_Demolition%20Sticky%20Charge%20Launcher.png "texture") Demolition Sticky Charge Launcher (item): **9748**
+- ![Demolition Cluster Bomb Launcher](textures/09749_Demolition%20Cluster%20Bomb%20Launcher.png "texture") Demolition Cluster Bomb Launcher (item): **9749**
+- ![Demolition Rocket Launcher](textures/09750_Demolition%20Rocket%20Launcher.png "texture") Demolition Rocket Launcher (item): **9750**
 
 ID changes: [ID-CHANGES.md](ID-CHANGES.md)
 Older updates: [HISTORY.md](HISTORY.md)

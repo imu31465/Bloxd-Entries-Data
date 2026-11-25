@@ -1,0 +1,22 @@
+{
+  "id": 9808,
+  "name": "Rubellite Axe",
+  "kind": "item",
+  "displayName": {
+    "text": "Rubellite Axe"
+  },
+  "description": {
+    "key": "item:axeDescription",
+    "text": "Chops wood"
+  },
+  "type": "Tool",
+  "textureInfo": "rubellite_axe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "damage": 36,
+  "stackable": false,
+  "harvests": "wood",
+  "multiplier": 8,
+  "level": 5,
+  "heldItemGlb": "rubellite_axe"
+}

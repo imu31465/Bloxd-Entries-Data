@@ -1,0 +1,22 @@
+{
+  "id": 9753,
+  "name": "Amethite Pickaxe",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Pickaxe"
+  },
+  "description": {
+    "key": "item:pickaxeDescription",
+    "text": "Mines stone"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_pickaxe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "damage": 32,
+  "stackable": false,
+  "harvests": "rock",
+  "multiplier": 8,
+  "level": 5,
+  "heldItemGlb": "amethite_pickaxe"
+}

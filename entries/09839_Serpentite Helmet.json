@@ -1,0 +1,15 @@
+{
+  "id": 9839,
+  "name": "Serpentite Helmet",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Helmet"
+  },
+  "type": "Armour",
+  "textureInfo": "serpentite_helmet",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.13,
+  "heldItemGlb": "serpentite_helmet"
+}

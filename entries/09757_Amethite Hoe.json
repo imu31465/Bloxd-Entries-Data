@@ -1,0 +1,22 @@
+{
+  "id": 9757,
+  "name": "Amethite Hoe",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Hoe"
+  },
+  "description": {
+    "key": "item:hoeDescription",
+    "text": "Cuts leaves and tills soil"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_hoe",
+  "weight": 1,
+  "heldItemScale": 1,
+  "damage": 28,
+  "stackable": false,
+  "harvests": "cuttable",
+  "multiplier": 4.25,
+  "level": 5,
+  "heldItemGlb": "amethite_hoe"
+}

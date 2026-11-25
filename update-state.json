@@ -1,17 +1,17 @@
 {
   "lastBundle": {
-    "file": "/static/js/wp3j0a.main.a13381cf.js",
-    "url": "https://bloxd.io/static/js/wp3j0a.main.a13381cf.js",
-    "sha256": "7c008a680e07436fa95393dcc263b7f73740d5846d0f1ef4adb97a72b11c0f9c"
+    "file": "/static/js/fo1voe.main.f743fbcf.js",
+    "url": "https://bloxd.io/static/js/fo1voe.main.f743fbcf.js",
+    "sha256": "46a112ea7190b4a57e0d9afdc862f22940ed9add94d53191ed6b547639d99f16"
   },
   "lastDiff": {
     "firstRun": false,
     "prevCount": 10091,
-    "nextCount": 10091,
-    "added": 0,
+    "nextCount": 10096,
+    "added": 5,
     "removed": 0,
-    "idChanged": 0,
-    "entryFilesChanged": 0
+    "idChanged": 345,
+    "entryFilesChanged": 350
   },
-  "lastRunAt": "2026-11-25T07:43:15.217Z"
+  "lastRunAt": "2026-11-25T16:33:20.207Z"
 }

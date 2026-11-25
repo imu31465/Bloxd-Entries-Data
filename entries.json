@@ -38985,1382 +38985,1402 @@
   },
   {
     "id": 9746,
-    "name": "Amethite"
+    "name": "Demolition Sticky Bomb Launcher"
   },
   {
     "id": 9747,
-    "name": "Amethite Fragment"
+    "name": "Demolition Impact Grenade Launcher"
   },
   {
     "id": 9748,
-    "name": "Amethite Pickaxe"
+    "name": "Demolition Sticky Charge Launcher"
   },
   {
     "id": 9749,
-    "name": "Amethite Axe"
+    "name": "Demolition Cluster Bomb Launcher"
   },
   {
     "id": 9750,
-    "name": "Amethite Spade"
+    "name": "Demolition Rocket Launcher"
   },
   {
     "id": 9751,
-    "name": "Amethite Sword"
+    "name": "Amethite"
   },
   {
     "id": 9752,
-    "name": "Amethite Hoe"
+    "name": "Amethite Fragment"
   },
   {
     "id": 9753,
-    "name": "Amethite Helmet"
+    "name": "Amethite Pickaxe"
   },
   {
     "id": 9754,
-    "name": "Amethite Chestplate"
+    "name": "Amethite Axe"
   },
   {
     "id": 9755,
-    "name": "Amethite Leggings"
+    "name": "Amethite Spade"
   },
   {
     "id": 9756,
-    "name": "Amethite Boots"
+    "name": "Amethite Sword"
   },
   {
     "id": 9757,
-    "name": "Amethite Gauntlets"
+    "name": "Amethite Hoe"
   },
   {
     "id": 9758,
-    "name": "Amethite Bow"
+    "name": "Amethite Helmet"
   },
   {
     "id": 9759,
-    "name": "Amethite Bow|meta|charging2"
+    "name": "Amethite Chestplate"
   },
   {
     "id": 9760,
-    "name": "Amethite Bow|meta|charging3"
+    "name": "Amethite Leggings"
   },
   {
     "id": 9761,
-    "name": "Amethite Bow|meta|charging4"
+    "name": "Amethite Boots"
   },
   {
     "id": 9762,
-    "name": "Amethite Crossbow"
+    "name": "Amethite Gauntlets"
   },
   {
     "id": 9763,
-    "name": "Amethite Crossbow|meta|charging2"
+    "name": "Amethite Bow"
   },
   {
     "id": 9764,
-    "name": "Amethite Crossbow|meta|charging3"
+    "name": "Amethite Bow|meta|charging2"
   },
   {
     "id": 9765,
-    "name": "Amethite Crossbow|meta|charging4"
+    "name": "Amethite Bow|meta|charging3"
   },
   {
     "id": 9766,
-    "name": "Amethite Crossbow Charged"
+    "name": "Amethite Bow|meta|charging4"
   },
   {
     "id": 9767,
-    "name": "Amethite Spear"
+    "name": "Amethite Crossbow"
   },
   {
     "id": 9768,
-    "name": "Amethite Dagger"
+    "name": "Amethite Crossbow|meta|charging2"
   },
   {
     "id": 9769,
-    "name": "Amethite Boomerang"
+    "name": "Amethite Crossbow|meta|charging3"
   },
   {
     "id": 9770,
-    "name": "Amethite Club"
+    "name": "Amethite Crossbow|meta|charging4"
   },
   {
     "id": 9771,
-    "name": "Amethite Mace"
+    "name": "Amethite Crossbow Charged"
   },
   {
     "id": 9772,
-    "name": "Amethite Whip"
+    "name": "Amethite Spear"
   },
   {
     "id": 9773,
-    "name": "Magmasteel"
+    "name": "Amethite Dagger"
   },
   {
     "id": 9774,
-    "name": "Magmasteel Fragment"
+    "name": "Amethite Boomerang"
   },
   {
     "id": 9775,
-    "name": "Magmasteel Pickaxe"
+    "name": "Amethite Club"
   },
   {
     "id": 9776,
-    "name": "Magmasteel Axe"
+    "name": "Amethite Mace"
   },
   {
     "id": 9777,
-    "name": "Magmasteel Spade"
+    "name": "Amethite Whip"
   },
   {
     "id": 9778,
-    "name": "Magmasteel Sword"
+    "name": "Magmasteel"
   },
   {
     "id": 9779,
-    "name": "Magmasteel Hoe"
+    "name": "Magmasteel Fragment"
   },
   {
     "id": 9780,
-    "name": "Magmasteel Helmet"
+    "name": "Magmasteel Pickaxe"
   },
   {
     "id": 9781,
-    "name": "Magmasteel Chestplate"
+    "name": "Magmasteel Axe"
   },
   {
     "id": 9782,
-    "name": "Magmasteel Leggings"
+    "name": "Magmasteel Spade"
   },
   {
     "id": 9783,
-    "name": "Magmasteel Boots"
+    "name": "Magmasteel Sword"
   },
   {
     "id": 9784,
-    "name": "Magmasteel Gauntlets"
+    "name": "Magmasteel Hoe"
   },
   {
     "id": 9785,
-    "name": "Magmasteel Bow"
+    "name": "Magmasteel Helmet"
   },
   {
     "id": 9786,
-    "name": "Magmasteel Bow|meta|charging2"
+    "name": "Magmasteel Chestplate"
   },
   {
     "id": 9787,
-    "name": "Magmasteel Bow|meta|charging3"
+    "name": "Magmasteel Leggings"
   },
   {
     "id": 9788,
-    "name": "Magmasteel Bow|meta|charging4"
+    "name": "Magmasteel Boots"
   },
   {
     "id": 9789,
-    "name": "Magmasteel Crossbow"
+    "name": "Magmasteel Gauntlets"
   },
   {
     "id": 9790,
-    "name": "Magmasteel Crossbow|meta|charging2"
+    "name": "Magmasteel Bow"
   },
   {
     "id": 9791,
-    "name": "Magmasteel Crossbow|meta|charging3"
+    "name": "Magmasteel Bow|meta|charging2"
   },
   {
     "id": 9792,
-    "name": "Magmasteel Crossbow|meta|charging4"
+    "name": "Magmasteel Bow|meta|charging3"
   },
   {
     "id": 9793,
-    "name": "Magmasteel Crossbow Charged"
+    "name": "Magmasteel Bow|meta|charging4"
   },
   {
     "id": 9794,
-    "name": "Magmasteel Spear"
+    "name": "Magmasteel Crossbow"
   },
   {
     "id": 9795,
-    "name": "Magmasteel Dagger"
+    "name": "Magmasteel Crossbow|meta|charging2"
   },
   {
     "id": 9796,
-    "name": "Magmasteel Boomerang"
+    "name": "Magmasteel Crossbow|meta|charging3"
   },
   {
     "id": 9797,
-    "name": "Magmasteel Club"
+    "name": "Magmasteel Crossbow|meta|charging4"
   },
   {
     "id": 9798,
-    "name": "Magmasteel Mace"
+    "name": "Magmasteel Crossbow Charged"
   },
   {
     "id": 9799,
-    "name": "Magmasteel Whip"
+    "name": "Magmasteel Spear"
   },
   {
     "id": 9800,
-    "name": "Rubellite"
+    "name": "Magmasteel Dagger"
   },
   {
     "id": 9801,
-    "name": "Rubellite Fragment"
+    "name": "Magmasteel Boomerang"
   },
   {
     "id": 9802,
-    "name": "Rubellite Pickaxe"
+    "name": "Magmasteel Club"
   },
   {
     "id": 9803,
-    "name": "Rubellite Axe"
+    "name": "Magmasteel Mace"
   },
   {
     "id": 9804,
-    "name": "Rubellite Spade"
+    "name": "Magmasteel Whip"
   },
   {
     "id": 9805,
-    "name": "Rubellite Sword"
+    "name": "Rubellite"
   },
   {
     "id": 9806,
-    "name": "Rubellite Hoe"
+    "name": "Rubellite Fragment"
   },
   {
     "id": 9807,
-    "name": "Rubellite Helmet"
+    "name": "Rubellite Pickaxe"
   },
   {
     "id": 9808,
-    "name": "Rubellite Chestplate"
+    "name": "Rubellite Axe"
   },
   {
     "id": 9809,
-    "name": "Rubellite Leggings"
+    "name": "Rubellite Spade"
   },
   {
     "id": 9810,
-    "name": "Rubellite Boots"
+    "name": "Rubellite Sword"
   },
   {
     "id": 9811,
-    "name": "Rubellite Gauntlets"
+    "name": "Rubellite Hoe"
   },
   {
     "id": 9812,
-    "name": "Rubellite Bow"
+    "name": "Rubellite Helmet"
   },
   {
     "id": 9813,
-    "name": "Rubellite Bow|meta|charging2"
+    "name": "Rubellite Chestplate"
   },
   {
     "id": 9814,
-    "name": "Rubellite Bow|meta|charging3"
+    "name": "Rubellite Leggings"
   },
   {
     "id": 9815,
-    "name": "Rubellite Bow|meta|charging4"
+    "name": "Rubellite Boots"
   },
   {
     "id": 9816,
-    "name": "Rubellite Crossbow"
+    "name": "Rubellite Gauntlets"
   },
   {
     "id": 9817,
-    "name": "Rubellite Crossbow|meta|charging2"
+    "name": "Rubellite Bow"
   },
   {
     "id": 9818,
-    "name": "Rubellite Crossbow|meta|charging3"
+    "name": "Rubellite Bow|meta|charging2"
   },
   {
     "id": 9819,
-    "name": "Rubellite Crossbow|meta|charging4"
+    "name": "Rubellite Bow|meta|charging3"
   },
   {
     "id": 9820,
-    "name": "Rubellite Crossbow Charged"
+    "name": "Rubellite Bow|meta|charging4"
   },
   {
     "id": 9821,
-    "name": "Rubellite Spear"
+    "name": "Rubellite Crossbow"
   },
   {
     "id": 9822,
-    "name": "Rubellite Dagger"
+    "name": "Rubellite Crossbow|meta|charging2"
   },
   {
     "id": 9823,
-    "name": "Rubellite Boomerang"
+    "name": "Rubellite Crossbow|meta|charging3"
   },
   {
     "id": 9824,
-    "name": "Rubellite Club"
+    "name": "Rubellite Crossbow|meta|charging4"
   },
   {
     "id": 9825,
-    "name": "Rubellite Mace"
+    "name": "Rubellite Crossbow Charged"
   },
   {
     "id": 9826,
-    "name": "Rubellite Whip"
+    "name": "Rubellite Spear"
   },
   {
     "id": 9827,
-    "name": "Serpentite"
+    "name": "Rubellite Dagger"
   },
   {
     "id": 9828,
-    "name": "Serpentite Fragment"
+    "name": "Rubellite Boomerang"
   },
   {
     "id": 9829,
-    "name": "Serpentite Pickaxe"
+    "name": "Rubellite Club"
   },
   {
     "id": 9830,
-    "name": "Serpentite Axe"
+    "name": "Rubellite Mace"
   },
   {
     "id": 9831,
-    "name": "Serpentite Spade"
+    "name": "Rubellite Whip"
   },
   {
     "id": 9832,
-    "name": "Serpentite Sword"
+    "name": "Serpentite"
   },
   {
     "id": 9833,
-    "name": "Serpentite Hoe"
+    "name": "Serpentite Fragment"
   },
   {
     "id": 9834,
-    "name": "Serpentite Helmet"
+    "name": "Serpentite Pickaxe"
   },
   {
     "id": 9835,
-    "name": "Serpentite Chestplate"
+    "name": "Serpentite Axe"
   },
   {
     "id": 9836,
-    "name": "Serpentite Leggings"
+    "name": "Serpentite Spade"
   },
   {
     "id": 9837,
-    "name": "Serpentite Boots"
+    "name": "Serpentite Sword"
   },
   {
     "id": 9838,
-    "name": "Serpentite Gauntlets"
+    "name": "Serpentite Hoe"
   },
   {
     "id": 9839,
-    "name": "Serpentite Bow"
+    "name": "Serpentite Helmet"
   },
   {
     "id": 9840,
-    "name": "Serpentite Bow|meta|charging2"
+    "name": "Serpentite Chestplate"
   },
   {
     "id": 9841,
-    "name": "Serpentite Bow|meta|charging3"
+    "name": "Serpentite Leggings"
   },
   {
     "id": 9842,
-    "name": "Serpentite Bow|meta|charging4"
+    "name": "Serpentite Boots"
   },
   {
     "id": 9843,
-    "name": "Serpentite Crossbow"
+    "name": "Serpentite Gauntlets"
   },
   {
     "id": 9844,
-    "name": "Serpentite Crossbow|meta|charging2"
+    "name": "Serpentite Bow"
   },
   {
     "id": 9845,
-    "name": "Serpentite Crossbow|meta|charging3"
+    "name": "Serpentite Bow|meta|charging2"
   },
   {
     "id": 9846,
-    "name": "Serpentite Crossbow|meta|charging4"
+    "name": "Serpentite Bow|meta|charging3"
   },
   {
     "id": 9847,
-    "name": "Serpentite Crossbow Charged"
+    "name": "Serpentite Bow|meta|charging4"
   },
   {
     "id": 9848,
-    "name": "Serpentite Spear"
+    "name": "Serpentite Crossbow"
   },
   {
     "id": 9849,
-    "name": "Serpentite Dagger"
+    "name": "Serpentite Crossbow|meta|charging2"
   },
   {
     "id": 9850,
-    "name": "Serpentite Boomerang"
+    "name": "Serpentite Crossbow|meta|charging3"
   },
   {
     "id": 9851,
-    "name": "Serpentite Club"
+    "name": "Serpentite Crossbow|meta|charging4"
   },
   {
     "id": 9852,
-    "name": "Serpentite Mace"
+    "name": "Serpentite Crossbow Charged"
   },
   {
     "id": 9853,
-    "name": "Serpentite Whip"
+    "name": "Serpentite Spear"
   },
   {
     "id": 9854,
-    "name": "Cursemetal Helmet"
+    "name": "Serpentite Dagger"
   },
   {
     "id": 9855,
-    "name": "Cursemetal Chestplate"
+    "name": "Serpentite Boomerang"
   },
   {
     "id": 9856,
-    "name": "Cursemetal Gauntlets"
+    "name": "Serpentite Club"
   },
   {
     "id": 9857,
-    "name": "Cursemetal Leggings"
+    "name": "Serpentite Mace"
   },
   {
     "id": 9858,
-    "name": "Cursemetal Boots"
+    "name": "Serpentite Whip"
   },
   {
     "id": 9859,
-    "name": "Kingly Amethite Helmet"
+    "name": "Cursemetal Helmet"
   },
   {
     "id": 9860,
-    "name": "Kingly Amethite Chestplate"
+    "name": "Cursemetal Chestplate"
   },
   {
     "id": 9861,
-    "name": "Kingly Amethite Gauntlets"
+    "name": "Cursemetal Gauntlets"
   },
   {
     "id": 9862,
-    "name": "Kingly Amethite Leggings"
+    "name": "Cursemetal Leggings"
   },
   {
     "id": 9863,
-    "name": "Kingly Amethite Boots"
+    "name": "Cursemetal Boots"
   },
   {
     "id": 9864,
-    "name": "Kingly Diamond Helmet"
+    "name": "Kingly Amethite Helmet"
   },
   {
     "id": 9865,
-    "name": "Kingly Diamond Chestplate"
+    "name": "Kingly Amethite Chestplate"
   },
   {
     "id": 9866,
-    "name": "Kingly Diamond Gauntlets"
+    "name": "Kingly Amethite Gauntlets"
   },
   {
     "id": 9867,
-    "name": "Kingly Diamond Leggings"
+    "name": "Kingly Amethite Leggings"
   },
   {
     "id": 9868,
-    "name": "Kingly Diamond Boots"
+    "name": "Kingly Amethite Boots"
   },
   {
     "id": 9869,
-    "name": "Sanguine Shard"
+    "name": "Kingly Diamond Helmet"
   },
   {
     "id": 9870,
-    "name": "Sanguine Sword"
+    "name": "Kingly Diamond Chestplate"
   },
   {
     "id": 9871,
-    "name": "Sanguine Bow"
+    "name": "Kingly Diamond Gauntlets"
   },
   {
     "id": 9872,
-    "name": "Sanguine Bow|meta|charging2"
+    "name": "Kingly Diamond Leggings"
   },
   {
     "id": 9873,
-    "name": "Sanguine Bow|meta|charging3"
+    "name": "Kingly Diamond Boots"
   },
   {
     "id": 9874,
-    "name": "Sanguine Bow|meta|charging4"
+    "name": "Sanguine Shard"
   },
   {
     "id": 9875,
-    "name": "Sanguine Crossbow"
+    "name": "Sanguine Sword"
   },
   {
     "id": 9876,
-    "name": "Sanguine Crossbow|meta|charging2"
+    "name": "Sanguine Bow"
   },
   {
     "id": 9877,
-    "name": "Sanguine Crossbow|meta|charging3"
+    "name": "Sanguine Bow|meta|charging2"
   },
   {
     "id": 9878,
-    "name": "Sanguine Crossbow|meta|charging4"
+    "name": "Sanguine Bow|meta|charging3"
   },
   {
     "id": 9879,
-    "name": "Sanguine Crossbow Charged"
+    "name": "Sanguine Bow|meta|charging4"
   },
   {
     "id": 9880,
-    "name": "Sanguine Spear"
+    "name": "Sanguine Crossbow"
   },
   {
     "id": 9881,
-    "name": "Sanguine Dagger"
+    "name": "Sanguine Crossbow|meta|charging2"
   },
   {
     "id": 9882,
-    "name": "Sanguine Club"
+    "name": "Sanguine Crossbow|meta|charging3"
   },
   {
     "id": 9883,
-    "name": "Sanguine Mace"
+    "name": "Sanguine Crossbow|meta|charging4"
   },
   {
     "id": 9884,
-    "name": "Sanguine Whip"
+    "name": "Sanguine Crossbow Charged"
   },
   {
     "id": 9885,
-    "name": "Sanguine Staff"
+    "name": "Sanguine Spear"
   },
   {
     "id": 9886,
-    "name": "Sanguine Helmet"
+    "name": "Sanguine Dagger"
   },
   {
     "id": 9887,
-    "name": "Sanguine Chestplate"
+    "name": "Sanguine Club"
   },
   {
     "id": 9888,
-    "name": "Sanguine Gauntlets"
+    "name": "Sanguine Mace"
   },
   {
     "id": 9889,
-    "name": "Sanguine Leggings"
+    "name": "Sanguine Whip"
   },
   {
     "id": 9890,
-    "name": "Sanguine Boots"
+    "name": "Sanguine Staff"
   },
   {
     "id": 9891,
-    "name": "Spectral Shard"
+    "name": "Sanguine Helmet"
   },
   {
     "id": 9892,
-    "name": "Spectral Sword"
+    "name": "Sanguine Chestplate"
   },
   {
     "id": 9893,
-    "name": "Spectral Bow"
+    "name": "Sanguine Gauntlets"
   },
   {
     "id": 9894,
-    "name": "Spectral Bow|meta|charging2"
+    "name": "Sanguine Leggings"
   },
   {
     "id": 9895,
-    "name": "Spectral Bow|meta|charging3"
+    "name": "Sanguine Boots"
   },
   {
     "id": 9896,
-    "name": "Spectral Bow|meta|charging4"
+    "name": "Spectral Shard"
   },
   {
     "id": 9897,
-    "name": "Spectral Crossbow"
+    "name": "Spectral Sword"
   },
   {
     "id": 9898,
-    "name": "Spectral Crossbow|meta|charging2"
+    "name": "Spectral Bow"
   },
   {
     "id": 9899,
-    "name": "Spectral Crossbow|meta|charging3"
+    "name": "Spectral Bow|meta|charging2"
   },
   {
     "id": 9900,
-    "name": "Spectral Crossbow|meta|charging4"
+    "name": "Spectral Bow|meta|charging3"
   },
   {
     "id": 9901,
-    "name": "Spectral Crossbow Charged"
+    "name": "Spectral Bow|meta|charging4"
   },
   {
     "id": 9902,
-    "name": "Spectral Spear"
+    "name": "Spectral Crossbow"
   },
   {
     "id": 9903,
-    "name": "Spectral Dagger"
+    "name": "Spectral Crossbow|meta|charging2"
   },
   {
     "id": 9904,
-    "name": "Spectral Club"
+    "name": "Spectral Crossbow|meta|charging3"
   },
   {
     "id": 9905,
-    "name": "Spectral Mace"
+    "name": "Spectral Crossbow|meta|charging4"
   },
   {
     "id": 9906,
-    "name": "Spectral Whip"
+    "name": "Spectral Crossbow Charged"
   },
   {
     "id": 9907,
-    "name": "Spectral Staff"
+    "name": "Spectral Spear"
   },
   {
     "id": 9908,
-    "name": "Spectral Helmet"
+    "name": "Spectral Dagger"
   },
   {
     "id": 9909,
-    "name": "Spectral Chestplate"
+    "name": "Spectral Club"
   },
   {
     "id": 9910,
-    "name": "Spectral Gauntlets"
+    "name": "Spectral Mace"
   },
   {
     "id": 9911,
-    "name": "Spectral Leggings"
+    "name": "Spectral Whip"
   },
   {
     "id": 9912,
-    "name": "Spectral Boots"
+    "name": "Spectral Staff"
   },
   {
     "id": 9913,
-    "name": "Geo Shard"
+    "name": "Spectral Helmet"
   },
   {
     "id": 9914,
-    "name": "Geo Sword"
+    "name": "Spectral Chestplate"
   },
   {
     "id": 9915,
-    "name": "Geo Bow"
+    "name": "Spectral Gauntlets"
   },
   {
     "id": 9916,
-    "name": "Geo Bow|meta|charging2"
+    "name": "Spectral Leggings"
   },
   {
     "id": 9917,
-    "name": "Geo Bow|meta|charging3"
+    "name": "Spectral Boots"
   },
   {
     "id": 9918,
-    "name": "Geo Bow|meta|charging4"
+    "name": "Geo Shard"
   },
   {
     "id": 9919,
-    "name": "Geo Crossbow"
+    "name": "Geo Sword"
   },
   {
     "id": 9920,
-    "name": "Geo Crossbow|meta|charging2"
+    "name": "Geo Bow"
   },
   {
     "id": 9921,
-    "name": "Geo Crossbow|meta|charging3"
+    "name": "Geo Bow|meta|charging2"
   },
   {
     "id": 9922,
-    "name": "Geo Crossbow|meta|charging4"
+    "name": "Geo Bow|meta|charging3"
   },
   {
     "id": 9923,
-    "name": "Geo Crossbow Charged"
+    "name": "Geo Bow|meta|charging4"
   },
   {
     "id": 9924,
-    "name": "Geo Spear"
+    "name": "Geo Crossbow"
   },
   {
     "id": 9925,
-    "name": "Geo Dagger"
+    "name": "Geo Crossbow|meta|charging2"
   },
   {
     "id": 9926,
-    "name": "Geo Club"
+    "name": "Geo Crossbow|meta|charging3"
   },
   {
     "id": 9927,
-    "name": "Geo Mace"
+    "name": "Geo Crossbow|meta|charging4"
   },
   {
     "id": 9928,
-    "name": "Geo Whip"
+    "name": "Geo Crossbow Charged"
   },
   {
     "id": 9929,
-    "name": "Geo Staff"
+    "name": "Geo Spear"
   },
   {
     "id": 9930,
-    "name": "Geo Helmet"
+    "name": "Geo Dagger"
   },
   {
     "id": 9931,
-    "name": "Geo Chestplate"
+    "name": "Geo Club"
   },
   {
     "id": 9932,
-    "name": "Geo Gauntlets"
+    "name": "Geo Mace"
   },
   {
     "id": 9933,
-    "name": "Geo Leggings"
+    "name": "Geo Whip"
   },
   {
     "id": 9934,
-    "name": "Geo Boots"
+    "name": "Geo Staff"
   },
   {
     "id": 9935,
-    "name": "Astral Shard"
+    "name": "Geo Helmet"
   },
   {
     "id": 9936,
-    "name": "Astral Sword"
+    "name": "Geo Chestplate"
   },
   {
     "id": 9937,
-    "name": "Astral Bow"
+    "name": "Geo Gauntlets"
   },
   {
     "id": 9938,
-    "name": "Astral Bow|meta|charging2"
+    "name": "Geo Leggings"
   },
   {
     "id": 9939,
-    "name": "Astral Bow|meta|charging3"
+    "name": "Geo Boots"
   },
   {
     "id": 9940,
-    "name": "Astral Bow|meta|charging4"
+    "name": "Astral Shard"
   },
   {
     "id": 9941,
-    "name": "Astral Crossbow"
+    "name": "Astral Sword"
   },
   {
     "id": 9942,
-    "name": "Astral Crossbow|meta|charging2"
+    "name": "Astral Bow"
   },
   {
     "id": 9943,
-    "name": "Astral Crossbow|meta|charging3"
+    "name": "Astral Bow|meta|charging2"
   },
   {
     "id": 9944,
-    "name": "Astral Crossbow|meta|charging4"
+    "name": "Astral Bow|meta|charging3"
   },
   {
     "id": 9945,
-    "name": "Astral Crossbow Charged"
+    "name": "Astral Bow|meta|charging4"
   },
   {
     "id": 9946,
-    "name": "Astral Spear"
+    "name": "Astral Crossbow"
   },
   {
     "id": 9947,
-    "name": "Astral Dagger"
+    "name": "Astral Crossbow|meta|charging2"
   },
   {
     "id": 9948,
-    "name": "Astral Club"
+    "name": "Astral Crossbow|meta|charging3"
   },
   {
     "id": 9949,
-    "name": "Astral Mace"
+    "name": "Astral Crossbow|meta|charging4"
   },
   {
     "id": 9950,
-    "name": "Astral Whip"
+    "name": "Astral Crossbow Charged"
   },
   {
     "id": 9951,
-    "name": "Astral Staff"
+    "name": "Astral Spear"
   },
   {
     "id": 9952,
-    "name": "Astral Helmet"
+    "name": "Astral Dagger"
   },
   {
     "id": 9953,
-    "name": "Astral Chestplate"
+    "name": "Astral Club"
   },
   {
     "id": 9954,
-    "name": "Astral Gauntlets"
+    "name": "Astral Mace"
   },
   {
     "id": 9955,
-    "name": "Astral Leggings"
+    "name": "Astral Whip"
   },
   {
     "id": 9956,
-    "name": "Astral Boots"
+    "name": "Astral Staff"
   },
   {
     "id": 9957,
-    "name": "Wooden Key"
+    "name": "Astral Helmet"
   },
   {
     "id": 9958,
-    "name": "Stone Key"
+    "name": "Astral Chestplate"
   },
   {
     "id": 9959,
-    "name": "Iron Key"
+    "name": "Astral Gauntlets"
   },
   {
     "id": 9960,
-    "name": "Gold Key"
+    "name": "Astral Leggings"
   },
   {
     "id": 9961,
-    "name": "Diamond Key"
+    "name": "Astral Boots"
   },
   {
     "id": 9962,
-    "name": "Cracked Rubellite Pickaxe"
+    "name": "Wooden Key"
   },
   {
     "id": 9963,
-    "name": "Goldheart Engine"
+    "name": "Stone Key"
   },
   {
     "id": 9964,
-    "name": "Deepbite Drill Tip"
+    "name": "Iron Key"
   },
   {
     "id": 9965,
-    "name": "Empty Fuel Cell"
+    "name": "Gold Key"
   },
   {
     "id": 9966,
-    "name": "Blackfire Fuel Cell"
+    "name": "Diamond Key"
   },
   {
     "id": 9967,
-    "name": "Doom Rivet"
+    "name": "Cracked Rubellite Pickaxe"
   },
   {
     "id": 9968,
-    "name": "Doom Crest"
+    "name": "Goldheart Engine"
   },
   {
     "id": 9969,
-    "name": "Raw Copper"
+    "name": "Deepbite Drill Tip"
   },
   {
     "id": 9970,
-    "name": "Copper Bar"
+    "name": "Empty Fuel Cell"
   },
   {
     "id": 9971,
-    "name": "Iron Grit"
+    "name": "Blackfire Fuel Cell"
   },
   {
     "id": 9972,
-    "name": "Gold Grit"
+    "name": "Doom Rivet"
   },
   {
     "id": 9973,
-    "name": "Copper Grit"
+    "name": "Doom Crest"
   },
   {
     "id": 9974,
-    "name": "Charcoal"
+    "name": "Raw Copper"
   },
   {
     "id": 9975,
-    "name": "Recall Beacon"
+    "name": "Copper Bar"
   },
   {
     "id": 9976,
-    "name": "Iron Hammer"
+    "name": "Iron Grit"
   },
   {
     "id": 9977,
-    "name": "Iron Plate"
+    "name": "Gold Grit"
   },
   {
     "id": 9978,
-    "name": "Copper Wire"
+    "name": "Copper Grit"
   },
   {
     "id": 9979,
-    "name": "Motor"
+    "name": "Charcoal"
   },
   {
     "id": 9980,
-    "name": "Machine Parts"
+    "name": "Recall Beacon"
   },
   {
     "id": 9981,
-    "name": "Relay Coil"
+    "name": "Iron Hammer"
   },
   {
     "id": 9982,
-    "name": "Deposit Seed (Copper)"
+    "name": "Iron Plate"
   },
   {
     "id": 9983,
-    "name": "Deposit Seed (Gold)"
+    "name": "Copper Wire"
   },
   {
     "id": 9984,
-    "name": "Deposit Seed (Voltite)"
+    "name": "Motor"
   },
   {
     "id": 9985,
-    "name": "Deposit Seed (Coal)"
+    "name": "Machine Parts"
   },
   {
     "id": 9986,
-    "name": "Deposit Seed (Iron)"
+    "name": "Relay Coil"
   },
   {
     "id": 9987,
-    "name": "Deposit Seed (Stone)"
+    "name": "Deposit Seed (Copper)"
   },
   {
     "id": 9988,
-    "name": "Steel Bar"
+    "name": "Deposit Seed (Gold)"
   },
   {
     "id": 9989,
-    "name": "Gold Plate"
+    "name": "Deposit Seed (Voltite)"
   },
   {
     "id": 9990,
-    "name": "Logic Board"
+    "name": "Deposit Seed (Coal)"
   },
   {
     "id": 9991,
-    "name": "Machine Hull"
+    "name": "Deposit Seed (Iron)"
   },
   {
     "id": 9992,
-    "name": "Raw Voltite"
+    "name": "Deposit Seed (Stone)"
   },
   {
     "id": 9993,
-    "name": "Power Coupler"
+    "name": "Steel Bar"
   },
   {
     "id": 9994,
-    "name": "Ore Lens"
+    "name": "Gold Plate"
   },
   {
     "id": 9995,
-    "name": "Homing Beacon"
+    "name": "Logic Board"
   },
   {
     "id": 9996,
-    "name": "Pull Charm"
+    "name": "Machine Hull"
   },
   {
     "id": 9997,
-    "name": "Vein Breaker"
+    "name": "Raw Voltite"
   },
   {
     "id": 9998,
-    "name": "Voltite Dust"
+    "name": "Power Coupler"
   },
   {
     "id": 9999,
-    "name": "Voltite Cell"
+    "name": "Ore Lens"
   },
   {
     "id": 10000,
-    "name": "Sky Pack"
+    "name": "Homing Beacon"
   },
   {
     "id": 10001,
-    "name": "Dusk Moss"
+    "name": "Pull Charm"
   },
   {
     "id": 10002,
-    "name": "Star Alloy"
+    "name": "Vein Breaker"
   },
   {
     "id": 10003,
-    "name": "Moonstone Dust"
+    "name": "Voltite Dust"
   },
   {
     "id": 10004,
-    "name": "Comet Shard"
+    "name": "Voltite Cell"
   },
   {
     "id": 10005,
-    "name": "Comet Core"
+    "name": "Sky Pack"
   },
   {
     "id": 10006,
-    "name": "Starbore Drill"
+    "name": "Dusk Moss"
   },
   {
     "id": 10007,
-    "name": "Core Tier 2"
+    "name": "Star Alloy"
   },
   {
     "id": 10008,
-    "name": "Core Tier 3"
+    "name": "Moonstone Dust"
   },
   {
     "id": 10009,
-    "name": "Core Tier 4"
+    "name": "Comet Shard"
   },
   {
     "id": 10010,
-    "name": "Core Tier 5"
+    "name": "Comet Core"
   },
   {
     "id": 10011,
-    "name": "Core Tier 6"
+    "name": "Starbore Drill"
   },
   {
     "id": 10012,
-    "name": "Core Tier 7"
+    "name": "Core Tier 2"
   },
   {
     "id": 10013,
-    "name": "Core Tier 8"
+    "name": "Core Tier 3"
   },
   {
     "id": 10014,
-    "name": "Core Tier 9"
+    "name": "Core Tier 4"
   },
   {
     "id": 10015,
-    "name": "Core Tier 10"
+    "name": "Core Tier 5"
   },
   {
     "id": 10016,
-    "name": "Arc Caster"
+    "name": "Core Tier 6"
   },
   {
     "id": 10017,
-    "name": "Voltplate Helmet"
+    "name": "Core Tier 7"
   },
   {
     "id": 10018,
-    "name": "Voltplate Chestplate"
+    "name": "Core Tier 8"
   },
   {
     "id": 10019,
-    "name": "Voltplate Gauntlets"
+    "name": "Core Tier 9"
   },
   {
     "id": 10020,
-    "name": "Voltplate Leggings"
+    "name": "Core Tier 10"
   },
   {
     "id": 10021,
-    "name": "Voltplate Boots"
+    "name": "Arc Caster"
   },
   {
     "id": 10022,
-    "name": "Wood Blade"
+    "name": "Voltplate Helmet"
   },
   {
     "id": 10023,
-    "name": "Wood Guard"
+    "name": "Voltplate Chestplate"
   },
   {
     "id": 10024,
-    "name": "Wood Handle"
+    "name": "Voltplate Gauntlets"
   },
   {
     "id": 10025,
-    "name": "Stone Blade"
+    "name": "Voltplate Leggings"
   },
   {
     "id": 10026,
-    "name": "Stone Guard"
+    "name": "Voltplate Boots"
   },
   {
     "id": 10027,
-    "name": "Stone Handle"
+    "name": "Wood Blade"
   },
   {
     "id": 10028,
-    "name": "Iron Blade"
+    "name": "Wood Guard"
   },
   {
     "id": 10029,
-    "name": "Iron Guard"
+    "name": "Wood Handle"
   },
   {
     "id": 10030,
-    "name": "Iron Handle"
+    "name": "Stone Blade"
   },
   {
     "id": 10031,
-    "name": "Gold Blade"
+    "name": "Stone Guard"
   },
   {
     "id": 10032,
-    "name": "Gold Guard"
+    "name": "Stone Handle"
   },
   {
     "id": 10033,
-    "name": "Gold Handle"
+    "name": "Iron Blade"
   },
   {
     "id": 10034,
-    "name": "Diamond Blade"
+    "name": "Iron Guard"
   },
   {
     "id": 10035,
-    "name": "Diamond Guard"
+    "name": "Iron Handle"
   },
   {
     "id": 10036,
-    "name": "Diamond Handle"
+    "name": "Gold Blade"
   },
   {
     "id": 10037,
-    "name": "Moonstone Blade"
+    "name": "Gold Guard"
   },
   {
     "id": 10038,
-    "name": "Moonstone Guard"
+    "name": "Gold Handle"
   },
   {
     "id": 10039,
-    "name": "Moonstone Handle"
+    "name": "Diamond Blade"
   },
   {
     "id": 10040,
-    "name": "Magmasteel Blade"
+    "name": "Diamond Guard"
   },
   {
     "id": 10041,
-    "name": "Magmasteel Guard"
+    "name": "Diamond Handle"
   },
   {
     "id": 10042,
-    "name": "Magmasteel Handle"
+    "name": "Moonstone Blade"
   },
   {
     "id": 10043,
-    "name": "Sanguine Blade"
+    "name": "Moonstone Guard"
   },
   {
     "id": 10044,
-    "name": "Sanguine Guard"
+    "name": "Moonstone Handle"
   },
   {
     "id": 10045,
-    "name": "Sanguine Handle"
+    "name": "Magmasteel Blade"
   },
   {
     "id": 10046,
-    "name": "Astral Blade"
+    "name": "Magmasteel Guard"
   },
   {
     "id": 10047,
-    "name": "Astral Guard"
+    "name": "Magmasteel Handle"
   },
   {
     "id": 10048,
-    "name": "Astral Handle"
+    "name": "Sanguine Blade"
   },
   {
     "id": 10049,
-    "name": "Moonstone Sword"
+    "name": "Sanguine Guard"
   },
   {
     "id": 10050,
-    "name": "Magmaward Fuel"
+    "name": "Sanguine Handle"
   },
   {
     "id": 10051,
-    "name": "Raw Uranium"
+    "name": "Astral Blade"
   },
   {
     "id": 10052,
-    "name": "Uranium Grit"
+    "name": "Astral Guard"
   },
   {
     "id": 10053,
-    "name": "Uranium Pellet"
+    "name": "Astral Handle"
   },
   {
     "id": 10054,
-    "name": "Plutonium Pellet"
+    "name": "Moonstone Sword"
   },
   {
     "id": 10055,
-    "name": "Spent Pellet"
+    "name": "Magmaward Fuel"
   },
   {
     "id": 10056,
-    "name": "Glow Dust"
+    "name": "Raw Uranium"
   },
   {
     "id": 10057,
-    "name": "Biomass"
+    "name": "Uranium Grit"
   },
   {
     "id": 10058,
-    "name": "Graphite"
+    "name": "Uranium Pellet"
   },
   {
     "id": 10059,
-    "name": "Containment Plate"
+    "name": "Plutonium Pellet"
   },
   {
     "id": 10060,
-    "name": "Heat Exchanger"
+    "name": "Spent Pellet"
   },
   {
     "id": 10061,
-    "name": "Focus Lens"
+    "name": "Glow Dust"
   },
   {
     "id": 10062,
-    "name": "Nova Matter"
+    "name": "Biomass"
   },
   {
     "id": 10063,
-    "name": "Deposit Seed (Uranium)"
+    "name": "Graphite"
   },
   {
     "id": 10064,
-    "name": "Reactor Blueprint"
+    "name": "Containment Plate"
   },
   {
     "id": 10065,
-    "name": "Wrench"
+    "name": "Heat Exchanger"
   },
   {
     "id": 10066,
-    "name": "Advanced Coupler"
+    "name": "Focus Lens"
   },
   {
     "id": 10067,
-    "name": "Nova Coupler"
+    "name": "Nova Matter"
   },
   {
     "id": 10068,
-    "name": "Core Tier 11"
+    "name": "Deposit Seed (Uranium)"
   },
   {
     "id": 10069,
-    "name": "Core Tier 12"
+    "name": "Reactor Blueprint"
   },
   {
     "id": 10070,
-    "name": "Core Tier 13"
+    "name": "Wrench"
   },
   {
     "id": 10071,
-    "name": "Core Tier 14"
+    "name": "Advanced Coupler"
   },
   {
     "id": 10072,
-    "name": "Core Tier 15"
+    "name": "Nova Coupler"
   },
   {
     "id": 10073,
-    "name": "Jet Chestplate"
+    "name": "Core Tier 11"
   },
   {
     "id": 10074,
-    "name": "Nova Jet Chestplate"
+    "name": "Core Tier 12"
   },
   {
     "id": 10075,
-    "name": "Nova Helmet"
+    "name": "Core Tier 13"
   },
   {
     "id": 10076,
-    "name": "Nova Chestplate"
+    "name": "Core Tier 14"
   },
   {
     "id": 10077,
-    "name": "Nova Gauntlets"
+    "name": "Core Tier 15"
   },
   {
     "id": 10078,
-    "name": "Nova Leggings"
+    "name": "Jet Chestplate"
   },
   {
     "id": 10079,
-    "name": "Nova Boots"
+    "name": "Nova Jet Chestplate"
   },
   {
     "id": 10080,
-    "name": "Nova Blade"
+    "name": "Nova Helmet"
   },
   {
     "id": 10081,
-    "name": "Mob Cage"
+    "name": "Nova Chestplate"
   },
   {
     "id": 10082,
-    "name": "Caged Pig"
+    "name": "Nova Gauntlets"
   },
   {
     "id": 10083,
-    "name": "Caged Cow"
+    "name": "Nova Leggings"
   },
   {
     "id": 10084,
-    "name": "Caged Sheep"
+    "name": "Nova Boots"
   },
   {
     "id": 10085,
-    "name": "Caged Deer"
+    "name": "Nova Blade"
   },
   {
     "id": 10086,
-    "name": "Caged Stag"
+    "name": "Mob Cage"
   },
   {
     "id": 10087,
-    "name": "Nova Multitool"
+    "name": "Caged Pig"
   },
   {
     "id": 10088,
-    "name": "Pocket Terminal"
+    "name": "Caged Cow"
   },
   {
     "id": 10089,
-    "name": "Comet Beacon"
+    "name": "Caged Sheep"
   },
   {
     "id": 10090,
+    "name": "Caged Deer"
+  },
+  {
+    "id": 10091,
+    "name": "Caged Stag"
+  },
+  {
+    "id": 10092,
+    "name": "Nova Multitool"
+  },
+  {
+    "id": 10093,
+    "name": "Pocket Terminal"
+  },
+  {
+    "id": 10094,
+    "name": "Comet Beacon"
+  },
+  {
+    "id": 10095,
     "name": "Nova Wrench"
   }
 ]
