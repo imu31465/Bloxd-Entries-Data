@@ -1,0 +1,29 @@
+{
+  "id": 9676,
+  "name": "Date Pudding",
+  "kind": "item",
+  "displayName": {
+    "key": "item:datePudding",
+    "text": "Date Pudding"
+  },
+  "description": {
+    "key": "item:datePuddingDescription",
+    "text": "Heal yourself and all players and mobs within 5 blocks by 4 health each second for 15 seconds. Other players' Healing Pulses stack with yours."
+  },
+  "type": "Chargeable",
+  "textureInfo": "date_pudding",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "chargeStages": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeTime": 750,
+  "rootMetaDesc": "Date Pudding|meta|charging1",
+  "meta": {
+    "rootName": "Date Pudding",
+    "rootId": 9676,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 9764,
+  "name": "Demolition Sticky Charge Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Sticky Charge Launcher"
+  },
+  "description": {
+    "text": "Sticks where it lands. Set them all off with Attack."
+  },
+  "type": "Item",
+  "textureInfo": "rpg",
+  "heldItemGlb": "RPG",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": false
+}

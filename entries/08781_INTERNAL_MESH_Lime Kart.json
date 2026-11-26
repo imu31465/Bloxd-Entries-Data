@@ -1,0 +1,11 @@
+{
+  "id": 8781,
+  "name": "INTERNAL_MESH_Lime Kart",
+  "kind": "item",
+  "textureInfo": "lime_kart",
+  "heldItemGlb": "Lime Kart",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

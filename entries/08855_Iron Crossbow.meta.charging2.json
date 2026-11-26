@@ -1,0 +1,29 @@
+{
+  "id": 8855,
+  "name": "Iron Crossbow|meta|charging2",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironCrossbow",
+    "text": "Iron Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureName": "iron_crossbow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "textureInfo": "iron_crossbow_charging_2",
+  "meta": {
+    "rootName": "Iron Crossbow",
+    "rootId": 8854,
+    "metaStr": "meta|charging2",
+    "charging": 2
+  }
+}

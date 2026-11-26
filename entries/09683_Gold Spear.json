@@ -1,0 +1,25 @@
+{
+  "id": 9683,
+  "name": "Gold Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldSpear",
+    "text": "Gold Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "gold_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "damage": 30,
+  "attackRange": 5,
+  "stackable": false,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 4,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 25
+}

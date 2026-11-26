@@ -1,0 +1,19 @@
+{
+  "id": 8559,
+  "name": "Placed Water",
+  "kind": "block",
+  "displayName": {
+    "key": "item:placedWater",
+    "text": "Flowing Water"
+  },
+  "textureInfo": [
+    0.42,
+    0.56,
+    0.86,
+    0.9
+  ],
+  "vK": true,
+  "drops": null,
+  "harvestType": "rock",
+  "stackable": true
+}

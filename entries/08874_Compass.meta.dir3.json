@@ -1,0 +1,24 @@
+{
+  "id": 8874,
+  "name": "Compass|meta|dir3",
+  "kind": "item",
+  "displayName": {
+    "text": "Compass"
+  },
+  "description": {
+    "key": "item:compassDescription",
+    "text": "Points to (0, 0, 0)"
+  },
+  "type": "Directional",
+  "textureName": "compass",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "textureInfo": "compass_dir_3",
+  "meta": {
+    "rootName": "Compass",
+    "rootId": 8872,
+    "metaStr": "meta|dir3",
+    "direction": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9861,
+  "name": "Serpentite Gauntlets",
+  "kind": "item",
+  "displayName": {
+    "text": "Serpentite Gauntlets"
+  },
+  "type": "Armour",
+  "textureInfo": "serpentite_gauntlets",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.11,
+  "heldItemGlb": "serpentite_gauntlets"
+}

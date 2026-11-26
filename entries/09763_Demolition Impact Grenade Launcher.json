@@ -1,0 +1,17 @@
+{
+  "id": 9763,
+  "name": "Demolition Impact Grenade Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Impact Grenade Launcher"
+  },
+  "description": {
+    "text": "Bursts on the first thing it hits."
+  },
+  "type": "Item",
+  "textureInfo": "rpg",
+  "heldItemGlb": "RPG",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8888,
+  "name": "Plum",
+  "kind": "item",
+  "displayName": {
+    "key": "item:plum",
+    "text": "Plum"
+  },
+  "description": {
+    "key": "item:plumDescription",
+    "text": "Temporarily gain increased damage"
+  },
+  "type": "Chargeable",
+  "textureInfo": "plum",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "stackable": true,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "rootMetaDesc": "Plum|meta|charging1",
+  "meta": {
+    "rootName": "Plum",
+    "rootId": 8888,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

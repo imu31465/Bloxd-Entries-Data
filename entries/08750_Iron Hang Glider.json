@@ -1,0 +1,15 @@
+{
+  "id": 8750,
+  "name": "Iron Hang Glider",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironHangGlider",
+    "text": "Iron Hang Glider"
+  },
+  "type": "Item",
+  "textureInfo": "hang_glider_iron",
+  "heldItemGlb": "Iron Hang Glider Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

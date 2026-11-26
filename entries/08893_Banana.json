@@ -1,0 +1,29 @@
+{
+  "id": 8893,
+  "name": "Banana",
+  "kind": "item",
+  "displayName": {
+    "key": "item:banana",
+    "text": "Banana"
+  },
+  "description": {
+    "key": "item:bananaDescription",
+    "text": "Eat to get a second jump"
+  },
+  "type": "Chargeable",
+  "textureInfo": "banana",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "stackable": true,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "rootMetaDesc": "Banana|meta|charging1",
+  "meta": {
+    "rootName": "Banana",
+    "rootId": 8893,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

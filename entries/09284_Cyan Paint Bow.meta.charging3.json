@@ -1,0 +1,29 @@
+{
+  "id": 9284,
+  "name": "Cyan Paint Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cyanPaintBow",
+    "text": "Cyan Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "textureName": "cyan_paint_bow",
+  "type": "Chargeable",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "holdAsAiming": true,
+  "minChargeStateToUse": 0,
+  "textureInfo": "cyan_paint_bow_charging_3",
+  "meta": {
+    "rootName": "Cyan Paint Bow",
+    "rootId": 9282,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  }
+}

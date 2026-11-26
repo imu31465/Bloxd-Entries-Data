@@ -1,0 +1,26 @@
+{
+  "id": 9947,
+  "name": "Geo Spear",
+  "kind": "item",
+  "displayName": {
+    "key": "item:geoSpear",
+    "text": "Geo Spear"
+  },
+  "description": {
+    "key": "item:spearDescription",
+    "text": "Does damage and lunges forwards"
+  },
+  "type": "Tool",
+  "textureInfo": "geo_spear",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "damage": 32,
+  "attackRange": 5,
+  "stackable": false,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5,
+  "abilityCooldownMs": 1600,
+  "dashImpulse": 28,
+  "heldItemGlb": "geo_spear"
+}

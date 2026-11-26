@@ -1,0 +1,28 @@
+{
+  "id": 9483,
+  "name": "Timed Spike Bomb|meta|charging2",
+  "kind": "item",
+  "displayName": {
+    "key": "item:timedSpikeBomb",
+    "text": "Timed Spike Bomb"
+  },
+  "description": {
+    "key": "item:timedSpikeBombDescription",
+    "text": "Plant the Spike on the given sites."
+  },
+  "type": "Chargeable",
+  "textureName": "timed_spike_bomb",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 2000,
+  "chargeSound": "fallsmall",
+  "textureInfo": "timed_spike_bomb_charging_2",
+  "meta": {
+    "rootName": "Timed Spike Bomb",
+    "rootId": 9482,
+    "metaStr": "meta|charging2",
+    "charging": 2
+  }
+}

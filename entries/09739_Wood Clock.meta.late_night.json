@@ -1,0 +1,24 @@
+{
+  "id": 9739,
+  "name": "Wood Clock|meta|late_night",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodClock",
+    "text": "Wood Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "heldItemGlb": "clock_wood_late_night",
+  "textureInfo": "clock_wood_late_night",
+  "meta": {
+    "rootName": "Wood Clock",
+    "rootId": 9737,
+    "metaStr": "meta|late_night"
+  }
+}

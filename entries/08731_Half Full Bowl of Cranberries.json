@@ -1,0 +1,31 @@
+{
+  "id": 8731,
+  "name": "Half Full Bowl of Cranberries",
+  "kind": "item",
+  "displayName": {
+    "key": "item:bowlOfCranberries",
+    "text": "Bowl Of Cranberries"
+  },
+  "description": {
+    "key": "item:bowlOfCranberriesDescription",
+    "text": "Eat to restore health"
+  },
+  "type": "Chargeable",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 300,
+  "stackable": false,
+  "eatHealAmt": 10,
+  "textureInfo": "bowl_of_cranberries_2",
+  "afterEatenItem": "Partially Full Bowl of Cranberries",
+  "rootMetaDesc": "Half Full Bowl of Cranberries|meta|charging1",
+  "meta": {
+    "rootName": "Half Full Bowl of Cranberries",
+    "rootId": 8731,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 9766,
+  "name": "Demolition Rocket Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Rocket Launcher"
+  },
+  "description": {
+    "text": "Flies straight and bursts on impact."
+  },
+  "type": "Item",
+  "textureInfo": "rpg",
+  "heldItemGlb": "RPG",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": false
+}

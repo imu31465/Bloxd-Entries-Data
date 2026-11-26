@@ -1,0 +1,30 @@
+{
+  "id": 8840,
+  "name": "Gold Bow|meta|charging3",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldBow",
+    "text": "Gold Bow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureName": "gold_bow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "secondaryDamage": 62,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "textureInfo": "gold_bow_charging_3",
+  "meta": {
+    "rootName": "Gold Bow",
+    "rootId": 8838,
+    "metaStr": "meta|charging3",
+    "charging": 3
+  }
+}

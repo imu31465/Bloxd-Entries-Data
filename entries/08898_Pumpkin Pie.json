@@ -1,0 +1,29 @@
+{
+  "id": 8898,
+  "name": "Pumpkin Pie",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pumpkinPie",
+    "text": "Pumpkin Pie"
+  },
+  "description": {
+    "key": "item:pumpkinPieDescription",
+    "text": "Temporarily gain increased damage"
+  },
+  "type": "Chargeable",
+  "textureInfo": "pumpkin_pie",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "stackable": true,
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "rootMetaDesc": "Pumpkin Pie|meta|charging1",
+  "meta": {
+    "rootName": "Pumpkin Pie",
+    "rootId": 8898,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

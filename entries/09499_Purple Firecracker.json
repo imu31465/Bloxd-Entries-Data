@@ -1,0 +1,19 @@
+{
+  "id": 9499,
+  "name": "Purple Firecracker",
+  "kind": "item",
+  "displayName": {
+    "key": "item:purpleFirecracker",
+    "text": "Purple Firecracker"
+  },
+  "description": {
+    "key": "item:firecrackerDescription",
+    "text": "Click or tap your Hang Glider with me in your inventory, and I'll give you a boost!"
+  },
+  "textureInfo": "firecracker_purple",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true,
+  "secondaryDamage": 15
+}

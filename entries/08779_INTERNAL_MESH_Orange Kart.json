@@ -1,0 +1,11 @@
+{
+  "id": 8779,
+  "name": "INTERNAL_MESH_Orange Kart",
+  "kind": "item",
+  "textureInfo": "orange_kart",
+  "heldItemGlb": "Orange Kart",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

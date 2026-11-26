@@ -1,0 +1,18 @@
+{
+  "id": 9148,
+  "name": "Green Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:greenPaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "textureInfo": "green_paintball",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

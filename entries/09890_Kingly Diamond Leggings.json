@@ -1,0 +1,16 @@
+{
+  "id": 9890,
+  "name": "Kingly Diamond Leggings",
+  "kind": "item",
+  "displayName": {
+    "key": "item:kinglyDiamondLeggings",
+    "text": "Kingly Diamond Leggings"
+  },
+  "type": "Armour",
+  "textureInfo": "kingly_diamond_leggings",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "armourReduction": 0.19,
+  "heldItemGlb": "kingly_diamond_leggings"
+}

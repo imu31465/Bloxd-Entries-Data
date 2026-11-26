@@ -1,0 +1,24 @@
+{
+  "id": 9752,
+  "name": "Gold Clock|meta|early_night",
+  "kind": "item",
+  "displayName": {
+    "key": "item:goldClock",
+    "text": "Gold Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "heldItemGlb": "clock_gold_early_night",
+  "textureInfo": "clock_gold_early_night",
+  "meta": {
+    "rootName": "Gold Clock",
+    "rootId": 9745,
+    "metaStr": "meta|early_night"
+  }
+}

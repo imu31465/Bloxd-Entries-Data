@@ -1,0 +1,22 @@
+{
+  "id": 9800,
+  "name": "Magmasteel Spade",
+  "kind": "item",
+  "displayName": {
+    "text": "Magmasteel Spade"
+  },
+  "description": {
+    "key": "item:spadeDescription",
+    "text": "Digs dirt"
+  },
+  "type": "Tool",
+  "textureInfo": "magmasteel_shovel",
+  "weight": 1,
+  "heldItemScale": 1,
+  "damage": 28,
+  "stackable": false,
+  "harvests": "granule",
+  "multiplier": 8,
+  "level": 5,
+  "heldItemGlb": "magmasteel_shovel"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8564,
+  "name": "Placed Water|Flow4",
+  "kind": "block",
+  "textureInfo": [
+    0.42,
+    0.56,
+    0.86,
+    0.9
+  ],
+  "vK": true,
+  "drops": null,
+  "harvestType": "rock",
+  "canBePlacedOver": true,
+  "stackable": true,
+  "meta": {
+    "rootName": "Placed Water",
+    "rootId": 8559,
+    "metaStr": "Flow4"
+  }
+}

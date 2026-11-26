@@ -1,0 +1,24 @@
+{
+  "id": 9793,
+  "name": "Amethite Club",
+  "kind": "item",
+  "displayName": {
+    "text": "Amethite Club"
+  },
+  "description": {
+    "key": "item:clubDescription",
+    "text": "Does damage with increased knockback"
+  },
+  "type": "Tool",
+  "textureInfo": "amethite_club",
+  "weight": 1,
+  "heldItemScale": 1.1,
+  "damage": 40,
+  "knockbackHorizontalScalar": 2.5,
+  "knockbackVerticalScalar": 1.2,
+  "stackable": false,
+  "harvests": null,
+  "multiplier": 2,
+  "level": 5,
+  "heldItemGlb": "amethite_club"
+}

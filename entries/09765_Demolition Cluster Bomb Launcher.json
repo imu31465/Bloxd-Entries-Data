@@ -1,0 +1,17 @@
+{
+  "id": 9765,
+  "name": "Demolition Cluster Bomb Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Cluster Bomb Launcher"
+  },
+  "description": {
+    "text": "Splits into five bomblets."
+  },
+  "type": "Item",
+  "textureInfo": "rpg",
+  "heldItemGlb": "RPG",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": false
+}

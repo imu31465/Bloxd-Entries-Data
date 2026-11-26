@@ -1,0 +1,25 @@
+{
+  "id": 9768,
+  "name": "Still Lava Bucket",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stillLavaBucket",
+    "text": "Still Lava Bucket"
+  },
+  "description": {
+    "key": "item:stillLavaBucketDescription",
+    "text": "Lava that never flows, for builds."
+  },
+  "showInCreativeInven": false,
+  "type": "Item",
+  "textureInfo": "lava_bucket",
+  "heldItemGlb": "Lava Bucket",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "KJ": [
+    12,
+    7,
+    2
+  ]
+}

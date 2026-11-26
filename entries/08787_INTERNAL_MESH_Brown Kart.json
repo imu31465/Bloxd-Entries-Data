@@ -1,0 +1,11 @@
+{
+  "id": 8787,
+  "name": "INTERNAL_MESH_Brown Kart",
+  "kind": "item",
+  "textureInfo": "brown_kart",
+  "heldItemGlb": "Brown Kart",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

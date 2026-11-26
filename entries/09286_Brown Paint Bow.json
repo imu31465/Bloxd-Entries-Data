@@ -1,0 +1,30 @@
+{
+  "id": 9286,
+  "name": "Brown Paint Bow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:brownPaintBow",
+    "text": "Brown Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "textureName": "brown_paint_bow",
+  "rootMetaDesc": "Brown Paint Bow|meta|charging1",
+  "type": "Chargeable",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "holdAsAiming": true,
+  "minChargeStateToUse": 0,
+  "textureInfo": "brown_paint_bow",
+  "meta": {
+    "rootName": "Brown Paint Bow",
+    "rootId": 9286,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9920,
+  "name": "Spectral Crossbow",
+  "kind": "item",
+  "displayName": {
+    "key": "item:spectralCrossbow",
+    "text": "Spectral Crossbow"
+  },
+  "description": {
+    "key": "item:bowDescription",
+    "text": "Shoots arrows"
+  },
+  "type": "Chargeable",
+  "textureName": "diamond_crossbow",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "rootMetaDesc": "Spectral Crossbow|meta|charging1",
+  "chargeStages": 4,
+  "chargeTime": 700,
+  "holdAsAiming": true,
+  "requiresArrow": true,
+  "textureInfo": "spectral_crossbow",
+  "heldItemGlb": "spectral_crossbow",
+  "meta": {
+    "rootName": "Spectral Crossbow",
+    "rootId": 9920,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

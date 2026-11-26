@@ -1,0 +1,17 @@
+{
+  "id": 9762,
+  "name": "Demolition Sticky Bomb Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Sticky Bomb Launcher"
+  },
+  "description": {
+    "text": "Sticks where it lands and goes off by itself."
+  },
+  "type": "Item",
+  "textureInfo": "rpg",
+  "heldItemGlb": "RPG",
+  "weight": 1,
+  "heldItemScale": 1.2,
+  "stackable": false
+}

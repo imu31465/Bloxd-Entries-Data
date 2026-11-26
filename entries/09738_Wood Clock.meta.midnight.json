@@ -1,0 +1,24 @@
+{
+  "id": 9738,
+  "name": "Wood Clock|meta|midnight",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodClock",
+    "text": "Wood Clock"
+  },
+  "description": {
+    "key": "item:clockDescription",
+    "text": "Shows the time of day."
+  },
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "heldItemGlb": "clock_wood_midnight",
+  "textureInfo": "clock_wood_midnight",
+  "meta": {
+    "rootName": "Wood Clock",
+    "rootId": 9737,
+    "metaStr": "meta|midnight"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8907,
+  "name": "Beetroot",
+  "kind": "item",
+  "displayName": {
+    "key": "item:beetroot",
+    "text": "Beetroot"
+  },
+  "description": {
+    "key": "item:beetrootDescription",
+    "text": "Increases the amount of materials you get when mining ores"
+  },
+  "type": "Chargeable",
+  "textureInfo": "beetroot",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "stackable": true,
+  "chargeStages": 1,
+  "chargeTime": 1250,
+  "rootMetaDesc": "Beetroot|meta|charging1",
+  "meta": {
+    "rootName": "Beetroot",
+    "rootId": 8907,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

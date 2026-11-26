@@ -1,0 +1,18 @@
+{
+  "id": 9110,
+  "name": "Pink Popup Tower",
+  "kind": "item",
+  "displayName": {
+    "key": "item:pinkPopupTower",
+    "text": "Pink Popup Tower"
+  },
+  "description": {
+    "key": "item:popupTowerDescription",
+    "text": "Pop up a tower to defend yourself"
+  },
+  "textureInfo": "pink_popup_tower",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

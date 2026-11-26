@@ -1,0 +1,29 @@
+{
+  "id": 8892,
+  "name": "Cherry",
+  "kind": "item",
+  "displayName": {
+    "key": "item:cherry",
+    "text": "Cherry"
+  },
+  "description": {
+    "key": "item:cherryDescription",
+    "text": "Temporarily increases health regeneration"
+  },
+  "type": "Chargeable",
+  "textureInfo": "cherry",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "eat1",
+  "stackable": true,
+  "chargeStages": 1,
+  "chargeTime": 750,
+  "rootMetaDesc": "Cherry|meta|charging1",
+  "meta": {
+    "rootName": "Cherry",
+    "rootId": 8892,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8805,
+  "name": "Snowball Launcher",
+  "kind": "item",
+  "displayName": {
+    "text": "Snowball Launcher"
+  },
+  "description": {
+    "text": "Rapidly fires snowballs!"
+  },
+  "type": "FullAuto",
+  "textureInfo": "snowball",
+  "heldItemGlb": "Snowball",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "fireInterval": 216,
+  "secondaryDamage": 4,
+  "holdAsAiming": false,
+  "hideAimingUI": true
+}

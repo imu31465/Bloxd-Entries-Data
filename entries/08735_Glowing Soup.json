@@ -1,0 +1,36 @@
+{
+  "id": 8735,
+  "name": "Glowing Soup",
+  "kind": "item",
+  "displayName": {
+    "key": "item:glowingSoup",
+    "text": "Glowing Soup"
+  },
+  "description": {
+    "key": "item:glowingSoupDescription",
+    "text": "Makes you glow, lighting your surroundings"
+  },
+  "type": "Chargeable",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "eatHealAmt": 5,
+  "chargeSound": "eat1",
+  "chargeStages": 1,
+  "chargeTime": 375,
+  "stackable": false,
+  "afterEatenItem": "Bowl",
+  "textureInfo": "glowing_soup",
+  "KJ": [
+    4,
+    11,
+    11
+  ],
+  "rootMetaDesc": "Glowing Soup|meta|charging1",
+  "meta": {
+    "rootName": "Glowing Soup",
+    "rootId": 8735,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

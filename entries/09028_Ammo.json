@@ -1,0 +1,14 @@
+{
+  "id": 9028,
+  "name": "Ammo",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ammo",
+    "text": "Ammo"
+  },
+  "type": "Item",
+  "textureInfo": "ammo",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": true
+}

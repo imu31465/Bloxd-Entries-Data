@@ -1,0 +1,18 @@
+{
+  "id": 9139,
+  "name": "White Paintball",
+  "kind": "item",
+  "displayName": {
+    "key": "item:whitePaintball",
+    "unresolved": true
+  },
+  "description": {
+    "key": "item:paintballDescription",
+    "unresolved": true
+  },
+  "textureInfo": "white_paintball",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8939,
+  "name": "Slowness Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:slownessPotion",
+    "text": "Slowness Potion"
+  },
+  "description": {
+    "key": "item:slownessPotionDescription",
+    "text": "Slows you down"
+  },
+  "type": "Chargeable",
+  "textureInfo": "slowness_potion",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "drink",
+  "stackable": false,
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "rootMetaDesc": "Slowness Potion|meta|charging1",
+  "meta": {
+    "rootName": "Slowness Potion",
+    "rootId": 8939,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

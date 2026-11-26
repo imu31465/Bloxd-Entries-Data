@@ -1,0 +1,30 @@
+{
+  "id": 8944,
+  "name": "Poison Potion",
+  "kind": "item",
+  "displayName": {
+    "key": "item:poisonPotion",
+    "text": "Poison Potion"
+  },
+  "description": {
+    "key": "item:poisonPotionDescription",
+    "text": "Drink me..."
+  },
+  "type": "Chargeable",
+  "textureInfo": "poison",
+  "weight": 1,
+  "heldItemScale": 1,
+  "eatable": true,
+  "chargeSound": "drink",
+  "stackable": false,
+  "afterEatenItem": "Empty Bottle",
+  "chargeStages": 1,
+  "chargeTime": 1600,
+  "rootMetaDesc": "Poison Potion|meta|charging1",
+  "meta": {
+    "rootName": "Poison Potion",
+    "rootId": 8944,
+    "metaStr": "meta|charging1",
+    "charging": 1
+  }
+}

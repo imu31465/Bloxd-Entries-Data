@@ -1,0 +1,11 @@
+{
+  "id": 8788,
+  "name": "INTERNAL_MESH_Blue Kart",
+  "kind": "item",
+  "textureInfo": "blue_kart",
+  "heldItemGlb": "Blue Kart",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8748,
+  "name": "Wood Hang Glider",
+  "kind": "item",
+  "displayName": {
+    "key": "item:woodHangGlider",
+    "text": "Wood Hang Glider"
+  },
+  "type": "Item",
+  "textureInfo": "hang_glider",
+  "heldItemGlb": "Wood Hang Glider Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

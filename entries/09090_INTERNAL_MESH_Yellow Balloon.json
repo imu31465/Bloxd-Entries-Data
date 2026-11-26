@@ -1,0 +1,11 @@
+{
+  "id": 9090,
+  "name": "INTERNAL_MESH_Yellow Balloon",
+  "kind": "item",
+  "textureInfo": "yellow_balloon",
+  "heldItemGlb": "Yellow Balloon",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 4,
+  "stackable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9237,
+  "name": "Yellow Paint Bow|meta|charging4",
+  "kind": "item",
+  "displayName": {
+    "key": "item:yellowPaintBow",
+    "text": "Yellow Paint Bow"
+  },
+  "description": {
+    "key": "item:paintBowDescription",
+    "unresolved": true
+  },
+  "textureName": "yellow_paint_bow",
+  "type": "Chargeable",
+  "weight": 1,
+  "heldItemScale": 1.25,
+  "stackable": false,
+  "chargeStages": 4,
+  "chargeTime": 1500,
+  "holdAsAiming": true,
+  "minChargeStateToUse": 0,
+  "textureInfo": "yellow_paint_bow_charging_4",
+  "meta": {
+    "rootName": "Yellow Paint Bow",
+    "rootId": 9234,
+    "metaStr": "meta|charging4",
+    "charging": 4
+  }
+}

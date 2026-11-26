@@ -1,0 +1,11 @@
+{
+  "id": 9099,
+  "name": "INTERNAL_MESH_Light Blue Balloon",
+  "kind": "item",
+  "textureInfo": "light_blue_balloon",
+  "heldItemGlb": "Light Blue Balloon",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 4,
+  "stackable": false
+}

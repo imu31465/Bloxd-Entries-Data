@@ -1,0 +1,11 @@
+{
+  "id": 8786,
+  "name": "INTERNAL_MESH_Cyan Kart",
+  "kind": "item",
+  "textureInfo": "cyan_kart",
+  "heldItemGlb": "Cyan Kart",
+  "type": "Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

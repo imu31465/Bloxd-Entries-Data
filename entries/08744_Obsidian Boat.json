@@ -1,0 +1,19 @@
+{
+  "id": 8744,
+  "name": "Obsidian Boat",
+  "kind": "item",
+  "displayName": {
+    "key": "item:obsidianBoat",
+    "text": "Obsidian Boat"
+  },
+  "description": {
+    "key": "item:obsidianBoatDescription",
+    "text": "Use me to sail in Lava!"
+  },
+  "type": "Item",
+  "textureInfo": "obsidian_boat",
+  "heldItemGlb": "Obsidian Boat Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9767,
+  "name": "Still Water Bucket",
+  "kind": "item",
+  "displayName": {
+    "key": "item:stillWaterBucket",
+    "text": "Still Water Bucket"
+  },
+  "description": {
+    "key": "item:stillWaterBucketDescription",
+    "text": "Water that never flows, for builds."
+  },
+  "showInCreativeInven": false,
+  "type": "Item",
+  "textureInfo": "water_bucket",
+  "heldItemGlb": "Water Bucket",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

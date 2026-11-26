@@ -1,0 +1,22 @@
+{
+  "id": 9169,
+  "name": "Black Heavy Paintball Gun",
+  "kind": "item",
+  "displayName": {
+    "key": "item:blackHeavyPaintballGun",
+    "text": "Black Heavy Paintball Gun"
+  },
+  "description": {
+    "key": "item:paintballGunDescription",
+    "unresolved": true
+  },
+  "textureInfo": "black_heavy_paintball_gun",
+  "type": "FullAuto",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false,
+  "fireInterval": 1015,
+  "secondaryDamage": 250,
+  "holdAsAiming": true,
+  "hideAimingUI": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8793,
+  "name": "Iron Mining Drill",
+  "kind": "item",
+  "displayName": {
+    "key": "item:ironMiningDrill",
+    "text": "Iron Mining Drill"
+  },
+  "type": "Item",
+  "textureInfo": "off_roader",
+  "heldItemGlb": "Off Roader Item",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}

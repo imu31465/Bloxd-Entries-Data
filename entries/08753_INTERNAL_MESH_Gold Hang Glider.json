@@ -1,0 +1,11 @@
+{
+  "id": 8753,
+  "name": "INTERNAL_MESH_Gold Hang Glider",
+  "kind": "item",
+  "type": "Item",
+  "textureInfo": "hang_glider_gold",
+  "heldItemGlb": "Gold Hang Glider",
+  "weight": 1,
+  "heldItemScale": 1,
+  "stackable": false
+}
