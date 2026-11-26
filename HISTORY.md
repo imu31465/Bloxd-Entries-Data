@@ -2,6 +2,377 @@
 
 Diffs from older updates, newest first. Thumbnails are only shown in [CHANGES.md](CHANGES.md) and [ID-CHANGES.md](ID-CHANGES.md) (the latest diff) to keep this file renderable.
 
+- Run at: 2026-11-25T16:33:20.207Z
+- Bundle: https://bloxd.io/static/js/fo1voe.main.f743fbcf.js
+- Entries: 10091 -> 10096
+
+| Type | Count |
+|---|---|
+| Added | 5 |
+| Removed | 0 |
+| ID changed | 345 |
+
+## Added (5)
+
+- Demolition Sticky Bomb Launcher (item): **9746**
+- Demolition Impact Grenade Launcher (item): **9747**
+- Demolition Sticky Charge Launcher (item): **9748**
+- Demolition Cluster Bomb Launcher (item): **9749**
+- Demolition Rocket Launcher (item): **9750**
+
+<details>
+<summary>ID changed (345)</summary>
+
+- Amethite: 9746 -> **9751**
+- Amethite Fragment: 9747 -> **9752**
+- Amethite Pickaxe: 9748 -> **9753**
+- Amethite Axe: 9749 -> **9754**
+- Amethite Spade: 9750 -> **9755**
+- Amethite Sword: 9751 -> **9756**
+- Amethite Hoe: 9752 -> **9757**
+- Amethite Helmet: 9753 -> **9758**
+- Amethite Chestplate: 9754 -> **9759**
+- Amethite Leggings: 9755 -> **9760**
+- Amethite Boots: 9756 -> **9761**
+- Amethite Gauntlets: 9757 -> **9762**
+- Amethite Bow: 9758 -> **9763**
+- Amethite Bow|meta|charging2: 9759 -> **9764**
+- Amethite Bow|meta|charging3: 9760 -> **9765**
+- Amethite Bow|meta|charging4: 9761 -> **9766**
+- Amethite Crossbow: 9762 -> **9767**
+- Amethite Crossbow|meta|charging2: 9763 -> **9768**
+- Amethite Crossbow|meta|charging3: 9764 -> **9769**
+- Amethite Crossbow|meta|charging4: 9765 -> **9770**
+- Amethite Crossbow Charged: 9766 -> **9771**
+- Amethite Spear: 9767 -> **9772**
+- Amethite Dagger: 9768 -> **9773**
+- Amethite Boomerang: 9769 -> **9774**
+- Amethite Club: 9770 -> **9775**
+- Amethite Mace: 9771 -> **9776**
+- Amethite Whip: 9772 -> **9777**
+- Magmasteel: 9773 -> **9778**
+- Magmasteel Fragment: 9774 -> **9779**
+- Magmasteel Pickaxe: 9775 -> **9780**
+- Magmasteel Axe: 9776 -> **9781**
+- Magmasteel Spade: 9777 -> **9782**
+- Magmasteel Sword: 9778 -> **9783**
+- Magmasteel Hoe: 9779 -> **9784**
+- Magmasteel Helmet: 9780 -> **9785**
+- Magmasteel Chestplate: 9781 -> **9786**
+- Magmasteel Leggings: 9782 -> **9787**
+- Magmasteel Boots: 9783 -> **9788**
+- Magmasteel Gauntlets: 9784 -> **9789**
+- Magmasteel Bow: 9785 -> **9790**
+- Magmasteel Bow|meta|charging2: 9786 -> **9791**
+- Magmasteel Bow|meta|charging3: 9787 -> **9792**
+- Magmasteel Bow|meta|charging4: 9788 -> **9793**
+- Magmasteel Crossbow: 9789 -> **9794**
+- Magmasteel Crossbow|meta|charging2: 9790 -> **9795**
+- Magmasteel Crossbow|meta|charging3: 9791 -> **9796**
+- Magmasteel Crossbow|meta|charging4: 9792 -> **9797**
+- Magmasteel Crossbow Charged: 9793 -> **9798**
+- Magmasteel Spear: 9794 -> **9799**
+- Magmasteel Dagger: 9795 -> **9800**
+- Magmasteel Boomerang: 9796 -> **9801**
+- Magmasteel Club: 9797 -> **9802**
+- Magmasteel Mace: 9798 -> **9803**
+- Magmasteel Whip: 9799 -> **9804**
+- Rubellite: 9800 -> **9805**
+- Rubellite Fragment: 9801 -> **9806**
+- Rubellite Pickaxe: 9802 -> **9807**
+- Rubellite Axe: 9803 -> **9808**
+- Rubellite Spade: 9804 -> **9809**
+- Rubellite Sword: 9805 -> **9810**
+- Rubellite Hoe: 9806 -> **9811**
+- Rubellite Helmet: 9807 -> **9812**
+- Rubellite Chestplate: 9808 -> **9813**
+- Rubellite Leggings: 9809 -> **9814**
+- Rubellite Boots: 9810 -> **9815**
+- Rubellite Gauntlets: 9811 -> **9816**
+- Rubellite Bow: 9812 -> **9817**
+- Rubellite Bow|meta|charging2: 9813 -> **9818**
+- Rubellite Bow|meta|charging3: 9814 -> **9819**
+- Rubellite Bow|meta|charging4: 9815 -> **9820**
+- Rubellite Crossbow: 9816 -> **9821**
+- Rubellite Crossbow|meta|charging2: 9817 -> **9822**
+- Rubellite Crossbow|meta|charging3: 9818 -> **9823**
+- Rubellite Crossbow|meta|charging4: 9819 -> **9824**
+- Rubellite Crossbow Charged: 9820 -> **9825**
+- Rubellite Spear: 9821 -> **9826**
+- Rubellite Dagger: 9822 -> **9827**
+- Rubellite Boomerang: 9823 -> **9828**
+- Rubellite Club: 9824 -> **9829**
+- Rubellite Mace: 9825 -> **9830**
+- Rubellite Whip: 9826 -> **9831**
+- Serpentite: 9827 -> **9832**
+- Serpentite Fragment: 9828 -> **9833**
+- Serpentite Pickaxe: 9829 -> **9834**
+- Serpentite Axe: 9830 -> **9835**
+- Serpentite Spade: 9831 -> **9836**
+- Serpentite Sword: 9832 -> **9837**
+- Serpentite Hoe: 9833 -> **9838**
+- Serpentite Helmet: 9834 -> **9839**
+- Serpentite Chestplate: 9835 -> **9840**
+- Serpentite Leggings: 9836 -> **9841**
+- Serpentite Boots: 9837 -> **9842**
+- Serpentite Gauntlets: 9838 -> **9843**
+- Serpentite Bow: 9839 -> **9844**
+- Serpentite Bow|meta|charging2: 9840 -> **9845**
+- Serpentite Bow|meta|charging3: 9841 -> **9846**
+- Serpentite Bow|meta|charging4: 9842 -> **9847**
+- Serpentite Crossbow: 9843 -> **9848**
+- Serpentite Crossbow|meta|charging2: 9844 -> **9849**
+- Serpentite Crossbow|meta|charging3: 9845 -> **9850**
+- Serpentite Crossbow|meta|charging4: 9846 -> **9851**
+- Serpentite Crossbow Charged: 9847 -> **9852**
+- Serpentite Spear: 9848 -> **9853**
+- Serpentite Dagger: 9849 -> **9854**
+- Serpentite Boomerang: 9850 -> **9855**
+- Serpentite Club: 9851 -> **9856**
+- Serpentite Mace: 9852 -> **9857**
+- Serpentite Whip: 9853 -> **9858**
+- Cursemetal Helmet: 9854 -> **9859**
+- Cursemetal Chestplate: 9855 -> **9860**
+- Cursemetal Gauntlets: 9856 -> **9861**
+- Cursemetal Leggings: 9857 -> **9862**
+- Cursemetal Boots: 9858 -> **9863**
+- Kingly Amethite Helmet: 9859 -> **9864**
+- Kingly Amethite Chestplate: 9860 -> **9865**
+- Kingly Amethite Gauntlets: 9861 -> **9866**
+- Kingly Amethite Leggings: 9862 -> **9867**
+- Kingly Amethite Boots: 9863 -> **9868**
+- Kingly Diamond Helmet: 9864 -> **9869**
+- Kingly Diamond Chestplate: 9865 -> **9870**
+- Kingly Diamond Gauntlets: 9866 -> **9871**
+- Kingly Diamond Leggings: 9867 -> **9872**
+- Kingly Diamond Boots: 9868 -> **9873**
+- Sanguine Shard: 9869 -> **9874**
+- Sanguine Sword: 9870 -> **9875**
+- Sanguine Bow: 9871 -> **9876**
+- Sanguine Bow|meta|charging2: 9872 -> **9877**
+- Sanguine Bow|meta|charging3: 9873 -> **9878**
+- Sanguine Bow|meta|charging4: 9874 -> **9879**
+- Sanguine Crossbow: 9875 -> **9880**
+- Sanguine Crossbow|meta|charging2: 9876 -> **9881**
+- Sanguine Crossbow|meta|charging3: 9877 -> **9882**
+- Sanguine Crossbow|meta|charging4: 9878 -> **9883**
+- Sanguine Crossbow Charged: 9879 -> **9884**
+- Sanguine Spear: 9880 -> **9885**
+- Sanguine Dagger: 9881 -> **9886**
+- Sanguine Club: 9882 -> **9887**
+- Sanguine Mace: 9883 -> **9888**
+- Sanguine Whip: 9884 -> **9889**
+- Sanguine Staff: 9885 -> **9890**
+- Sanguine Helmet: 9886 -> **9891**
+- Sanguine Chestplate: 9887 -> **9892**
+- Sanguine Gauntlets: 9888 -> **9893**
+- Sanguine Leggings: 9889 -> **9894**
+- Sanguine Boots: 9890 -> **9895**
+- Spectral Shard: 9891 -> **9896**
+- Spectral Sword: 9892 -> **9897**
+- Spectral Bow: 9893 -> **9898**
+- Spectral Bow|meta|charging2: 9894 -> **9899**
+- Spectral Bow|meta|charging3: 9895 -> **9900**
+- Spectral Bow|meta|charging4: 9896 -> **9901**
+- Spectral Crossbow: 9897 -> **9902**
+- Spectral Crossbow|meta|charging2: 9898 -> **9903**
+- Spectral Crossbow|meta|charging3: 9899 -> **9904**
+- Spectral Crossbow|meta|charging4: 9900 -> **9905**
+- Spectral Crossbow Charged: 9901 -> **9906**
+- Spectral Spear: 9902 -> **9907**
+- Spectral Dagger: 9903 -> **9908**
+- Spectral Club: 9904 -> **9909**
+- Spectral Mace: 9905 -> **9910**
+- Spectral Whip: 9906 -> **9911**
+- Spectral Staff: 9907 -> **9912**
+- Spectral Helmet: 9908 -> **9913**
+- Spectral Chestplate: 9909 -> **9914**
+- Spectral Gauntlets: 9910 -> **9915**
+- Spectral Leggings: 9911 -> **9916**
+- Spectral Boots: 9912 -> **9917**
+- Geo Shard: 9913 -> **9918**
+- Geo Sword: 9914 -> **9919**
+- Geo Bow: 9915 -> **9920**
+- Geo Bow|meta|charging2: 9916 -> **9921**
+- Geo Bow|meta|charging3: 9917 -> **9922**
+- Geo Bow|meta|charging4: 9918 -> **9923**
+- Geo Crossbow: 9919 -> **9924**
+- Geo Crossbow|meta|charging2: 9920 -> **9925**
+- Geo Crossbow|meta|charging3: 9921 -> **9926**
+- Geo Crossbow|meta|charging4: 9922 -> **9927**
+- Geo Crossbow Charged: 9923 -> **9928**
+- Geo Spear: 9924 -> **9929**
+- Geo Dagger: 9925 -> **9930**
+- Geo Club: 9926 -> **9931**
+- Geo Mace: 9927 -> **9932**
+- Geo Whip: 9928 -> **9933**
+- Geo Staff: 9929 -> **9934**
+- Geo Helmet: 9930 -> **9935**
+- Geo Chestplate: 9931 -> **9936**
+- Geo Gauntlets: 9932 -> **9937**
+- Geo Leggings: 9933 -> **9938**
+- Geo Boots: 9934 -> **9939**
+- Astral Shard: 9935 -> **9940**
+- Astral Sword: 9936 -> **9941**
+- Astral Bow: 9937 -> **9942**
+- Astral Bow|meta|charging2: 9938 -> **9943**
+- Astral Bow|meta|charging3: 9939 -> **9944**
+- Astral Bow|meta|charging4: 9940 -> **9945**
+- Astral Crossbow: 9941 -> **9946**
+- Astral Crossbow|meta|charging2: 9942 -> **9947**
+- Astral Crossbow|meta|charging3: 9943 -> **9948**
+- Astral Crossbow|meta|charging4: 9944 -> **9949**
+- Astral Crossbow Charged: 9945 -> **9950**
+- Astral Spear: 9946 -> **9951**
+- Astral Dagger: 9947 -> **9952**
+- Astral Club: 9948 -> **9953**
+- Astral Mace: 9949 -> **9954**
+- Astral Whip: 9950 -> **9955**
+- Astral Staff: 9951 -> **9956**
+- Astral Helmet: 9952 -> **9957**
+- Astral Chestplate: 9953 -> **9958**
+- Astral Gauntlets: 9954 -> **9959**
+- Astral Leggings: 9955 -> **9960**
+- Astral Boots: 9956 -> **9961**
+- Wooden Key: 9957 -> **9962**
+- Stone Key: 9958 -> **9963**
+- Iron Key: 9959 -> **9964**
+- Gold Key: 9960 -> **9965**
+- Diamond Key: 9961 -> **9966**
+- Cracked Rubellite Pickaxe: 9962 -> **9967**
+- Goldheart Engine: 9963 -> **9968**
+- Deepbite Drill Tip: 9964 -> **9969**
+- Empty Fuel Cell: 9965 -> **9970**
+- Blackfire Fuel Cell: 9966 -> **9971**
+- Doom Rivet: 9967 -> **9972**
+- Doom Crest: 9968 -> **9973**
+- Raw Copper: 9969 -> **9974**
+- Copper Bar: 9970 -> **9975**
+- Iron Grit: 9971 -> **9976**
+- Gold Grit: 9972 -> **9977**
+- Copper Grit: 9973 -> **9978**
+- Charcoal: 9974 -> **9979**
+- Recall Beacon: 9975 -> **9980**
+- Iron Hammer: 9976 -> **9981**
+- Iron Plate: 9977 -> **9982**
+- Copper Wire: 9978 -> **9983**
+- Motor: 9979 -> **9984**
+- Machine Parts: 9980 -> **9985**
+- Relay Coil: 9981 -> **9986**
+- Deposit Seed (Copper): 9982 -> **9987**
+- Deposit Seed (Gold): 9983 -> **9988**
+- Deposit Seed (Voltite): 9984 -> **9989**
+- Deposit Seed (Coal): 9985 -> **9990**
+- Deposit Seed (Iron): 9986 -> **9991**
+- Deposit Seed (Stone): 9987 -> **9992**
+- Steel Bar: 9988 -> **9993**
+- Gold Plate: 9989 -> **9994**
+- Logic Board: 9990 -> **9995**
+- Machine Hull: 9991 -> **9996**
+- Raw Voltite: 9992 -> **9997**
+- Power Coupler: 9993 -> **9998**
+- Ore Lens: 9994 -> **9999**
+- Homing Beacon: 9995 -> **10000**
+- Pull Charm: 9996 -> **10001**
+- Vein Breaker: 9997 -> **10002**
+- Voltite Dust: 9998 -> **10003**
+- Voltite Cell: 9999 -> **10004**
+- Sky Pack: 10000 -> **10005**
+- Dusk Moss: 10001 -> **10006**
+- Star Alloy: 10002 -> **10007**
+- Moonstone Dust: 10003 -> **10008**
+- Comet Shard: 10004 -> **10009**
+- Comet Core: 10005 -> **10010**
+- Starbore Drill: 10006 -> **10011**
+- Core Tier 2: 10007 -> **10012**
+- Core Tier 3: 10008 -> **10013**
+- Core Tier 4: 10009 -> **10014**
+- Core Tier 5: 10010 -> **10015**
+- Core Tier 6: 10011 -> **10016**
+- Core Tier 7: 10012 -> **10017**
+- Core Tier 8: 10013 -> **10018**
+- Core Tier 9: 10014 -> **10019**
+- Core Tier 10: 10015 -> **10020**
+- Arc Caster: 10016 -> **10021**
+- Voltplate Helmet: 10017 -> **10022**
+- Voltplate Chestplate: 10018 -> **10023**
+- Voltplate Gauntlets: 10019 -> **10024**
+- Voltplate Leggings: 10020 -> **10025**
+- Voltplate Boots: 10021 -> **10026**
+- Wood Blade: 10022 -> **10027**
+- Wood Guard: 10023 -> **10028**
+- Wood Handle: 10024 -> **10029**
+- Stone Blade: 10025 -> **10030**
+- Stone Guard: 10026 -> **10031**
+- Stone Handle: 10027 -> **10032**
+- Iron Blade: 10028 -> **10033**
+- Iron Guard: 10029 -> **10034**
+- Iron Handle: 10030 -> **10035**
+- Gold Blade: 10031 -> **10036**
+- Gold Guard: 10032 -> **10037**
+- Gold Handle: 10033 -> **10038**
+- Diamond Blade: 10034 -> **10039**
+- Diamond Guard: 10035 -> **10040**
+- Diamond Handle: 10036 -> **10041**
+- Moonstone Blade: 10037 -> **10042**
+- Moonstone Guard: 10038 -> **10043**
+- Moonstone Handle: 10039 -> **10044**
+- Magmasteel Blade: 10040 -> **10045**
+- Magmasteel Guard: 10041 -> **10046**
+- Magmasteel Handle: 10042 -> **10047**
+- Sanguine Blade: 10043 -> **10048**
+- Sanguine Guard: 10044 -> **10049**
+- Sanguine Handle: 10045 -> **10050**
+- Astral Blade: 10046 -> **10051**
+- Astral Guard: 10047 -> **10052**
+- Astral Handle: 10048 -> **10053**
+- Moonstone Sword: 10049 -> **10054**
+- Magmaward Fuel: 10050 -> **10055**
+- Raw Uranium: 10051 -> **10056**
+- Uranium Grit: 10052 -> **10057**
+- Uranium Pellet: 10053 -> **10058**
+- Plutonium Pellet: 10054 -> **10059**
+- Spent Pellet: 10055 -> **10060**
+- Glow Dust: 10056 -> **10061**
+- Biomass: 10057 -> **10062**
+- Graphite: 10058 -> **10063**
+- Containment Plate: 10059 -> **10064**
+- Heat Exchanger: 10060 -> **10065**
+- Focus Lens: 10061 -> **10066**
+- Nova Matter: 10062 -> **10067**
+- Deposit Seed (Uranium): 10063 -> **10068**
+- Reactor Blueprint: 10064 -> **10069**
+- Wrench: 10065 -> **10070**
+- Advanced Coupler: 10066 -> **10071**
+- Nova Coupler: 10067 -> **10072**
+- Core Tier 11: 10068 -> **10073**
+- Core Tier 12: 10069 -> **10074**
+- Core Tier 13: 10070 -> **10075**
+- Core Tier 14: 10071 -> **10076**
+- Core Tier 15: 10072 -> **10077**
+- Jet Chestplate: 10073 -> **10078**
+- Nova Jet Chestplate: 10074 -> **10079**
+- Nova Helmet: 10075 -> **10080**
+- Nova Chestplate: 10076 -> **10081**
+- Nova Gauntlets: 10077 -> **10082**
+- Nova Leggings: 10078 -> **10083**
+- Nova Boots: 10079 -> **10084**
+- Nova Blade: 10080 -> **10085**
+- Mob Cage: 10081 -> **10086**
+- Caged Pig: 10082 -> **10087**
+- Caged Cow: 10083 -> **10088**
+- Caged Sheep: 10084 -> **10089**
+- Caged Deer: 10085 -> **10090**
+- Caged Stag: 10086 -> **10091**
+- Nova Multitool: 10087 -> **10092**
+- Pocket Terminal: 10088 -> **10093**
+- Comet Beacon: 10089 -> **10094**
+- Nova Wrench: 10090 -> **10095**
+
+</details>
+
+---
+
 - Run at: 2026-11-19T16:01:16.115Z
 - Bundle: https://bloxd.io/static/js/ad2avs.main.90d9e4dd.js
 - Entries: 10081 -> 10091
