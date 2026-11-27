@@ -12,7 +12,7 @@
   },
   "showInCreativeInven": false,
   "type": "Item",
-  "textureInfo": "water_bucket",
+  "textureInfo": "still_water_bucket",
   "heldItemGlb": "Water Bucket",
   "weight": 1,
   "heldItemScale": 1,

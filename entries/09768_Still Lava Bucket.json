@@ -12,7 +12,7 @@
   },
   "showInCreativeInven": false,
   "type": "Item",
-  "textureInfo": "lava_bucket",
+  "textureInfo": "still_lava_bucket",
   "heldItemGlb": "Lava Bucket",
   "weight": 1,
   "heldItemScale": 1,
