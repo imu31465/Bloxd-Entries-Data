@@ -1,7 +1,7 @@
 # Bloxd.io Block/Item Data
 
-Source: bloxd.io main bundle (/static/js/yteou.main.5361c997.js)
-Extracted: 2026-11-28T04:50:25.306Z
+Source: bloxd.io main bundle (/static/js/welxxc.main.ffac0572.js)
+Extracted: 2026-11-28T12:24:21.236Z
 
 Extraction executes the registry-building code inside the bundle on the same JavaScript engine (V8) the game uses.
 IDs and properties therefore match the live game (verified against the hardcoded ID table in the bundle).
